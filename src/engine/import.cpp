@@ -136,7 +136,7 @@ void Import::prearrangement(){
 }
 
 
-//TODO: add this into the first function!? form to full?!
+//TODO: add this into the first function!? form too full?!
 ChooseFieldsDialog::ChooseFieldsDialog(QWidget *parent): QDialog(parent)
 {
 	assert(fields.size()>0);
@@ -862,7 +862,7 @@ int Import::readFields(QWidget* parent){
 		progress.setValue(crt);
 		QString line = in.readLine();
 		lineNumber++;
-        crt+=line.length();
+		crt+=line.length();
 		if(progress.wasCanceled()){
 			progress.setValue(size);
 			QMessageBox::warning(parent, "FET", Import::tr("Loading canceled by user."));
@@ -1404,7 +1404,7 @@ void Import::importCSVRoomsAndBuildings(QWidget* parent){
 	if(!ok) return;
 
 	QStringList duplicatesCheck;
-	//check duplicates of rooms in cvs
+	//check duplicates of rooms in csv
 	if(fieldNumber[FIELD_ROOM_NAME]!=DO_NOT_IMPORT)
 		for(int i=0; i<fieldList[FIELD_ROOM_NAME].size(); i++){
 			if(duplicatesCheck.contains(fieldList[FIELD_ROOM_NAME][i]))
@@ -1413,7 +1413,7 @@ void Import::importCSVRoomsAndBuildings(QWidget* parent){
 				duplicatesCheck<<fieldList[FIELD_ROOM_NAME][i];
 		}
 	duplicatesCheck.clear();
-	//check duplicates of buildings in cvs. only if no room is imported.
+	//check duplicates of buildings in csv. only if no room is imported.
 	if(fieldNumber[FIELD_ROOM_NAME]==DO_NOT_IMPORT&&fieldNumber[FIELD_BUILDING_NAME]!=DO_NOT_IMPORT)
 		for(int i=0; i<fieldList[FIELD_BUILDING_NAME].size(); i++){
 			if(duplicatesCheck.contains(fieldList[FIELD_BUILDING_NAME][i]))

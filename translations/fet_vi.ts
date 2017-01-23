@@ -663,199 +663,199 @@
         <translation>B</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="736"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="771"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="911"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="944"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="1228"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="1252"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="1376"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="1512"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="746"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="781"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="931"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="964"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1248"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1272"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1399"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1535"/>
         <source>Because you have individually modified the components, there will be removed an additional number of %1 activities (which are in the same larger split activities as the selected activities).</source>
         <translation>Vì các thành phần đã thay đổi, %1 tiết giảng sẽ bị xóa.</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="745"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="953"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="755"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="973"/>
         <source>There are activities affecting other students sets. Should the related activities also be deleted?</source>
         <translation>Vài tiết giảng ảnh hưởng nhóm lớp, có chắc chắn xóa những tiết giảng này?</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1101"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1121"/>
         <source>Cannot modify this large activity, because it contains more than %1 activities.</source>
         <translation>Không thể thay đổi tiết giảng tổng hợp này vì nó chứa nhiều hơn %1 tiết giảng.</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1383"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="1519"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1406"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1542"/>
         <source>There are activities affecting other teachers. Should the related activities also be deleted?</source>
         <translation>Vài tiết giảng ảnh hưởng những giáo viên khác, có chắc chắn xóa những tiết giảng này?</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1997"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="2000"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="2020"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="2023"/>
         <source>Delete all?</source>
         <comment>It refers to activities</comment>
         <translation>Xóa tất?</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="732"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="940"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="742"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="960"/>
         <source>Delete %1 activities of students set %2?</source>
         <translation>Xóa %1 tiết giảng của nhóm lớp %2?</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="766"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="906"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="776"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="926"/>
         <source>Delete %1 activities of subject %2?</source>
         <translation>Xóa %1 tiết giảng của môn học %2?</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1257"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1277"/>
         <source>Delete activities?</source>
         <translation>Xóa tiết giảng?</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1372"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="1508"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1395"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1531"/>
         <source>Delete %1 activities of teacher %2?</source>
         <translation>Xóa %1 tiết giảng của giáo viên %2?</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="2000"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="2023"/>
         <source>Are you absolutely sure you want to remove ALL activities and related constraints from your data?</source>
         <translation>Bạn có chắc chắn xóa tất cả tiết giảng và những RB liên quan trong dữ liệu?</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="745"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="780"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="920"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="953"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="1261"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="1267"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="1383"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="1519"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="755"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="790"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="940"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="973"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1281"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1287"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1406"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1542"/>
         <source>Delete related?</source>
         <comment>It refers to activities</comment>
         <translation>Xóa tiết giảng liên quan?</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="740"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="775"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="915"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="948"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="1379"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="1515"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="750"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="785"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="935"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="968"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1402"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1538"/>
         <source>Delete multiple?</source>
         <comment>It refers to activities</comment>
         <translation>Xóa nhiều tiết giảng?</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="780"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="920"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="790"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="940"/>
         <source>There are activities affecting other subjects. Should the related activities also be deleted?</source>
         <translation>Vài tiết giảng ảnh hưởng những môn học khác, có chắc chắn xóa những tiết giảng này?</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1100"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1120"/>
         <source>FET information</source>
         <translation>Thông tin</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1218"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="1242"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1238"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1262"/>
         <source>Delete %1 activities from selected cell?</source>
         <translation>Xóa %1 tiết giảng tại ô lưới đang chọn?</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1220"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="1246"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1240"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1266"/>
         <source>subject=%1</source>
         <translation>môn học=%1</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1222"/>
-        <location filename="../src/interface/activityplanningform.cpp" line="1244"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1242"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1264"/>
         <source>students=%1</source>
         <translation>học sinh=%1</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1262"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1282"/>
         <source>This cell contains activities that relate to other students. Should the related activities also be deleted?</source>
         <translation>Ô lưới chứa vài tiết giảng liên quan học sinh khác, có chắc chắn xóa những tiết giảng này?</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1268"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1288"/>
         <source>This cell contains activities that relate to other subjects. Should the related activities also be deleted?</source>
         <translation>Ô lưới chứa vài tiết giảng liên quan môn học khác, có chắc chắn xóa những tiết giảng này?</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1407"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1430"/>
         <source>FET question</source>
         <translation>Câu hỏi</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1407"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1430"/>
         <source>Please enter the target number of hours:</source>
         <comment>This field is for the moment inactive in FET, but we translate it for possible future use</comment>
         <translation>Hãy nhập thời lượng mong muốn:</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1753"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1776"/>
         <source>Target</source>
         <comment>Please keep translation short. This field is for the moment inactive in FET, we keep it for possible future use</comment>
         <translation>Mục tiêu</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1754"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1777"/>
         <source>Subjects</source>
         <comment>Please keep translation short</comment>
         <translation>Môn học</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1755"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="1778"/>
         <source>Students</source>
         <comment>Please keep translation short</comment>
         <translation>Học sinh</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="1997"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="2020"/>
         <source>Are you sure you want to remove ALL the %1 activities and related constraints?</source>
         <comment>%1 is the number of total activities</comment>
         <translation>Bạn có chắc chắn xóa tất cả tiết giảng %1 và những RB?</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="2038"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="2061"/>
         <source>There are no activities without teachers and without students.</source>
         <translation>Không chấp nhận tiết giảng mà thiếu giáo viên và học sinh.</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="2040"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="2063"/>
         <source>Activities without teachers and without students:</source>
         <translation>Tiết giảng không có cả giáo viên và học sinh:</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="2043"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="2066"/>
         <source>There are no activities without teachers.</source>
         <translation>Tiết giảng không có giáo viên.</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="2045"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="2068"/>
         <source>Activities without teachers:</source>
         <translation>Tiết giảng không có giáo viên:</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="2048"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="2071"/>
         <source>There are no activities without students.</source>
         <translation>Tiết giảng không có học sinh.</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="2050"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="2073"/>
         <source>Activities without students:</source>
         <translation>Tiết giảng không có học sinh:</translation>
     </message>
     <message>
-        <location filename="../src/interface/activityplanningform.cpp" line="2052"/>
+        <location filename="../src/interface/activityplanningform.cpp" line="2075"/>
         <source>Information about pseudo activities</source>
         <comment>Pseudo activities means activities without teachers and/or students sets</comment>
         <translation>Thông tin về tiết giảng &quot;giả&quot;</translation>
@@ -3320,42 +3320,42 @@ Nếu bạn cần trọng số nhỏ hơn 100%, bạn có thể dùng RB loại 
 <context>
     <name>AddConstraintActivityPreferredStartingTimeForm</name>
     <message>
-        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="189"/>
-        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="196"/>
-        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="202"/>
-        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="212"/>
-        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="223"/>
-        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="230"/>
+        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="187"/>
+        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="194"/>
+        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="200"/>
+        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="210"/>
+        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="221"/>
+        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="228"/>
         <source>FET information</source>
         <translation>Thông tin</translation>
     </message>
     <message>
-        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="190"/>
+        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="188"/>
         <source>Invalid weight (percentage)</source>
         <translation>Trọng số không đúng (%)</translation>
     </message>
     <message>
-        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="197"/>
+        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="195"/>
         <source>Invalid day</source>
         <translation>Ngày không phù hợp</translation>
     </message>
     <message>
-        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="203"/>
+        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="201"/>
         <source>Invalid start hour</source>
         <translation>Giờ học bắt đầu không đúng</translation>
     </message>
     <message>
-        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="213"/>
+        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="211"/>
         <source>Invalid activity</source>
         <translation>Tiết giảng không phù hợp</translation>
     </message>
     <message>
-        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="224"/>
+        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="222"/>
         <source>Constraint added:</source>
         <translation>RB được thêm:</translation>
     </message>
     <message>
-        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="231"/>
+        <location filename="../src/interface/addconstraintactivitypreferredstartingtimeform.cpp" line="229"/>
         <source>Constraint NOT added - duplicate</source>
         <translation>Lỗi không thêm được RB</translation>
     </message>
@@ -11104,147 +11104,147 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintActivitiesEndStudentsDay</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15698"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15699"/>
         <source>FET error in data</source>
         <translation>Lỗi dữ liệu</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15699"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15700"/>
         <source>Following constraint is wrong (refers to no activities). Please correct it:
 %1</source>
         <translation>RB sau không đúng vì không liên quan tới bất kỳ tiết giảng nào. Hãy sửa lại: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15736"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15737"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15741"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15742"/>
         <source>teacher=%1</source>
         <translation>giáo viên=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15743"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15744"/>
         <source>all teachers</source>
         <translation>tất cả giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15746"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15747"/>
         <source>students=%1</source>
         <translation>học sinh=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15748"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15749"/>
         <source>all students</source>
         <translation>tất cả học sinh</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15751"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15752"/>
         <source>subject=%1</source>
         <translation>môn học=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15753"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15754"/>
         <source>all subjects</source>
         <translation>tất cả môn học</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15756"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15757"/>
         <source>activity tag=%1</source>
         <translation>thông tin bổ trợ=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15758"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15759"/>
         <source>all activity tags</source>
         <translation>tất cả thông tin bổ trợ</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15765"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15766"/>
         <source>WP:%1%</source>
         <comment>Abbreviation for Weight Percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15774"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15775"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15775"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15776"/>
         <source>Activities with:</source>
         <translation>Tiết giảng với:</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15778"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15779"/>
         <source>Teacher=%1</source>
         <translation>Giáo viên=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15780"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15781"/>
         <source>All teachers</source>
         <translation>Tất cả giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15784"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15785"/>
         <source>Students=%1</source>
         <translation>Học sinh=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15786"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15787"/>
         <source>All students</source>
         <translation>Tất cả học sinh</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15790"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15791"/>
         <source>Subject=%1</source>
         <translation>Môn học=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15792"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15793"/>
         <source>All subjects</source>
         <translation>Tất cả môn học</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15796"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15797"/>
         <source>Activity tag=%1</source>
         <translation>Thông tin bổ trợ=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15798"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15799"/>
         <source>All activity tags</source>
         <translation>Tất cả thông tin bổ trợ</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15801"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15802"/>
         <source>must end students&apos; day</source>
         <translation>phải là tiết giảng vào cuối ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15804"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15805"/>
         <source>Weight (percentage)=%1</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15807"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15808"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15811"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15812"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15855"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15856"/>
         <source>Time constraint activities end students&apos; day broken for activity with id=%1 (%2), increases conflicts total by %3</source>
         <comment>%1 is the id, %2 is the detailed description of the activity</comment>
         <translation>Không thỏa mãn RB tiết giảng cuối ngày với trường hợp tiết giảng id=%1 (%2), và tăng số mâu thuẫn thêm %3</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15761"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15762"/>
         <source>Activities with %1, %2, %3, %4, must end students&apos; day</source>
         <comment>%1...%4 are conditions for the activities</comment>
         <translation>Tiết giảng với %1, %2, %3, %4 phải là tiết giảng cuối ngày</translation>
@@ -11327,109 +11327,109 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintActivitiesMaxSimultaneousInSelectedTimeSlots</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17867"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="17874"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="17881"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="17888"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17868"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17875"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17882"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17889"/>
         <source>FET information</source>
         <translation>Thông tin</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17868"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17869"/>
         <source>Constraint activities max simultaneous in selected time slots is wrong because it refers to removed day. Please correct and try again. Correcting means editing the constraint and updating information. Constraint is:
 %1</source>
         <translation>RB số lượng tối đa tiết giảng tại một vài tiết học cụ thể không đúng vì ngày đã bị xóa. Hãy sửa và thử lại lần nữa. RB: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17875"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17876"/>
         <source>Constraint activities max simultaneous in selected time slots is wrong because a preferred hour is too late (after the last acceptable slot). Please correct and try again. Correcting means editing the constraint and updating information. Constraint is:
 %1</source>
         <translation>RB số lượng tối đa tiết giảng tại một vài tiết học cụ thể không đúng vì tiết học không đúng (sau tiết học cuối cùng trong ngày). Hãy sửa và thử lại lần nữa. RB: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17882"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17883"/>
         <source>Constraint activities max simultaneous in selected time slots is wrong because it refers to removed hour. Please correct and try again. Correcting means editing the constraint and updating information. Constraint is:
 %1</source>
         <translation>RB số lượng tối đa tiết giảng tại một vài tiết học cụ thể không đúng vì giờ học đã bị xóa. Hãy sửa và thử lại lần nữa. RB: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17889"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17890"/>
         <source>Constraint activities max simultaneous in selected time slots is wrong because hour or day is not specified for a slot (-1). Please correct and try again. Correcting means editing the constraint and updating information. Constraint is:
 %1</source>
         <translation>RB số lượng tối đa tiết giảng tại một vài tiết học cụ thể không đúng vì khuyết ngày hoặc giờ (-1). Hãy sửa và thử lại lần nữa. RB: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17900"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17901"/>
         <source>FET error in data</source>
         <translation>Lỗi dữ liệu</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17901"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17902"/>
         <source>Following constraint is wrong (refers to no activities). Please correct it:
 %1</source>
         <translation>RB sau không đúng vì không liên quan tới bất kỳ tiết giảng nào. Hãy sửa lại: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17952"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17953"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17966"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17967"/>
         <source>Activities max simultaneous in selected time slots, WP:%1, NA:%2, A: %3, STS: %4, MS:%5</source>
         <comment>Constraint description. WP means weight percentage, NA means the number of activities, A means activities list, STS means selected time slots, MS means max simultaneous (number of activities in each selected time slot)</comment>
         <translation>RB số lượng tối đa tiết giảng tại một vài tiết học cụ thể, WP: %1, NA:%2, A:%3, STS:%4, MS:%5</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17991"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17992"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17992"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17993"/>
         <source>Activities max simultaneous in selected time slots</source>
         <translation>RB số lượng tối đa tiết giảng tại một vài tiết học cụ thể</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17993"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17994"/>
         <source>Weight (percentage)=%1</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17994"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17995"/>
         <source>Number of activities=%1</source>
         <translation>Số lượng tiết giảng=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17996"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17997"/>
         <source>Activity with id=%1 (%2)</source>
         <comment>%1 is the id, %2 is the detailed description of the activity</comment>
         <translation>Tiết giảng id=%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18001"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18002"/>
         <source>Selected time slots: %1</source>
         <translation>Các tiết giảng được chọn: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18002"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18003"/>
         <source>Maximum number of simultaneous activities in each selected time slot=%1</source>
         <translation>Số lượng tối đa tiết giảng tại mỗi tiết học được chọn=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18005"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18006"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18009"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18010"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18065"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18066"/>
         <source>Time constraint %1 broken - this should not happen, as this kind of constraint should have only 100.0% weight. Please report error!</source>
         <translation>RB thời gian %1 bị vi phạm - điều này không được phép xảy ra vì kiểu RB này chỉ chấp nhận trọng số 100%. Hãy phản ánh lỗi cho tác giả!</translation>
     </message>
@@ -11980,109 +11980,109 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintActivitiesOccupyMaxTimeSlotsFromSelection</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17498"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="17505"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="17512"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="17519"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17499"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17506"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17513"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17520"/>
         <source>FET information</source>
         <translation>Thông tin</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17499"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17500"/>
         <source>Constraint activities occupy max time slots from selection is wrong because it refers to removed day. Please correct and try again. Correcting means editing the constraint and updating information. Constraint is:
 %1</source>
         <translation>RB số lượng tối đa tiết học được dùng cho một tập hợp các tiết giảng cho trước không đúng vì tham chiếu tới ngày học đã bị xóa. Hãy sửa và thử lại. RB là: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17506"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17507"/>
         <source>Constraint activities occupy max time slots from selection is wrong because a preferred hour is too late (after the last acceptable slot). Please correct and try again. Correcting means editing the constraint and updating information. Constraint is:
 %1</source>
         <translation>RB số lượng tối đa tiết học được dùng cho một tập hợp các tiết giảng cho trước không đúng vì giờ học quá muộn (sau tiết học cuối cùng). Hãy sửa và thử lại. RB là: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17513"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17514"/>
         <source>Constraint activities occupy max time slots from selection is wrong because it refers to removed hour. Please correct and try again. Correcting means editing the constraint and updating information. Constraint is:
 %1</source>
         <translation>RB số lượng tối đa tiết học được dùng cho một tập hợp các tiết giảng cho trước không đúng vì tham chiếu tới giờ học đã bị xóa. Hãy sửa và thử lại. RB là: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17520"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17521"/>
         <source>Constraint activities occupy max time slots from selection is wrong because hour or day is not specified for a slot (-1). Please correct and try again. Correcting means editing the constraint and updating information. Constraint is:
 %1</source>
         <translation>RB số lượng tối đa tiết học được dùng cho một tập hợp các tiết giảng cho trước không đúng vì ngày hoặc giờ học không được dùng cho tiết học nào (-1). Hãy sửa và thử lại. RB là: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17531"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17532"/>
         <source>FET error in data</source>
         <translation>Lỗi dữ liệu</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17532"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17533"/>
         <source>Following constraint is wrong (refers to no activities). Please correct it:
 %1</source>
         <translation>RB sau không đúng vì không liên quan tới bất kỳ tiết giảng nào. Hãy sửa lại: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17583"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17584"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17597"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17598"/>
         <source>Activities occupy max time slots from selection, WP:%1, NA:%2, A: %3, STS: %4, MTS:%5</source>
         <comment>Constraint description. WP means weight percentage, NA means the number of activities, A means activities list, STS means selected time slots, MTS means max time slots</comment>
         <translation>RB số lượng tối đa tiết học được dùng cho một tập hợp các tiết giảng cho trước, WP: %1, NA: %2, A: %3, STS: %4, MTS: %5</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17622"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17623"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17623"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17624"/>
         <source>Activities occupy max time slots from selection</source>
         <translation> RB số lượng tối đa tiết học được dùng cho một tập hợp các tiết giảng cho trước</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17624"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17625"/>
         <source>Weight (percentage)=%1</source>
         <translation>Trọng số=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17625"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17626"/>
         <source>Number of activities=%1</source>
         <translation>Số lượng tiết giảng=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17627"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17628"/>
         <source>Activity with id=%1 (%2)</source>
         <comment>%1 is the id, %2 is the detailed description of the activity</comment>
         <translation>Tiết giảng id=%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17632"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17633"/>
         <source>Selected time slots: %1</source>
         <translation>Các tiết giảng được chọn: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17633"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17634"/>
         <source>Maximum number of occupied slots from selection=%1</source>
         <translation>Số lượng tối đa tiết học được dùng cho một tập hợp các tiết giảng cho trước=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17636"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17637"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17640"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17641"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17698"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17699"/>
         <source>Time constraint %1 broken - this should not happen, as this kind of constraint should have only 100.0% weight. Please report error!</source>
         <translation>RB thời gian %1 bị vi phạm - điều này không được phép xảy ra vì kiểu RB này chỉ chấp nhận trọng số 100%. Hãy phản ánh lỗi cho tác giả!</translation>
     </message>
@@ -13516,69 +13516,69 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintActivityEndsStudentsDay</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13498"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13499"/>
         <source>FET error in data</source>
         <translation>Lỗi dữ liệu</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13499"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13500"/>
         <source>Following constraint is wrong (because it refers to invalid activity id). Please correct it (maybe removing it is a solution):
 %1</source>
         <translation>RB sau là sai (bởi vì nó đề cập đến id tiết giảng không hợp lệ). Hãy sửa nó (có thể loại bỏ một số RB):
 %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13535"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13536"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13538"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13539"/>
         <source>Act. id: %1 (%2) must end students&apos; day</source>
         <comment>%1 is the id, %2 is the detailed description of the activity.</comment>
         <translation>Tiết giảng id: %1 (%2) phải là tiết giảng vào cuối ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13544"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13545"/>
         <source>WP:%1%</source>
         <comment>Weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13551"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13552"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13552"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13553"/>
         <source>Activity must end students&apos; day</source>
         <translation>Tiết giảng phải vào cuối ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13553"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13554"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13554"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13555"/>
         <source>Activity id=%1 (%2)</source>
         <comment>%1 is the id, %2 is the detailed description of the activity.</comment>
         <translation>Tiết giảng id=%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13559"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13560"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13563"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13564"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13605"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13606"/>
         <source>Time constraint activity ends students&apos; day broken for activity with id=%1 (%2), increases conflicts total by %3</source>
         <comment>%1 is the id, %2 is the detailed description of the activity</comment>
         <translation>Không thỏa mãn RB tiết giảng cuối ngày với trường hợp tiết giảng id=%1 (%2), và tăng số mâu thuẫn thêm %3</translation>
@@ -16647,71 +16647,71 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintStudentsActivityTagMaxHoursDaily</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16513"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16514"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16517"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16518"/>
         <source>Students for activity tag %1 have max %2 hours daily</source>
         <translation>Lớp học với thông tin bổ trợ %1 có tối đa %2 giờ học trong 1 ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16519"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16520"/>
         <source>WP:%1%</source>
         <comment>Weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16528"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16529"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16529"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16530"/>
         <source>(not perfect)</source>
         <comment>It refers to a not perfect constraint</comment>
         <translation>(RB không hoàn hảo)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16530"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16531"/>
         <source>All students, for an activity tag, must respect the maximum number of hours daily</source>
         <translation>Tất cả học sinh với thông tin bổ trợ phải tuân thủ số giờ tối đa học trong 1 ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16531"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16532"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16532"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16533"/>
         <source>Activity tag=%1</source>
         <translation>Thông tin bổ trợ=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16533"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16534"/>
         <source>Maximum hours daily=%1</source>
         <translation>Số tiết giảng tối đa trong ngày=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16536"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16537"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16540"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16541"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16590"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16591"/>
         <source>Time constraint students, activity tag %1, max %2 hours daily, broken for subgroup %3, on day %4, length=%5.</source>
         <translation>Không thỏa mãn RB lớp học với thông tin bổ trợ %1, tối đa %2 giờ học trong 1 ngày với trường hợp nhóm con %3, vào ngày %4, thời lượng=%5.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16601"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16602"/>
         <source>This increases the conflicts total by %1</source>
         <translation>Số mâu thuấn tăng thêm %1</translation>
     </message>
@@ -16948,121 +16948,121 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintStudentsIntervalMaxDaysPerWeek</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15402"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="15409"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="15416"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15403"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15410"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15417"/>
         <source>FET warning</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15403"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15404"/>
         <source>Constraint students interval max days per week is wrong because start hour &gt;= end hour. Please correct it. Constraint is:
 %1</source>
         <translation>RB số ngày tối đa trong tuần có cùng khoảng thời gian lên lớp mỗi ngày đối với giáo viên không đúng vì giờ bắt đầu &gt;= giờ kết thúc. Hãy sửa lại:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15410"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15411"/>
         <source>Constraint students interval max days per week is wrong because start hour &lt; first hour of the day. Please correct it. Constraint is:
 %1</source>
         <translation>RB số ngày tối đa trong tuần có cùng khoảng thời gian lên lớp mỗi ngày đối với giáo viên không đúng vì giờ kết thúc nhiều hơn tổng số tiết học trong ngày. Hãy sửa lại:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15417"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15418"/>
         <source>Constraint students interval max days per week is wrong because end hour &gt; number of hours per day. Please correct it. Constraint is:
 %1</source>
         <translation>RB số ngày tối đa trong tuần có cùng khoảng thời gian lên lớp mỗi ngày đối với giáo viên không đúng vì giờ kết thúc nhiều hơn tổng số tiết học trong ngày. Hãy sửa lại:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15462"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15463"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15464"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15465"/>
         <source>Students interval max days per week</source>
         <translation>Số ngày tối đa trong tuần mà học sinh được xếp lịch lên lớp trong cùng một khoảng thời gian nhất định trong ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15465"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15466"/>
         <source>WP:%1%</source>
         <comment>Abbreviation for weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15466"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15467"/>
         <source>ISH:%1</source>
         <comment>Abbreviation for interval start hour</comment>
         <translation>Giờ bắt đầu:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15469"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="15471"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15470"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15472"/>
         <source>IEH:%1</source>
         <comment>Abbreviation for interval end hour</comment>
         <translation>Giờ kết thúc:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15471"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="15489"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15472"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15490"/>
         <source>End of the day</source>
         <translation>Cuối ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15473"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15474"/>
         <source>MD:%1</source>
         <comment>Abbreviation for max days</comment>
         <translation>Số ngày tối đa:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15481"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15482"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15482"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15483"/>
         <source>All students respect working in an hourly interval a maximum number of days per week</source>
         <translation>Tất cả học sinh phải tuân thủ số ngày tối đa trong 1 tuần có cùng khoảng thời gian lên lớp</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15483"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15484"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15484"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15485"/>
         <source>Interval start hour=%1</source>
         <translation>Giờ bắt đầu=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15487"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="15489"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15488"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15490"/>
         <source>Interval end hour=%1</source>
         <translation>Giờ kết thúc=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15492"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15493"/>
         <source>Maximum days per week=%1</source>
         <translation>Số ngày tối đa trong tuần=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15495"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15496"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15499"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15500"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15540"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15541"/>
         <source>Time constraint students interval max days per week broken for subgroup: %1, allowed %2 days, required %3 days.</source>
         <translation>Không thỏa mãn RB số ngày tối đa trong tuần mà học sinh có cùng khoảng thời gian lên lớp với trường hợp nhóm lớp con: %1, cho phép %2 ngày và yêu cầu %3 ngày.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15545"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15546"/>
         <source>This increases the conflicts total by %1</source>
         <translation>Số mâu thuấn tăng thêm %1</translation>
     </message>
@@ -17426,66 +17426,66 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintStudentsMaxDaysPerWeek</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18483"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18484"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18485"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18486"/>
         <source>Students max days per week</source>
         <translation>Số ngày tối đa mỗi tuần đối với lớp</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18486"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18487"/>
         <source>WP:%1%</source>
         <comment>Abbreviation for weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18487"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18488"/>
         <source>MD:%1</source>
         <comment>Abbreviation for max days</comment>
         <translation>Số ngày tối đa:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18495"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18496"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18496"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18497"/>
         <source>All students must respect the maximum number of days per week</source>
         <translation>Tất cả học sinh phải tuân thủ số tiết nghỉ xen kẽ tối đa trong 1 tuần</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18497"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18498"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18498"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18499"/>
         <source>Maximum days per week=%1</source>
         <translation>Số ngày tối đa trong tuần=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18501"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18502"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18505"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18506"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18546"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18547"/>
         <source>Time constraint students max days per week broken for subgroup: %1, allowed %2 days, required %3 days.</source>
         <translation>Không thỏa mãn RB số ngày tối đa trong tuần mà học sinh có cùng khoảng thời gian lên lớp với trường hợp nhóm lớp con: %1, cho phép %2 ngày và yêu cầu %3 ngày.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18551"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18552"/>
         <source>This increases the conflicts total by %1</source>
         <translation>Số mâu thuấn tăng thêm %1</translation>
     </message>
@@ -17567,72 +17567,72 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintStudentsMaxGapsPerDay</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17023"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17024"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17027"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17028"/>
         <source>Students max gaps per day</source>
         <translation>Số tiết nghỉ xen kẽ tối đa trong ngày đối với học sinh</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17028"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17029"/>
         <source>WP:%1%</source>
         <comment>Weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17029"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17030"/>
         <source>MG:%1</source>
         <comment>Max gaps (per day)</comment>
         <translation>Số tiết nghỉ xen kẽ tối đa (trong ngày):%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17038"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17039"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17039"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17040"/>
         <source>(not perfect)</source>
         <comment>It refers to a not perfect constraint</comment>
         <translation>(RB không hoàn hảo)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17040"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17041"/>
         <source>All students must respect the maximum number of gaps per day</source>
         <translation>Tất cả học sinh phải tuân thủ số tiết nghỉ xen kẽ tối đa trong 1 ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17041"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17042"/>
         <source>(breaks and students set not available not counted)</source>
         <translation>(nghỉ giải lao và lúc lớp học bận không được tính)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17042"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17043"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17043"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17044"/>
         <source>Maximum gaps per day=%1</source>
         <translation>Số tiết nghỉ xen kẽ tối đa trong ngày=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17046"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17047"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17050"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17051"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17102"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17103"/>
         <source>Time constraint students max gaps per day broken for subgroup: %1, it has %2 extra gaps, on day %3, conflicts increase=%4</source>
         <translation>Không thỏa mãn RB số tiết nghỉ xen kẽ tối đa trong ngày của học sinh với trường hợp nhóm lớp con: %1, với %2 tiết nghỉ xen kẽ vào ngày %3, số mâu thuẫn tăng thêm=%4</translation>
     </message>
@@ -18615,87 +18615,87 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintStudentsSetActivityTagMaxHoursDaily</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16727"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16728"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16731"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16732"/>
         <source>Students set %1 for activity tag %2 has max %3 hours daily</source>
         <translation>Lớp học %1 với thông tin bổ trợ %2 có tối đa %3 giờ học trong 1 ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16733"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16734"/>
         <source>WP:%1%</source>
         <comment>Weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16742"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16743"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16743"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16744"/>
         <source>(not perfect)</source>
         <comment>It refers to a not perfect constraint</comment>
         <translation>(RB không hoàn hảo)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16744"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16745"/>
         <source>A students set, for an activity tag, must respect the maximum number of hours daily</source>
         <translation>Lớp học với thông tin bổ trợ phải tuân thủ số giờ tối đa học trong 1 ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16745"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16746"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16746"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16747"/>
         <source>Students set=%1</source>
         <translation>Lớp học=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16747"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16748"/>
         <source>Activity tag=%1</source>
         <translation>Thông tin bổ trợ=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16748"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16749"/>
         <source>Maximum hours daily=%1</source>
         <translation>Số tiết giảng tối đa trong ngày=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16751"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16752"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16755"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16756"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16772"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16773"/>
         <source>FET warning</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16773"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16774"/>
         <source>Constraint students set max hours daily is wrong because it refers to inexistent students set. Please correct it (removing it might be a solution). Please report potential bug. Constraint is:
 %1</source>
         <translation>RB số tiết học liên tục tối đa cho một lớp không đúng vì tham chiếu tới một lớp học không tồn tại. Hãy sửa và thử lại lần nữa. RB: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16884"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16885"/>
         <source>Time constraint students set, activity tag %1, max %2 hours daily, broken for subgroup %3, on day %4, length=%5.</source>
         <translation>Không thỏa mãn RB lớp học với thông tin bổ trợ %1, tối đa %2 giờ học trong 1 ngày với trường hợp nhóm con %3, vào ngày %4, thời lượng=%5.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16895"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16896"/>
         <source>This increases the conflicts total by %1</source>
         <translation>Số mâu thuấn tăng thêm %1</translation>
     </message>
@@ -19293,140 +19293,140 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintStudentsSetIntervalMaxDaysPerWeek</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15097"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="15104"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="15111"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="15123"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15098"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15105"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15112"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15124"/>
         <source>FET warning</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15098"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15099"/>
         <source>Constraint students set interval max days per week is wrong because start hour &gt;= end hour. Please correct it. Constraint is:
 %1</source>
         <translation>RB số ngày tối đa trong tuần có cùng khoảng thời gian lên lớp mỗi ngày đối với các lớp  không đúng vì giờ bắt đầu &gt;= giờ kết thúc. Hãy sửa lại:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15105"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15106"/>
         <source>Constraint students set interval max days per week is wrong because start hour &lt; first hour of the day. Please correct it. Constraint is:
 %1</source>
         <translation>RB số ngày tối đa trong tuần có cùng khoảng thời gian lên lớp mỗi ngày đối với giáo viên không đúng vì giờ kết thúc nhiều hơn tổng số tiết học trong ngày. Hãy sửa lại:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15112"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15113"/>
         <source>Constraint students set interval max days per week is wrong because end hour &gt; number of hours per day. Please correct it. Constraint is:
 %1</source>
         <translation>RB số ngày tối đa trong tuần có cùng khoảng thời gian lên lớp mỗi ngày đối với giáo viên không đúng vì giờ kết thúc nhiều hơn tổng số tiết học trong ngày. Hãy sửa lại:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15124"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15125"/>
         <source>Constraint students set interval max days per week is wrong because it refers to inexistent students set. Please correct it (removing it might be a solution). Please report potential bug. Constraint is:
 %1</source>
         <translatorcomment>Constraint involves students set, not teacher</translatorcomment>
         <translation>RB số ngày tối đa trong tuần có cùng khoảng thời gian lên lớp mỗi ngày đối với lớp học không đúng vì tham chiếu tới một lớp học không tồn tại. Hãy sửa và thử lại lần nữa. RB: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15211"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15212"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15213"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15214"/>
         <source>Students set interval max days per week</source>
         <translation>Số ngày tối đa trong tuần mà lớp học được xếp lịch lên lớp trong cùng một khoảng thời gian nhất định trong ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15214"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15215"/>
         <source>WP:%1%</source>
         <comment>Abbreviation for weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15215"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15216"/>
         <source>St:%1</source>
         <comment>Abbreviation for students (sets)</comment>
         <translation>Lớp học:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15216"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15217"/>
         <source>ISH:%1</source>
         <comment>Abbreviation for interval start hour</comment>
         <translation>Giờ bắt đầu:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15219"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="15221"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15220"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15222"/>
         <source>IEH:%1</source>
         <comment>Abbreviation for interval end hour</comment>
         <translation>Giờ kết thúc:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15221"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="15240"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15222"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15241"/>
         <source>End of the day</source>
         <translation>Cuối ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15223"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15224"/>
         <source>MD:%1</source>
         <comment>Abbreviation for max days</comment>
         <translation>Số ngày tối đa:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15231"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15232"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15232"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15233"/>
         <source>A students set respects working in an hourly interval a maximum number of days per week</source>
         <translation>Cả lớp phải tuân thủ số ngày tối đa trong 1 tuần có cùng khoảng thời gian lên lớp</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15233"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15234"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15234"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15235"/>
         <source>Students set=%1</source>
         <translation>Lớp học=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15235"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15236"/>
         <source>Interval start hour=%1</source>
         <translation>Giờ bắt đầu=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15238"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="15240"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15239"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15241"/>
         <source>Interval end hour=%1</source>
         <translation>Giờ kết thúc=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15243"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15244"/>
         <source>Maximum days per week=%1</source>
         <translation>Số ngày tối đa trong tuần=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15246"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15247"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15250"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15251"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15291"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15292"/>
         <source>Time constraint students set interval max days per week broken for subgroup: %1, allowed %2 days, required %3 days.</source>
         <translation>Không thỏa mãn RB số ngày tối đa trong tuần mà lớp học có cùng khoảng thời gian lên lớp với trường hợp nhóm lớp con: %1, cho phép %2 ngày và yêu cầu %3 ngày.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="15296"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="15297"/>
         <source>This increases the conflicts total by %1</source>
         <translation>Số mâu thuấn tăng thêm %1</translation>
     </message>
@@ -19849,88 +19849,88 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintStudentsSetMaxDaysPerWeek</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18206"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18207"/>
         <source>FET warning</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18207"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18208"/>
         <source>Constraint students set max days per week is wrong because it refers to inexistent students set. Please correct it (removing it might be a solution). Please report potential bug. Constraint is:
 %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18286"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18287"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18288"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18289"/>
         <source>Students set max days per week</source>
         <translation>Số lớp tối đa mỗi tuần</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18289"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18290"/>
         <source>WP:%1%</source>
         <comment>Abbreviation for weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18290"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18291"/>
         <source>St:%1</source>
         <comment>Abbreviation for students (sets)</comment>
         <translation>Lớp học:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18291"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18292"/>
         <source>MD:%1</source>
         <comment>Abbreviation for max days</comment>
         <translation>Số ngày tối đa:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18299"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18300"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18300"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18301"/>
         <source>A students set must respect the maximum number of days per week</source>
         <translation>Một lớp phải tuân thủ số tiết nghỉ xen kẽ tối đa trong 1 tuần</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18301"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18302"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18302"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18303"/>
         <source>Students set=%1</source>
         <translation>Lớp học=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18304"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18305"/>
         <source>Maximum days per week=%1</source>
         <translation>Số ngày tối đa trong tuần=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18307"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18308"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18311"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18312"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18352"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18353"/>
         <source>Time constraint students set max days per week broken for subgroup: %1, allowed %2 days, required %3 days.</source>
         <translation>Không thỏa mãn RB số ngày tối đa trong tuần mà học sinh có cùng khoảng thời gian lên lớp với trường hợp nhóm lớp con: %1, cho phép %2 ngày và yêu cầu %3 ngày.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="18357"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="18358"/>
         <source>This increases the conflicts total by %1</source>
         <translation>Số mâu thuấn tăng thêm %1</translation>
     </message>
@@ -20017,94 +20017,94 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintStudentsSetMaxGapsPerDay</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17208"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17209"/>
         <source>FET warning</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17209"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17210"/>
         <source>Constraint students set max gaps per day is wrong because it refers to inexistent students set. Please correct it (removing it might be a solution). Please report potential bug. Constraint is:
 %1</source>
         <translation>RB số tiết nghỉ xen kẽ tối đa trong ngày cho một lớp không đúng vì tham chiếu tới một lớp học không tồn tại. Hãy sửa và thử lại lần nữa. RB: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17287"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17288"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17291"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17292"/>
         <source>Students set max gaps per day</source>
         <translation>Số tiết nghỉ xen kẽ tối đa trong ngày đối với lớp học</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17292"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17293"/>
         <source>WP:%1%</source>
         <comment>Weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17293"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17294"/>
         <source>MG:%1</source>
         <comment>Max gaps (per day)</comment>
         <translation>Số tiết nghỉ xen kẽ tối đa:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17294"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17295"/>
         <source>St:%1</source>
         <comment>Students</comment>
         <translation>Lớp học:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17302"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17303"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17303"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17304"/>
         <source>(not perfect)</source>
         <comment>It refers to a not perfect constraint</comment>
         <translation>(RB không hoàn hảo)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17304"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17305"/>
         <source>A students set must respect the maximum number of gaps per day</source>
         <translation>Cả lớp phải tuân thủ số tiết nghỉ xen kẽ tối đa trong 1 ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17305"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17306"/>
         <source>(breaks and students set not available not counted)</source>
         <translation>(nghỉ giải lao và lúc lớp học bận không được tính)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17306"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17307"/>
         <source>Weight (percentage)=%1</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17307"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17308"/>
         <source>Maximum gaps per day=%1</source>
         <translation>Số tiết nghỉ xen kẽ tối đa trong ngày=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17308"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17309"/>
         <source>Students=%1</source>
         <translation>Học sinh=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17311"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17312"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17315"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17316"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="17368"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="17369"/>
         <source>Time constraint students set max gaps per day broken for subgroup: %1, extra gaps=%2, on day %3, conflicts increase=%4</source>
         <translation>Không thỏa mãn RB số tiết nghỉ xen kẽ tối đa trong ngày của lớp học với trường hợp nhóm lớp con: %1, với %2 tiết nghỉ xen kẽ vào ngày %3, số mâu thuẫn tăng thêm=%4</translation>
     </message>
@@ -22692,76 +22692,76 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintTeacherActivityTagMaxHoursDaily</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16286"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16287"/>
         <source>A teacher for an activity tag must respect the maximum number of hours daily</source>
         <translation>Giáo viên với thông tin bổ trợ phải tuân thủ số giờ tối đa dạy trong 1 ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16275"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16276"/>
         <source>Teacher %1 for activity tag %2 has max %3 hours daily</source>
         <translation>Giáo viên %1 với thông tin bổ trợ %2 có tối đa %3 giờ dạy trong 1 ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16271"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16272"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16276"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16277"/>
         <source>WP:%1%</source>
         <comment>Weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16284"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16285"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16285"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16286"/>
         <source>(not perfect)</source>
         <comment>It refers to a not perfect constraint</comment>
         <translation>(RB không hoàn hảo)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16287"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16288"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16288"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16289"/>
         <source>Teacher=%1</source>
         <translation>Giáo viên=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16289"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16290"/>
         <source>Activity tag=%1</source>
         <translation>Thông tin bổ trợ=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16290"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16291"/>
         <source>Maximum hours daily=%1</source>
         <translation>Số tiết giảng tối đa trong ngày=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16293"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16294"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16297"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16298"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16347"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16348"/>
         <source>Time constraint teacher activity tag %1 max %2 hours daily broken for teacher %3, on day %4, length=%5.</source>
         <translation>Không thỏa mãn RB giáo viên với thông tin bổ trợ %1, tối đa %2 giờ học trong 1 ngày với trường hợp giáo viên %3, vào ngày %4, thời lượng=%5.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16357"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16358"/>
         <source>This increases the conflicts total by %1</source>
         <translation>Số mâu thuấn tăng thêm %1</translation>
     </message>
@@ -23192,132 +23192,132 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintTeacherIntervalMaxDaysPerWeek</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14593"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="14600"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="14607"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14594"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14601"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14608"/>
         <source>FET warning</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14594"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14595"/>
         <source>Constraint teacher interval max days per week is wrong because start hour &gt;= end hour. Please correct it. Constraint is:
 %1</source>
         <translation>RB số ngày tối đa trong tuần có cùng khoảng thời gian lên lớp mỗi ngày đối với giáo viên không đúng vì giờ bắt đầu &gt;= giờ kết thúc. Hãy sửa lại:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14601"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14602"/>
         <source>Constraint teacher interval max days per week is wrong because start hour &lt; first hour of the day. Please correct it. Constraint is:
 %1</source>
         <translation>RB số ngày tối đa trong tuần có cùng khoảng thời gian lên lớp mỗi ngày đối với giáo viên không đúng vì giờ kết thúc nhiều hơn tổng số tiết học trong ngày. Hãy sửa lại:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14608"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14609"/>
         <source>Constraint teacher interval max days per week is wrong because end hour &gt; number of hours per day. Please correct it. Constraint is:
 %1</source>
         <translation>RB số ngày tối đa trong tuần có cùng khoảng thời gian lên lớp mỗi ngày đối với giáo viên không đúng vì giờ kết thúc nhiều hơn tổng số tiết học trong ngày. Hãy sửa lại:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14653"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14654"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14655"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14656"/>
         <source>Teacher interval max days per week</source>
         <translation>Số ngày tối đa trong tuần mà giáo viên được xếp lịch lên lớp trong cùng một khoảng thời gian nhất định trong ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14656"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14657"/>
         <source>WP:%1%</source>
         <comment>Abbreviation for weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14657"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14658"/>
         <source>T:%1</source>
         <comment>Abbreviation for teacher</comment>
         <translation>Giáo viên:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14658"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14659"/>
         <source>ISH:%1</source>
         <comment>Abbreviation for interval start hour</comment>
         <translation>Giờ bắt đầu:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14660"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="14662"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14661"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14663"/>
         <source>IEH:%1</source>
         <comment>Abbreviation for interval end hour</comment>
         <translation>Giờ kết thúc:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14662"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="14681"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14663"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14682"/>
         <source>End of the day</source>
         <translation>Cuối ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14664"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14665"/>
         <source>MD:%1</source>
         <comment>Abbreviation for max days</comment>
         <translation>Số ngày tối đa:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14672"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14673"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14673"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14674"/>
         <source>A teacher respects working in an hourly interval a maximum number of days per week</source>
         <translation>Giáo viên phải tuân thủ số ngày tối đa trong 1 tuần có cùng khoảng thời gian lên lớp</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14674"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14675"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14675"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14676"/>
         <source>Teacher=%1</source>
         <translation>Giáo viên=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14676"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14677"/>
         <source>Interval start hour=%1</source>
         <translation>Giờ bắt đầu=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14679"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="14681"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14680"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14682"/>
         <source>Interval end hour=%1</source>
         <translation>Giờ kết thúc=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14684"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14685"/>
         <source>Maximum days per week=%1</source>
         <translation>Số ngày tối đa trong tuần=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14687"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14688"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14691"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14692"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14732"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14733"/>
         <source>Time constraint teacher interval max days per week broken for teacher: %1, allowed %2 days, required %3 days.</source>
         <translation>Không thỏa mãn RB số ngày tối đa trong tuần mà giáo viên có cùng khoảng thời gian lên lớp với trường hợp giáo viên: %1, cho phép %2 ngày và yêu cầu %3 ngày.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14737"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14738"/>
         <source>This increases the conflicts total by %1</source>
         <translation>Số mâu thuấn tăng thêm %1</translation>
     </message>
@@ -24527,77 +24527,77 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintTeacherMinDaysPerWeek</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14223"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14224"/>
         <source>T:%1</source>
         <comment>Teacher</comment>
         <translation>Giáo viên:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14221"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14222"/>
         <source>Teacher min days per week</source>
         <translation>Số ngày dạy tối thiểu trong 1 tuần cho một giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14218"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14219"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14222"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14223"/>
         <source>WP:%1%</source>
         <comment>Weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14224"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14225"/>
         <source>mD:%1</source>
         <comment>Minimum days per week</comment>
         <translation>Số ngày tối thiểu:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14232"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14233"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14233"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14234"/>
         <source>A teacher must respect the minimum number of days per week</source>
         <translation>Giáo viên phải tuân thủ số ngày lên lớp tối thiểu trong 1 tuần</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14234"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14235"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14235"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14236"/>
         <source>Teacher=%1</source>
         <translation>Giáo viên=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14236"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14237"/>
         <source>Minimum days per week=%1</source>
         <translation>Số ngày tối thiểu trong tuần=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14239"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14240"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14243"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14244"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14280"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14281"/>
         <source>Time constraint teacher min %1 days per week broken for teacher %2.</source>
         <translation>Không thỏa mãn RB số ngày lên lớp tối thiểu %1 trong tuần với trường hợp giáo viên %2.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14287"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14288"/>
         <source>This increases the conflicts total by %1</source>
         <translation>Số mâu thuấn tăng thêm %1</translation>
     </message>
@@ -24852,103 +24852,103 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintTeacherMinHoursDaily</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13998"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13999"/>
         <source>T:%1</source>
         <comment>Teacher</comment>
         <translation>Giáo viên:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13996"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13997"/>
         <source>Teacher min hours daily</source>
         <translation>Số giờ dạy tối thiểu trong 1 ngày đối với giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13949"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13950"/>
         <source>Cannot generate a timetable with a constraint teacher min hours daily with allow empty days=false. Please modify it, so that it allows empty days. If you need a facility like that, please use constraint teacher min days per week</source>
         <translation>Không thể tạo TKB với RB số giờ dạy tối thiểu trong ngày với một giáo viên trong khi không cho phép ngày trống (không có tiết dạy nào). Hãy sửa và cho phép ngày trống. Nếu bạn cần công cụ như vậy, hãy dùng RB số ngày dạy tối thiểu trong tuần cho một giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13952"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13953"/>
         <source>Constraint is:</source>
         <translation>RB là:</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13953"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13954"/>
         <source>FET warning</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13993"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13994"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13997"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13998"/>
         <source>WP:%1%</source>
         <comment>Weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13999"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14000"/>
         <source>mH:%1</source>
         <comment>Minimum hours (daily)</comment>
         <translation>Số tiết giảng hàng ngày tối thiểu:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14000"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14001"/>
         <source>AED:%1</source>
         <comment>Allow empty days</comment>
         <translation>Cho phép ngày trống:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14008"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14009"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14009"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14010"/>
         <source>A teacher must respect the minimum number of hours daily</source>
         <translation>Giáo viên phải tuân thủ số tiết giảng tối thiểu trong 1 ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14010"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14011"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14011"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14012"/>
         <source>Teacher=%1</source>
         <translation>Giáo viên=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14012"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14013"/>
         <source>Minimum hours daily=%1</source>
         <translation>Số tiết giảng tối thiểu trong ngày=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14013"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14014"/>
         <source>Allow empty days=%1</source>
         <translation>Cho phép ngày trống=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14016"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14017"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14020"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14021"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14072"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14073"/>
         <source>Time constraint teacher min %1 hours daily broken for teacher %2, on day %3, length=%4.</source>
         <translation>Không thỏa mãn RB %1 tiết giảng tối thiểu trong 1 ngày đối với giáo viên với trường hợp giáo viên %2, vào ngày %3, thời lượng=%4.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14081"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14082"/>
         <source>This increases the conflicts total by %1</source>
         <translation>Số mâu thuấn tăng thêm %1</translation>
     </message>
@@ -25379,71 +25379,71 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintTeachersActivityTagMaxHoursDaily</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16045"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16046"/>
         <source>(not perfect)</source>
         <comment>It refers to a not perfect constraint</comment>
         <translation>(RB không hoàn hảo)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16035"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16036"/>
         <source>Teachers for activity tag %1 have max %2 hours daily</source>
         <translation>Giáo viên với thông tin bổ trợ %1 có tối đa %2 giờ dạy trong 1 ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16031"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16032"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16036"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16037"/>
         <source>WP:%1%</source>
         <comment>Weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16044"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16045"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16046"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16047"/>
         <source>All teachers, for an activity tag, must respect the maximum number of hours daily</source>
         <translation>Tất cả giáo viên với thông tin bổ trợ phải tuân thủ số giờ tối đa dạy trong 1 ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16047"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16048"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16048"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16049"/>
         <source>Activity tag=%1</source>
         <translation>Thông tin bổ trợ=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16049"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16050"/>
         <source>Maximum hours daily=%1</source>
         <translation>Số tiết giảng tối đa trong ngày=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16052"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16053"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16056"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16057"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16106"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16107"/>
         <source>Time constraint teachers activity tag %1 max %2 hours daily broken for teacher %3, on day %4, length=%5.</source>
         <translation>Không thỏa mãn RB giáo viên với thông tin bổ trợ %1, tối đa %2 giờ dạy trong 1 ngày với trường hợp giáo viên %3, vào ngày %4, thời lượng=%5.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="16116"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="16117"/>
         <source>This increases the conflicts total by %1</source>
         <translation>Số mâu thuấn tăng thêm %1</translation>
     </message>
@@ -25545,121 +25545,121 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintTeachersIntervalMaxDaysPerWeek</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14846"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="14853"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="14860"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14847"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14854"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14861"/>
         <source>FET warning</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14847"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14848"/>
         <source>Constraint teachers interval max days per week is wrong because start hour &gt;= end hour. Please correct it. Constraint is:
 %1</source>
         <translation>RB số ngày tối đa trong tuần có cùng khoảng thời gian lên lớp mỗi ngày đối với giáo viên không đúng vì giờ bắt đầu &gt;= giờ kết thúc. Hãy sửa lại:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14854"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14855"/>
         <source>Constraint teachers interval max days per week is wrong because start hour &lt; first hour of the day. Please correct it. Constraint is:
 %1</source>
         <translation>RB số ngày tối đa trong tuần có cùng khoảng thời gian lên lớp mỗi ngày đối với giáo viên không đúng vì giờ kết thúc nhiều hơn tổng số tiết học trong ngày. Hãy sửa lại:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14861"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14862"/>
         <source>Constraint teachers interval max days per week is wrong because end hour &gt; number of hours per day. Please correct it. Constraint is:
 %1</source>
         <translation>RB số ngày tối đa trong tuần có cùng khoảng thời gian lên lớp mỗi ngày đối với giáo viên không đúng vì giờ kết thúc nhiều hơn tổng số tiết học trong ngày. Hãy sửa lại:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14905"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14906"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14907"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14908"/>
         <source>Teachers interval max days per week</source>
         <translation>Số ngày tối đa trong tuần mà giáo viên được xếp lịch lên lớp trong cùng một khoảng thời gian nhất định trong ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14908"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14909"/>
         <source>WP:%1%</source>
         <comment>Abbreviation for weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14909"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14910"/>
         <source>ISH:%1</source>
         <comment>Abbreviation for interval start hour</comment>
         <translation>Giờ bắt đầu:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14912"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="14914"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14913"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14915"/>
         <source>IEH:%1</source>
         <comment>Abbreviation for interval end hour</comment>
         <translation>Giờ kết thúc:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14914"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="14932"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14915"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14933"/>
         <source>End of the day</source>
         <translation>Cuối ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14916"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14917"/>
         <source>MD:%1</source>
         <comment>Abbreviation for max days</comment>
         <translation>Số ngày tối đa:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14924"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14925"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14925"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14926"/>
         <source>All teachers respect working in an hourly interval a maximum number of days per week</source>
         <translation>Giáo viên phải tuân thủ số ngày tối đa trong 1 tuần có cùng khoảng thời gian lên lớp</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14926"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14927"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14927"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14928"/>
         <source>Interval start hour=%1</source>
         <translation>Giờ bắt đầu=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14930"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="14932"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14931"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14933"/>
         <source>Interval end hour=%1</source>
         <translation>Giờ kết thúc=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14935"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14936"/>
         <source>Maximum days per week=%1</source>
         <translation>Số ngày tối đa trong tuần=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14938"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14939"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14942"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14943"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14981"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14982"/>
         <source>Time constraint teachers interval max days per week broken for teacher: %1, allowed %2 days, required %3 days.</source>
         <translation>Không thỏa mãn RB số ngày tối đa trong tuần mà giáo viên có cùng khoảng thời gian lên lớp với trường hợp giáo viên: %1, cho phép %2 ngày và yêu cầu %3 ngày.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14986"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14987"/>
         <source>This increases the conflicts total by %1</source>
         <translation>Số mâu thuấn tăng thêm %1</translation>
     </message>
@@ -26730,66 +26730,66 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintTeachersMinDaysPerWeek</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14481"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14482"/>
         <source>Time constraint teachers min %1 days per week broken for teacher %2.</source>
         <translation>Không thỏa mãn RB số ngày lên lớp tối thiểu %1 trong tuần với trường hợp giáo viên %2.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14421"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14422"/>
         <source>Teachers min days per week</source>
         <translation>Số ngày dạy tối thiểu trong 1 tuần cho giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14418"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14419"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14422"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14423"/>
         <source>WP:%1%</source>
         <comment>Weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14423"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14424"/>
         <source>mD:%1</source>
         <comment>Minimum days per week</comment>
         <translation>Số ngày tối thiểu:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14431"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14432"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14432"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14433"/>
         <source>All teachers must respect the minimum number of days per week</source>
         <translation>Giáo viên phải tuân thủ số ngày lên lớp tối thiểu trong 1 tuần</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14433"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14434"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14434"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14435"/>
         <source>Minimum days per week=%1</source>
         <translation>Số ngày tối thiểu trong tuần=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14437"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14438"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14441"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14442"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="14488"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="14489"/>
         <source>This increases the conflicts total by %1</source>
         <translation>Số mâu thuấn tăng thêm %1</translation>
     </message>
@@ -27012,92 +27012,92 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintTeachersMinHoursDaily</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13767"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13768"/>
         <source>All teachers must respect the minimum number of hours daily</source>
         <translation>Giáo viên phải tuân thủ số tiết giảng tối thiểu trong 1 ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13755"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13756"/>
         <source>Teachers min hours daily</source>
         <translation>Số giờ dạy tối thiểu trong 1 ngày đối với giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13709"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13710"/>
         <source>Cannot generate a timetable with a constraint teachers min hours daily with allow empty days=false. Please modify it, so that it allows empty days. If you need a facility like that, please use constraint teachers min days per week</source>
         <translation>Không thể tạo TKB với RB số giờ dạy tối thiểu trong ngày với giáo viên trong khi không cho phép ngày trống (không có tiết dạy nào). Hãy sửa và cho phép ngày trống. Nếu bạn cần công cụ như vậy, hãy dùng RB số ngày dạy tối thiểu trong tuần cho giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13712"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13713"/>
         <source>Constraint is:</source>
         <translation>RB là:</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13713"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13714"/>
         <source>FET warning</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13752"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13753"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13756"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13757"/>
         <source>WP:%1%</source>
         <comment>Weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13757"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13758"/>
         <source>mH:%1</source>
         <comment>Min hours (daily)</comment>
         <translation>Số tiết giảng hàng ngày tối thiểu:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13758"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13759"/>
         <source>AED:%1</source>
         <comment>Allow empty days</comment>
         <translation>Cho phép ngày trống:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13766"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13767"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13768"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13769"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13769"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13770"/>
         <source>Minimum hours daily=%1</source>
         <translation>Số tiết giảng tối thiểu trong ngày=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13770"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13771"/>
         <source>Allow empty days=%1</source>
         <translation>Cho phép ngày trống=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13773"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13774"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13777"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13778"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13830"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13831"/>
         <source>Time constraint teachers min %1 hours daily broken for teacher %2, on day %3, length=%4.</source>
         <translation>Không thỏa mãn RB %1 tiết giảng tối thiểu trong 1 ngày đối với giáo viên với trường hợp giáo viên %2, vào ngày %3, thời lượng=%4.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13839"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13840"/>
         <source>This increases the conflicts total by %1</source>
         <translation>Số mâu thuấn tăng thêm %1</translation>
     </message>
@@ -27179,108 +27179,108 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintThreeActivitiesGrouped</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12872"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="12891"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="12910"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="12919"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12873"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12892"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12911"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12920"/>
         <source>FET error in data</source>
         <translation>Lỗi dữ liệu</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12873"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="12892"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="12911"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12874"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12893"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12912"/>
         <source>Following constraint is wrong (refers to inexistent activity ids):
 %1</source>
         <translation>RB sau không đúng vì không liên quan tới bất kỳ tiết giảng nào. Hãy sửa lại: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12920"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12921"/>
         <source>Following constraint is wrong (refers to same activities):
 %1</source>
         <translation>RB sau không đúng vì tham chiếu tới cùng tiết giảng. Hãy sửa lại: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12964"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12965"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12971"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12972"/>
         <source>first act. id: %1</source>
         <comment>act.=activity</comment>
         <translation>Tiết giảng thứ nhất id:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12973"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12974"/>
         <source>second act. id: %1</source>
         <comment>act.=activity</comment>
         <translation>Tiết giảng thứ hai id:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12975"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12976"/>
         <source>third act. id: %1</source>
         <comment>act.=activity</comment>
         <translation>Tiết giảng thứ ba id:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12977"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12978"/>
         <source>WP:%1%</source>
         <comment>Weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12984"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12985"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12968"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12969"/>
         <source>Three activities grouped:</source>
         <translation>Gộp 3 tiết giảng</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12985"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12986"/>
         <source>Three activities grouped (the activities must be placed in the same day, one immediately following the other, as a block of three activities, in any order, possibly separated by breaks)</source>
         <translation>Nhóm 3 tiết giảng ( tiết giảng phải được đặt trong cùng một ngày, một ngay sau khi khác , như là một khối trong ba hoạt động , trong bất kỳ thứ tự , có thể tách bằng dấu ngắt )</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12988"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12989"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12990"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12991"/>
         <source>First activity id=%1 (%2)</source>
         <comment>%1 is the id, %2 is the detailed description of the activity.</comment>
         <translation>Tiết giảng thứ nhất id=%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12995"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12996"/>
         <source>Second activity id=%1 (%2)</source>
         <comment>%1 is the id, %2 is the detailed description of the activity.</comment>
         <translation>Tiết giảng thứ hai id=%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13000"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13001"/>
         <source>Third activity id=%1 (%2)</source>
         <comment>%1 is the id, %2 is the detailed description of the activity.</comment>
         <translation>Tiết giảng thứ ba id=%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13006"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13007"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13010"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13011"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13123"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13124"/>
         <source>Time constraint three activities grouped broken for first activity with id=%1 (%2), second activity with id=%3 (%4) and third activity with id=%5 (%6), increases conflicts total by %7</source>
         <comment>%1 is the id, %2 is the detailed description of the activity, %3 id, %4 det. descr., %5 id, %6 det. descr.</comment>
         <translation>Không thỏa mãn RB gôp 3 tiết giảng với trường hợp tiết giảng thứ nhất id=%1 (%2), tiết giảng thứ hai id=%3 (%4) và tiết giảng thứ ba id=%5 (%6) và tăng số mâu thuẫn thêm %7</translation>
@@ -27460,7 +27460,7 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12473"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12474"/>
         <source>Time constraint two activities consecutive broken for first activity with id=%1 (%2) and second activity with id=%3 (%4), increases conflicts total by %5</source>
         <comment>%1 is the id, %2 is the detailed description of the activity, %3 id, %4 det. descr.</comment>
         <translation>Không thỏa mãn RB hai tiết giảng xếp liền với trường hợp tiết giảng thứ nhất id=%1 (%2), tiết giảng thứ hai id=%3 (%4) và tăng số mâu thuẫn thêm %5</translation>
@@ -27553,94 +27553,94 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintTwoActivitiesGrouped</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12585"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="12604"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="12613"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12586"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12605"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12614"/>
         <source>FET error in data</source>
         <translation>Lỗi dữ liệu</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12586"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="12605"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12587"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12606"/>
         <source>Following constraint is wrong (refers to inexistent activity ids):
 %1</source>
         <translation>RB sau không đúng vì tham chiếu tiết giảng id không tồn tại. Hãy sửa lại: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12614"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12615"/>
         <source>Following constraint is wrong (refers to same activities):
 %1</source>
         <translation>RB sau không đúng vì tham chiếu tới cùng tiết giảng. Hãy sửa lại: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12655"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12656"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12662"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12663"/>
         <source>first act. id: %1</source>
         <comment>act.=activity</comment>
         <translation>Tiết giảng thứ nhất id:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12664"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12665"/>
         <source>second act. id: %1</source>
         <comment>act.=activity</comment>
         <translation>Tiết giảng thứ hai id:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12666"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12667"/>
         <source>WP:%1%</source>
         <comment>Weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12673"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12674"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12659"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12660"/>
         <source>Two activities grouped:</source>
         <translation>Gộp 2 tiết giảng:</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12674"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12675"/>
         <source>Two activities grouped (the activities must be placed in the same day, one immediately following the other, in any order, possibly separated by breaks)</source>
         <translation>Hai nhóm tiết giảng ( hoạt động phải được đặt trong cùng một ngày, một ngay sau khi khác , trong bất kỳ thứ tự , có thể tách bằng dấu ngắt )</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12677"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12678"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12679"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12680"/>
         <source>First activity id=%1 (%2)</source>
         <comment>%1 is the id, %2 is the detailed description of the activity.</comment>
         <translation>Tiết giảng thứ nhất id=%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12684"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12685"/>
         <source>Second activity id=%1 (%2)</source>
         <comment>%1 is the id, %2 is the detailed description of the activity.</comment>
         <translation>Tiết giảng thứ hai id=%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12690"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12691"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12694"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12695"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="12759"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="12760"/>
         <source>Time constraint two activities grouped broken for first activity with id=%1 (%2) and second activity with id=%3 (%4), increases conflicts total by %5</source>
         <comment>%1 is the id, %2 is the detailed description of the activity, %3 id, %4 det. descr.</comment>
         <translation>Không thỏa mãn RB hai tiết giảng xếp liền với trường hợp tiết giảng thứ nhất id=%1 (%2), tiết giảng thứ hai id=%3 (%4) và tăng số mâu thuẫn thêm %5</translation>
@@ -27733,94 +27733,94 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
 <context>
     <name>ConstraintTwoActivitiesOrdered</name>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13240"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="13259"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="13268"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13241"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13260"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13269"/>
         <source>FET error in data</source>
         <translation>Lỗi dữ liệu</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13241"/>
-        <location filename="../src/engine/timeconstraint.cpp" line="13260"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13242"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13261"/>
         <source>Following constraint is wrong (refers to inexistent activity ids):
 %1</source>
         <translation>RB sau không đúng vì tham chiếu tiết giảng id không tồn tại. Hãy sửa lại: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13269"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13270"/>
         <source>Following constraint is wrong (refers to same activities):
 %1</source>
         <translation>RB sau không đúng vì tham chiếu tới cùng tiết giảng. Hãy sửa lại: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13310"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13311"/>
         <source>C: %1</source>
         <comment>Comments</comment>
         <translation>Ghi chú: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13317"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13318"/>
         <source>first act. id: %1</source>
         <comment>act.=activity</comment>
         <translation>Tiết giảng thứ nhất id:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13319"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13320"/>
         <source>second act. id: %1</source>
         <comment>act.=activity</comment>
         <translation>Tiết giảng thứ hai id:%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13321"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13322"/>
         <source>WP:%1%</source>
         <comment>Weight percentage</comment>
         <translation>Trọng số: %1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13328"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13329"/>
         <source>Time constraint</source>
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13314"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13315"/>
         <source>Two activities ordered:</source>
         <translation>Hai tiết giảng xếp thứ tự:</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13329"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13330"/>
         <source>Two activities ordered (second activity must be placed at any time in the week after the first activity)</source>
         <translation>Hai tiết giảng ra lệnh ( Tiets giảng thứ hai phải được đặt ở bất cứ lúc nào trong tuần sau khi các tiết giảng đầu tiên )</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13332"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13333"/>
         <source>Weight (percentage)=%1%</source>
         <translation>Trọng số=%1%</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13334"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13335"/>
         <source>First activity id=%1 (%2)</source>
         <comment>%1 is the id, %2 is the detailed description of the activity.</comment>
         <translation>Tiết giảng thứ nhất id=%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13339"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13340"/>
         <source>Second activity id=%1 (%2)</source>
         <comment>%1 is the id, %2 is the detailed description of the activity.</comment>
         <translation>Tiết giảng thứ hai id=%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13345"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13346"/>
         <source>Active=%1</source>
         <comment>Refers to a constraint</comment>
         <translation>Kích hoạt=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13349"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13350"/>
         <source>Comments=%1</source>
         <translation>Ghi chú=%1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timeconstraint.cpp" line="13387"/>
+        <location filename="../src/engine/timeconstraint.cpp" line="13388"/>
         <source>Time constraint two activities ordered broken for first activity with id=%1 (%2) and second activity with id=%3 (%4), increases conflicts total by %5</source>
         <comment>%1 is the id, %2 is the detailed description of the activity, %3 id, %4 det. descr.</comment>
         <translation>Không thỏa mãn RB thứ tự hai tiết giảng với trường hợp tiết giảng thứ nhất id=%1 (%2), tiết giảng thứ hai id=%3 (%4) và tăng số mâu thuẫn thêm %5</translation>
@@ -28226,6 +28226,15 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
         <translation>Chương trình gặp lỗi nghiêm trọng. Không thể ghi tệp %1. Hãy kiểm tra lại dung lượng đĩa. Lưu tệp %1 bị hủy bỏ.</translation>
     </message>
     <message>
+        <location filename="../src/engine/export.cpp" line="471"/>
+        <location filename="../src/engine/export.cpp" line="613"/>
+        <location filename="../src/engine/export.cpp" line="666"/>
+        <location filename="../src/engine/export.cpp" line="674"/>
+        <location filename="../src/engine/export.cpp" line="684"/>
+        <source>Warning! Import of activities will fail, because %1 includes set separator +.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/engine/export.cpp" line="474"/>
         <source>%1 activity tags exported.</source>
         <translation>%1 thông tin bổ trợ đã được xuất ra.</translation>
@@ -28251,15 +28260,6 @@ Definition from Wikipedia: &apos;In computing, regular expressions, also referre
         <location filename="../src/engine/export.cpp" line="571"/>
         <source>%1 subjects exported.</source>
         <translation>%1 môn học đã được xuất ra.</translation>
-    </message>
-    <message>
-        <location filename="../src/engine/export.cpp" line="471"/>
-        <location filename="../src/engine/export.cpp" line="613"/>
-        <location filename="../src/engine/export.cpp" line="666"/>
-        <location filename="../src/engine/export.cpp" line="674"/>
-        <location filename="../src/engine/export.cpp" line="684"/>
-        <source>Warning! Import of activities will fail, because %1 include set separator +.</source>
-        <translation>Cảnh báo: Nhập các tiết giảng không thành công vì %1 bao gồm kí tự + phân cách lớp học.</translation>
     </message>
     <message>
         <location filename="../src/engine/export.cpp" line="616"/>
@@ -28496,613 +28496,615 @@ Import of data will be easier with these settings.</source>
 <context>
     <name>FetMainForm</name>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="801"/>
-        <location filename="../src/interface/fetmainform.cpp" line="822"/>
-        <location filename="../src/interface/fetmainform.cpp" line="966"/>
-        <location filename="../src/interface/fetmainform.cpp" line="983"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1009"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1674"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3540"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3550"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3560"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3677"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3698"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3702"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3738"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3759"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3763"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3883"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3940"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4487"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4537"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4567"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4592"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4614"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4641"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4663"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4684"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4708"/>
+        <location filename="../src/interface/fetmainform.cpp" line="765"/>
+        <location filename="../src/interface/fetmainform.cpp" line="786"/>
+        <location filename="../src/interface/fetmainform.cpp" line="866"/>
+        <location filename="../src/interface/fetmainform.cpp" line="883"/>
+        <location filename="../src/interface/fetmainform.cpp" line="909"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1574"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3440"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3450"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3460"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3577"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3598"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3602"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3638"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3659"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3663"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3783"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3840"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4369"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4419"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4449"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4474"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4496"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4523"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4545"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4566"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4590"/>
         <source>FET warning</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="778"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1004"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1097"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1158"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1170"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1242"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1288"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1301"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1309"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1315"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1321"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1395"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1414"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1418"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1425"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1430"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1435"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1478"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1487"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1496"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1505"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1520"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1529"/>
+        <location filename="../src/interface/fetmainform.cpp" line="742"/>
+        <location filename="../src/interface/fetmainform.cpp" line="845"/>
+        <location filename="../src/interface/fetmainform.cpp" line="904"/>
+        <location filename="../src/interface/fetmainform.cpp" line="997"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1058"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1070"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1142"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1188"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1201"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1209"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1215"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1221"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1295"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1314"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1318"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1325"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1330"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1335"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1378"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1387"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1396"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1405"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1420"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1429"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1438"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1515"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1534"/>
         <location filename="../src/interface/fetmainform.cpp" line="1538"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1615"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1634"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1638"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1645"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1650"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1655"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1784"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1859"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1872"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1885"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1898"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1911"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1931"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1951"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1964"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1977"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1990"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2116"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2169"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2182"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2195"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2208"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2221"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2234"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2247"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2260"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2273"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2286"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2299"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2312"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2325"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2338"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2351"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2364"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2377"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2390"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2403"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2416"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2429"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2442"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2455"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2468"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2481"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2494"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2507"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2520"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2533"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2546"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2559"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2573"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2586"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2600"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2613"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2627"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2640"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2653"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2666"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2679"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2692"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2705"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2717"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2730"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2743"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2756"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2769"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2782"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2795"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2808"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2821"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2834"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2847"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2860"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2873"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2886"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2899"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2912"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2925"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2938"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2951"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2964"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2977"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2990"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3003"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3016"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3029"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3042"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3060"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3078"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3091"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3104"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3117"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3130"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3143"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3155"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3168"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3186"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3204"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3217"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3230"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3243"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3256"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3269"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3282"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3295"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3308"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3321"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3334"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3347"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3360"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3378"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3396"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3409"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3422"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3435"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3448"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3461"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3474"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3487"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3501"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3515"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3616"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3628"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3641"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3647"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3659"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3672"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3693"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3718"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3733"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3754"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3778"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3789"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3802"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3813"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3826"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3836"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4302"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4335"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4362"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4435"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4446"/>
-        <source>FET information</source>
-        <translation>Thông tin</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform.cpp" line="768"/>
-        <source>Constraint is not enabled. To use this type of constraint you must enable it from the Settings-&gt;Advanced menu.</source>
-        <translation>RB không được kích hoạt. Bạn có thể kích hoạt thông qua menu Cấu hình-&gt;Nâng cao.</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform.cpp" line="770"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3151"/>
-        <source>Explanation:</source>
-        <translation>Giải thích:</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform.cpp" line="774"/>
-        <source>For some situations, the generation of the timetable may take too long or be impossible.</source>
-        <translation>Với vài tình huống, việc lập TKB có thể mất nhiều thời gian hoặc không thể lập được.</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform.cpp" line="776"/>
-        <source>Use with caution.</source>
-        <translation>Sử dụng với sự lưu tâm.</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1038"/>
-        <source>FET - exiting</source>
-        <translation>Đang thoát</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4133"/>
-        <source>&amp;Yes</source>
-        <translation>&amp;Đồng ý</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4133"/>
-        <source>&amp;No</source>
-        <translation>&amp;Không</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4374"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4395"/>
-        <source>&amp;Cancel</source>
-        <translation>&amp;Thoát</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1098"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1159"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1171"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1243"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1479"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1488"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1497"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1506"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1521"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1530"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1539"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1860"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1873"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1886"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1899"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1912"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1932"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1952"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1965"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1978"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1991"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2170"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2183"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2196"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2209"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2222"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2235"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2248"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2261"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2274"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2287"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2300"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2313"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2326"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2339"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2352"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2365"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2378"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2391"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2404"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2417"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2430"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2443"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2456"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2469"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2482"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2495"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2508"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2521"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2534"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2547"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2560"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2574"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2587"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2601"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2614"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2628"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2641"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2654"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2667"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2680"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2693"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2706"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2718"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2731"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2744"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2757"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2770"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2783"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2796"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2809"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2822"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2835"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2848"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2861"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2874"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2887"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2900"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2913"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2926"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2939"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2952"/>
-        <location filename="../src/interface/fetmainform.cpp" line="2965"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1545"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1550"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1555"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1684"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1759"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1772"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1785"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1798"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1811"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1831"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1851"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1864"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1877"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1890"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2016"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2069"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2082"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2095"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2108"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2121"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2134"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2147"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2160"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2173"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2186"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2199"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2212"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2225"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2238"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2251"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2264"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2277"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2290"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2303"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2316"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2329"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2342"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2355"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2368"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2381"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2394"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2407"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2420"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2433"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2446"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2459"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2473"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2486"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2500"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2513"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2527"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2540"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2553"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2566"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2579"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2592"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2605"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2617"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2630"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2643"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2656"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2669"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2682"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2695"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2708"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2721"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2734"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2747"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2760"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2773"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2786"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2799"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2812"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2825"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2838"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2851"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2864"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2877"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2890"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2903"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2916"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2929"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2942"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2960"/>
         <location filename="../src/interface/fetmainform.cpp" line="2978"/>
         <location filename="../src/interface/fetmainform.cpp" line="2991"/>
         <location filename="../src/interface/fetmainform.cpp" line="3004"/>
         <location filename="../src/interface/fetmainform.cpp" line="3017"/>
         <location filename="../src/interface/fetmainform.cpp" line="3030"/>
         <location filename="../src/interface/fetmainform.cpp" line="3043"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3061"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3079"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3092"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3105"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3118"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3131"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3144"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3055"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3068"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3086"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3104"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3117"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3130"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3143"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3156"/>
         <location filename="../src/interface/fetmainform.cpp" line="3169"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3187"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3205"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3218"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3231"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3244"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3257"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3270"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3283"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3182"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3195"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3208"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3221"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3234"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3247"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3260"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3278"/>
         <location filename="../src/interface/fetmainform.cpp" line="3296"/>
         <location filename="../src/interface/fetmainform.cpp" line="3309"/>
         <location filename="../src/interface/fetmainform.cpp" line="3322"/>
         <location filename="../src/interface/fetmainform.cpp" line="3335"/>
         <location filename="../src/interface/fetmainform.cpp" line="3348"/>
         <location filename="../src/interface/fetmainform.cpp" line="3361"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3379"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3397"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3410"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3423"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3436"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3449"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3462"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3475"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3488"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3502"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3374"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3387"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3401"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3415"/>
         <location filename="../src/interface/fetmainform.cpp" line="3516"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3617"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3642"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4303"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4336"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4363"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4436"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4447"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3528"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3541"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3547"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3559"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3572"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3593"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3618"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3633"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3654"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3678"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3689"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3702"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3713"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3726"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3736"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4184"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4217"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4244"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4317"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4328"/>
+        <source>FET information</source>
+        <translation>Thông tin</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/fetmainform.cpp" line="732"/>
+        <source>Constraint is not enabled. To use this type of constraint you must enable it from the Settings-&gt;Advanced menu.</source>
+        <translation>RB không được kích hoạt. Bạn có thể kích hoạt thông qua menu Cấu hình-&gt;Nâng cao.</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/fetmainform.cpp" line="734"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3051"/>
+        <source>Explanation:</source>
+        <translation>Giải thích:</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/fetmainform.cpp" line="738"/>
+        <source>For some situations, the generation of the timetable may take too long or be impossible.</source>
+        <translation>Với vài tình huống, việc lập TKB có thể mất nhiều thời gian hoặc không thể lập được.</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/fetmainform.cpp" line="740"/>
+        <source>Use with caution.</source>
+        <translation>Sử dụng với sự lưu tâm.</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/fetmainform.cpp" line="938"/>
+        <source>FET - exiting</source>
+        <translation>Đang thoát</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/fetmainform.cpp" line="4033"/>
+        <source>&amp;Yes</source>
+        <translation>&amp;Đồng ý</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/fetmainform.cpp" line="4033"/>
+        <source>&amp;No</source>
+        <translation>&amp;Không</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/fetmainform.cpp" line="4256"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4277"/>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Thoát</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/fetmainform.cpp" line="846"/>
+        <location filename="../src/interface/fetmainform.cpp" line="998"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1059"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1071"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1143"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1379"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1388"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1397"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1406"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1421"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1430"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1439"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1760"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1773"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1786"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1799"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1812"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1832"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1852"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1865"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1878"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1891"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2070"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2083"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2096"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2109"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2122"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2135"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2148"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2161"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2174"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2187"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2200"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2213"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2226"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2239"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2252"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2265"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2278"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2291"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2304"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2317"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2330"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2343"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2356"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2369"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2382"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2395"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2408"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2421"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2434"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2447"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2460"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2474"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2487"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2501"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2514"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2528"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2541"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2554"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2567"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2580"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2593"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2606"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2618"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2631"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2644"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2657"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2670"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2683"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2696"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2709"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2722"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2735"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2748"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2761"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2774"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2787"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2800"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2813"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2826"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2839"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2852"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2865"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2878"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2891"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2904"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2917"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2930"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2943"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2961"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2979"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2992"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3005"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3018"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3031"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3044"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3069"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3087"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3105"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3118"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3131"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3144"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3157"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3170"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3183"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3196"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3209"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3222"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3235"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3248"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3261"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3279"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3297"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3310"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3323"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3336"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3349"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3362"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3375"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3388"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3402"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3416"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3517"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3542"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4185"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4218"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4245"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4318"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4329"/>
         <source>Allocation in course.
 Please stop simulation before this.</source>
         <translation>Đang trong quá trình lập lịch. Hãy dừng lại trước khi thực hiện thao tác này.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="759"/>
+        <location filename="../src/interface/fetmainform.cpp" line="723"/>
         <source>Chinese Simplified</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="796"/>
+        <location filename="../src/interface/fetmainform.cpp" line="760"/>
         <source>Note: if you disable this option, you will not be able to add/modify constraints for subgroups, and you will not be able to make filters using a particular subgroup, when selecting activities.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="959"/>
+        <location filename="../src/interface/fetmainform.cpp" line="859"/>
         <source>Could not search for possible updates on the internet - error message is: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="963"/>
+        <location filename="../src/interface/fetmainform.cpp" line="863"/>
         <source>Possible actions: check your network connection, try again later, try to visit FET homepage: %1, or try to search for the new FET page on the internet (maybe it has changed).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="978"/>
+        <location filename="../src/interface/fetmainform.cpp" line="878"/>
         <source>Maybe the FET homepage has some temporary problems, so try again later. Or maybe the current structure on FET homepage was changed. You may visit FET homepage: %1, and get latest version or, if it does not work, try to search for the new FET page on the internet (maybe it has changed).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1009"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3540"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3550"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3560"/>
+        <location filename="../src/interface/fetmainform.cpp" line="909"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3440"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3450"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3460"/>
         <source>Could not start the default internet browser (trying to open the link %1). Maybe you can try to manually start your browser and open this link.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1180"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1252"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1080"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1152"/>
         <source>FET application</source>
         <translation>FET</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1310"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1210"/>
         <source>Please do not use quotation marks &quot; in filename, the html css code does not work. File was not loaded. Please rename it, removing not allowed characters and open it after that with FET.</source>
         <translation>Không được dùng ký tự &quot; trong tên file vì không tương thích với mã HTML CSS. Tệp không được nhập dữ liệu. Hãy đổi tên bằng cách loại bỏ kí tự không hợp lệ và đọc lại.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1316"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1216"/>
         <source>Please do not use semicolon ; in filename, the html css code does not work. File was not loaded. Please rename it, removing not allowed characters and open it after that with FET.</source>
         <translation>Không được dùng ký tự ; trong tên file vì không tương thích với mã HTML CSS. Tệp không được nhập dữ liệu. Hãy đổi tên bằng cách loại bỏ kí tự không hợp lệ và đọc lại.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1322"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1222"/>
         <source>Please do not use # in filename, the html css code does not work. File was not loaded. Please rename it, removing not allowed characters and open it after that with FET.</source>
         <translation>Không được dùng ký tự # trong tên file vì không tương thích với mã HTML CSS. Tệp không được nhập dữ liệu. Hãy đổi tên bằng cách loại bỏ kí tự không hợp lệ và đọc lại.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1333"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1233"/>
         <source>Loading...</source>
         <comment>This is a message in the status bar, that we are loading the file</comment>
         <translation>Đang nhập dữ liệu...</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1383"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1283"/>
         <source>Choose a filename to save under</source>
         <translation>Chọn tên tệp để lưu</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1396"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1616"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1296"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1516"/>
         <source>Please do not use a filename starting with white space(s), the html css code does not work.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1415"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1635"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1315"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1535"/>
         <source>Please do not use a filename ending with white space(s) before the &apos;.fet&apos; termination, problems might arise.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1425"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1645"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1325"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1545"/>
         <source>Please do not use quotation marks &quot; in filename, the html css code does not work</source>
         <translation>Không được dùng ký tự &quot; trong tên file vì không tương thích với mã HTML CSS</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1430"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1650"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1330"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1550"/>
         <source>Please do not use semicolon ; in filename, the html css code does not work</source>
         <translation>Không được dùng ký tự ; trong tên file vì không tương thích với mã HTML CSS</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1435"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1655"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1335"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1555"/>
         <source>Please do not use # in filename, the html css code does not work</source>
         <translation>Không được dùng ký tự # trong tên file vì không tương thích với mã HTML CSS</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1447"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1347"/>
         <source>FET</source>
         <translation>FET</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1448"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1348"/>
         <source>File %1 exists - are you sure you want to overwrite it?</source>
         <translation>Tệp %1 tồn tại - Bạn có chắc chắn ghi đè tệp này?</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1603"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1503"/>
         <source>Choose a filename for data and timetable</source>
         <translation>Chọn tên tệp để lưu</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1748"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1773"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1648"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1673"/>
         <source>Added to the saved file:</source>
         <comment>It refers to a constraint</comment>
         <translation>Đã thêm vào tệp lưu:</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1750"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1775"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1650"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1675"/>
         <source>NOT added to the saved file (already existing):</source>
         <comment>It refers to a constraint</comment>
         <translation>Không được thêm vào tệp lưu (đã có trong đó rồi):</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1784"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1684"/>
         <source>Added %1 locking time constraints and %2 locking space constraints to saved file, ignored %3 activities which were already fixed in time and %4 activities which were already fixed in space.</source>
         <translation>Đã thêm %1 RB thời gian và %2 RB phòng học. Không thêm %3 RB thời gian và %4 RB phòng học vì những tiết giảng liên quan đã bị khóa.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1786"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1686"/>
         <source>Detailed information about each locking constraint which was added or not (if already existing) to the saved file:</source>
         <translation>Thông tin chi tiết về mỗi RB bị khóa (dù được thêm mới vào tệp hay không do đã tồn tại trong đó):</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1787"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1687"/>
         <source>Your current data file remained untouched (no locking constraints were added), so you can save it also, or generate different timetables.</source>
         <translation>Tệp dữ liệu hiện tại không đổi (không RB bị khóa nào được thêm vào).</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2032"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1932"/>
         <source>Seed of random number generator: please read the help in the dialog of this option</source>
         <translation>Lõi tạo số ngẫu nhiên: Hãy đọc &apos;Trợ giúp&apos; trong hộp thoại liên quan</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2035"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1935"/>
         <source>Interface - use colors: the places with colors in FET interface are in:</source>
         <translation>Màu sắc giao diện: Cấu hình màu sắc của giao diện FET có tại:</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2042"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1942"/>
         <source>activities and subactivities dialogs, the inactive activities will have a distinctive background color</source>
         <translation>Hộp thoại tiết giảng và tiết giảng con, tiết giảng không được kích hoạt sẽ có màu nền khác hẳn</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2045"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1945"/>
         <source>all time constraints and all space constraints dialogs, the inactive constraints will have a distinctive background color</source>
         <translation>Tất cả hộp thoại RB thời gian và phòng học, những RB bị vô hiệu hóa sẽ có màu nền khác nhau</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2048"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1948"/>
         <source>group activities in initial order items, the inactive items will have a distinctive background color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2051"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1951"/>
         <source>the three timetable view dialogs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2054"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1954"/>
         <source>Enable activity tag max hours daily:</source>
         <translation>Kích hoạt thông tin bổ trợ số giờ tối đa trong ngày:</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2056"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1956"/>
         <source>This will enable the menu for 4 constraints: teacher(s) or students (set) activity tag max hours daily. These 4 constraints are good, but not perfect and may bring slow down of generation or impossible timetables if used unproperly. Select only if you know what you&apos;re doing.</source>
         <translation>Khởi tạo menu cho 4 loại RB: tất cả hay 1 giáo viên; tất cả hay 1 lớp học có thông tin bổ trợ số giờ tối đa trong ngày. 4 loại RB này khá hữu ích nhưng không hoàn hảo, có thể làm tăng thời gian hoặc không thể tạo được TKB. Hãy sử dụng với sự lưu tâm đặc biệt.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2059"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1959"/>
         <source>Enable students max gaps per day:</source>
         <translation>Kích hoạt số tiết nghỉ xen kẽ tối đa trong 1 ngày đối với học sinh:</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2061"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1961"/>
         <source>This will enable the menu for 2 constraints: students (set) max gaps per day. These 2 constraints are good, but not perfect and may bring slow down of generation or impossible timetables if used unproperly. Select only if you know what you&apos;re doing.</source>
         <translation>Khởi tạo menu cho 2 loại RB: số tiết nghỉ xen kẽ tối đa trong ngày đối với tất cả hay 1 lớp học. 2 loại RB này khá hữu ích nhưng không hoàn hảo, có thể làm tăng thời gian hoặc không thể tạo được TKB. Hãy sử dụng với sự lưu tâm đặc biệt.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2065"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1965"/>
         <source>Warn if using not perfect constraints:</source>
         <comment>this is a warning if user uses not perfect constraints</comment>
         <translation>Cảnh báo nếu sử dụng RB không hoàn hảo:</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2071"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1971"/>
         <source>Enable students min hours daily with empty days:</source>
         <translation>Kích hoạt số giờ học tối thiểu trong một ngày của học sinh đối với ngày trống:</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2073"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1973"/>
         <source>This will enable you to modify the students min hours daily constraints, to allow empty days. It is IMPERATIVE (for performance reasons) to allow empty days for students min hours daily only if your institution allows empty days for students and if a solution with empty days is possible. Select only if you know what you&apos;re doing.</source>
         <translation>Cho phép sửa RB số giờ tối thiểu trong 1 ngày với tất cả lớp học thành cho phép ngày trống. Điều này là BẮT BUỘC (vì lý do thời gian lập TKB) cho phép ngày trống với RB số giờ tối thiểu trong 1 ngày đối với tất cả lớp học nếu như trường bạn cho phép học sinh có ngày trống và tồn tại TKB với ngày trống. Hãy sử dụng với sự lưu tâm đặc biệt.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2077"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1977"/>
         <source>Warn if using students min hours daily with empty days:</source>
         <comment>this is a warning if user has constraints min hours daily for students with allowed empty days</comment>
         <translation>Cảnh báo nếu có ràng buộc số tiết giảng tối thiểu trong ngày của học sinh vào những ngày trống:</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2079"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1979"/>
         <source>If you use constraints students min hours daily with allowed empty days, you&apos;ll get a warning before generating. Uncheck this option to get rid of that warning (it is recommended to keep the warning).</source>
         <translation>Nếu bạn cho phép ngày trống cùng với RB số giờ tối thiểu trong 1 ngày đối với tất cả lớp học, sẽ xuất hiện lời cảnh báo trước quá trình lập TKB.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2084"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1984"/>
         <source>Confirmations: unselect the corresponding check boxes if you want to skip introduction and confirmation to various advanced dialogs.</source>
         <translation>Xác nhận: Hãy bỏ lựa chọn từ các hộp kiểm tra tương ứng nếu bạn định bỏ qua lời giới thiệu và xác nhận với nhiều hộp thoại nâng cao khác nhau.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2088"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1988"/>
         <source>Duplicate vertical headers to the right (in timetable settings) - select this if you want the timetables to duplicate the table left vertical headers to the right part of the tables</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2123"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2023"/>
         <source>You will find in the statistics only active activities count. The inactive ones are not counted.</source>
         <translation>Bạn chỉ thấy được số liệu thống kê của những tiết giảng đang được kích hoạt. Các tiết giảng chưa kích hoạt sẽ không được tính.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2127"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2027"/>
         <source>Statistics for students might be the most difficult to understand. If you are using divisions of years: probably the most relevant statistics are the ones for each subgroup (so you may check only subgroups check box). You may see more hours for the years or groups, but these are not significant, please ignore them, because each year or group will count also activities of all contained subgroups.
 
 Each subgroup should have a number of hours per week close to the average of all subgroups and close to the normal number of working hours of each students set. If a subgroup has a much lower value, maybe you used incorrectly the years/groups/subgroups for activities.
@@ -29119,1224 +29121,1224 @@ Hãy đọc &apos;Trợ giúp&apos; để xem các khối được chia như th�
 Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các tiết giảng sai và vài RB như không cho tiết xen kẽ, vào học sớm hay số giờ học tối thiểu trong 1 ngày cho nhóm con này đã bị hiểu sai (VD: nếu nhóm con này có 2 tiết giảng, theo RB như trên chúng phải xếp vào giờ đầu tiên - rất khó và dễ sai).</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2156"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2056"/>
         <source>Activities rooms statistics: this menu will show the activities which may be scheduled in an unspecified room, if they are referred to by space constraints with weight under 100.0%, and the activities which will certainly be scheduled in an unspecified room, if they are not referred to by any space constraints. Remember that home rooms constraints are effective only on activities which have only the exact specified teacher or students set (activities with more teachers or students sets are not affected by home rooms constraints, you need to have preferred rooms constraints for such activities to ensure they will not end up in an unspecified room).</source>
         <translation>Thống kê phòng học của các tiết giảng: thực đơn này hiển thị các tiết giảng có thể được gán cho một phòng chưa xác định nếu chúng được tham chiếu bởi những RB lớp học với trọng số nhỏ hơn 100%, và những tiết giảng chắc chắn bị gán vào một phòng học chưa xác định nếu không bị tham chiếu bởi bất cứ RB phòng học nào. Nên nhớ rằng RB phòng học cố định chỉ có hiệu lực với những tiết giảng được đặc tả với giáo viên và lớp học cụ thể.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2163"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2063"/>
         <source>FET - information about statistics</source>
         <translation>Thông tin về các số liệu thống kê</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3149"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3049"/>
         <source>Feature is not enabled. To use this type of feature you must enable it from the Settings-&gt;Advanced menu.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3153"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3053"/>
         <source>The feature must be used with caution, by experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3570"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3470"/>
         <source>FET homepage: %1</source>
         <comment>%1 is FET homepage, begins with http://...</comment>
         <translation>Trang nhà:%1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3574"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3474"/>
         <source>Forum: %1</source>
         <comment>%1 is web page of FET forum, begins with http://...</comment>
         <translation>Diễn đàn:%1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3789"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3813"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3689"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3713"/>
         <source>The timetable is not generated, but anyway FET will proceed now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3851"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3751"/>
         <source>OK</source>
         <translation>Đồng ý</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="750"/>
+        <location filename="../src/interface/fetmainform.cpp" line="714"/>
         <source>Danish</source>
         <translation>Tiếng Đan Mạch</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="751"/>
+        <location filename="../src/interface/fetmainform.cpp" line="715"/>
         <source>Sinhala</source>
         <translation>Tiếng Sinhala</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="752"/>
+        <location filename="../src/interface/fetmainform.cpp" line="716"/>
         <source>Slovak</source>
         <translation>Tiếng Slô-va-ki</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="753"/>
+        <location filename="../src/interface/fetmainform.cpp" line="717"/>
         <source>Hebrew</source>
         <translation>Tiếng Do Thái</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="754"/>
+        <location filename="../src/interface/fetmainform.cpp" line="718"/>
         <source>Serbian</source>
         <translation>Tiếng Sec-bi</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="755"/>
+        <location filename="../src/interface/fetmainform.cpp" line="719"/>
         <source>Galician</source>
         <translation>Tiếng Galicia (giữa Tây Ban Nha - Bồ Đào Nha)</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="756"/>
+        <location filename="../src/interface/fetmainform.cpp" line="720"/>
         <source>Vietnamese</source>
         <translation>Tiếng Việt</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="757"/>
+        <location filename="../src/interface/fetmainform.cpp" line="721"/>
         <source>Uzbek</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="758"/>
+        <location filename="../src/interface/fetmainform.cpp" line="722"/>
         <source>Albanian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1289"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1189"/>
         <source>Please do not use a filename starting with white space(s), the html css code does not work. File was not loaded. Please rename it, removing the white space(s) from the beginning and open it after that with FET.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1302"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1202"/>
         <source>Please do not use a filename ending with white space(s) before the &apos;.fet&apos; termination or at the end of the filename, problems might arise. File was not loaded. Please rename it, removing the white space(s) at the end and open it after that with FET.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3966"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3866"/>
         <source>The geometry and any other saved settings of all the windows and dialogs will be reset to default</source>
         <translation>Định dạng và các thiết lập khác của cửa sổ và hộp thoại được chuyển về giá trị mặc định</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4008"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3908"/>
         <source>The list of recently used files will be cleared</source>
         <translation>Danh sách các tệp được dùng gần đây sẽ bị xóa</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4038"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3938"/>
         <source>Print activities tags will be %1</source>
         <comment>%1 is true or false</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4053"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3953"/>
         <source>Warn if using constraints students min hours daily with empty days will be %1</source>
         <comment>%1 is true or false. This is a warning if user uses a nonstandard constraint students min hours daily with allowed empty days</comment>
         <translation>Cảnh báo nếu có ràng buộc số tiết giảng tối thiểu trong ngày của học sinh vào những ngày trống là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4058"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3958"/>
         <source>Confirm activity planning will be %1</source>
         <comment>%1 is true or false</comment>
         <translation>Xác  nhận việc lập kế hoạch giảng dạy là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4060"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3960"/>
         <source>Confirm spread activities over the week will be %1</source>
         <comment>%1 is true or false</comment>
         <translation>Xác nhận việc lập lịch bằng cách rải các tiết giảng trong cả tuần là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4062"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3962"/>
         <source>Confirm remove redundant constraints will be %1</source>
         <comment>%1 is true or false</comment>
         <translation>Xóa các RB dư thừa là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4064"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3964"/>
         <source>Confirm save data and timetable as will be %1</source>
         <comment>%1 is true or false</comment>
         <translation>Xác nhận lưu dữ liệu và TKB là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4068"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3968"/>
         <source>Enable group activities in the initial order of generation will be %1</source>
         <comment>%1 is true or false</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4070"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3970"/>
         <source>Warn if using group activities in the initial order of generation will be %1</source>
         <comment>%1 is true or false</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4121"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4021"/>
         <source>44</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4124"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4024"/>
         <source>45</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4127"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4027"/>
         <source>Show tool tips for constraints with tables will be %1</source>
         <comment>%1 is true or false</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4127"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4027"/>
         <source>46</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4129"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4029"/>
         <source>Show warning for subgroups with the same activities will be %1</source>
         <comment>%1 is true or false</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4129"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4029"/>
         <source>47</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4631"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4513"/>
         <source>This kind of constraint is good, but only in the right case. Adding such constraints in the wrong circumstance may make your timetable solve too slow or even impossible.</source>
         <translation>Kiểu RB này hữu ích nhưng chỉ tốt cho đúng tình huống. Nếu dùng sai chỗ có thể làm cho việc lập TKB rất lâu hoặc không thể.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4634"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4516"/>
         <source>Please use such constraints only if you are sure that there exists a timetable with empty days for students. If your instution requires each day for the students to be not empty, or if there does not exist a solution with empty days for students, it is IMPERATIVE (for performance reasons) that you use the standard constraint which does not allow empty days. Otherwise, the timetable may be impossible to find.</source>
         <translation>Hãy đảm bảo rằng tồn tại TKB với ngày trống cho học sinh khi dùng loại RB như vậy. Nếu trường bạn không cho phép học sinh có ngày trống hoặc không tồn tại TKB cho học sinh với ngày trống, bạn bị BẮT BUỘC dùng các RB chuẩn không cho phép ngày trống. Nếu không, chương trình không thể tìm được TKB.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4679"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4561"/>
         <source>This kind of option is good, but only in the right case. Adding such an option in the wrong circumstance may make your timetable solve too slow or even impossible.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3672"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3693"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3718"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3733"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3754"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3778"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3802"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3826"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3836"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3572"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3593"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3618"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3633"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3654"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3678"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3702"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3726"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3736"/>
         <source>Please generate, firstly</source>
         <translation>Đầu tiên phải lập mới TKB đã bạn ơi</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3677"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3698"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3738"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3759"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3577"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3598"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3638"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3659"/>
         <source>Cannot display the timetable, because you added or removed some rooms. Please regenerate the timetable and then view it</source>
         <translation>Không hiển thị TKB được vì bạn đã thêm mới/xóa vài phòng học. Hãy lập lại TKB và hiển thị sau</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3702"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3763"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3602"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3663"/>
         <source>Cannot display the timetable, because you added or removed some teachers. Please regenerate the timetable and then view it</source>
         <translation>Không hiển thị TKB được vì bạn đã thêm mới/xóa vài giáo viên. Hãy lập lại TKB và hiển thị sau</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="729"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3983"/>
+        <location filename="../src/interface/fetmainform.cpp" line="693"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3883"/>
         <source>US English</source>
         <translation>Tiếng Anh-Mỹ</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3883"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3783"/>
         <source>Invalid current language - making it en_US (US English)</source>
         <translation>Ngôn ngữ không tồn tại - lựa chọn ngôn ngữ mặc định là tiếng Anh-Mỹ</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3940"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3840"/>
         <source>Invalid language selected - making it en_US (US English)</source>
         <translation>Ngôn ngữ không tồn tại - lựa chọn ngôn ngữ mặc định là tiếng Anh-Mỹ</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3963"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3863"/>
         <source>That means:</source>
         <translation>Có nghĩa là:</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3969"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4023"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4026"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4038"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4047"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4054"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4058"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4060"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4062"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4064"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4070"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4074"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4076"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4081"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4085"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4088"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4091"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4094"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4097"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4100"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4104"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4107"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4110"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4113"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4116"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4119"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4122"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4125"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4129"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3869"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3923"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3926"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3938"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3947"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3954"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3958"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3960"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3962"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3964"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3970"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3974"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3976"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3981"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3985"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3988"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3991"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3994"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3997"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4000"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4004"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4007"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4010"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4013"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4016"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4019"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4022"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4025"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4029"/>
         <source>true</source>
         <translation>true</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3979"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3879"/>
         <source>Use colors in FET graphical user interface will be %1</source>
         <comment>%1 is true or false</comment>
         <translation>Sử dụng màu sắc trong giao diện là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3983"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4004"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3883"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3904"/>
         <source>Language will be %1</source>
         <comment>%1 is the default language</comment>
         <translation>Ngôn ngữ giao diện là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4032"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3932"/>
         <source>Duplicate vertical headers to the right will be %1</source>
         <comment>%1 is true or false</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4047"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3947"/>
         <source>Warn if using not perfect constraints will be %1</source>
         <comment>%1 is true or false. This is a warning if user uses not perfect constraints</comment>
         <translation>Cảnh báo nếu sử dụng RB không hoàn hảo là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4528"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4558"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4410"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4440"/>
         <source>These kinds of constraints are good, but not perfectly optimized. Adding such constraints may make your timetable solve too slow or even impossible.</source>
         <translation>Kiểu RB này hữu ích nhưng không được tối ưu. Thêm chúng vào có thể làm cho việc lập TKB rất lâu hoặc không thể.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4531"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4561"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4413"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4443"/>
         <source>It is recommended to use such constraints only at the end, after you generated successfully with all the other constraints.</source>
         <translation>Những RB này nên được thêm vào cuối sau khi bạn có những TKB với những RB khác.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4533"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4563"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4415"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4445"/>
         <source>If your timetable is too difficult, it may be from these kinds of constraints, so you may need to remove them and retry.</source>
         <translation>Nếu việc lập TKB quá khó khăn, có lẽ lý do từ những RB loại này. Hãy xóa chúng khỏi danh sách các RB và thử lại.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4535"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4565"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4639"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4682"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4417"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4447"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4521"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4564"/>
         <source>Continue only if you know what you are doing.</source>
         <translation>Hãy tiếp tục nếu bạn chắc chắn.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4586"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4608"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4657"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4702"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4468"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4490"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4539"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4584"/>
         <source>It is recommended to keep this warning active, but if you really want, you can disable it.</source>
         <translation>Bạn nên đặt lựa chọn kích hoạt cảnh báo này. Tuy nhiên, nếu bạn thực sự muốn, có thể vô hiệu hóa nó.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4588"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4610"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4659"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4704"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4470"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4492"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4541"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4586"/>
         <source>Disable it only if you know what you are doing.</source>
         <translation>Hãy vô hiệu hóa nếu bạn chắc chắn.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4590"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4612"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4661"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4706"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4472"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4494"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4543"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4588"/>
         <source>Are you sure you want to disable it?</source>
         <translation>Bạn thực sự muốn vô hiệu hóa?</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3628"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3528"/>
         <source>Please input at least one active activity before generating</source>
         <translation>Hãy nhập vào ít nhất 1 tiết giảng được kích hoạt trước khi lập TKB</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3576"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3476"/>
         <source>Additionally, you may find on the FET homepage other contact information.</source>
         <translation>Bạn có thể tìm trên trang nhà của phần mềm những thông tin liên hệ khác.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3659"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3559"/>
         <source>Please input at least one active activity before generating multiple</source>
         <translation>Hãy nhập vào ít nhất 1 tiết giảng được kích hoạt trước khi lập nhiều TKB</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1549"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1559"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1567"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1449"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1459"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1467"/>
         <source>FET - Warning</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1549"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1449"/>
         <source>You have not yet generated a timetable - please generate firstly</source>
         <translation>Bạn chưa lập TKB biểu nào. Hãy sinh mới một TKB trước đã</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1559"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1567"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1459"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1467"/>
         <source>It seems that you have an incomplete timetable. Saving of timetable does not work for incomplete timetables. Please generate a complete timetable</source>
         <translation>Có vẻ bạn chưa hoàn thành xong một TKB. Việc lưu TKB không được phép với TKB chưa hoàn thiện. Hãy hoàn thành TKB trước đã</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1667"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1567"/>
         <source>File exists</source>
         <translation>Tệp đang tồn tại</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1669"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1569"/>
         <source>For safety (so you don&apos;t lose work), it is not allowed to overwrite an existing file with locking and saving a current data+timetable</source>
         <translation>Vì mục đích an toàn (tránh mất công sức và dữ liệu), chương trình không cho phép bạn ghi đè lên tệp đang được khóa và lưu dữ liệu/TKB hiện hành</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1672"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1572"/>
         <source>Please choose a non-existing name</source>
         <translation>Hãy chọn môn tên mới</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3960"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3860"/>
         <source>Are you sure you want to reset all settings to defaults?</source>
         <translation>Bạn thực sự muốn quay về cấu hình mặc định?</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1223"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1123"/>
         <source>New file generated</source>
         <translation>Tệp mới đã được tạo ra</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="760"/>
+        <location filename="../src/interface/fetmainform.cpp" line="724"/>
         <source>Chinese Traditional</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="761"/>
+        <location filename="../src/interface/fetmainform.cpp" line="725"/>
         <source>Basque</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="762"/>
+        <location filename="../src/interface/fetmainform.cpp" line="726"/>
         <source>Czech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="817"/>
+        <location filename="../src/interface/fetmainform.cpp" line="781"/>
         <source>Note: if you disable this option, you will not be able to view activities for subgroups in the activity planning dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="961"/>
+        <location filename="../src/interface/fetmainform.cpp" line="861"/>
         <source>Searching for file %1.</source>
         <translation>Đang tìm tệp %1.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="976"/>
+        <location filename="../src/interface/fetmainform.cpp" line="876"/>
         <source>The file %1 from the FET homepage, indicating the current FET version, is incorrect.</source>
         <translation>Tệp %1 từ trang nhà chỉ ra rằng phiên bản hiện hành là không đúng.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1001"/>
+        <location filename="../src/interface/fetmainform.cpp" line="901"/>
         <source>Additional comments: %1</source>
         <translation>Các ghi chú khác: %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1039"/>
+        <location filename="../src/interface/fetmainform.cpp" line="939"/>
         <source>Your data file has been modified - do you want to save it?</source>
         <translation>Dữ liệu đã thay đổi - Bạn có muốn lưu lại?</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1127"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1027"/>
         <source>%1[*] - FET</source>
         <comment>The title of the main window, %1 is the name of the current file. Please keep the string [*] unmodified (three characters) - it is used to make the difference between modified files and unmodified files.</comment>
         <translation>%1[*] - FET</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1181"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1081"/>
         <source>Your current data file has been modified. Are you sure you want to reset to new empty data?</source>
         <translation>Dữ liệu đã thay đổi. Bạn có chắc chắn chuyển về dữ liệu trắng ban đầu?</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1253"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1153"/>
         <source>Your current data file has been modified. Are you sure you want to open another data file?</source>
         <translation>Dữ liệu đã thay đổi. Bạn có chắc chắn mở tệp dữ liệu khác?</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1349"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1249"/>
         <source>File opened</source>
         <translation>Tệp đã được mở</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1397"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1416"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1420"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1426"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1431"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1436"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1617"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1636"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1640"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1646"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1651"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1656"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1297"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1316"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1320"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1326"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1331"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1336"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1517"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1536"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1540"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1546"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1551"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1556"/>
         <source>File was not saved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1419"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1639"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1319"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1539"/>
         <source>Please do not use a filename ending with white space(s), problems might arise.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1461"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1842"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1361"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1742"/>
         <source>File saved</source>
         <translation>Tệp đã được lưu</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2038"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1938"/>
         <source>add/modify constraints break, not available, preferred starting times or time slots, occupy max time slots from selection or max simultaneous in selected time slots (the table cells will have green or red colors).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2067"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1967"/>
         <source>If you use a not perfect constraint (activity tag max hours daily or students max gaps per day), you&apos;ll get a warning before generating. Uncheck this option to get rid of that warning (it is recommended to keep the warning).</source>
         <translation>Nếu bạn dùng các RB không hoàn hảo, VD: thông tin bổ trợ số giờ tối đa trong ngày hay số tiết nghỉ xen kẽ tối đa trong ngày đối với học sinh, bạn sẽ nhận được cảnh báo trước khi tạo lập TKB.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2093"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1993"/>
         <source>If you have many subgroups and you don&apos;t explicitly use them, it is recommended to use the three global settings: hide subgroups in combo boxes, hide subgroups in activity planning, and do not write subgroups timetables on hard disk.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2096"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1996"/>
         <source>Note that using the global menu setting to hide subgroups in activity planning is a different thing from the check box in the activity planning dialog, and the global setting works better and faster.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2099"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1999"/>
         <source>If you hide subgroups in combo boxes, the affected dialogs (like the activities dialog or the add constraint students set not available times dialog) will load much faster if you have many subgroups.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2104"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2004"/>
         <source>If you are only working on a timetable, and you do not need to publish it, you may want to disable writing some categories of timetables on the hard disk, for operativity (the generation speed is not affected, only the overhead to write the partial/complete timetables when stopping/finishing the simulation). The timetables taking the longest time are the subgroups, groups AND years ones.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2108"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2008"/>
         <source>(Also the conflicts timetable might take long to write, if the file is large.)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2110"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2010"/>
         <source>After that, you can re-enable writing of the timetables and re-generate.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2113"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2013"/>
         <source>Show tool tips for constraints with tables: in the add/modify constraint dialogs which use tables, like the &apos;not available times&apos; ones, each table cell will have a tool tip to show the current day/hour (column/row name).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3966"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3866"/>
         <source>1</source>
         <translation type="unfinished">1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3969"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3869"/>
         <source>Show shortcut buttons in main window will be %1</source>
         <comment>%1 is true or false</comment>
         <translation>Hiển thị các nút tắt trên cửa sổ chính là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3969"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3869"/>
         <source>2</source>
         <translation type="unfinished">2</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3972"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3872"/>
         <source>In the shortcuts tab from the main window, the first section will be selected/shown</source>
         <comment>Option refers to the main window tab widget for shortcuts, which currently contains 5 tabs: File, Data, Time, Space, Timetable (so it will select/show File tab).</comment>
         <translation>Trong thẻ gõ tắt của cửa sổ chính, phần đầu tiên sẽ được chọn và hiển thị</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3972"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3872"/>
         <source>3</source>
         <translation type="unfinished">3</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3976"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3876"/>
         <source>Check for updates at startup will be %1</source>
         <comment>%1 is true or false</comment>
         <translation>Kiểm tra bản cập nhật lúc khởi động chương trình là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3976"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3876"/>
         <source>4</source>
         <translation type="unfinished">4</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3979"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3879"/>
         <source>5</source>
         <translation type="unfinished">5</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3983"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4004"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3883"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3904"/>
         <source>6</source>
         <translation type="unfinished">6</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4008"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3908"/>
         <source>7</source>
         <translation type="unfinished">7</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4011"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3911"/>
         <source>Working directory will be %1</source>
         <comment>%1 is the directory</comment>
         <translation>Thư mục làm việc là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4011"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3911"/>
         <source>8</source>
         <translation type="unfinished">8</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4014"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3914"/>
         <source>Output directory will be %1</source>
         <comment>%1 is the directory</comment>
         <translation>Thư mục đầu ra là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4014"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3914"/>
         <source>9</source>
         <translation type="unfinished">9</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4017"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3917"/>
         <source>Import directory will be %1</source>
         <comment>%1 is the directory</comment>
         <translation>Thư mục nhập liệu là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4017"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3917"/>
         <source>10</source>
         <translation type="unfinished">10</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4020"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3920"/>
         <source>Html level of the timetables will be %1</source>
         <comment>%1 is default html level</comment>
         <translation>Cấp HTML của TKB là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4020"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3920"/>
         <source>11</source>
         <translation type="unfinished">11</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4023"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3923"/>
         <source>Mark not available slots with -x- in timetables will be %1</source>
         <comment>%1 is true or false. Lowercase -x-</comment>
         <translation>Đánh dấu khoảng thời gian bận  với -x- trong TKB là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4023"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3923"/>
         <source>12</source>
         <translation type="unfinished">12</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4026"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3926"/>
         <source>Mark break slots with -X- in timetables will be %1</source>
         <comment>%1 is true or false. Uppercase -X-</comment>
         <translation>Đánh dấu giờ giải lao trong TKB với ký tự -X- là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4026"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3926"/>
         <source>13</source>
         <translation type="unfinished">13</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4029"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3929"/>
         <source>Divide html timetables with time-axis by days will be %1</source>
         <comment>%1 is true or false</comment>
         <translation>Định dạng TKB theo chuẩn HTML với trục thời gian theo ngày học là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4029"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3929"/>
         <source>14</source>
         <translation type="unfinished">14</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4032"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3932"/>
         <source>15</source>
         <translation type="unfinished">15</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4035"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3935"/>
         <source>Print activities with same starting time will be %1</source>
         <comment>%1 is true or false</comment>
         <translation>In những tiết giảng với cùng thời điểm bắt đầu tiết học trong TKB là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4035"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3935"/>
         <source>16</source>
         <translation type="unfinished">16</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4038"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3938"/>
         <source>17</source>
         <translation type="unfinished">17</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4041"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3941"/>
         <source>Enable activity tag max hours daily will be %1</source>
         <comment>%1 is true or false</comment>
         <translation>Kích hoạt thông tin bổ trợ số giờ tối đa trong ngày là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4041"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3941"/>
         <source>18</source>
         <translation type="unfinished">18</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4044"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3944"/>
         <source>Enable students max gaps per day will be %1</source>
         <comment>%1 is true or false</comment>
         <translation>Kích hoạt số tiết nghỉ xen kẽ tối đa trong 1 ngày đối với học sinh là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4044"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3944"/>
         <source>19</source>
         <translation type="unfinished">19</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4047"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3947"/>
         <source>20</source>
         <translation type="unfinished">20</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4050"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3950"/>
         <source>Enable constraints students min hours daily with empty days will be %1</source>
         <comment>%1 is true or false</comment>
         <translation>Kích hoạt số giờ học tối thiểu trong một ngày của học sinh đối với ngày trống là %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4050"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3950"/>
         <source>21</source>
         <translation type="unfinished">21</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4053"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3953"/>
         <source>22</source>
         <translation type="unfinished">22</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4058"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3958"/>
         <source>23</source>
         <translation type="unfinished">23</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4060"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3960"/>
         <source>24</source>
         <translation type="unfinished">24</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4062"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3962"/>
         <source>25</source>
         <translation type="unfinished">25</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4064"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3964"/>
         <source>26</source>
         <translation type="unfinished">26</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4068"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3968"/>
         <source>27</source>
         <translation type="unfinished">27</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4070"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3970"/>
         <source>28</source>
         <translation type="unfinished">28</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4074"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3974"/>
         <source>29</source>
         <translation type="unfinished">29</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4074"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3974"/>
         <source>Show subgroups in combo boxes will be %1</source>
         <comment>%1 is true or false</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4076"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3976"/>
         <source>30</source>
         <translation type="unfinished">30</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4076"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3976"/>
         <source>Show subgroups in activity planning will be %1</source>
         <comment>%1 is true or false</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4080"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3980"/>
         <source>31</source>
         <translation type="unfinished">31</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4080"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3980"/>
         <source>Write on disk the %1 timetable will be %2</source>
         <comment>%1 is a category of timetables, like conflicts, %2 is true or false</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4081"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3981"/>
         <source>conflicts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4084"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4087"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4090"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4093"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4096"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4099"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4103"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4106"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4109"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4112"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4115"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4118"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4121"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4124"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3984"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3987"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3990"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3993"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3996"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3999"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4003"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4006"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4009"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4012"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4015"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4018"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4021"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4024"/>
         <source>Write on disk the %1 timetables will be %2</source>
         <comment>%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4085"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3985"/>
         <source>statistics</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4088"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3988"/>
         <source>XML</source>
         <translation type="unfinished">XML</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4084"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3984"/>
         <source>32</source>
         <translation type="unfinished">32</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4091"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3991"/>
         <source>days horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4087"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3987"/>
         <source>33</source>
         <translation type="unfinished">33</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4094"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3994"/>
         <source>days vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4090"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3990"/>
         <source>34</source>
         <translation type="unfinished">34</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4097"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3997"/>
         <source>time horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4093"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3993"/>
         <source>35</source>
         <translation type="unfinished">35</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4100"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4000"/>
         <source>time vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4096"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3996"/>
         <source>36</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4104"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4004"/>
         <source>subgroups</source>
         <translation type="unfinished">Nhóm con</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4099"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3999"/>
         <source>37</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4107"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4007"/>
         <source>groups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4103"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4003"/>
         <source>38</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4110"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4010"/>
         <source>years</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4106"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4006"/>
         <source>39</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4113"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4013"/>
         <source>teachers</source>
         <translation>Giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4109"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4009"/>
         <source>40</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4116"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4016"/>
         <source>teachers free periods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4112"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4012"/>
         <source>41</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4119"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4019"/>
         <source>rooms</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4115"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4015"/>
         <source>42</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4122"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4022"/>
         <source>subjects</source>
         <translation type="unfinished">Môn học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4118"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4018"/>
         <source>43</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4125"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4025"/>
         <source>activities</source>
         <translation type="unfinished">Tiết giảng</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4369"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4251"/>
         <source>You have more than 6 days per week, so probably you won&apos;t need this feature. Do you still want to continue?</source>
         <translation>Bạn có hơn 6 ngày học/tuần. Có lẽ bạn không cần tính năng này. Bạn thực sự muốn tiếp tục?</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4372"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4393"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4254"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4275"/>
         <source>FET question</source>
         <translation>Câu hỏi</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4374"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4395"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4256"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4277"/>
         <source>&amp;Continue</source>
         <translation>&amp;Tiếp tục</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4390"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4272"/>
         <source>You have less than 5 days per week, so probably you won&apos;t need this feature. Do you still want to continue?</source>
         <translation>Bạn có ít hơn 5 ngày học/tuần. Có lẽ bạn không cần tính năng này. Bạn thực sự muốn tiếp tục?</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1277"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1385"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1605"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1177"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1285"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1505"/>
         <source>All files</source>
         <translation>Tất cả</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="772"/>
+        <location filename="../src/interface/fetmainform.cpp" line="736"/>
         <source>Constraints of this type are good, working, but they are not perfectly optimized.</source>
         <translation>RB của loại này khá hữu ích nhưng không được tối ưu.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="996"/>
+        <location filename="../src/interface/fetmainform.cpp" line="896"/>
         <source>Another version: %1, is available on the FET homepage: %2</source>
         <comment>%1 is new version, %2 is FET homepage</comment>
         <translation>Phiên bản khác: %1 đã có trên trang nhà: %2</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="998"/>
+        <location filename="../src/interface/fetmainform.cpp" line="898"/>
         <source>You may need to hit Refresh in your web browser.</source>
         <translation>Bạn cần kích nut Refresh trong trình duyệt.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="998"/>
+        <location filename="../src/interface/fetmainform.cpp" line="898"/>
         <source>Would you like to open the FET homepage now?</source>
         <translation>Bạn muốn kết nối tới trang nhà ngay bây giờ?</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1274"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1174"/>
         <source>Choose a file to open</source>
         <translation>Chọn tệp cần mở</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="1276"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1384"/>
-        <location filename="../src/interface/fetmainform.cpp" line="1604"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1176"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1284"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1504"/>
         <source>FET XML files</source>
         <comment>Instructions for translators: FET XML is a type of file format (using text mode). So this field means files in the FET XML format</comment>
         <translation>Tệp XML</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3568"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3468"/>
         <source>In case the Help/Online menus do not function, please write down these addresses and open them in an internet browser:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3572"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3472"/>
         <source>Documentation (online help contents): %1</source>
         <comment>%1 is web page of FET Doc(umentation), which is the contents of the online help, it begins with http://...</comment>
         <translation>Tà liệu (trợ giúp trực tuyến): %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3578"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3478"/>
         <source>In case these addresses do not function, maybe the FET webpage has temporary problems, so try again later. Or maybe the FET webpage has changed, so search for the new page on the internet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3580"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3480"/>
         <source>FET web addresses</source>
         <translation>Trang nhà</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3648"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3548"/>
         <source>Your current data has no name. Please save it as a file with a certain name before proceeding.</source>
         <translation>Dữ liệu của bạn chưa có tên. Hãy lưu lại với tên tệp trước khi tiếp tục.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3846"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3889"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3746"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3789"/>
         <source>Please select FET language</source>
         <translation>Hãy chọn ngôn ngữ giao diện</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3850"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3750"/>
         <source>Cancel</source>
         <translation>Thoát</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="730"/>
+        <location filename="../src/interface/fetmainform.cpp" line="694"/>
         <source>Arabic</source>
         <translation>Tiếng Ả-rập</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="731"/>
+        <location filename="../src/interface/fetmainform.cpp" line="695"/>
         <source>Catalan</source>
         <translation>Tiếng Ca-ta-lan</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="732"/>
+        <location filename="../src/interface/fetmainform.cpp" line="696"/>
         <source>German</source>
         <translation>Tiếng Đức</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="733"/>
+        <location filename="../src/interface/fetmainform.cpp" line="697"/>
         <source>Greek</source>
         <translation>Tiếng Hy Lạp</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="734"/>
+        <location filename="../src/interface/fetmainform.cpp" line="698"/>
         <source>Spanish</source>
         <translation>Tiếng Tây Ban Nha</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="735"/>
+        <location filename="../src/interface/fetmainform.cpp" line="699"/>
         <source>French</source>
         <translation>Tiếng Pháp</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="736"/>
+        <location filename="../src/interface/fetmainform.cpp" line="700"/>
         <source>Hungarian</source>
         <translation>Tiếng Hung-ga-ri</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="737"/>
+        <location filename="../src/interface/fetmainform.cpp" line="701"/>
         <source>Indonesian</source>
         <translation>Tiếng In-đô-nê-xia</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="738"/>
+        <location filename="../src/interface/fetmainform.cpp" line="702"/>
         <source>Italian</source>
         <translation>Tiếng Ý</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="739"/>
+        <location filename="../src/interface/fetmainform.cpp" line="703"/>
         <source>Lithuanian</source>
         <translation>Tiếng Lít-va</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="740"/>
+        <location filename="../src/interface/fetmainform.cpp" line="704"/>
         <source>Macedonian</source>
         <translation>Tiếng Ma-xê-đô-nia</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="741"/>
+        <location filename="../src/interface/fetmainform.cpp" line="705"/>
         <source>Malay</source>
         <translation>Tiếng Mã-lai</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="742"/>
+        <location filename="../src/interface/fetmainform.cpp" line="706"/>
         <source>Dutch</source>
         <translation>Tiếng Hà Lan</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="743"/>
+        <location filename="../src/interface/fetmainform.cpp" line="707"/>
         <source>Polish</source>
         <translation>Tiếng Ba Lan</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="744"/>
+        <location filename="../src/interface/fetmainform.cpp" line="708"/>
         <source>Romanian</source>
         <translation>Tiếng Ru-ma-nia</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="745"/>
+        <location filename="../src/interface/fetmainform.cpp" line="709"/>
         <source>Turkish</source>
         <translation>Tiếng Thổ Nhĩ Kỳ</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="748"/>
+        <location filename="../src/interface/fetmainform.cpp" line="712"/>
         <source>Ukrainian</source>
         <translation>Tiếng U-crai-na</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="749"/>
+        <location filename="../src/interface/fetmainform.cpp" line="713"/>
         <source>Brazilian Portuguese</source>
         <translation>Tiếng Bồ Đào Nha (Bra-zin)</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="746"/>
+        <location filename="../src/interface/fetmainform.cpp" line="710"/>
         <source>Russian</source>
         <translation>Tiếng Nga</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="747"/>
+        <location filename="../src/interface/fetmainform.cpp" line="711"/>
         <source>Persian</source>
         <translation>Tiếng I-ran</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4478"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4360"/>
         <source>Choose results (output) directory</source>
         <translation>Chọn thư mục đầu ra</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4487"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4369"/>
         <source>You don&apos;t have write permissions in this directory</source>
         <translation>Bạn không có quyền ghi vào thư mục này</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2149"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2049"/>
         <source>Students&apos; statistics form contains a check box named &apos;%1&apos;. This has effect only if you have overlapping groups/years, and means that FET will show the complete tree structure, even if that means that some subgroups/groups will appear twice or more in the table, with the same information. For instance, if you have year Y1, groups G1 and G2, subgroups S1, S2, S3, with structure: Y1 (G1 (S1, S2), G2 (S1, S3)), S1 will appear twice in the table</source>
         <translation>Biểu số liệu thống kê học sinh bao gồm hộp kiểm tra với tên &apos;%1&apos;. Cái này chỉ có tác dụng nếu bạn có khối lớp/nhóm chồng lần và khi đó chương trình sẽ hiển thị đầy đủ cấu trúc cây, kể cả trường hợp vài nhóm con/nhóm lớp xuất hiện hơn 1 lần trong bảng với cùng thông tin</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2153"/>
+        <location filename="../src/interface/fetmainform.cpp" line="2053"/>
         <source>Show duplicates</source>
         <translation>Hiển thị trùng</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="3976"/>
-        <location filename="../src/interface/fetmainform.cpp" line="3979"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4029"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4032"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4035"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4041"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4044"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4050"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4068"/>
-        <location filename="../src/interface/fetmainform.cpp" line="4127"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3876"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3879"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3929"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3932"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3935"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3941"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3944"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3950"/>
+        <location filename="../src/interface/fetmainform.cpp" line="3968"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4027"/>
         <source>false</source>
         <translation>false</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="4132"/>
+        <location filename="../src/interface/fetmainform.cpp" line="4032"/>
         <source>FET confirmation</source>
         <translation>Xác nhận</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2027"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1927"/>
         <source>Option &apos;Print activities with same starting time in timetables&apos;: selecting it means that the html timetables will contain for each slot all the activities which have the same starting time (fact specified by your constraints) as the activity(ies) which are normally shown in this slot. If you don&apos;t use constraints activities same starting time, this option has no effect for you.</source>
         <translation>Lựa chon &apos;In các tiết giảng với cùng thời điểm bắt đầu trên TKB&apos; có nghĩa là TKB ở dạng HTML sẽ chứa mỗi khoảng thời gian mà tất cả các tiết giảng với cùng thời điểm bắt đầu. Nếu bạn không dùng RB này thì lựa chọn này không ảnh hưởng gì.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2020"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1920"/>
         <source>Option &apos;Divide html timetables with time-axis by days&apos;: This means simply that the html timetables of type &apos;time horizontal&apos; or &apos;time vertical&apos; (see the generated html timetables) should be or not divided according to the days.</source>
         <translation>Lựa chọn &apos;Chia TKB dạng HTML theo trục thời gian với ngày học&apos; có nghĩa là TKB với kiểu trục tung hay trục hoành không được tổ chức theo các ngày học. </translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2024"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1924"/>
         <source>If the &apos;time horizontal&apos; or &apos;time vertical&apos; html timetables are too large for you, then you might need to select this option</source>
         <translation>Nếu TKB dạng HTML với kiểu &apos;trục tung&apos; hay &apos;trục  hoành&apos; quá to, có lẽ bạn cần lựa chọn này</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="2018"/>
+        <location filename="../src/interface/fetmainform.cpp" line="1918"/>
         <source>Probably some settings which are more difficult to understand are these ones:</source>
         <translation>Vài thiết lập cấu hình khó hiểu như sau:</translation>
     </message>
@@ -30363,7 +30365,6 @@ Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các 
     </message>
     <message>
         <location filename="../src/interface/fetmainform_template.ui" line="959"/>
-        <location filename="../src/interface/fetmainform_template.ui" line="2624"/>
         <source>Statistics</source>
         <translation>Thống kê</translation>
     </message>
@@ -30379,13 +30380,13 @@ Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các 
         <translation>Cấu hình</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2049"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2026"/>
         <source>Language</source>
         <extracomment>Please translate in your language and also add the original English term, like: &apos;Idioma/Language&apos;. This is to ensure that people mistakingly selecting an unknown language do not become stuck with it (so that they can find this setting description also in English).</extracomment>
         <translation>Ngôn ngữ giao diện/Language</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1339"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1316"/>
         <source>&amp;New</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;New, &amp;Open, Open &amp;recent, &amp;Save, Save &amp;as, &amp;Quit, must be different</extracomment>
         <translation>&amp;Tạo mới</translation>
@@ -30407,42 +30408,42 @@ Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các 
         <translation>Thời khóa biểu (TKB)</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1342"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1319"/>
         <source>Ctrl+N</source>
         <extracomment>This is the shortcut for menu item File-&gt;New. It is recommended to translate with Ctrl+N, the same as original, or with Ctrl+other letter you prefer (do not make duplicates with other shortcuts). All shortcuts are: Ctrl+N (New), Ctrl+O (Open), Ctrl+S (Save), Ctrl+Q (Quit), Ctrl+G (Generate), Ctrl+P (Print). Please use the English keyboard modifiers name, for instance Ctrl, because otherwise the shortcuts do not work (so, even if your keyboard has another name for the Ctrl key, write &apos;Ctrl&apos;. It will work OK on all platforms. Even if you are on German keyboard, write &apos;Ctrl&apos; as in English). Maybe it would be good to translate with &apos;Ctrl+N&apos;, the same as the English original, to keep things standard.</extracomment>
         <translation>Ctrl+N</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1347"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1324"/>
         <source>&amp;Open...</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;New, &amp;Open, Open &amp;recent, &amp;Save, Save &amp;as, &amp;Quit, must be different</extracomment>
         <translation>&amp;Mở tệp...</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1350"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1327"/>
         <source>Ctrl+O</source>
         <extracomment>This is the shortcut for menu item File-&gt;Open. It is recommended to translate with Ctrl+O, the same as original, or with Ctrl+other letter you prefer (do not make duplicates with other shortcuts). All shortcuts are: Ctrl+N (New), Ctrl+O (Open), Ctrl+S (Save), Ctrl+Q (Quit), Ctrl+G (Generate), Ctrl+P (Print). Please use the English keyboard modifiers name, for instance Ctrl, because otherwise the shortcuts do not work (so, even if your keyboard has another name for the Ctrl key, write &apos;Ctrl&apos;. It will work OK on all platforms. Even if you are on German keyboard, write &apos;Ctrl&apos; as in English). Maybe it would be good to translate with &apos;Ctrl+O&apos;, the same as the English original, to keep things standard.</extracomment>
         <translation>Ctrl+O</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1355"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1332"/>
         <source>&amp;Save</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;New, &amp;Open, Open &amp;recent, &amp;Save, Save &amp;as, &amp;Quit, must be different</extracomment>
         <translation>&amp;Lưu tệp</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1358"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1335"/>
         <source>Ctrl+S</source>
         <extracomment>This is the shortcut for menu item File-&gt;Save. It is recommended to translate with Ctrl+S, the same as original, or with Ctrl+other letter you prefer (do not make duplicates with other shortcuts). All shortcuts are: Ctrl+N (New), Ctrl+O (Open), Ctrl+S (Save), Ctrl+Q (Quit), Ctrl+G (Generate), Ctrl+P (Print). Please use the English keyboard modifiers name, for instance Ctrl, because otherwise the shortcuts do not work (so, even if your keyboard has another name for the Ctrl key, write &apos;Ctrl&apos;. It will work OK on all platforms. Even if you are on German keyboard, write &apos;Ctrl&apos; as in English). Maybe it would be good to translate with &apos;Ctrl+S&apos;, the same as the English original, to keep things standard.</extracomment>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1379"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1356"/>
         <source>Frequently asked questions</source>
         <translation>Câu hỏi thường dùng</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1395"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1372"/>
         <source>&amp;Teachers</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Subjects, Activity ta&amp;gs, &amp;Teachers, Stu&amp;dents, &amp;Activities, &amp;Modify subactivities, &amp;Buildings, &amp;Rooms, All t&amp;ime constraints, All s&amp;pace constraints must be different</extracomment>
         <translation>&amp;Giáo viên</translation>
@@ -30450,36 +30451,34 @@ Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các 
     <message>
         <location filename="../src/interface/fetmainform_template.ui" line="989"/>
         <location filename="../src/interface/fetmainform_template.ui" line="1142"/>
-        <location filename="../src/interface/fetmainform_template.ui" line="2536"/>
         <source>Teachers</source>
         <translation>Giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1400"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1377"/>
         <source>&amp;Subjects</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Subjects, Activity ta&amp;gs, &amp;Teachers, Stu&amp;dents, &amp;Activities, &amp;Modify subactivities, &amp;Buildings, &amp;Rooms, All t&amp;ime constraints, All s&amp;pace constraints must be different</extracomment>
         <translation>Danh sách &amp;môn học</translation>
     </message>
     <message>
         <location filename="../src/interface/fetmainform_template.ui" line="1113"/>
-        <location filename="../src/interface/fetmainform_template.ui" line="2569"/>
         <source>Subjects</source>
         <translation>Môn học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1405"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1382"/>
         <source>&amp;Years (forms, classes)</source>
         <extracomment>Accelerator key (letter after ampersand) must be different for &amp;Years, &amp;Groups, &amp;Subgroups</extracomment>
         <translation>Danh sách &amp;khối lớp học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1410"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1387"/>
         <source>&amp;Groups</source>
         <extracomment>Accelerator key (letter after ampersand) must be different for &amp;Years, &amp;Groups, &amp;Subgroups</extracomment>
         <translation>&amp;Nhóm lớp</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1420"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1397"/>
         <source>&amp;Activities</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Subjects, Activity ta&amp;gs, &amp;Teachers, Stu&amp;dents, &amp;Activities, &amp;Modify subactivities, &amp;Buildings, &amp;Rooms, All t&amp;ime constraints, All s&amp;pace constraints must be different</extracomment>
         <translation>Các &amp;tiết giảng</translation>
@@ -30487,7 +30486,6 @@ Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các 
     <message>
         <location filename="../src/interface/fetmainform_template.ui" line="1045"/>
         <location filename="../src/interface/fetmainform_template.ui" line="1103"/>
-        <location filename="../src/interface/fetmainform_template.ui" line="2580"/>
         <source>Activities</source>
         <translation>Tiết giảng</translation>
     </message>
@@ -30503,121 +30501,120 @@ Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các 
         <translation>Một tiết giảng cuối ngày</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1425"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1402"/>
         <source>&amp;Generate new</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Generate new, View (&amp;teachers), View (&amp;students), View (&amp;rooms), Show soft &amp;conflicts, &amp;Print, Generate &amp;multiple, must be different</extracomment>
         <translation>&amp;Tạo TKB mới</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1428"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1405"/>
         <source>Ctrl+G</source>
         <extracomment>This is the shortcut for menu item Timetable-&gt;Generate. It is recommended to translate with Ctrl+G, the same as original, or with Ctrl+other letter you prefer (do not make duplicates with other shortcuts). All shortcuts are: Ctrl+N (New), Ctrl+O (Open), Ctrl+S (Save), Ctrl+Q (Quit), Ctrl+G (Generate), Ctrl+P (Print). Please use the English keyboard modifiers name, for instance Ctrl, because otherwise the shortcuts do not work (so, even if your keyboard has another name for the Ctrl key, write &apos;Ctrl&apos;. It will work OK on all platforms. Even if you are on German keyboard, write &apos;Ctrl&apos; as in English). Maybe it would be good to translate with &apos;Ctrl+G&apos;, the same as the English original, to keep things standard.</extracomment>
         <translation>Ctrl+G</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1433"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1410"/>
         <source>View (&amp;students)</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Generate new, View (&amp;teachers), View (&amp;students), View (&amp;rooms), Show soft &amp;conflicts, &amp;Print, Generate &amp;multiple, must be different</extracomment>
         <translation>TKB (c&amp;ho lớp)</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1438"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1415"/>
         <source>View (&amp;teachers)</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Generate new, View (&amp;teachers), View (&amp;students), View (&amp;rooms), Show soft &amp;conflicts, &amp;Print, Generate &amp;multiple, must be different</extracomment>
         <translation>TKB (cho &amp;giáo viên)</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1448"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1425"/>
         <source>&amp;Days per week</source>
         <extracomment>Accelerators (letters after &amp; - ampersand) for &amp;Days per week and &amp;Hours (periods) per day must be different</extracomment>
         <translation>Số &amp;ngày trong 1 tuần</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1453"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1430"/>
         <source>&amp;Hours (periods) per day</source>
         <extracomment>Accelerators (letters after &amp; - ampersand) for &amp;Days per week and &amp;Hours (periods) per day must be different</extracomment>
         <translation>Số &amp;tiết học trong 1 ngày</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1461"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1438"/>
         <source>&amp;Rooms</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Subjects, Activity ta&amp;gs, &amp;Teachers, Stu&amp;dents, &amp;Activities, &amp;Modify subactivities, &amp;Buildings, &amp;Rooms, All t&amp;ime constraints, All s&amp;pace constraints must be different</extracomment>
         <translation>&amp;Danh sách phòng học</translation>
     </message>
     <message>
         <location filename="../src/interface/fetmainform_template.ui" line="1097"/>
-        <location filename="../src/interface/fetmainform_template.ui" line="2558"/>
         <source>Rooms</source>
         <translation>Phòng học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1969"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1946"/>
         <source>Mark not available slots with -x- in timetables</source>
         <comment>It means to mark the slots which are not available in the timetable. Lowercase -x-</comment>
         <translation>x - khoảng thời gian bận</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2111"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2088"/>
         <source>Min days per week for a teacher</source>
         <translation>2. Số ngày dạy tối thiểu trong 1 tuần cho một giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2116"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2093"/>
         <source>Min days per week for all teachers</source>
         <translation>22. Số ngày dạy tối thiểu trong 1 tuần cho tất cả giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2121"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2098"/>
         <source>Seed of random number generator</source>
         <translation>Tạo số ngẫu nhiên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2132"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2109"/>
         <source>Use colors in interface</source>
         <translation>Thiết lập màu sắc trên giao diện</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2140"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2117"/>
         <source>Max hours daily with an activity tag for a teacher</source>
         <translation>6. Số giờ lên lớp tối đa hàng ngày trong thông tin bổ trợ của một giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2148"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2125"/>
         <source>Max hours daily with an activity tag for all teachers</source>
         <translation>16. Số giờ lên lớp tối đa hàng ngày trong thông tin bổ trợ cho tất cả giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2156"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2133"/>
         <source>Max hours daily with an activity tag for a students set</source>
         <translation>Số giờ lên lớp tối đa hàng ngày trong thông tin bổ trợ của một lớp</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2164"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2141"/>
         <source>Max hours daily with an activity tag for all students</source>
         <translation>Số giờ lên lớp tối đa hàng ngày trong thông tin bổ trợ của tất cả học sinh</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2172"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2149"/>
         <source>Max gaps per day for a students set</source>
         <translation>Số tiết nghỉ xen kẽ tối đa trong ngày đối với một lớp học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2180"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2157"/>
         <source>Max gaps per day for all students</source>
         <translation>Số tiết nghỉ xen kẽ tối đa trong ngày đối với tất cả học sinh</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2191"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2168"/>
         <source>Enable students max gaps per day</source>
         <translation>Kích hoạt số tiết nghỉ xen kẽ tối đa trong 1 ngày</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2202"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2179"/>
         <source>Enable activity tag max hours daily</source>
         <translation>Kích hoạt thông tin bổ trợ với số tiết giảng tối đa trong ngày</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2213"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2190"/>
         <source>Warn if using not perfect constraints</source>
         <extracomment>This is an option, which can be selected or deselected. It means warn before generating, if user uses not perfect constraints</extracomment>
         <translation>Cảnh báo nếu dùng các ràng buộc không tối ưu</translation>
@@ -30628,38 +30625,38 @@ Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các 
         <translation>Ràng buộc về mặt thời gian</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1479"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1456"/>
         <source>A set of activities has same starting time (day+hour)</source>
         <translation>12. Các tiết giảng bắt đầu cùng thời điểm (ngày và giờ)</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1494"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1471"/>
         <source>All t&amp;ime constraints</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Subjects, Activity ta&amp;gs, &amp;Teachers, Stu&amp;dents, &amp;Activities, &amp;Modify subactivities, &amp;Buildings, &amp;Rooms, All t&amp;ime constraints, All s&amp;pace constraints must be different</extracomment>
         <translation>Tất cả các ràng buộc về mặt thờ&amp;i gian</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1504"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1481"/>
         <source>Basic compulsory time constraints</source>
         <translation>Những ràng buộc thời gian căn bản</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1519"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1496"/>
         <source>Max days per week for a teacher</source>
         <translation>1. Số ngày dạy tối đa trong 1 tuần cho một giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1524"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1501"/>
         <source>Max hours daily for all teachers</source>
         <translation>15. Số giờ dạy tối đa trong 1 cho tất cả giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1549"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1526"/>
         <source>A set of activities are not overlapping</source>
         <translation>20. Các tiết giảng không được phép chồng lấn nhau</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1562"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1539"/>
         <source>All s&amp;pace constraints</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Subjects, Activity ta&amp;gs, &amp;Teachers, Stu&amp;dents, &amp;Activities, &amp;Modify subactivities, &amp;Buildings, &amp;Rooms, All t&amp;ime constraints, All s&amp;pace constraints must be different</extracomment>
         <translation>Tất cả các ràng buộc về &amp;phòng học</translation>
@@ -30670,49 +30667,49 @@ Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các 
         <translation>Các ràng buộc về phòng học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1567"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1544"/>
         <source>Basic compulsory space constraints</source>
         <translation>Những ràng buộc phòng học căn bản</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1577"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1554"/>
         <source>An activity has a preferred room</source>
         <translation>Một tiết giảng yêu cầu một phòng học đặc thù</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1582"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1559"/>
         <source>A set of activities has same starting hour (any days)</source>
         <translation>14. Các tiết giảng bắt đầu cùng giờ (có thể khác ngày)</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1592"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1569"/>
         <source>I&amp;nstitution name</source>
         <extracomment>Accelerators (letters after &amp; - ampersand) for I&amp;nstitution name and &amp;Comments must be different</extracomment>
         <translation>Tên &amp;nhà trường</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1597"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1574"/>
         <source>&amp;Comments</source>
         <extracomment>Accelerators (letters after &amp; - ampersand) for I&amp;nstitution name and &amp;Comments must be different</extracomment>
         <translation>&amp;Ghi chú</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1602"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1579"/>
         <source>An activity has a set of preferred rooms</source>
         <translation>Một tiết giảng đòi hỏi một số phòng học cố định</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1743"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1720"/>
         <source>A subject has a preferred room</source>
         <translation>Một môn học đòi hỏi phòng học cố định</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1748"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1725"/>
         <source>A subject has a set of preferred rooms</source>
         <translation>Một môn học đòi hỏi một số phòng học cố định</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1617"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1594"/>
         <source>Teachers statistics</source>
         <translation>Thống kê giáo viên</translation>
     </message>
@@ -30729,97 +30726,97 @@ Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các 
         <translation>Các tệp dùng gần đây</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1622"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1599"/>
         <source>Students statistics</source>
         <translation>Thống kê lớp học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1627"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1604"/>
         <source>Subjects statistics</source>
         <translation>Thống kê môn học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1632"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1609"/>
         <source>Max gaps per week for all teachers</source>
         <translation>14. Số tiết trống tối đa trong tuần cho tất cả giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1637"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1614"/>
         <source>Max gaps per week for a teacher</source>
         <translation>4. Số tiết trống tối đa trong tuần cho một giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1647"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1624"/>
         <source>Max hours daily for a teacher</source>
         <translation>5. Số giờ dạy tối đa trong 1 cho một giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1652"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1629"/>
         <source>Max hours daily for a students set</source>
         <translation>Số giờ học tối đa trong một ngày đối với 1 lớp học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1657"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1634"/>
         <source>Max hours daily for all students</source>
         <translation>Số giờ học tối đa trong 1 ngày đối với tất cả học sinh</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1662"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1639"/>
         <source>Instructions</source>
         <translation>Chỉ dẫn</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1673"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1650"/>
         <source>Search for updates on startup</source>
         <translation>Cập nhật khi khởi động chương trình</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1678"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1655"/>
         <source>Min hours daily for all students</source>
         <translation>Số giờ học tối thiểu trong 1 ngày đối với tất cả học sinh</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1683"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1660"/>
         <source>Min hours daily for a students set</source>
         <translation>Số giờ học tối thiểu trong 1 ngày đối với 1 lớp học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1698"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1675"/>
         <source>An activity ends students day</source>
         <translation>10. Một tiết giảng vào cuối ngày</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1703"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1680"/>
         <source>Restore default settings</source>
         <translation>Khôi phục thiết lập mặc định</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1713"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1690"/>
         <source>Min hours daily for all teachers</source>
         <translation>17. Số giờ dạy tối thiểu trong ngày cho tất cả giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1718"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1695"/>
         <source>Min hours daily for a teacher</source>
         <translation>7. Số giờ dạy tối thiểu trong ngày cho một giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1723"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1700"/>
         <source>Help on statistics</source>
         <translation>Trợ giúp về các con số thống kê</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1534"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1511"/>
         <source>Max gaps per week for a students set</source>
         <translation>Số tiết nghỉ xen kẽ tối đa trong tuần đối với một lớp học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1539"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1516"/>
         <source>Max gaps per week for all students</source>
         <translation>Số tiết nghỉ xen kẽ tối đa trong tuần đối với tất cả học sinh</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1544"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1521"/>
         <source>All students begin early (max beginnings at second hour)</source>
         <translation>Tất cả học sinh đều vào lớp sớm (muộn nhất là tiết học thứ hai trong ngày)</translation>
     </message>
@@ -30829,22 +30826,22 @@ Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các 
         <translation>Thông tin bổ trợ</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1642"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1619"/>
         <source>A students set begins early (max beginnings at second hour)</source>
         <translation>Lớp vào học sớm (muộn nhất là tiết học thứ hai trong ngày)</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1728"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1705"/>
         <source>Max gaps per day for all teachers</source>
         <translation>13. Số tiết trống tối đa trong ngày cho tất cả các giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1733"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1710"/>
         <source>Max gaps per day for a teacher</source>
         <translation>3. Số tiết trống tối đa trong 1 ngày cho một giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1499"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1476"/>
         <source>A teacher&apos;s not available times</source>
         <translation>Thời gian bận của một giáo viên</translation>
     </message>
@@ -30895,429 +30892,380 @@ Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các 
         <translation>Các tệp dùng &amp;gần đây</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1255"/>
-        <source>Enable writing on disk</source>
-        <translation>Tùy chọn xuất dữ liệu</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1291"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1268"/>
         <source>Confirmations</source>
         <comment>This is a submenu, contains these settings: if a user wants to deactivate/activate a confirmation (instructions) dialog that appears before an advanced dialog</comment>
         <translation>Xác nhận</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1363"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1340"/>
         <source>Save &amp;as...</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;New, &amp;Open, Open &amp;recent, &amp;Save, Save &amp;as, &amp;Quit, must be different</extracomment>
         <translation>Lưu &amp;với tên ...</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1484"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1461"/>
         <source>A set of activities occupies max time slots from selection</source>
         <extracomment>It refers to a time constraint. It means: user chooses a set of activities, a set of time slots and a maximum number of slots from those selected which can be occupied by the selected activities</extracomment>
         <translation>15. RB số lượng tối đa tiết học được dùng cho một tập hợp các tiết giảng cho trước</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1489"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1466"/>
         <source>Max simultaneous activities from a set in selected time slots</source>
         <extracomment>It refers to a time constraint. It means: user chooses a set of activities, a set of time slots and a maximum number of activities from those selected which can be simultaneous in each selected time slot</extracomment>
         <translation>21. RB số lượng tối đa tiết giảng tại một vài tiết học cụ thể</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1509"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1486"/>
         <source>A students set&apos;s not available times</source>
         <translation>Thêm tiết trống của một lớp</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1514"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1491"/>
         <source>Break times (all teachers+all students not available)</source>
         <translation>Giờ giải lao (cho cả giáo viên và học sinh)</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1554"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1531"/>
         <source>Min days between a set of activities</source>
         <translation>8. Số ngày tối thiểu giữa một nhóm các tiết giảng</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1572"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1549"/>
         <source>A room&apos;s not available times</source>
         <translation>Những thời điểm phòng học không thể sử dụng</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1607"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1584"/>
         <source>A set of students has a home room</source>
         <translation>Một lớp có phòng học cố định</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1612"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1589"/>
         <source>A set of students has a set of home rooms</source>
         <translation>Một lớp có vài phòng học cố định</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1708"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1685"/>
         <source>HTML level for generated timetables</source>
         <translation>Cấp độ HTML cho TKB</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1753"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1730"/>
         <source>A subject+an activity tag have a preferred room</source>
         <translation>Một môn học yêu cầu phòng học cố định</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1758"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1735"/>
         <source>A subject+an activity tag have a set of preferred rooms</source>
         <translation>Một môn học yêu cầu vài phòng học cố định</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1763"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1740"/>
         <source>A teacher has a home room</source>
         <translation>Một giáo viên có phòng học cố định</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1768"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1745"/>
         <source>A teacher has a set of home rooms</source>
         <translation>Một giáo viên có vài phòng học cố định</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1773"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1750"/>
         <source>Max building changes per day for a students set</source>
         <translation>Số lần đổi khối nhà tối đa trong ngày đối với một lớp học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1778"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1755"/>
         <source>Max building changes per day for all students</source>
         <translation>Số lần đổi khối nhà tối đa trong ngày đối với tất cả học sinh</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1783"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1760"/>
         <source>Max building changes per week for a students set</source>
         <translation>Số lần đổi khối nhà tối đa trong tuần đối với một lớp học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1788"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1765"/>
         <source>Max building changes per week for all students</source>
         <translation>Số lần đổi khối nhà tối đa trong tuần đối với tất cả học sinh</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1793"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1770"/>
         <source>Min gaps between building changes for a students set</source>
         <translation>Số tiết nghỉ xen kẽ tối thiểu khi đổi khối nhà đối với một lớp học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1798"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1775"/>
         <source>Min gaps between building changes for all students</source>
         <translation>Số tiết nghỉ xen kẽ tối thiểu khi đổi khối nhà đối với tất cả học sinh</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1803"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1780"/>
         <source>Max building changes per day for a teacher</source>
         <translation>Số lần đổi khối nhà tối đa trong ngày đối với một giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1808"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1785"/>
         <source>Max building changes per day for all teachers</source>
         <translation>Số lần đổi khối nhà tối đa trong ngày đối với tất cả giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1813"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1790"/>
         <source>Max building changes per week for a teacher</source>
         <translation>Số lần đổi khối nhà tối đa trong tuần đối với một giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1818"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1795"/>
         <source>Max building changes per week for all teachers</source>
         <translation>Số lần đổi khối nhà tối đa trong tuần đối với tất cả giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1823"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1800"/>
         <source>Min gaps between building changes for a teacher</source>
         <translation>Số tiết nghỉ xen kẽ tối thiểu khi đổi khối nhà đối với một giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1828"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1805"/>
         <source>Min gaps between building changes for all teachers</source>
         <translation>Số tiết nghỉ xen kẽ tối thiểu khi đổi khối nhà đối với tất cả giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1833"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1810"/>
         <source>A set of activities has same starting day (any hours)</source>
         <translation>13. Các tiết giảng bắt đầu cùng ngày (có thể khác giờ)</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2060"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2037"/>
         <source>Divide HTML timetables with time-axis by days</source>
         <translation>Định dạng TKB theo chuẩn HTML với trục thời gian theo ngày học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2329"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2306"/>
         <source>Confirm save data and timetable as</source>
         <translation>Xác nhận lưu dữ liệu và TKB với tên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2334"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2311"/>
         <source>&amp;Clear list</source>
         <extracomment>It means clearing the list of recently opened files</extracomment>
         <translation>Xóa danh sách &amp;các tệp dùng gần đây</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2339"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2316"/>
         <source>Activities rooms statistics</source>
         <extracomment>It refers to the statistics of each activity&apos;s possible room(s)</extracomment>
         <translation>Thống kê các phòng học theo tiết giảng</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2344"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2321"/>
         <source>&amp;Print</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Generate new, View (&amp;teachers), View (&amp;students), View (&amp;rooms), Show soft &amp;conflicts, &amp;Print, Generate &amp;multiple, must be different</extracomment>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2347"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2324"/>
         <source>Ctrl+P</source>
         <extracomment>This is the shortcut for menu item Timetable-&gt;Print. It is recommended to translate with Ctrl+P, the same as original, or with Ctrl+other letter you prefer (do not make duplicates with other shortcuts). All shortcuts are: Ctrl+N (New), Ctrl+O (Open), Ctrl+S (Save), Ctrl+Q (Quit), Ctrl+G (Generate), Ctrl+P (Print). Please use the English keyboard modifiers name, for instance Ctrl, because otherwise the shortcuts do not work (so, even if your keyboard has another name for the Ctrl key, write &apos;Ctrl&apos;. It will work OK on all platforms. Even if you are on German keyboard, write &apos;Ctrl&apos; as in English). Maybe it would be good to translate with &apos;Ctrl+P&apos;, the same as the English original, to keep things standard.</extracomment>
         <translation>Ctrl+P</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2352"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2329"/>
         <source>A set of activities occupies max different rooms</source>
         <translation>RB số lượng tối đa tiết học được dùng cho một tập hợp các tiết giảng cho trước</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2357"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2334"/>
         <source>A set of activities are in the same room if they are consecutive</source>
         <translation>Một tập hợp các hoạt động đang ở trong phòng cùng nếu tiết giảng liên tiếp</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2362"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2339"/>
         <source>Max days per week for a students set</source>
         <translation>Số ngày nghỉ tối đa trong tuần cho một lớp học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2367"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2344"/>
         <source>Max days per week for all students</source>
         <translation>Số ngày nghỉ tối đa trong tuần cho tất cả học sinh</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2372"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2349"/>
         <source>Print activity tags in timetables</source>
         <translation>In thông tin bổ trợ trong TKB</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2377"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2354"/>
         <source>Print advanced statistics</source>
         <translation>In thống kê tiết học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2388"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2365"/>
         <source>Duplicate vertical headers to the right</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2393"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2370"/>
         <source>Group activities in the initial order of generation</source>
         <translatorcomment>Khi nhập PCCM</translatorcomment>
         <translation>Các tiết giảng theo thứ tự ban đầu</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2404"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2381"/>
         <source>Enable group activities in initial order</source>
         <translation>Kích hoạt tính năng tiết giảng lớp học trong lựa trọn đầu tiên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2415"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2392"/>
         <source>Warn if using group activities in initial order</source>
         <translation>Cảnh báo nếu sử dụng các nhóm tiết giảng trong đơn hàng đầu tiên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2426"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2403"/>
         <source>Show subgroups in combo boxes</source>
         <translation>Hiển thị các tổ</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2437"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2414"/>
         <source>Show subgroups in activity planning</source>
         <translation>Hiển thị các tổ trong phân công chuyên môn</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2448"/>
-        <source>XML</source>
-        <translation>XML</translation>
+        <location filename="../src/interface/fetmainform_template.ui" line="2441"/>
+        <source>Categories of timetables to be written on disk</source>
+        <comment>It means that the user selects the categories of timetables to be written on disk after the generation (soft conflicts, XML, days horizontal, time vertical, subgroups, teachers, etc.)</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2459"/>
-        <source>Days horizontal</source>
-        <translation>Ngày ở trục hoành</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2470"/>
-        <source>Days vertical</source>
-        <translation>Ngày ở trục tung</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2481"/>
-        <source>Time horizontal</source>
-        <translation>Tiết học ở trục hoành</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2492"/>
-        <source>Time vertical</source>
-        <translation>Tiết học ở trục tung</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2503"/>
-        <source>Subgroups</source>
-        <translation>Tổ</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2514"/>
-        <source>Groups</source>
-        <translation>Lớp</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2525"/>
-        <source>Years</source>
-        <translation>Khối</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2547"/>
-        <source>Teachers free periods</source>
-        <translation>Tiết nghỉ của giáo viên</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2591"/>
-        <source>Soft conflicts</source>
-        <translation>Các mâu thuẫn mềm</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2602"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2425"/>
         <source>Show tool tips for constraints with tables</source>
         <translation>Hiện thông báo trên bảng</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2613"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2436"/>
         <source>Warn subgroups with the same activities</source>
         <translation>Cảnh báo chia nhóm với các tiết giảng tương tự</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1848"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1825"/>
         <source>Max hours continuously for all teachers</source>
         <translation>18. Số tiết dạy liên tục tối đa cho tất cả giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1853"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1830"/>
         <source>Max hours continuously for a teacher</source>
         <translation>8. Số tiết dạy liên tục tối đa cho một giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1858"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1835"/>
         <source>Max hours continuously for a students set</source>
         <translation>Số tiết giảng liên tục tối đa đối với một lớp học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1863"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1840"/>
         <source>Max hours continuously for all students</source>
         <translation>Số tiết giảng liên tục tối đa đối với tất cả học sinh</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1868"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1845"/>
         <source>Important tips</source>
         <translation>Lời khuyên hữu ích</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2044"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2021"/>
         <source>&amp;Modify subactivities</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Subjects, Activity ta&amp;gs, &amp;Teachers, Stu&amp;dents, &amp;Activities, &amp;Modify subactivities, &amp;Buildings, &amp;Rooms, All t&amp;ime constraints, All s&amp;pace constraints must be different</extracomment>
         <translation>&amp;Căn chỉnh những tiết giảng con</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2221"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2198"/>
         <source>Help contents</source>
         <extracomment>menu Help-&gt;Online-&gt;Help contents, opens the webpage of FET documentation</extracomment>
         <translation>Nội dung trợ giúp</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2231"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2208"/>
         <source>Web addresses</source>
         <extracomment>menu Help-&gt;Online-&gt;Web addresses, shows the web addresses of FET homepage, documentation and forum</extracomment>
         <translation>Địa chỉ Web</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2236"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2213"/>
         <source>Homepage</source>
         <extracomment>menu Help-&gt;Online-&gt;Homepage, opens the homepage of FET</extracomment>
         <translation>Trang nhà</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2247"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2224"/>
         <source>Show shortcut buttons in main window</source>
         <translation>Hiển thị nút tắt trên cửa sổ chính</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2269"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2246"/>
         <source>Enable students min hours daily with empty days</source>
         <translation>Kích hoạt số giờ học tối thiểu trong một ngày của học sinh đối với ngày trống</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2280"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2257"/>
         <source>Warn if using students min hours daily with empty days</source>
         <translation>Cảnh báo nếu có ràng buộc số tiết giảng tối thiểu trong ngày của học sinh vào những ngày trống</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2285"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2262"/>
         <source>Activity planning</source>
         <translation>Phân công chuyên môn</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2296"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2273"/>
         <source>Confirm activity planning</source>
         <comment>This is a setting - a check box: if a user wants to deactivate/activate the confirmation (instructions) dialog that appears before activity planning dialog</comment>
         <translation>Xác  nhận việc lập phân công chuyên môn</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2307"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2284"/>
         <source>Confirm spread activities over the week</source>
         <comment>This is a setting - a check box: if a user wants to deactivate/activate the confirmation (instructions) dialog that appears before spreading the activities over the week dialog</comment>
         <translation>Xác nhận việc lập lịch bằng cách rải các tiết giảng trong cả tuần</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2318"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2295"/>
         <source>Confirm remove redundant constraints</source>
         <comment>This is a setting - a check box: if a user wants to deactivate/activate the confirmation (instructions) dialog that appears before removing redundant constraints dialog</comment>
         <translation>Xóa các RB dư thừa</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2226"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2203"/>
         <source>Forum</source>
         <extracomment>menu Help-&gt;Forum, opens the webpage of FET forum</extracomment>
         <translation>Diễn đàn trao đổi</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1529"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1506"/>
         <source>An activity has a preferred starting time</source>
         <translation>1. Một tiết giảng với thời điểm bắt đầu buổi học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1873"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1850"/>
         <source>A set of activities has a set of preferred starting times</source>
         <translation>4. Nhóm tiết giảng với vài thời điểm bắt đầu buổi học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1883"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1860"/>
         <source>An activity has a set of preferred starting times</source>
         <translation>2. Một tiết giảng với vài thời điểm bắt đầu buổi học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1474"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1451"/>
         <source>A set of activities has a set of preferred time slots</source>
         <translation>5. Nhóm tiết giảng với các khoảng thời gian cụ thể của buổi học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1878"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1855"/>
         <source>An activity has a set of preferred time slots</source>
         <translation>3. Một tiết giảng với các khoảng thời gian cụ thể của buổi học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1888"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1865"/>
         <source>Min gaps (hours) between a set of activities</source>
         <translation>22. Số tiết nghỉ xen kẽ tối thiểu giữa các tiết giảng</translation>
     </message>
@@ -31472,136 +31420,136 @@ Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các 
         <translation>Học &amp;sinh</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1371"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1348"/>
         <source>&amp;Quit</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;New, &amp;Open, Open &amp;recent, &amp;Save, Save &amp;as, &amp;Quit, must be different</extracomment>
         <translation>Thoát &amp;khỏi chương trình</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1374"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1351"/>
         <source>Ctrl+Q</source>
         <extracomment>This is the shortcut for menu item File-&gt;Quit. It is recommended to translate with Ctrl+Q, the same as original, or with Ctrl+other letter you prefer (do not make duplicates with other shortcuts). All shortcuts are: Ctrl+N (New), Ctrl+O (Open), Ctrl+S (Save), Ctrl+Q (Quit), Ctrl+G (Generate), Ctrl+P (Print). Please use the English keyboard modifiers name, for instance Ctrl, because otherwise the shortcuts do not work (so, even if your keyboard has another name for the Ctrl key, write &apos;Ctrl&apos;. It will work OK on all platforms. Even if you are on German keyboard, write &apos;Ctrl&apos; as in English). Maybe it would be good to translate with &apos;Ctrl+Q&apos;, the same as the English original, to keep things standard.</extracomment>
         <translation>Ctrl+Q</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1387"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1364"/>
         <source>About...</source>
         <translation>Về phần mềm lập TKB...</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1415"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1392"/>
         <source>&amp;Subgroups</source>
         <extracomment>Accelerator key (letter after ampersand) must be different for &amp;Years, &amp;Groups, &amp;Subgroups</extracomment>
         <translation>&amp;Nhóm con</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1443"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1420"/>
         <source>Show soft &amp;conflicts</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Generate new, View (&amp;teachers), View (&amp;students), View (&amp;rooms), Show soft &amp;conflicts, &amp;Print, Generate &amp;multiple, must be different</extracomment>
         <translation>Hiển thị &amp;các mâu thuẫn mềm</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1469"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1446"/>
         <source>View (&amp;rooms)</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Generate new, View (&amp;teachers), View (&amp;students), View (&amp;rooms), Show soft &amp;conflicts, &amp;Print, Generate &amp;multiple, must be different</extracomment>
         <translation>TKB (theo &amp;phòng học)</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1587"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1564"/>
         <source>Activity ta&amp;gs</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Subjects, Activity ta&amp;gs, &amp;Teachers, Stu&amp;dents, &amp;Activities, &amp;Modify subactivities, &amp;Buildings, &amp;Rooms, All t&amp;ime constraints, All s&amp;pace constraints must be different</extracomment>
         <translation>Thông tin &amp;bổ trợ</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1688"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1665"/>
         <source>Generate &amp;multiple</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Generate new, View (&amp;teachers), View (&amp;students), View (&amp;rooms), Show soft &amp;conflicts, &amp;Print, Generate &amp;multiple, must be different</extracomment>
         <translation>Tạo &amp;mới nhiều TKB</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1738"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1715"/>
         <source>&amp;Buildings</source>
         <extracomment>Accelerator key (letter after ampersand) for &amp;Subjects, Activity ta&amp;gs, &amp;Teachers, Stu&amp;dents, &amp;Activities, &amp;Modify subactivities, &amp;Buildings, &amp;Rooms, All t&amp;ime constraints, All s&amp;pace constraints must be different</extracomment>
         <translation>Các &amp;khối nhà</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1838"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1815"/>
         <source>Save data and timetable as...</source>
         <translation>Lưu dữ liệu và TKB với tên...</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1893"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1870"/>
         <source>Export comma separated values (text)</source>
         <translation>Chuẩn định dạng tệp CSV (giá trị cách bởi dấu phảy)</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1898"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1875"/>
         <source>Import activities from CSV file</source>
         <translation>Nhập dữ liệu tiết giảng từ tệp CSV</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1903"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1880"/>
         <source>Import activity tags from CSV file</source>
         <translation>Nhập dữ liệu thông tin bổ trợ từ tệp CSV</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1908"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1885"/>
         <source>Import rooms and buildings from CSV file</source>
         <translation>Nhập dữ liệu phòng học/toà nhà từ tệp CSV</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1913"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1890"/>
         <source>Import subjects from CSV file</source>
         <translation>Nhập môn học từ tệp CSV</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1918"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1895"/>
         <source>Import teachers from CSV file</source>
         <translation>Nhập giáo viên từ tệp CSV</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1923"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1900"/>
         <source>Import years, groups and subgroups from CSV file</source>
         <translation>Nhập năm học, lớp học và các nhóm từ tệp CSV</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1928"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1905"/>
         <source>A set of subactivities has a set of preferred time slots</source>
         <translation>7. Tiết giảng &quot;con&quot; với các thời gian cụ thể của buổi học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1933"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1910"/>
         <source>A set of subactivities has a set of preferred starting times</source>
         <translation>6. Tiết giảng &quot;con&quot;  với vài thời điểm bắt đầu buổi học</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1938"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1915"/>
         <source>A teacher works in an hourly interval max days per week</source>
         <translatorcomment>Số lượng tiết 5 hàng tuần</translatorcomment>
         <translation>10. Số ngày tối đa trong tuần mà một giáo viên đứng lớp trong một khoảng thời gian nhất định</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1943"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1920"/>
         <source>All teachers work in an hourly interval max days per week</source>
         <translation>20. Số ngày tối đa trong tuần mà tất cả giáo viên đứng lớp trong khoảng thời gian nhất định</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1948"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1925"/>
         <source>A students set works in an hourly interval max days per week</source>
         <translation>Số ngày tối đa trong tuần mà một lớp nghe giảng trong một khoảng thời gian cụ thể (thường vào cuối ngày để về nhà sớm hơn)</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1953"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1930"/>
         <source>All students work in an hourly interval max days per week</source>
         <translation>Số ngày tối đa trong tuần mà tất cả học sinh lên lớp trong cùng khoảng thời gian nhất định</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1958"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1935"/>
         <source>A set of activities end students day</source>
         <translation>11. Các tiết giảng vào cuối ngày</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2258"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2235"/>
         <source>Mark break slots with -X- in timetables</source>
         <comment>It means to show or not the slots which are break slots, in the timetable, with an -X-. Uppercase -X-</comment>
         <translation>Đánh dấu giờ giải lao trong TKB với ký tự -X-</translation>
@@ -31610,22 +31558,22 @@ Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các 
         <location filename="../src/interface/fetmainform_template.ui" line="444"/>
         <location filename="../src/interface/fetmainform_template.ui" line="747"/>
         <location filename="../src/interface/fetmainform_template.ui" line="1220"/>
-        <location filename="../src/interface/fetmainform_template.ui" line="1318"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1295"/>
         <source>Advanced</source>
         <translation>Nâng cao</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1974"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1951"/>
         <source>Spread the activities evenly over the week</source>
         <translation>Rải đều tiết giảng trong tuần</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1979"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1956"/>
         <source>Export advanced statistics to disk</source>
         <translation>Xuất thống kê chi tiết ra tệp ngoài</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1984"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1961"/>
         <source>Remove redundant constraints</source>
         <translation>Xóa các RB dư thừa</translation>
     </message>
@@ -31635,52 +31583,52 @@ Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các 
         <translation>Khóa/Mở khóa</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1994"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1971"/>
         <source>Lock all activities of a specified day</source>
         <translation>Khóa tất cả tiết giảng trong một ngày cụ thể</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1999"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1976"/>
         <source>Unlock all activities of a specified day</source>
         <translation>Mở khóa tất cả tiết giảng trong một ngày cụ thể</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2004"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1981"/>
         <source>Lock all activities which end students day</source>
         <translation>Khóa tất cả tiết giảng cuối ngày </translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2009"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1986"/>
         <source>Unlock all activities which end students day</source>
         <translation>Mở khóa tất cả tiết giảng cuối ngày</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2014"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1991"/>
         <source>Lock all activities of the current timetable</source>
         <translation>Khóa tất cả các tiết giảng của TKB hiện hành</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2019"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1996"/>
         <source>Unlock all activities of the current timetable</source>
         <translation>Mở khóa tất cả các tiết giảng trong TKB hiện hành</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2024"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2001"/>
         <source>Max hours continuously with an activity tag for a students set</source>
         <translation>Số giờ liên tục tối đa của thông tin bổ trợ cho một lớp</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2029"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2006"/>
         <source>Max hours continuously with an activity tag for all students</source>
         <translation>Số giờ liên tục tối đa của thông tin bổ trợ cho tất cả học sinh</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2034"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2011"/>
         <source>Max hours continuously with an activity tag for a teacher</source>
         <translation>9. Số giờ liên tục tối đa của thông tin bổ trợ cho một giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2039"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2016"/>
         <source>Max hours continuously with an activity tag for all teachers</source>
         <translation>19. Số giờ liên tục tối đa của thông tin bổ trợ cho tất cả  giáo viên</translation>
     </message>
@@ -31701,57 +31649,57 @@ Nếu một nhóm con có quá ít giờ học, có lẽ bạn đã nhập các 
         <translation>Học sinh</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2065"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2042"/>
         <source>Help on settings</source>
         <translation>Trợ giúp thiết lập cấu hình</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2070"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2047"/>
         <source>An activity tag has a preferred room</source>
         <translation>Thông tin bổ trợ của tiết giảng đòi hỏi một phòng học cụ thể</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2075"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2052"/>
         <source>An activity tag has a set of preferred rooms</source>
         <translation>Thông tin bổ trợ của tiết giảng đòi hỏi vài phòng học cụ thể</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2080"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2057"/>
         <source>Select output directory</source>
         <translation>Chọn thư mục lưu kết quả</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2085"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2062"/>
         <source>Max days per week for all teachers</source>
         <translation>11. Số ngày dạy tối đa trong 1 tuần cho tất cả giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2096"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2073"/>
         <source>Print activities with same starting time in timetables</source>
         <translation>In những tiết giảng với cùng thời điểm bắt đầu tiết học trong TKB</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2106"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2083"/>
         <source>Max days between a set of activities</source>
         <translation>9. Số ngày tối đa giữa các tiết giảng</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1693"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1670"/>
         <source>Two activities are consecutive</source>
         <translation>17. Hai tiết giảng xếp liền nhau</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1843"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1820"/>
         <source>Two activities are ordered</source>
         <translation>16. Hai tiết giảng được xếp thứ tự</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="1989"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="1966"/>
         <source>Two activities are grouped</source>
         <translation>18. Gộp 2 tiết giảng</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform_template.ui" line="2101"/>
+        <location filename="../src/interface/fetmainform_template.ui" line="2078"/>
         <source>Three activities are grouped</source>
         <translation>19. Gộp 3 tiết giảng</translation>
     </message>
@@ -33568,150 +33516,12 @@ p, li { white-space: pre-wrap; }
         <translation>Quy trình xếp thời khóa biểu</translation>
     </message>
     <message>
-        <location filename="../src/interface/helpaboutform_template.ui" line="133"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;ar - Arabic translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Silver (to contact Silver visit FET forum - http://lalescu.ro/liviu/fet/forum/,&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	section about Arabic translation, or contact forum user Silver)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;ca - Catalan translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Sílvia Lag (to contact Sílvia visit FET forum - http://lalescu.ro/liviu/fet/forum/,&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	section about Catalan translation, or contact forum user silvia)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;cs - Czech translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Pavel Fric (pavelfric AT seznam.cz)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;da - Danish translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	David Lamhauge (davidlamhauge AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;de - German translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	initial translator: Volker Dirr (http://www.timetabling.de/)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	current translator: Robert Hairgrove (code AT roberthairgrove.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;el - Greek translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	initial translator: Dimitrios Ropokis (wamy80s AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	current translator: Dimitris Kanatas (to contact Dimitris Kanatas visit&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	FET forum - http://lalescu.ro/liviu/fet/forum/,&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	section about Greek translation, or contact forum user Dimitris Kanatas)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;es - Spanish translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	José César Fernández López (cesar.fernandez.lopez AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;eu - Basque translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Asier Urio Larrea (asieriko AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;fa - Persian translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	initial translator: Hamed SadeghiNeshat (ha_sadeghi AT ce.sharif.edu)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	current translator: sally sat (soory63 AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;fr - French translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	former translator: Jerome Durand (fetfr AT free.fr)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	former translator: Patrick Fox (patrick.fox AT laposte.net)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	former translator: Régis Bouguin (regis.bouguin AT laposte.net)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	current translator: Pascal Cohen (pacohen AT laposte.net) - rewrote the translation from zero&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;gl - Galician translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Juan Marcos Filgueira Gomis (to contact marcos.filgueira, visit FET forum - http://lalescu.ro/liviu/fet/forum/,&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	section about Galician translation, or contact forum user marcos.filgueira)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	this translation was based on the Spanish translation by José César Fernández López&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	as of April 2011 (see es - Spanish translation for more information)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;he - Hebrew translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Yotam Medini (yotam.medini AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;hu - Hungarian translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Ferenczi Viktor (cx AT cx.hu)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;id - Indonesian translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Nirwan Yus (ny.unpar AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;it - Italian translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Marco Barsotti (mbarsan AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;lt - Lithuanian translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Darius Staigys (darius AT e-servisas.lt)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;mk - Macedonian translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Zoran Zdravkovski (zoran AT pmf.ukim.edu.mk)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;ms - Malay translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Abdul Hadi Kamel (hadikamel AT perlis.uitm.edu.my)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;nl - Dutch translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Niels Fikse (k.fikse AT student.utwente.nl)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;pl - Polish translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Radoslaw Pasiok (zapala AT konto.pl)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;pt_BR - Brazilian Portuguese translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	initial translator: Werner Bruns (werner.bruns AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	initial translator: Frank Mártin (drfarofa AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	current translator: Cloves das Neves (clovesneves AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;ro - Romanian translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Liviu Lalescu (http://lalescu.ro/liviu/)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;ru - Russian translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Ilya V. Paramonov (ivparamonov AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;si - Sinhala translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Achini Duisna (duisna1012 AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;sk - Slovak translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Ondrej Gregor (to contact Ondrej visit FET forum - http://lalescu.ro/liviu/fet/forum/,&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	section about Slovak translation, or contact forum user Ondrej)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;sq - Albanian translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Artur Lugu (ciaoartur AT yahoo.it)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;sr - Serbian translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Ivan Starchevicy (ivanstar61 AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Radan Putnik (srastral AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;tr - Turkish translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	initial translator: Mehmet Gezmisoglu (m_gezmisoglu AT hotmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	current translator: Mahir Nacar (mahirnacar AT email.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;uk - Ukrainian translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Andriy Melnyk (melnyk.andriy AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;uz - Uzbek translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Orzubek Eraliyev (o.eraliyev AT gmail.com, or visit FET forum - http://lalescu.ro/liviu/fet/forum/,&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	section about Uzbek translation, or contact forum user sarkor)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;vi - Vietnamese translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	initial translator: Nguyen Truong Thang (to contact Thang visit FET forum - http://lalescu.ro/liviu/fet/forum/,&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	section about Vietnamese translation, or contact forum user NTThang)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	current translator: Nguyễn Hữu Duyệt (nguyenhuuduyet AT gmail.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;zh_CN - Chinese Simplified translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	orange (112260085 AT qq.com)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;zh_TW - Chinese Traditional translation&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	James (james AT cc.shu.edu.tw)&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/interface/helpaboutform_template.ui" line="264"/>
+        <location filename="../src/interface/helpaboutform_template.ui" line="267"/>
         <source>References</source>
         <translation>Hướng dẫn sử dụng trực tuyến</translation>
     </message>
     <message>
-        <location filename="../src/interface/helpaboutform_template.ui" line="285"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;You may find references for the algorithms and techniques used in this program on the FET documentation web page, &lt;/span&gt;&lt;a href=&quot;http://lalescu.ro/liviu/fet/doc/&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; text-decoration: underline; color:#0000ff;&quot;&gt;http://lalescu.ro/liviu/fet/doc/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/interface/helpaboutform_template.ui" line="319"/>
+        <location filename="../src/interface/helpaboutform_template.ui" line="322"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -33874,7 +33684,7 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Regina V. Kryvakovska - Russian translation additional checking.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Bingen - suggestions.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;ßingen - suggestions.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Angela - suggestions.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
@@ -34150,18 +33960,195 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Arsenio Stabile - suggestions.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;alex - suggestion.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Vangelis Karafillidis - suggestion.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Handaya - suggestions.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Sudharshan K M - example file.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Nataraj Urs H D - example file.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Alexandre R. Soares - Brazilian Portuguese translation.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;hudrea - suggestions.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Udo Schütz - suggestions.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Jijo Jose - example file.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Fernando Poblete - suggestions.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Benahmed Abdelkrim - suggestion.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;math user - suggestion.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;ChicagoPianoTuner - suggestion.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;MING-KIAN JONATHAN CEDRIC LEE KIM GNOK - suggestion.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/helpaboutform_template.ui" line="790"/>
+        <location filename="../src/interface/helpaboutform_template.ui" line="133"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;ar - Arabic translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Silver (to contact Silver visit FET forum - http://lalescu.ro/liviu/fet/forum/,&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	section about Arabic translation, or contact forum user Silver)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;ca - Catalan translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Sílvia Lag (to contact Sílvia visit FET forum - http://lalescu.ro/liviu/fet/forum/,&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	section about Catalan translation, or contact forum user silvia)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;cs - Czech translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Pavel Fric (pavelfric AT seznam.cz)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;da - Danish translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	David Lamhauge (davidlamhauge AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;de - German translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	former translator: Volker Dirr (http://www.timetabling.de/)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	current translator: Robert Hairgrove (code AT roberthairgrove.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;el - Greek translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	former translator: Dimitrios Ropokis (wamy80s AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	current translator: Dimitris Kanatas (to contact Dimitris Kanatas visit&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	FET forum - http://lalescu.ro/liviu/fet/forum/,&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	section about Greek translation, or contact forum user Dimitris Kanatas)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;es - Spanish translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	José César Fernández López (cesar.fernandez.lopez AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;eu - Basque translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Asier Urio Larrea (asieriko AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;fa - Persian translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	former translator: Hamed SadeghiNeshat (ha_sadeghi AT ce.sharif.edu)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	current translator: sally sat (soory63 AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;fr - French translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	former translator: Jerome Durand (fetfr AT free.fr)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	former translator: Patrick Fox (patrick.fox AT laposte.net)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	former translator: Régis Bouguin (regis.bouguin AT laposte.net)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	current translator: Pascal Cohen (pacohen AT laposte.net) - rewrote the translation from zero&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;gl - Galician translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Juan Marcos Filgueira Gomis (to contact marcos.filgueira, visit FET forum - http://lalescu.ro/liviu/fet/forum/,&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	section about Galician translation, or contact forum user marcos.filgueira)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	this translation was based on the Spanish translation by José César Fernández López&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	as of April 2011 (see es - Spanish translation for more information)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;he - Hebrew translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Yotam Medini (yotam.medini AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;hu - Hungarian translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Ferenczi Viktor (cx AT cx.hu)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;id - Indonesian translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Nirwan Yus (ny.unpar AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;it - Italian translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Marco Barsotti (mbarsan AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;lt - Lithuanian translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Darius Staigys (darius AT e-servisas.lt)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;mk - Macedonian translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Zoran Zdravkovski (zoran AT pmf.ukim.edu.mk)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;ms - Malay translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Abdul Hadi Kamel (hadikamel AT perlis.uitm.edu.my)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;nl - Dutch translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Niels Fikse (k.fikse AT student.utwente.nl)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;pl - Polish translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Radoslaw Pasiok (zapala AT konto.pl)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;pt_BR - Brazilian Portuguese translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	former translator: Werner Bruns (werner.bruns AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	former translator: Frank Mártin (drfarofa AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	former translator: Cloves das Neves (clovesneves AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	current translator: Alexandre R. Soares (alexrsoares AT zoho.com). (Alternatively,&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	to contact Alexandre R. Soares, visit FET forum - http://lalescu.ro/liviu/fet/forum/,&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	section about Brazilian Portuguese translation, or contact forum user khemis)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;ro - Romanian translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Liviu Lalescu (http://lalescu.ro/liviu/)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;ru - Russian translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Ilya V. Paramonov (ivparamonov AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;si - Sinhala translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Achini Duisna (duisna1012 AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;sk - Slovak translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Ondrej Gregor (to contact Ondrej visit FET forum - http://lalescu.ro/liviu/fet/forum/,&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	section about Slovak translation, or contact forum user Ondrej)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;sq - Albanian translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Artur Lugu (ciaoartur AT yahoo.it)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;sr - Serbian translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Ivan Starchevicy (ivanstar61 AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Radan Putnik (srastral AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;tr - Turkish translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	former translator: Mehmet Gezmisoglu (m_gezmisoglu AT hotmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	current translator: Mahir Nacar (mahirnacar AT email.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;uk - Ukrainian translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Andriy Melnyk (melnyk.andriy AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;uz - Uzbek translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	Orzubek Eraliyev (o.eraliyev AT gmail.com, or visit FET forum - http://lalescu.ro/liviu/fet/forum/,&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	section about Uzbek translation, or contact forum user sarkor)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;vi - Vietnamese translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	former translator: Nguyen Truong Thang (to contact Thang visit FET forum - http://lalescu.ro/liviu/fet/forum/,&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	section about Vietnamese translation, or contact forum user NTThang)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	current translator: Nguyễn Hữu Duyệt (nguyenhuuduyet AT gmail.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;zh_CN - Chinese Simplified translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	orange (112260085 AT qq.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;zh_TW - Chinese Traditional translation&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;	James (james AT cc.shu.edu.tw)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/interface/helpaboutform_template.ui" line="48"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;FET is free software for automatically scheduling the timetable of a school, high-school or university.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;Copyright (C) 2002-2016 Liviu Lalescu, Volker Dirr.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;Version: 5.29.6 (June 2016).&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;Licensed under the GNU Affero General Public License version 3 or later.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;FET homepage: &lt;/span&gt;&lt;a href=&quot;http://lalescu.ro/liviu/fet/&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; text-decoration: underline; color:#0000ff;&quot;&gt;http://lalescu.ro/liviu/fet/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/interface/helpaboutform_template.ui" line="288"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;You may find references for the algorithms and techniques used in this program on the FET documentation web page, &lt;/span&gt;&lt;a href=&quot;http://lalescu.ro/liviu/fet/doc/&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; text-decoration: underline; color:#0000ff;&quot;&gt;http://lalescu.ro/liviu/fet/doc/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/interface/helpaboutform_template.ui" line="811"/>
         <source>Close</source>
         <translation>Thoát</translation>
     </message>
@@ -34176,25 +34163,7 @@ p, li { white-space: pre-wrap; }
         <translation>Giới thiệu</translation>
     </message>
     <message>
-        <location filename="../src/interface/helpaboutform_template.ui" line="48"/>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;FET is free software for automatically scheduling the timetable of a school, high-school or university.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;Copyright (C) 2002-2016 Liviu Lalescu, Volker Dirr.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;Version: 5.28.6 (February 2016).&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;Licensed under the GNU Affero General Public License version 3 or later.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;FET homepage: &lt;/span&gt;&lt;a href=&quot;http://lalescu.ro/liviu/fet/&quot;&gt;&lt;span style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; text-decoration: underline; color:#0000ff;&quot;&gt;http://lalescu.ro/liviu/fet/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;; font-size:9pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/interface/helpaboutform_template.ui" line="298"/>
+        <location filename="../src/interface/helpaboutform_template.ui" line="301"/>
         <source>Thanks to</source>
         <translation>Cảm ơn</translation>
     </message>
@@ -34659,7 +34628,7 @@ Add another constraint: min 1 day between activities with id-s 2 and 3, consecut
     </message>
     <message>
         <location filename="../src/interface/helpfaqform.cpp" line="1004"/>
-        <source>Maybe an alternative to dividing a year into many categories/subgroups would be to enter individual students as FET subgroups and add into each group the corresponding subgroups. But this is hard to do from the FET interface - maybe a solution would be to use an automatic tool to convert your instition data into a file in .fet format.</source>
+        <source>Maybe an alternative to dividing a year into many categories/subgroups would be to enter individual students as FET subgroups and add into each group the corresponding subgroups. But this is hard to do from the FET interface - maybe a solution would be to use an automatic tool to convert your institution data into a file in .fet format.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -44383,121 +44352,121 @@ Lưu ý: giáo viên bận và nghỉ giải lao không được tính vào ti�
 <context>
     <name>RandomSeedDialog</name>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="341"/>
-        <location filename="../src/interface/fetmainform.cpp" line="342"/>
+        <location filename="../src/interface/fetmainform.cpp" line="343"/>
+        <location filename="../src/interface/fetmainform.cpp" line="344"/>
         <source>Allowed minimum %1 to maximum %2</source>
         <translation>Khoảng cho phép từ giá trị nhỏ nhất %1 tới lớn nhất %2</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="330"/>
+        <location filename="../src/interface/fetmainform.cpp" line="332"/>
         <source>Random seed</source>
         <translation>Lõi tạo số ngẫu nhiên</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="332"/>
+        <location filename="../src/interface/fetmainform.cpp" line="334"/>
         <source>Random seed X component:</source>
         <comment>Means the X component of the random seed (random seed has 2 components, X and Y). Please keep translation short</comment>
         <translation>Thành phần X của lõi:</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="334"/>
+        <location filename="../src/interface/fetmainform.cpp" line="336"/>
         <source>Random seed Y component:</source>
         <comment>Means the Y component of the random seed (random seed has 2 components, X and Y). Please keep translation short</comment>
         <translation>Thành phần Y của lõi:</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="336"/>
+        <location filename="../src/interface/fetmainform.cpp" line="338"/>
         <source>OK</source>
         <translation>Đồng ý</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="338"/>
+        <location filename="../src/interface/fetmainform.cpp" line="340"/>
         <source>Help</source>
         <translation>Trợ giúp</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="339"/>
+        <location filename="../src/interface/fetmainform.cpp" line="341"/>
         <source>Cancel</source>
         <translation>Thoát</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="389"/>
+        <location filename="../src/interface/fetmainform.cpp" line="391"/>
         <source>FET information</source>
         <translation>Thông tin</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="390"/>
+        <location filename="../src/interface/fetmainform.cpp" line="392"/>
         <source>You can control the random behaviour of FET with this function</source>
         <translation>Bạn có thể kiểm soát hành vi ngẫu nhiên thông qua chức năng này</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="391"/>
+        <location filename="../src/interface/fetmainform.cpp" line="393"/>
         <source>The random seed is the state of the random number generator.</source>
         <translation>Lõi tạo số ngẫu nhiên là trạng thái của bộ phận sinh số ngẫu nhiên.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="392"/>
+        <location filename="../src/interface/fetmainform.cpp" line="394"/>
         <source>It has two components, X and Y.</source>
         <translation>Có 2 thành phần X và Y.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="393"/>
+        <location filename="../src/interface/fetmainform.cpp" line="395"/>
         <source>X is a value at least %1 and at most %2.</source>
         <translation>X có giá trị trong khoảng từ %1 tới %2.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="394"/>
+        <location filename="../src/interface/fetmainform.cpp" line="396"/>
         <source>Y is a value at least %1 and at most %2.</source>
         <translation>Y có giá trị trong khoảng từ %1 tới %2.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="395"/>
+        <location filename="../src/interface/fetmainform.cpp" line="397"/>
         <source>The random seed before the generation of a timetable (the X and Y components) is saved on disk in the corresponding timetables directory, so that you can simulate again the same generation after that.</source>
         <translation>Lõi tạo số ngẫu nhiên (thành phần X và Y) trước khi lập TKB được lưu vào thư mục của TKB tương ứng. Vì vậy, sau này bạn vẫn có thể giả lập lại đúng quá trình sinh TKB.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="397"/>
+        <location filename="../src/interface/fetmainform.cpp" line="399"/>
         <source>Mode of operation: to obtain the same timetable twice, give the random seed two values (say X=1234, Y=12345), then generate single, then make it again the same values (X=1234 and Y=12345), then generate single again. The timetables will be the same. If you generate multiple instead of single, the first set of timetables will be the same as the second set (if you generate the same number of timetables) but of course timetables inside each set will be different. If you enter the same random seed (X and Y) on different computers (but using the same FET version, see note below) and generate single, the timetables will be the same (if you generate multiple, the sets of timetables will correspond, the first timetable from simulation 1 with first timetable from simulation 2, etc.)</source>
         <translation>Chế độ vận hành: để có cùng TKB trong 2 lần, cấp giá trị cho thành phần X và Y của lõi tạo số ngẫu nhiên (VD: X=1234, Y=12345) để tạo TKB. Sau đó có thể tạo đúng TKB này bằng chính bộ giá trị X và Y. Quá trình này vẫn đúng cho việc sinh nhiều TKB dựa trên cùng cặp giá trị (X, Y). Ngoài ra, dù chạy trên các máy tính khác nhau, chừng nào phiên bản FET giống nhau và cặp số (X, Y) như nhau, việc lập TKB luôn cho kết quả như nhau</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="406"/>
+        <location filename="../src/interface/fetmainform.cpp" line="408"/>
         <source>Note: of course you need exactly the same conditions to duplicate the same simulations (so, you need exactly the same data - activities, constraints, etc.).</source>
         <translation>Lưu ý: bạn cần cùng các điều kiện để có thể nhân bản các quá trình giả lập (tức là, cùng dữ liệu như tiết giảng, RB...).</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="408"/>
+        <location filename="../src/interface/fetmainform.cpp" line="410"/>
         <source>Note: for different versions of FET, the behavior of generation may be totally different, even for the same data and the same random seed (same X and same Y), due to possible changes in the algorithm. You need to consider this as a precaution.</source>
         <translation>Lưu ý: Trong những phiên bản FET khác nhau, hành vi lập TKB có thể khác nhau nhiều kể cả với cùng dữ liệu và lõi tạo số ngẫu nghiên (tức là X và Y) do thay đổi trong thuật toán.</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="411"/>
+        <location filename="../src/interface/fetmainform.cpp" line="413"/>
         <source>Note: when you start FET, each time, the random seed X is the number of seconds elapsed since 1 January 1970 and the random seed Y is the next number in the Y series, after the number of seconds elapsed since 1 January 1970</source>
         <translation>Lưu ý: Khi khởi tạo chương trình, thành phần X là số giây tính từ ngày 01 tháng 01 năm 1970, trong khi thành phần Y là số kế tiếp trong chuỗi Y, sau số giây tính từ ngày 01 tháng 01 năm 1970</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="414"/>
+        <location filename="../src/interface/fetmainform.cpp" line="416"/>
         <source>After you generate (even partially), the random seed (X and Y components) will change (each call of the random number generator updates the random seed components to the next numbers in the sequence, and there are many calls to this random generating routine in the generate function)</source>
         <translation>Sau khi lập TKB (dù chỉ 1 phần), lõi tạo số ngẫu nhiên sẽ thay đổi</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="417"/>
+        <location filename="../src/interface/fetmainform.cpp" line="419"/>
         <source>This setting is useful for more things, maybe one thing is bug report: send you file along with the random seed at the start of generating (the two components, X and Y, are saved in the timetable directory at the start of generation)</source>
         <translation>Việc thiết lập này hữu ích cho việc báo lỗi: lưu tệp cùng với lõi tạo số ngẫu nhiên (thành phần X và Y) trước khi bắt đầu sinh TKB</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="426"/>
+        <location filename="../src/interface/fetmainform.cpp" line="428"/>
         <source>The random seed X component must be at least %1 and at most %2</source>
         <translation>Thành phần X phải nằm trong khoảng từ %1 tới %2</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="432"/>
+        <location filename="../src/interface/fetmainform.cpp" line="434"/>
         <source>The random seed Y component must be at least %1 and at most %2</source>
         <translation>Thành phần Y phải nằm trong khoảng từ %1 tới %2</translation>
     </message>
     <message>
-        <location filename="../src/interface/fetmainform.cpp" line="426"/>
-        <location filename="../src/interface/fetmainform.cpp" line="432"/>
+        <location filename="../src/interface/fetmainform.cpp" line="428"/>
+        <location filename="../src/interface/fetmainform.cpp" line="434"/>
         <source>FET warning</source>
         <translation>Cảnh báo</translation>
     </message>
@@ -44776,43 +44745,43 @@ Lưu ý: giáo viên bận và nghỉ giải lao không được tính vào ti�
     <name>Rules</name>
     <message>
         <location filename="../src/engine/rules.cpp" line="104"/>
-        <location filename="../src/engine/rules.cpp" line="4561"/>
+        <location filename="../src/engine/rules.cpp" line="4585"/>
         <source>Monday</source>
         <translation>Thứ hai</translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="105"/>
-        <location filename="../src/engine/rules.cpp" line="4562"/>
+        <location filename="../src/engine/rules.cpp" line="4586"/>
         <source>Tuesday</source>
         <translation>Thứ ba</translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="106"/>
-        <location filename="../src/engine/rules.cpp" line="4563"/>
+        <location filename="../src/engine/rules.cpp" line="4587"/>
         <source>Wednesday</source>
         <translation>Thứ tư</translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="107"/>
-        <location filename="../src/engine/rules.cpp" line="4564"/>
+        <location filename="../src/engine/rules.cpp" line="4588"/>
         <source>Thursday</source>
         <translation>Thứ năm</translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="108"/>
-        <location filename="../src/engine/rules.cpp" line="4565"/>
+        <location filename="../src/engine/rules.cpp" line="4589"/>
         <source>Friday</source>
         <translation>Thứ sáu</translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="100"/>
-        <location filename="../src/engine/rules.cpp" line="4557"/>
+        <location filename="../src/engine/rules.cpp" line="4581"/>
         <source>Default institution</source>
         <translation>Trường học mặc định</translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="101"/>
-        <location filename="../src/engine/rules.cpp" line="4558"/>
+        <location filename="../src/engine/rules.cpp" line="4582"/>
         <source>Default comments</source>
         <translation>Ghi chú mặc định</translation>
     </message>
@@ -44828,33 +44797,33 @@ Lưu ý: giáo viên bận và nghỉ giải lao không được tính vào ti�
         <location filename="../src/engine/rules.cpp" line="666"/>
         <location filename="../src/engine/rules.cpp" line="694"/>
         <location filename="../src/engine/rules.cpp" line="754"/>
-        <location filename="../src/engine/rules.cpp" line="4535"/>
-        <location filename="../src/engine/rules.cpp" line="4547"/>
-        <location filename="../src/engine/rules.cpp" line="4877"/>
-        <location filename="../src/engine/rules.cpp" line="5848"/>
-        <location filename="../src/engine/rules.cpp" line="5895"/>
-        <location filename="../src/engine/rules.cpp" line="6033"/>
-        <location filename="../src/engine/rules.cpp" line="6095"/>
-        <location filename="../src/engine/rules.cpp" line="6116"/>
-        <location filename="../src/engine/rules.cpp" line="6146"/>
-        <location filename="../src/engine/rules.cpp" line="6160"/>
-        <location filename="../src/engine/rules.cpp" line="6188"/>
-        <location filename="../src/engine/rules.cpp" line="6205"/>
-        <location filename="../src/engine/rules.cpp" line="6222"/>
-        <location filename="../src/engine/rules.cpp" line="6293"/>
-        <location filename="../src/engine/rules.cpp" line="6327"/>
-        <location filename="../src/engine/rules.cpp" line="6588"/>
-        <location filename="../src/engine/rules.cpp" line="7674"/>
-        <location filename="../src/engine/rules.cpp" line="7790"/>
-        <location filename="../src/engine/rules.cpp" line="7885"/>
-        <location filename="../src/engine/rules.cpp" line="7925"/>
-        <location filename="../src/engine/rules.cpp" line="7991"/>
-        <location filename="../src/engine/rules.cpp" line="8107"/>
-        <location filename="../src/engine/rules.cpp" line="10420"/>
-        <location filename="../src/engine/rules.cpp" line="10442"/>
-        <location filename="../src/engine/rules.cpp" line="10598"/>
-        <location filename="../src/engine/rules.cpp" line="10620"/>
-        <location filename="../src/engine/rules.cpp" line="14308"/>
+        <location filename="../src/engine/rules.cpp" line="4559"/>
+        <location filename="../src/engine/rules.cpp" line="4571"/>
+        <location filename="../src/engine/rules.cpp" line="4901"/>
+        <location filename="../src/engine/rules.cpp" line="5872"/>
+        <location filename="../src/engine/rules.cpp" line="5919"/>
+        <location filename="../src/engine/rules.cpp" line="6057"/>
+        <location filename="../src/engine/rules.cpp" line="6119"/>
+        <location filename="../src/engine/rules.cpp" line="6140"/>
+        <location filename="../src/engine/rules.cpp" line="6170"/>
+        <location filename="../src/engine/rules.cpp" line="6184"/>
+        <location filename="../src/engine/rules.cpp" line="6212"/>
+        <location filename="../src/engine/rules.cpp" line="6229"/>
+        <location filename="../src/engine/rules.cpp" line="6246"/>
+        <location filename="../src/engine/rules.cpp" line="6317"/>
+        <location filename="../src/engine/rules.cpp" line="6351"/>
+        <location filename="../src/engine/rules.cpp" line="6612"/>
+        <location filename="../src/engine/rules.cpp" line="7698"/>
+        <location filename="../src/engine/rules.cpp" line="7814"/>
+        <location filename="../src/engine/rules.cpp" line="7909"/>
+        <location filename="../src/engine/rules.cpp" line="7949"/>
+        <location filename="../src/engine/rules.cpp" line="8015"/>
+        <location filename="../src/engine/rules.cpp" line="8131"/>
+        <location filename="../src/engine/rules.cpp" line="10444"/>
+        <location filename="../src/engine/rules.cpp" line="10466"/>
+        <location filename="../src/engine/rules.cpp" line="10622"/>
+        <location filename="../src/engine/rules.cpp" line="10644"/>
+        <location filename="../src/engine/rules.cpp" line="14332"/>
         <source>FET information</source>
         <translation>Thông tin</translation>
     </message>
@@ -44878,84 +44847,84 @@ Lưu ý: giáo viên bận và nghỉ giải lao không được tính vào ti�
     <message>
         <location filename="../src/engine/rules.cpp" line="585"/>
         <location filename="../src/engine/rules.cpp" line="667"/>
-        <location filename="../src/engine/rules.cpp" line="5851"/>
-        <location filename="../src/engine/rules.cpp" line="5898"/>
-        <location filename="../src/engine/rules.cpp" line="5969"/>
-        <location filename="../src/engine/rules.cpp" line="5980"/>
-        <location filename="../src/engine/rules.cpp" line="5991"/>
-        <location filename="../src/engine/rules.cpp" line="6037"/>
-        <location filename="../src/engine/rules.cpp" line="6085"/>
-        <location filename="../src/engine/rules.cpp" line="6101"/>
-        <location filename="../src/engine/rules.cpp" line="6119"/>
-        <location filename="../src/engine/rules.cpp" line="6151"/>
-        <location filename="../src/engine/rules.cpp" line="6165"/>
-        <location filename="../src/engine/rules.cpp" line="6193"/>
-        <location filename="../src/engine/rules.cpp" line="6210"/>
-        <location filename="../src/engine/rules.cpp" line="6228"/>
-        <location filename="../src/engine/rules.cpp" line="6262"/>
-        <location filename="../src/engine/rules.cpp" line="6273"/>
-        <location filename="../src/engine/rules.cpp" line="6295"/>
-        <location filename="../src/engine/rules.cpp" line="6330"/>
-        <location filename="../src/engine/rules.cpp" line="6344"/>
-        <location filename="../src/engine/rules.cpp" line="6356"/>
-        <location filename="../src/engine/rules.cpp" line="6369"/>
-        <location filename="../src/engine/rules.cpp" line="6381"/>
+        <location filename="../src/engine/rules.cpp" line="5875"/>
+        <location filename="../src/engine/rules.cpp" line="5922"/>
+        <location filename="../src/engine/rules.cpp" line="5993"/>
+        <location filename="../src/engine/rules.cpp" line="6004"/>
+        <location filename="../src/engine/rules.cpp" line="6015"/>
+        <location filename="../src/engine/rules.cpp" line="6061"/>
+        <location filename="../src/engine/rules.cpp" line="6109"/>
+        <location filename="../src/engine/rules.cpp" line="6125"/>
+        <location filename="../src/engine/rules.cpp" line="6143"/>
+        <location filename="../src/engine/rules.cpp" line="6175"/>
+        <location filename="../src/engine/rules.cpp" line="6189"/>
+        <location filename="../src/engine/rules.cpp" line="6217"/>
+        <location filename="../src/engine/rules.cpp" line="6234"/>
+        <location filename="../src/engine/rules.cpp" line="6252"/>
+        <location filename="../src/engine/rules.cpp" line="6286"/>
+        <location filename="../src/engine/rules.cpp" line="6297"/>
+        <location filename="../src/engine/rules.cpp" line="6319"/>
+        <location filename="../src/engine/rules.cpp" line="6354"/>
+        <location filename="../src/engine/rules.cpp" line="6368"/>
+        <location filename="../src/engine/rules.cpp" line="6380"/>
         <location filename="../src/engine/rules.cpp" line="6393"/>
         <location filename="../src/engine/rules.cpp" line="6405"/>
         <location filename="../src/engine/rules.cpp" line="6417"/>
-        <location filename="../src/engine/rules.cpp" line="6435"/>
-        <location filename="../src/engine/rules.cpp" line="6484"/>
-        <location filename="../src/engine/rules.cpp" line="6496"/>
+        <location filename="../src/engine/rules.cpp" line="6429"/>
+        <location filename="../src/engine/rules.cpp" line="6441"/>
+        <location filename="../src/engine/rules.cpp" line="6459"/>
         <location filename="../src/engine/rules.cpp" line="6508"/>
         <location filename="../src/engine/rules.cpp" line="6520"/>
-        <location filename="../src/engine/rules.cpp" line="6590"/>
-        <location filename="../src/engine/rules.cpp" line="10435"/>
-        <location filename="../src/engine/rules.cpp" line="10447"/>
-        <location filename="../src/engine/rules.cpp" line="10613"/>
-        <location filename="../src/engine/rules.cpp" line="10625"/>
-        <location filename="../src/engine/rules.cpp" line="14323"/>
+        <location filename="../src/engine/rules.cpp" line="6532"/>
+        <location filename="../src/engine/rules.cpp" line="6544"/>
+        <location filename="../src/engine/rules.cpp" line="6614"/>
+        <location filename="../src/engine/rules.cpp" line="10459"/>
+        <location filename="../src/engine/rules.cpp" line="10471"/>
+        <location filename="../src/engine/rules.cpp" line="10637"/>
+        <location filename="../src/engine/rules.cpp" line="10649"/>
+        <location filename="../src/engine/rules.cpp" line="14347"/>
         <source>Skip rest</source>
         <translation>Bỏ qua hết</translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="585"/>
         <location filename="../src/engine/rules.cpp" line="667"/>
-        <location filename="../src/engine/rules.cpp" line="5851"/>
-        <location filename="../src/engine/rules.cpp" line="5898"/>
-        <location filename="../src/engine/rules.cpp" line="5969"/>
-        <location filename="../src/engine/rules.cpp" line="5980"/>
-        <location filename="../src/engine/rules.cpp" line="5991"/>
-        <location filename="../src/engine/rules.cpp" line="6037"/>
-        <location filename="../src/engine/rules.cpp" line="6085"/>
-        <location filename="../src/engine/rules.cpp" line="6101"/>
-        <location filename="../src/engine/rules.cpp" line="6119"/>
-        <location filename="../src/engine/rules.cpp" line="6151"/>
-        <location filename="../src/engine/rules.cpp" line="6165"/>
-        <location filename="../src/engine/rules.cpp" line="6193"/>
-        <location filename="../src/engine/rules.cpp" line="6210"/>
-        <location filename="../src/engine/rules.cpp" line="6228"/>
-        <location filename="../src/engine/rules.cpp" line="6262"/>
-        <location filename="../src/engine/rules.cpp" line="6273"/>
-        <location filename="../src/engine/rules.cpp" line="6295"/>
-        <location filename="../src/engine/rules.cpp" line="6330"/>
-        <location filename="../src/engine/rules.cpp" line="6344"/>
-        <location filename="../src/engine/rules.cpp" line="6356"/>
-        <location filename="../src/engine/rules.cpp" line="6369"/>
-        <location filename="../src/engine/rules.cpp" line="6381"/>
+        <location filename="../src/engine/rules.cpp" line="5875"/>
+        <location filename="../src/engine/rules.cpp" line="5922"/>
+        <location filename="../src/engine/rules.cpp" line="5993"/>
+        <location filename="../src/engine/rules.cpp" line="6004"/>
+        <location filename="../src/engine/rules.cpp" line="6015"/>
+        <location filename="../src/engine/rules.cpp" line="6061"/>
+        <location filename="../src/engine/rules.cpp" line="6109"/>
+        <location filename="../src/engine/rules.cpp" line="6125"/>
+        <location filename="../src/engine/rules.cpp" line="6143"/>
+        <location filename="../src/engine/rules.cpp" line="6175"/>
+        <location filename="../src/engine/rules.cpp" line="6189"/>
+        <location filename="../src/engine/rules.cpp" line="6217"/>
+        <location filename="../src/engine/rules.cpp" line="6234"/>
+        <location filename="../src/engine/rules.cpp" line="6252"/>
+        <location filename="../src/engine/rules.cpp" line="6286"/>
+        <location filename="../src/engine/rules.cpp" line="6297"/>
+        <location filename="../src/engine/rules.cpp" line="6319"/>
+        <location filename="../src/engine/rules.cpp" line="6354"/>
+        <location filename="../src/engine/rules.cpp" line="6368"/>
+        <location filename="../src/engine/rules.cpp" line="6380"/>
         <location filename="../src/engine/rules.cpp" line="6393"/>
         <location filename="../src/engine/rules.cpp" line="6405"/>
         <location filename="../src/engine/rules.cpp" line="6417"/>
-        <location filename="../src/engine/rules.cpp" line="6435"/>
-        <location filename="../src/engine/rules.cpp" line="6484"/>
-        <location filename="../src/engine/rules.cpp" line="6496"/>
+        <location filename="../src/engine/rules.cpp" line="6429"/>
+        <location filename="../src/engine/rules.cpp" line="6441"/>
+        <location filename="../src/engine/rules.cpp" line="6459"/>
         <location filename="../src/engine/rules.cpp" line="6508"/>
         <location filename="../src/engine/rules.cpp" line="6520"/>
-        <location filename="../src/engine/rules.cpp" line="6590"/>
-        <location filename="../src/engine/rules.cpp" line="10435"/>
-        <location filename="../src/engine/rules.cpp" line="10447"/>
-        <location filename="../src/engine/rules.cpp" line="10613"/>
-        <location filename="../src/engine/rules.cpp" line="10625"/>
-        <location filename="../src/engine/rules.cpp" line="14323"/>
+        <location filename="../src/engine/rules.cpp" line="6532"/>
+        <location filename="../src/engine/rules.cpp" line="6544"/>
+        <location filename="../src/engine/rules.cpp" line="6614"/>
+        <location filename="../src/engine/rules.cpp" line="10459"/>
+        <location filename="../src/engine/rules.cpp" line="10471"/>
+        <location filename="../src/engine/rules.cpp" line="10637"/>
+        <location filename="../src/engine/rules.cpp" line="10649"/>
+        <location filename="../src/engine/rules.cpp" line="14347"/>
         <source>See next</source>
         <translation>Xem tiếp</translation>
     </message>
@@ -44975,217 +44944,217 @@ Lưu ý: giáo viên bận và nghỉ giải lao không được tính vào ti�
         <translation>Đang xử lý nội bộ các RB phòng học... Hãy chờ trong chốc lát</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="2676"/>
-        <location filename="../src/engine/rules.cpp" line="2681"/>
-        <location filename="../src/engine/rules.cpp" line="2686"/>
-        <location filename="../src/engine/rules.cpp" line="2812"/>
-        <location filename="../src/engine/rules.cpp" line="2817"/>
-        <location filename="../src/engine/rules.cpp" line="2822"/>
-        <location filename="../src/engine/rules.cpp" line="4353"/>
-        <location filename="../src/engine/rules.cpp" line="4370"/>
-        <location filename="../src/engine/rules.cpp" line="4381"/>
-        <location filename="../src/engine/rules.cpp" line="4466"/>
-        <location filename="../src/engine/rules.cpp" line="4493"/>
-        <location filename="../src/engine/rules.cpp" line="4529"/>
-        <location filename="../src/engine/rules.cpp" line="4798"/>
-        <location filename="../src/engine/rules.cpp" line="4848"/>
-        <location filename="../src/engine/rules.cpp" line="4901"/>
-        <location filename="../src/engine/rules.cpp" line="4951"/>
-        <location filename="../src/engine/rules.cpp" line="5512"/>
-        <location filename="../src/engine/rules.cpp" line="5683"/>
-        <location filename="../src/engine/rules.cpp" line="5715"/>
-        <location filename="../src/engine/rules.cpp" line="5788"/>
-        <location filename="../src/engine/rules.cpp" line="5967"/>
-        <location filename="../src/engine/rules.cpp" line="5978"/>
-        <location filename="../src/engine/rules.cpp" line="5989"/>
-        <location filename="../src/engine/rules.cpp" line="6083"/>
-        <location filename="../src/engine/rules.cpp" line="6260"/>
-        <location filename="../src/engine/rules.cpp" line="6271"/>
-        <location filename="../src/engine/rules.cpp" line="6342"/>
-        <location filename="../src/engine/rules.cpp" line="6354"/>
-        <location filename="../src/engine/rules.cpp" line="6367"/>
-        <location filename="../src/engine/rules.cpp" line="6379"/>
+        <location filename="../src/engine/rules.cpp" line="2700"/>
+        <location filename="../src/engine/rules.cpp" line="2705"/>
+        <location filename="../src/engine/rules.cpp" line="2710"/>
+        <location filename="../src/engine/rules.cpp" line="2836"/>
+        <location filename="../src/engine/rules.cpp" line="2841"/>
+        <location filename="../src/engine/rules.cpp" line="2846"/>
+        <location filename="../src/engine/rules.cpp" line="4377"/>
+        <location filename="../src/engine/rules.cpp" line="4394"/>
+        <location filename="../src/engine/rules.cpp" line="4405"/>
+        <location filename="../src/engine/rules.cpp" line="4490"/>
+        <location filename="../src/engine/rules.cpp" line="4517"/>
+        <location filename="../src/engine/rules.cpp" line="4553"/>
+        <location filename="../src/engine/rules.cpp" line="4822"/>
+        <location filename="../src/engine/rules.cpp" line="4872"/>
+        <location filename="../src/engine/rules.cpp" line="4925"/>
+        <location filename="../src/engine/rules.cpp" line="4975"/>
+        <location filename="../src/engine/rules.cpp" line="5536"/>
+        <location filename="../src/engine/rules.cpp" line="5707"/>
+        <location filename="../src/engine/rules.cpp" line="5739"/>
+        <location filename="../src/engine/rules.cpp" line="5812"/>
+        <location filename="../src/engine/rules.cpp" line="5991"/>
+        <location filename="../src/engine/rules.cpp" line="6002"/>
+        <location filename="../src/engine/rules.cpp" line="6013"/>
+        <location filename="../src/engine/rules.cpp" line="6107"/>
+        <location filename="../src/engine/rules.cpp" line="6284"/>
+        <location filename="../src/engine/rules.cpp" line="6295"/>
+        <location filename="../src/engine/rules.cpp" line="6366"/>
+        <location filename="../src/engine/rules.cpp" line="6378"/>
         <location filename="../src/engine/rules.cpp" line="6391"/>
         <location filename="../src/engine/rules.cpp" line="6403"/>
         <location filename="../src/engine/rules.cpp" line="6415"/>
-        <location filename="../src/engine/rules.cpp" line="6433"/>
-        <location filename="../src/engine/rules.cpp" line="6482"/>
-        <location filename="../src/engine/rules.cpp" line="6494"/>
+        <location filename="../src/engine/rules.cpp" line="6427"/>
+        <location filename="../src/engine/rules.cpp" line="6439"/>
+        <location filename="../src/engine/rules.cpp" line="6457"/>
         <location filename="../src/engine/rules.cpp" line="6506"/>
         <location filename="../src/engine/rules.cpp" line="6518"/>
-        <location filename="../src/engine/rules.cpp" line="6667"/>
-        <location filename="../src/engine/rules.cpp" line="8496"/>
-        <location filename="../src/engine/rules.cpp" line="8635"/>
-        <location filename="../src/engine/rules.cpp" line="9540"/>
-        <location filename="../src/engine/rules.cpp" line="9617"/>
-        <location filename="../src/engine/rules.cpp" line="10188"/>
-        <location filename="../src/engine/rules.cpp" line="10279"/>
-        <location filename="../src/engine/rules.cpp" line="10357"/>
-        <location filename="../src/engine/rules.cpp" line="10535"/>
-        <location filename="../src/engine/rules.cpp" line="14265"/>
+        <location filename="../src/engine/rules.cpp" line="6530"/>
+        <location filename="../src/engine/rules.cpp" line="6542"/>
+        <location filename="../src/engine/rules.cpp" line="6691"/>
+        <location filename="../src/engine/rules.cpp" line="8520"/>
+        <location filename="../src/engine/rules.cpp" line="8659"/>
+        <location filename="../src/engine/rules.cpp" line="9564"/>
+        <location filename="../src/engine/rules.cpp" line="9641"/>
+        <location filename="../src/engine/rules.cpp" line="10212"/>
+        <location filename="../src/engine/rules.cpp" line="10303"/>
+        <location filename="../src/engine/rules.cpp" line="10381"/>
+        <location filename="../src/engine/rules.cpp" line="10559"/>
+        <location filename="../src/engine/rules.cpp" line="14289"/>
         <source>FET warning</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4353"/>
+        <location filename="../src/engine/rules.cpp" line="4377"/>
         <source>Could not open file - not existing or in use</source>
         <translation>Lỗi không thể mở tệp (không tồn tại hoặc đang mở)</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5668"/>
+        <location filename="../src/engine/rules.cpp" line="5692"/>
         <source>The activity with id=%1 contains incorrect data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6668"/>
+        <location filename="../src/engine/rules.cpp" line="6692"/>
         <source>Could not read file - XML parse error at line %1, column %2:
 %3</source>
         <comment>The error description is %3</comment>
         <translation>Lỗi không thể đọc tệp - lỗi phân tích XML tại dòng %1, cột %2: %3</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4370"/>
-        <location filename="../src/engine/rules.cpp" line="4381"/>
+        <location filename="../src/engine/rules.cpp" line="4394"/>
+        <location filename="../src/engine/rules.cpp" line="4405"/>
         <source>Cannot create or use directory %1 - cannot continue</source>
         <translation>Lỗi không tạo mới hoặc dùng được thư mục %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4411"/>
+        <location filename="../src/engine/rules.cpp" line="4435"/>
         <source>FET cannot open the log file %1 for writing. This might mean that you don&apos;t have write permissions in this location. You can continue operation, but you might not be able to save the generated timetables as html files</source>
         <translation>Lỗi không thể mở tệp log %1 để ghi thông tin. Có thể bạn không có quyền ghi vào thư mục này. Bạn có thể tiếp tục nhưng sẽ không lưu được dữ liệu của các TKB và tệp HTML</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4414"/>
+        <location filename="../src/engine/rules.cpp" line="4438"/>
         <source>A solution is to remove that file (if it exists already) or set its permissions to allow writing</source>
         <translation>Gợi ý: xóa tệp (nếu đã tồn tại) hoặc đặt quyền ghi</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4415"/>
+        <location filename="../src/engine/rules.cpp" line="4439"/>
         <source>Please report possible bug</source>
         <translation>Hãy báo lỗi cho đơn vị phát triển</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4416"/>
-        <location filename="../src/engine/rules.cpp" line="6697"/>
-        <location filename="../src/engine/rules.cpp" line="6740"/>
-        <location filename="../src/engine/rules.cpp" line="6866"/>
+        <location filename="../src/engine/rules.cpp" line="4440"/>
+        <location filename="../src/engine/rules.cpp" line="6721"/>
+        <location filename="../src/engine/rules.cpp" line="6764"/>
+        <location filename="../src/engine/rules.cpp" line="6890"/>
         <source>FET critical</source>
         <translation>Điểm quan trọng</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4466"/>
+        <location filename="../src/engine/rules.cpp" line="4490"/>
         <source>File contains a version numbering scheme which is not matched by v.v.va (3 numbers separated by points, followed by any string a, which may be empty). File will be opened, but you are advised to check the version of the .fet file (in the beginning of the file). If this is a FET bug, please report it</source>
         <translation>Tệp chứa thông tin phiên bản không tương thích với chuẩn v.v.va (với v là số, a là chuỗi kí tự hoặc trống)</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4469"/>
+        <location filename="../src/engine/rules.cpp" line="4493"/>
         <source>If you are opening a file older than FET format version 5, it will be converted to latest FET data format</source>
         <translation>Nếu bạn mở tệp có phiên bản trước 5.0.0, dữ liệu sẽ được chuyển sang định dạng mới nhất</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4493"/>
+        <location filename="../src/engine/rules.cpp" line="4517"/>
         <source>FET version does not respect the format v.v.va (3 numbers separated by points, followed by any string a, which may be empty). This is probably a bug in FET - please report it</source>
         <translation>Thông tin phiên bản không tương thích với chuẩn v.v.va (với v là số, a là chuỗi kí tự hoặc trống)</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4529"/>
+        <location filename="../src/engine/rules.cpp" line="4553"/>
         <source>File does not have a corresponding beginning tag - it should be %1 or %2. File is incorrect...it cannot be opened</source>
         <translation>Tệp không có thông tin bổ trợ tương ứng. Nó phải là %1 hoặc %2. Tệp không thể đọc được</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4548"/>
+        <location filename="../src/engine/rules.cpp" line="4572"/>
         <source>Opening a file generated with a newer version than your current FET software ... file will be opened but it is recommended to update your FET software to the latest version</source>
         <translation>Đang mở tệp được tạo ra từ phiên bản mới hơn là phiên bản hiện hành của FET. Bạn cần cập nhật phiên bản mới nhất của FET</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4549"/>
+        <location filename="../src/engine/rules.cpp" line="4573"/>
         <source>Your FET version: %1, file version: %2</source>
         <translation>Phiên bản FET: %1, phiên bản của tệp dữ liệu: %2</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4618"/>
-        <location filename="../src/engine/rules.cpp" line="4699"/>
-        <location filename="../src/engine/rules.cpp" line="4817"/>
-        <location filename="../src/engine/rules.cpp" line="4867"/>
-        <location filename="../src/engine/rules.cpp" line="4920"/>
-        <location filename="../src/engine/rules.cpp" line="4970"/>
-        <location filename="../src/engine/rules.cpp" line="5630"/>
-        <location filename="../src/engine/rules.cpp" line="5632"/>
-        <location filename="../src/engine/rules.cpp" line="5634"/>
-        <location filename="../src/engine/rules.cpp" line="5734"/>
-        <location filename="../src/engine/rules.cpp" line="5807"/>
-        <location filename="../src/engine/rules.cpp" line="7387"/>
-        <location filename="../src/engine/rules.cpp" line="7464"/>
-        <location filename="../src/engine/rules.cpp" line="7509"/>
-        <location filename="../src/engine/rules.cpp" line="7558"/>
-        <location filename="../src/engine/rules.cpp" line="7603"/>
-        <location filename="../src/engine/rules.cpp" line="8428"/>
-        <location filename="../src/engine/rules.cpp" line="9680"/>
-        <location filename="../src/engine/rules.cpp" line="9746"/>
-        <location filename="../src/engine/rules.cpp" line="9817"/>
-        <location filename="../src/engine/rules.cpp" line="9883"/>
-        <location filename="../src/engine/rules.cpp" line="9935"/>
-        <location filename="../src/engine/rules.cpp" line="9992"/>
-        <location filename="../src/engine/rules.cpp" line="10044"/>
-        <location filename="../src/engine/rules.cpp" line="10101"/>
-        <location filename="../src/engine/rules.cpp" line="10173"/>
-        <location filename="../src/engine/rules.cpp" line="10259"/>
-        <location filename="../src/engine/rules.cpp" line="11298"/>
-        <location filename="../src/engine/rules.cpp" line="11437"/>
-        <location filename="../src/engine/rules.cpp" line="11576"/>
-        <location filename="../src/engine/rules.cpp" line="11842"/>
-        <location filename="../src/engine/rules.cpp" line="12552"/>
-        <location filename="../src/engine/rules.cpp" line="12673"/>
-        <location filename="../src/engine/rules.cpp" line="12861"/>
-        <location filename="../src/engine/rules.cpp" line="13042"/>
-        <location filename="../src/engine/rules.cpp" line="13223"/>
-        <location filename="../src/engine/rules.cpp" line="13400"/>
-        <location filename="../src/engine/rules.cpp" line="13576"/>
-        <location filename="../src/engine/rules.cpp" line="13700"/>
-        <location filename="../src/engine/rules.cpp" line="13840"/>
-        <location filename="../src/engine/rules.cpp" line="14188"/>
+        <location filename="../src/engine/rules.cpp" line="4642"/>
+        <location filename="../src/engine/rules.cpp" line="4723"/>
+        <location filename="../src/engine/rules.cpp" line="4841"/>
+        <location filename="../src/engine/rules.cpp" line="4891"/>
+        <location filename="../src/engine/rules.cpp" line="4944"/>
+        <location filename="../src/engine/rules.cpp" line="4994"/>
+        <location filename="../src/engine/rules.cpp" line="5654"/>
+        <location filename="../src/engine/rules.cpp" line="5656"/>
+        <location filename="../src/engine/rules.cpp" line="5658"/>
+        <location filename="../src/engine/rules.cpp" line="5758"/>
+        <location filename="../src/engine/rules.cpp" line="5831"/>
+        <location filename="../src/engine/rules.cpp" line="7411"/>
+        <location filename="../src/engine/rules.cpp" line="7488"/>
+        <location filename="../src/engine/rules.cpp" line="7533"/>
+        <location filename="../src/engine/rules.cpp" line="7582"/>
+        <location filename="../src/engine/rules.cpp" line="7627"/>
+        <location filename="../src/engine/rules.cpp" line="8452"/>
+        <location filename="../src/engine/rules.cpp" line="9704"/>
+        <location filename="../src/engine/rules.cpp" line="9770"/>
+        <location filename="../src/engine/rules.cpp" line="9841"/>
+        <location filename="../src/engine/rules.cpp" line="9907"/>
+        <location filename="../src/engine/rules.cpp" line="9959"/>
+        <location filename="../src/engine/rules.cpp" line="10016"/>
+        <location filename="../src/engine/rules.cpp" line="10068"/>
+        <location filename="../src/engine/rules.cpp" line="10125"/>
+        <location filename="../src/engine/rules.cpp" line="10197"/>
+        <location filename="../src/engine/rules.cpp" line="10283"/>
+        <location filename="../src/engine/rules.cpp" line="11322"/>
+        <location filename="../src/engine/rules.cpp" line="11461"/>
+        <location filename="../src/engine/rules.cpp" line="11600"/>
+        <location filename="../src/engine/rules.cpp" line="11866"/>
+        <location filename="../src/engine/rules.cpp" line="12576"/>
+        <location filename="../src/engine/rules.cpp" line="12697"/>
+        <location filename="../src/engine/rules.cpp" line="12885"/>
+        <location filename="../src/engine/rules.cpp" line="13066"/>
+        <location filename="../src/engine/rules.cpp" line="13247"/>
+        <location filename="../src/engine/rules.cpp" line="13424"/>
+        <location filename="../src/engine/rules.cpp" line="13600"/>
+        <location filename="../src/engine/rules.cpp" line="13724"/>
+        <location filename="../src/engine/rules.cpp" line="13864"/>
+        <location filename="../src/engine/rules.cpp" line="14212"/>
         <source>%1 is incorrect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4621"/>
-        <location filename="../src/engine/rules.cpp" line="4702"/>
+        <location filename="../src/engine/rules.cpp" line="4645"/>
+        <location filename="../src/engine/rules.cpp" line="4726"/>
         <source>%1 is too large. Maximum allowed is %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4631"/>
-        <location filename="../src/engine/rules.cpp" line="4649"/>
-        <location filename="../src/engine/rules.cpp" line="4712"/>
-        <location filename="../src/engine/rules.cpp" line="4730"/>
+        <location filename="../src/engine/rules.cpp" line="4655"/>
+        <location filename="../src/engine/rules.cpp" line="4673"/>
+        <location filename="../src/engine/rules.cpp" line="4736"/>
+        <location filename="../src/engine/rules.cpp" line="4754"/>
         <source>Too many %1 items. Maximum allowed is %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4676"/>
-        <location filename="../src/engine/rules.cpp" line="4759"/>
-        <location filename="../src/engine/rules.cpp" line="4766"/>
+        <location filename="../src/engine/rules.cpp" line="4700"/>
+        <location filename="../src/engine/rules.cpp" line="4783"/>
+        <location filename="../src/engine/rules.cpp" line="4790"/>
         <source>%1: %2 and the number of %3 read do not correspond</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4799"/>
+        <location filename="../src/engine/rules.cpp" line="4823"/>
         <source>Duplicate teacher %1 found - ignoring</source>
         <translation>Trùng giáo viên %1 - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4849"/>
+        <location filename="../src/engine/rules.cpp" line="4873"/>
         <source>Duplicate subject %1 found - ignoring</source>
         <translation>Trùng môn học %1 - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4877"/>
+        <location filename="../src/engine/rules.cpp" line="4901"/>
         <source>Your file contains subject tags list, which is named in versions&gt;=5.5.0 activity tags list</source>
         <translation>Tệp chứa danh sách thông tin bổ trợ môn học được đặt tên từ phiên bản 5.5.0</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4902"/>
-        <location filename="../src/engine/rules.cpp" line="4952"/>
+        <location filename="../src/engine/rules.cpp" line="4926"/>
+        <location filename="../src/engine/rules.cpp" line="4976"/>
         <source>Duplicate activity tag %1 found - ignoring</source>
         <translation>Trùng thông tin bổ trợ %1 - bỏ qua</translation>
     </message>
@@ -45197,84 +45166,84 @@ Lưu ý: giáo viên bận và nghỉ giải lao không được tính vào ti�
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="112"/>
-        <location filename="../src/engine/rules.cpp" line="4568"/>
+        <location filename="../src/engine/rules.cpp" line="4592"/>
         <source>08:00</source>
         <comment>Hour name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="113"/>
-        <location filename="../src/engine/rules.cpp" line="4569"/>
+        <location filename="../src/engine/rules.cpp" line="4593"/>
         <source>09:00</source>
         <comment>Hour name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="114"/>
-        <location filename="../src/engine/rules.cpp" line="4570"/>
+        <location filename="../src/engine/rules.cpp" line="4594"/>
         <source>10:00</source>
         <comment>Hour name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="115"/>
-        <location filename="../src/engine/rules.cpp" line="4571"/>
+        <location filename="../src/engine/rules.cpp" line="4595"/>
         <source>11:00</source>
         <comment>Hour name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="116"/>
-        <location filename="../src/engine/rules.cpp" line="4572"/>
+        <location filename="../src/engine/rules.cpp" line="4596"/>
         <source>12:00</source>
         <comment>Hour name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="117"/>
-        <location filename="../src/engine/rules.cpp" line="4573"/>
+        <location filename="../src/engine/rules.cpp" line="4597"/>
         <source>13:00</source>
         <comment>Hour name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="118"/>
-        <location filename="../src/engine/rules.cpp" line="4574"/>
+        <location filename="../src/engine/rules.cpp" line="4598"/>
         <source>14:00</source>
         <comment>Hour name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="119"/>
-        <location filename="../src/engine/rules.cpp" line="4575"/>
+        <location filename="../src/engine/rules.cpp" line="4599"/>
         <source>15:00</source>
         <comment>Hour name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="120"/>
-        <location filename="../src/engine/rules.cpp" line="4576"/>
+        <location filename="../src/engine/rules.cpp" line="4600"/>
         <source>16:00</source>
         <comment>Hour name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="121"/>
-        <location filename="../src/engine/rules.cpp" line="4577"/>
+        <location filename="../src/engine/rules.cpp" line="4601"/>
         <source>17:00</source>
         <comment>Hour name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="122"/>
-        <location filename="../src/engine/rules.cpp" line="4578"/>
+        <location filename="../src/engine/rules.cpp" line="4602"/>
         <source>18:00</source>
         <comment>Hour name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/engine/rules.cpp" line="123"/>
-        <location filename="../src/engine/rules.cpp" line="4579"/>
+        <location filename="../src/engine/rules.cpp" line="4603"/>
         <source>19:00</source>
         <comment>Hour name</comment>
         <translation type="unfinished"></translation>
@@ -45322,465 +45291,465 @@ Lưu ý: giáo viên bận và nghỉ giải lao không được tính vào ti�
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="2676"/>
-        <location filename="../src/engine/rules.cpp" line="5636"/>
+        <location filename="../src/engine/rules.cpp" line="2700"/>
+        <location filename="../src/engine/rules.cpp" line="5660"/>
         <source>Activity with Id=%1 contains %2 duplicate teachers - please correct that</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="2681"/>
-        <location filename="../src/engine/rules.cpp" line="5638"/>
+        <location filename="../src/engine/rules.cpp" line="2705"/>
+        <location filename="../src/engine/rules.cpp" line="5662"/>
         <source>Activity with Id=%1 contains %2 duplicate students sets - please correct that</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="2686"/>
-        <location filename="../src/engine/rules.cpp" line="5640"/>
+        <location filename="../src/engine/rules.cpp" line="2710"/>
+        <location filename="../src/engine/rules.cpp" line="5664"/>
         <source>Activity with Id=%1 contains %2 duplicate activity tags - please correct that</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="2812"/>
+        <location filename="../src/engine/rules.cpp" line="2836"/>
         <source>Activities with group_Id=%1 contain %2 duplicate teachers - please correct that</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="2817"/>
+        <location filename="../src/engine/rules.cpp" line="2841"/>
         <source>Activities with group_Id=%1 contain %2 duplicate students sets - please correct that</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="2822"/>
+        <location filename="../src/engine/rules.cpp" line="2846"/>
         <source>Activities with group_Id=%1 contain %2 duplicate activity tags - please correct that</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4536"/>
+        <location filename="../src/engine/rules.cpp" line="4560"/>
         <source>Opening older file - it will be converted to latest format, automatically assigning weight percentages to constraints and dropping parity for activities. You are advised to make a backup of your old file before saving in new format.
 
 Please note that the default weight percentage of constraints min days between activities will be 95% (mainly satisfied, not always) and &apos;force consecutive if same day&apos; will be set to true (meaning that if the activities are in the same day, they will be placed continuously, in a bigger duration activity). If you want, you can modify this percent to be 100%, manually in the fet input file or from the interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5017"/>
+        <location filename="../src/engine/rules.cpp" line="5041"/>
         <source>Trying to add year %1, which is already added as another year.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5019"/>
+        <location filename="../src/engine/rules.cpp" line="5043"/>
         <source>Trying to add year %1, which is already added as another group.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5021"/>
+        <location filename="../src/engine/rules.cpp" line="5045"/>
         <source>Trying to add year %1, which is already added as another subgroup.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5081"/>
+        <location filename="../src/engine/rules.cpp" line="5105"/>
         <source>Trying to add group %1, which is already added as another year.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5086"/>
+        <location filename="../src/engine/rules.cpp" line="5110"/>
         <source>Trying to add group %1 in year %2 but it is already added.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5095"/>
+        <location filename="../src/engine/rules.cpp" line="5119"/>
         <source>Trying to add group %1, which is already added as another subgroup.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5187"/>
+        <location filename="../src/engine/rules.cpp" line="5211"/>
         <source>Trying to add subgroup %1, which is already added as another year.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5191"/>
+        <location filename="../src/engine/rules.cpp" line="5215"/>
         <source>Trying to add subgroup %1, which is already added as another group.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5196"/>
+        <location filename="../src/engine/rules.cpp" line="5220"/>
         <source>Trying to add subgroup %1 in year %2, group %3 but it is already added.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5513"/>
+        <location filename="../src/engine/rules.cpp" line="5537"/>
         <source>Found activity active tag which is not &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. The activity will be considered not active</source>
         <comment>Instructions for translators: please leave the &apos;true&apos;, &apos;false&apos;, &apos;yes&apos; and &apos;no&apos; fields untranslated, as they are in English</comment>
         <translation>Lỗi thông tin bổ trợ kích hoạt tiết giảng có giá trị khác &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. Tiết giảng sẽ được coi là chưa kích hoạt</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5684"/>
+        <location filename="../src/engine/rules.cpp" line="5708"/>
         <source>File contains deprecated equipments list - will be ignored</source>
         <translation>Tệp chứa danh sách thiết bị lỗi thời - Bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5716"/>
+        <location filename="../src/engine/rules.cpp" line="5740"/>
         <source>Duplicate building %1 found - ignoring</source>
         <translation>Trùng khối nhà %1 - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5789"/>
+        <location filename="../src/engine/rules.cpp" line="5813"/>
         <source>Duplicate room %1 found - ignoring</source>
         <translation>Trùng phòng học %1 - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5849"/>
+        <location filename="../src/engine/rules.cpp" line="5873"/>
         <source>File contains constraint teacher not available, which is old (it was improved in FET 5.5.0), and will be converted to the similar constraint of this type, constraint teacher not available times (a matrix).</source>
         <translation>Tệp chứa RB giáo viên bận kiểu cũ (trước phiên bản 5.5.0). RB sẽ được chuyển sang dạng tương tự.</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5896"/>
+        <location filename="../src/engine/rules.cpp" line="5920"/>
         <source>File contains constraint students set not available, which is old (it was improved in FET 5.5.0), and will be converted to the similar constraint of this type, constraint students set not available times (a matrix).</source>
         <translation>Tệp chứa RB lớp học bận kiểu cũ (trước phiên bản 5.5.0). RB sẽ được chuyển sang dạng tương tự.</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5968"/>
+        <location filename="../src/engine/rules.cpp" line="5992"/>
         <source>File contains deprecated constraint teachers subgroups max hours daily - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (nhóm giáo viên) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5979"/>
+        <location filename="../src/engine/rules.cpp" line="6003"/>
         <source>File contains deprecated constraint students n hours daily - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (học sinh với cố định số giờ trong 1 ngày) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="5990"/>
+        <location filename="../src/engine/rules.cpp" line="6014"/>
         <source>File contains deprecated constraint students set n hours daily - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (lớp học với cố định số giờ trong 1 ngày) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6034"/>
+        <location filename="../src/engine/rules.cpp" line="6058"/>
         <source>File contains old constraint type activity preferred time, which will be converted to the newer similar constraint of this type, constraint activity preferred STARTING time. This improvement is done in versions 5.5.9 and above</source>
         <translation>Tệp chứa RB kiểu cũ (trước phiên bản 5.5.9). RB sẽ được chuyển sang dạng tương tự</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6084"/>
+        <location filename="../src/engine/rules.cpp" line="6108"/>
         <source>File contains deprecated constraint activity ends day - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (tiết học cuối ngày) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6096"/>
+        <location filename="../src/engine/rules.cpp" line="6120"/>
         <source>Your file contains old constraint activity preferred times, which will be converted to new equivalent constraint activity preferred starting times. Beginning with FET-5.5.9 it is possible to specify: 1. the starting times of an activity (constraint activity preferred starting times) or: 2. the accepted time slots (constraint activity preferred time slots). If what you need is type 2 of this constraint, you will have to add it by yourself from the interface.</source>
         <translation>Tệp chứa RB kiểu cũ (trước phiên bản 5.5.9). RB sẽ được chuyển sang dạng tương tự.</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6117"/>
+        <location filename="../src/engine/rules.cpp" line="6141"/>
         <source>File contains constraint break, which is old (it was improved in FET 5.5.0), and will be converted to the similar constraint of this type, constraint break times (a matrix).</source>
         <translation>Tệp chứa RB giờ giải lao kiểu cũ (trước phiên bản 5.5.0). RB sẽ được chuyển sang dạng tương tự.</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6147"/>
+        <location filename="../src/engine/rules.cpp" line="6171"/>
         <source>File contains constraint students no gaps, which is old (it was improved in FET 5.5.0), and will be converted to the similar constraint of this type, constraint students max gaps per week, with max gaps=0. If you like, you can modify this constraint to allow more gaps per week (normally not accepted in schools)</source>
         <translation>Tệp chứa RB học sinh không có tiết nghỉ xen kẽ (trước phiên bản 5.5.0). RB sẽ được chuyển sang dạng tương tự</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6161"/>
+        <location filename="../src/engine/rules.cpp" line="6185"/>
         <source>File contains constraint students set no gaps, which is old (it was improved in FET 5.5.0), and will be converted to the similar constraint of this type, constraint students set max gaps per week, with max gaps=0. If you like, you can modify this constraint to allow more gaps per week (normally not accepted in schools)</source>
         <translation>Tệp chứa RB lớp học không có tiết nghỉ xen kẽ (trước phiên bản 5.5.0). RB sẽ được chuyển sang dạng tương tự</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6189"/>
+        <location filename="../src/engine/rules.cpp" line="6213"/>
         <source>File contains constraint students early, which is old (it was improved in FET 5.5.0), and will be converted to the similar constraint of this type, constraint students early max beginnings at second hour, with max beginnings=0. If you like, you can modify this constraint to allow more beginnings at second available hour (above 0 - this will make the timetable easier)</source>
         <translation>Tệp chứa RB học sinh vào học sớm (trước phiên bản 5.5.0). RB sẽ được chuyển sang dạng tương tự</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6206"/>
+        <location filename="../src/engine/rules.cpp" line="6230"/>
         <source>File contains constraint students set early, which is old (it was improved in FET 5.5.0), and will be converted to the similar constraint of this type, constraint students set early max beginnings at second hour, with max beginnings=0. If you like, you can modify this constraint to allow more beginnings at second available hour (above 0 - this will make the timetable easier)</source>
         <translation>Tệp chứa RB lớp học vào học sớm (trước phiên bản 5.5.0). RB sẽ được chuyển sang dạng tương tự</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6223"/>
+        <location filename="../src/engine/rules.cpp" line="6247"/>
         <source>Your file contains old constraint activities preferred times, which will be converted to new equivalent constraint activities preferred starting times. Beginning with FET-5.5.9 it is possible to specify: 1. the starting times of several activities (constraint activities preferred starting times) or: 2. the accepted time slots (constraint activities preferred time slots). If what you need is type 2 of this constraint, you will have to add it by yourself from the interface.</source>
         <translation>Tệp chứa RB kiểu cũ (trước phiên bản 5.5.9). RB sẽ được chuyển sang dạng tương tự.</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6261"/>
+        <location filename="../src/engine/rules.cpp" line="6285"/>
         <source>File contains deprecated constraint teachers subject tags max hours continuously - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (số tiết dạy liên tục tối đa) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6272"/>
+        <location filename="../src/engine/rules.cpp" line="6296"/>
         <source>File contains deprecated constraint teachers subject tag max hours continuously - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (số tiết dạy liên tục tối đa) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6294"/>
-        <location filename="../src/engine/rules.cpp" line="6589"/>
+        <location filename="../src/engine/rules.cpp" line="6318"/>
+        <location filename="../src/engine/rules.cpp" line="6613"/>
         <source>Constraint
 %1
 not added - must be a duplicate</source>
         <translation>Trùng RB %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6328"/>
+        <location filename="../src/engine/rules.cpp" line="6352"/>
         <source>File contains constraint room not available, which is old (it was improved in FET 5.5.0), and will be converted to the similar constraint of this type, constraint room not available times (a matrix).</source>
         <translation>Tệp chứa RB phòng học không sử dụng được kiểu cũ (trước phiên bản 5.5.0). RB sẽ được chuyển sang dạng tương tự.</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6343"/>
+        <location filename="../src/engine/rules.cpp" line="6367"/>
         <source>File contains deprecated constraint room type not allowed subjects - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (phòng học và môn học không được phép) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6355"/>
+        <location filename="../src/engine/rules.cpp" line="6379"/>
         <source>File contains deprecated constraint subject requires equipments - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (yêu cầu thiết bị) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6368"/>
+        <location filename="../src/engine/rules.cpp" line="6392"/>
         <source>File contains deprecated constraint subject tag requires equipments - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (yêu cầu thiết bị) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6380"/>
+        <location filename="../src/engine/rules.cpp" line="6404"/>
         <source>File contains deprecated constraint teacher requires room - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (giáo viên yêu cầu phòng học) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6392"/>
+        <location filename="../src/engine/rules.cpp" line="6416"/>
         <source>File contains deprecated constraint teacher subject require room - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (giáo viên/môn học yêu cầu phòng học) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6404"/>
+        <location filename="../src/engine/rules.cpp" line="6428"/>
         <source>File contains deprecated constraint minimize number of rooms for students - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (tối thiểu hóa số phòng học) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6416"/>
+        <location filename="../src/engine/rules.cpp" line="6440"/>
         <source>File contains deprecated constraint minimize number of rooms for teachers - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (tối thiểu hóa số phòng học) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6434"/>
+        <location filename="../src/engine/rules.cpp" line="6458"/>
         <source>File contains deprecated constraint activities same room - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (tiết giảng cùng phòng học) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6483"/>
+        <location filename="../src/engine/rules.cpp" line="6507"/>
         <source>File contains deprecated constraint max building changes per day for teachers - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (số lần đổi khối nhà tối đa trong ngày đối với giáo viên) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6495"/>
+        <location filename="../src/engine/rules.cpp" line="6519"/>
         <source>File contains deprecated constraint max building changes per day for students - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (số lần đổi khối nhà tối đa trong ngày đối với học sinh) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6507"/>
+        <location filename="../src/engine/rules.cpp" line="6531"/>
         <source>File contains deprecated constraint max room changes per day for teachers - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (số lần đổi phòng học tối đa trong ngày đối với giáo viên) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6519"/>
+        <location filename="../src/engine/rules.cpp" line="6543"/>
         <source>File contains deprecated constraint max room changes per day for students - will be ignored
 </source>
         <translation>Tệp chứa RB kiểu lỗi thời (số lần đổi phòng học tối đa trong ngày đối với học sinh) - bỏ qua</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6644"/>
-        <location filename="../src/engine/rules.cpp" line="7405"/>
-        <location filename="../src/engine/rules.cpp" line="8446"/>
-        <location filename="../src/engine/rules.cpp" line="8553"/>
-        <location filename="../src/engine/rules.cpp" line="8692"/>
-        <location filename="../src/engine/rules.cpp" line="8782"/>
-        <location filename="../src/engine/rules.cpp" line="8837"/>
-        <location filename="../src/engine/rules.cpp" line="8907"/>
-        <location filename="../src/engine/rules.cpp" line="8977"/>
-        <location filename="../src/engine/rules.cpp" line="9047"/>
-        <location filename="../src/engine/rules.cpp" line="9098"/>
-        <location filename="../src/engine/rules.cpp" line="11312"/>
-        <location filename="../src/engine/rules.cpp" line="11451"/>
-        <location filename="../src/engine/rules.cpp" line="11590"/>
-        <location filename="../src/engine/rules.cpp" line="11854"/>
-        <location filename="../src/engine/rules.cpp" line="12875"/>
-        <location filename="../src/engine/rules.cpp" line="13056"/>
-        <location filename="../src/engine/rules.cpp" line="13237"/>
-        <location filename="../src/engine/rules.cpp" line="13414"/>
-        <location filename="../src/engine/rules.cpp" line="13590"/>
-        <location filename="../src/engine/rules.cpp" line="13720"/>
-        <location filename="../src/engine/rules.cpp" line="13727"/>
-        <location filename="../src/engine/rules.cpp" line="13860"/>
-        <location filename="../src/engine/rules.cpp" line="13867"/>
-        <location filename="../src/engine/rules.cpp" line="14206"/>
-        <location filename="../src/engine/rules.cpp" line="14407"/>
-        <location filename="../src/engine/rules.cpp" line="14535"/>
-        <location filename="../src/engine/rules.cpp" line="14673"/>
-        <location filename="../src/engine/rules.cpp" line="14811"/>
-        <location filename="../src/engine/rules.cpp" line="14902"/>
-        <location filename="../src/engine/rules.cpp" line="14992"/>
-        <location filename="../src/engine/rules.cpp" line="15082"/>
-        <location filename="../src/engine/rules.cpp" line="15564"/>
-        <location filename="../src/engine/rules.cpp" line="15618"/>
+        <location filename="../src/engine/rules.cpp" line="6668"/>
+        <location filename="../src/engine/rules.cpp" line="7429"/>
+        <location filename="../src/engine/rules.cpp" line="8470"/>
+        <location filename="../src/engine/rules.cpp" line="8577"/>
+        <location filename="../src/engine/rules.cpp" line="8716"/>
+        <location filename="../src/engine/rules.cpp" line="8806"/>
+        <location filename="../src/engine/rules.cpp" line="8861"/>
+        <location filename="../src/engine/rules.cpp" line="8931"/>
+        <location filename="../src/engine/rules.cpp" line="9001"/>
+        <location filename="../src/engine/rules.cpp" line="9071"/>
+        <location filename="../src/engine/rules.cpp" line="9122"/>
+        <location filename="../src/engine/rules.cpp" line="11336"/>
+        <location filename="../src/engine/rules.cpp" line="11475"/>
+        <location filename="../src/engine/rules.cpp" line="11614"/>
+        <location filename="../src/engine/rules.cpp" line="11878"/>
+        <location filename="../src/engine/rules.cpp" line="12899"/>
+        <location filename="../src/engine/rules.cpp" line="13080"/>
+        <location filename="../src/engine/rules.cpp" line="13261"/>
+        <location filename="../src/engine/rules.cpp" line="13438"/>
+        <location filename="../src/engine/rules.cpp" line="13614"/>
+        <location filename="../src/engine/rules.cpp" line="13744"/>
+        <location filename="../src/engine/rules.cpp" line="13751"/>
+        <location filename="../src/engine/rules.cpp" line="13884"/>
+        <location filename="../src/engine/rules.cpp" line="13891"/>
+        <location filename="../src/engine/rules.cpp" line="14230"/>
+        <location filename="../src/engine/rules.cpp" line="14431"/>
+        <location filename="../src/engine/rules.cpp" line="14559"/>
+        <location filename="../src/engine/rules.cpp" line="14697"/>
+        <location filename="../src/engine/rules.cpp" line="14835"/>
+        <location filename="../src/engine/rules.cpp" line="14926"/>
+        <location filename="../src/engine/rules.cpp" line="15016"/>
+        <location filename="../src/engine/rules.cpp" line="15106"/>
+        <location filename="../src/engine/rules.cpp" line="15588"/>
+        <location filename="../src/engine/rules.cpp" line="15642"/>
         <source>%1 does not coincide with the number of read %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6698"/>
+        <location filename="../src/engine/rules.cpp" line="6722"/>
         <source>Saving of logging gave error code %1, which means you cannot see the log of reading the file. Please check your disk free space</source>
         <translation>Mã lỗi %1 khi lưu tệp log</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6741"/>
+        <location filename="../src/engine/rules.cpp" line="6765"/>
         <source>Cannot open %1 for writing ... please check write permissions of the selected directory or your disk free space. Saving of file aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="6867"/>
+        <location filename="../src/engine/rules.cpp" line="6891"/>
         <source>Saved file gave error code %1, which means saving is compromised. Please check your disk free space</source>
         <translation>Mã lỗi %1 khi lưu tệp log</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="7145"/>
-        <location filename="../src/engine/rules.cpp" line="8188"/>
-        <location filename="../src/engine/rules.cpp" line="11614"/>
+        <location filename="../src/engine/rules.cpp" line="7169"/>
+        <location filename="../src/engine/rules.cpp" line="8212"/>
+        <location filename="../src/engine/rules.cpp" line="11638"/>
         <source>Weight percentage incorrect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="7167"/>
-        <location filename="../src/engine/rules.cpp" line="7341"/>
-        <location filename="../src/engine/rules.cpp" line="8210"/>
-        <location filename="../src/engine/rules.cpp" line="8382"/>
-        <location filename="../src/engine/rules.cpp" line="10380"/>
-        <location filename="../src/engine/rules.cpp" line="10558"/>
-        <location filename="../src/engine/rules.cpp" line="11253"/>
-        <location filename="../src/engine/rules.cpp" line="11391"/>
-        <location filename="../src/engine/rules.cpp" line="11530"/>
-        <location filename="../src/engine/rules.cpp" line="11636"/>
-        <location filename="../src/engine/rules.cpp" line="11798"/>
-        <location filename="../src/engine/rules.cpp" line="12809"/>
-        <location filename="../src/engine/rules.cpp" line="12990"/>
-        <location filename="../src/engine/rules.cpp" line="13171"/>
-        <location filename="../src/engine/rules.cpp" line="13348"/>
-        <location filename="../src/engine/rules.cpp" line="13524"/>
-        <location filename="../src/engine/rules.cpp" line="13656"/>
-        <location filename="../src/engine/rules.cpp" line="13796"/>
-        <location filename="../src/engine/rules.cpp" line="13818"/>
-        <location filename="../src/engine/rules.cpp" line="13975"/>
-        <location filename="../src/engine/rules.cpp" line="14142"/>
+        <location filename="../src/engine/rules.cpp" line="7191"/>
+        <location filename="../src/engine/rules.cpp" line="7365"/>
+        <location filename="../src/engine/rules.cpp" line="8234"/>
+        <location filename="../src/engine/rules.cpp" line="8406"/>
+        <location filename="../src/engine/rules.cpp" line="10404"/>
+        <location filename="../src/engine/rules.cpp" line="10582"/>
+        <location filename="../src/engine/rules.cpp" line="11277"/>
+        <location filename="../src/engine/rules.cpp" line="11415"/>
+        <location filename="../src/engine/rules.cpp" line="11554"/>
+        <location filename="../src/engine/rules.cpp" line="11660"/>
+        <location filename="../src/engine/rules.cpp" line="11822"/>
+        <location filename="../src/engine/rules.cpp" line="12833"/>
+        <location filename="../src/engine/rules.cpp" line="13014"/>
+        <location filename="../src/engine/rules.cpp" line="13195"/>
+        <location filename="../src/engine/rules.cpp" line="13372"/>
+        <location filename="../src/engine/rules.cpp" line="13548"/>
+        <location filename="../src/engine/rules.cpp" line="13680"/>
+        <location filename="../src/engine/rules.cpp" line="13820"/>
+        <location filename="../src/engine/rules.cpp" line="13842"/>
+        <location filename="../src/engine/rules.cpp" line="13999"/>
+        <location filename="../src/engine/rules.cpp" line="14166"/>
         <source>Day %1 is inexistent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="7186"/>
-        <location filename="../src/engine/rules.cpp" line="8228"/>
-        <location filename="../src/engine/rules.cpp" line="11653"/>
-        <location filename="../src/engine/rules.cpp" line="13993"/>
+        <location filename="../src/engine/rules.cpp" line="7210"/>
+        <location filename="../src/engine/rules.cpp" line="8252"/>
+        <location filename="../src/engine/rules.cpp" line="11677"/>
+        <location filename="../src/engine/rules.cpp" line="14017"/>
         <source>Hour %1 is the last hour - impossible</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="7190"/>
-        <location filename="../src/engine/rules.cpp" line="7213"/>
-        <location filename="../src/engine/rules.cpp" line="7362"/>
-        <location filename="../src/engine/rules.cpp" line="7691"/>
-        <location filename="../src/engine/rules.cpp" line="7807"/>
-        <location filename="../src/engine/rules.cpp" line="8008"/>
-        <location filename="../src/engine/rules.cpp" line="8123"/>
-        <location filename="../src/engine/rules.cpp" line="8232"/>
-        <location filename="../src/engine/rules.cpp" line="8254"/>
-        <location filename="../src/engine/rules.cpp" line="8403"/>
-        <location filename="../src/engine/rules.cpp" line="10399"/>
-        <location filename="../src/engine/rules.cpp" line="10577"/>
-        <location filename="../src/engine/rules.cpp" line="11276"/>
-        <location filename="../src/engine/rules.cpp" line="11414"/>
-        <location filename="../src/engine/rules.cpp" line="11553"/>
-        <location filename="../src/engine/rules.cpp" line="11657"/>
-        <location filename="../src/engine/rules.cpp" line="11678"/>
-        <location filename="../src/engine/rules.cpp" line="11818"/>
-        <location filename="../src/engine/rules.cpp" line="12835"/>
-        <location filename="../src/engine/rules.cpp" line="13016"/>
-        <location filename="../src/engine/rules.cpp" line="13197"/>
-        <location filename="../src/engine/rules.cpp" line="13374"/>
-        <location filename="../src/engine/rules.cpp" line="13550"/>
-        <location filename="../src/engine/rules.cpp" line="13678"/>
-        <location filename="../src/engine/rules.cpp" line="13997"/>
-        <location filename="../src/engine/rules.cpp" line="14019"/>
-        <location filename="../src/engine/rules.cpp" line="14163"/>
+        <location filename="../src/engine/rules.cpp" line="7214"/>
+        <location filename="../src/engine/rules.cpp" line="7237"/>
+        <location filename="../src/engine/rules.cpp" line="7386"/>
+        <location filename="../src/engine/rules.cpp" line="7715"/>
+        <location filename="../src/engine/rules.cpp" line="7831"/>
+        <location filename="../src/engine/rules.cpp" line="8032"/>
+        <location filename="../src/engine/rules.cpp" line="8147"/>
+        <location filename="../src/engine/rules.cpp" line="8256"/>
+        <location filename="../src/engine/rules.cpp" line="8278"/>
+        <location filename="../src/engine/rules.cpp" line="8427"/>
+        <location filename="../src/engine/rules.cpp" line="10423"/>
+        <location filename="../src/engine/rules.cpp" line="10601"/>
+        <location filename="../src/engine/rules.cpp" line="11300"/>
+        <location filename="../src/engine/rules.cpp" line="11438"/>
+        <location filename="../src/engine/rules.cpp" line="11577"/>
+        <location filename="../src/engine/rules.cpp" line="11681"/>
+        <location filename="../src/engine/rules.cpp" line="11702"/>
+        <location filename="../src/engine/rules.cpp" line="11842"/>
+        <location filename="../src/engine/rules.cpp" line="12859"/>
+        <location filename="../src/engine/rules.cpp" line="13040"/>
+        <location filename="../src/engine/rules.cpp" line="13221"/>
+        <location filename="../src/engine/rules.cpp" line="13398"/>
+        <location filename="../src/engine/rules.cpp" line="13574"/>
+        <location filename="../src/engine/rules.cpp" line="13702"/>
+        <location filename="../src/engine/rules.cpp" line="14021"/>
+        <location filename="../src/engine/rules.cpp" line="14043"/>
+        <location filename="../src/engine/rules.cpp" line="14187"/>
         <source>Hour %1 is inexistent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="7209"/>
-        <location filename="../src/engine/rules.cpp" line="8250"/>
-        <location filename="../src/engine/rules.cpp" line="11674"/>
-        <location filename="../src/engine/rules.cpp" line="14015"/>
+        <location filename="../src/engine/rules.cpp" line="7233"/>
+        <location filename="../src/engine/rules.cpp" line="8274"/>
+        <location filename="../src/engine/rules.cpp" line="11698"/>
+        <location filename="../src/engine/rules.cpp" line="14039"/>
         <source>Hour %1 is the first hour - impossible</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="7241"/>
-        <location filename="../src/engine/rules.cpp" line="7245"/>
-        <location filename="../src/engine/rules.cpp" line="7249"/>
-        <location filename="../src/engine/rules.cpp" line="8281"/>
-        <location filename="../src/engine/rules.cpp" line="8285"/>
-        <location filename="../src/engine/rules.cpp" line="8289"/>
-        <location filename="../src/engine/rules.cpp" line="11699"/>
-        <location filename="../src/engine/rules.cpp" line="11703"/>
-        <location filename="../src/engine/rules.cpp" line="11707"/>
-        <location filename="../src/engine/rules.cpp" line="14042"/>
-        <location filename="../src/engine/rules.cpp" line="14046"/>
-        <location filename="../src/engine/rules.cpp" line="14050"/>
+        <location filename="../src/engine/rules.cpp" line="7265"/>
+        <location filename="../src/engine/rules.cpp" line="7269"/>
+        <location filename="../src/engine/rules.cpp" line="7273"/>
+        <location filename="../src/engine/rules.cpp" line="8305"/>
+        <location filename="../src/engine/rules.cpp" line="8309"/>
+        <location filename="../src/engine/rules.cpp" line="8313"/>
+        <location filename="../src/engine/rules.cpp" line="11723"/>
+        <location filename="../src/engine/rules.cpp" line="11727"/>
+        <location filename="../src/engine/rules.cpp" line="11731"/>
+        <location filename="../src/engine/rules.cpp" line="14066"/>
+        <location filename="../src/engine/rules.cpp" line="14070"/>
+        <location filename="../src/engine/rules.cpp" line="14074"/>
         <source>Field missing: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="7716"/>
-        <location filename="../src/engine/rules.cpp" line="7832"/>
-        <location filename="../src/engine/rules.cpp" line="8033"/>
-        <location filename="../src/engine/rules.cpp" line="8148"/>
+        <location filename="../src/engine/rules.cpp" line="7740"/>
+        <location filename="../src/engine/rules.cpp" line="7856"/>
+        <location filename="../src/engine/rules.cpp" line="8057"/>
+        <location filename="../src/engine/rules.cpp" line="8172"/>
         <source>Hour %1 is inexistent (it is also not void, to specify end of the day)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="7675"/>
+        <location filename="../src/engine/rules.cpp" line="7699"/>
         <source>Constraint TeacherIntervalMaxDaysPerWeek max days corrupt for teacher %1, max days %2 &gt;nDaysPerWeek, constraint added, please correct constraint</source>
         <translation>RB số ngày tối đa trong tuần có cùng khoảng thời gian lên lớp cụ thể cho giáo viên bị lỗi với trường hợp giáo viên %1, số ngày tối đa %2 &gt; số ngày làm việc trong tuần. Hãy sửa lại</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="7791"/>
+        <location filename="../src/engine/rules.cpp" line="7815"/>
         <source>Constraint TeachersIntervalMaxDaysPerWeek max days corrupt, max days %1 &gt;nDaysPerWeek, constraint added, please correct constraint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="7886"/>
+        <location filename="../src/engine/rules.cpp" line="7910"/>
         <source>Constraint StudentsSetMaxDaysPerWeek max days corrupt for students set %1, max days %2 &gt;nDaysPerWeek, constraint added, please correct constraint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="7926"/>
+        <location filename="../src/engine/rules.cpp" line="7950"/>
         <source>Constraint StudentsMaxDaysPerWeek max days corrupt, max days %1 &gt;nDaysPerWeek, constraint added, please correct constraint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="8108"/>
+        <location filename="../src/engine/rules.cpp" line="8132"/>
         <source>Constraint StudentsIntervalMaxDaysPerWeek max days corrupt: max days %1 &gt;nDaysPerWeek, constraint added, please correct constraint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="7992"/>
+        <location filename="../src/engine/rules.cpp" line="8016"/>
         <source>Constraint StudentsSetIntervalMaxDaysPerWeek max days corrupt for students set %1, max days %2 &gt;nDaysPerWeek, constraint added, please correct constraint</source>
         <translation>RB số ngày tối đa trong tuần có cùng khoảng thời gian lên lớp cụ thể cho lớp học bị lỗi với trường hợp lớp học %1, số ngày tối đa %2 &gt; số ngày làm việc trong tuần. Hãy sửa lại</translation>
     </message>
@@ -45790,92 +45759,92 @@ not added - must be a duplicate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="8497"/>
-        <location filename="../src/engine/rules.cpp" line="8636"/>
+        <location filename="../src/engine/rules.cpp" line="8521"/>
+        <location filename="../src/engine/rules.cpp" line="8660"/>
         <source>Found constraint min days between activities with tag consecutive if same day which is not &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. The tag will be considered false</source>
         <comment>Instructions for translators: please leave the &apos;true&apos;, &apos;false&apos;, &apos;yes&apos; and &apos;no&apos; fields untranslated, as they are in English</comment>
         <translation>Lỗi thông tin bổ trợ tiết giảng xếp liền có giá trị khác &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. Thông tin sẽ được đặt là &apos;false&apos;</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="9541"/>
+        <location filename="../src/engine/rules.cpp" line="9565"/>
         <source>Found constraint teachers min hours daily with tag allow empty days which is not &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. The tag will be considered false</source>
         <comment>Instructions for translators: please leave the &apos;true&apos;, &apos;false&apos;, &apos;yes&apos; and &apos;no&apos; fields untranslated, as they are in English</comment>
         <translation>Lỗi thông tin bổ trợ ngày trống có giá trị khác &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. Thông tin sẽ được đặt là &apos;false&apos;</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="9618"/>
+        <location filename="../src/engine/rules.cpp" line="9642"/>
         <source>Found constraint teacher min hours daily with tag allow empty days which is not &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. The tag will be considered false</source>
         <comment>Instructions for translators: please leave the &apos;true&apos;, &apos;false&apos;, &apos;yes&apos; and &apos;no&apos; fields untranslated, as they are in English</comment>
         <translation>Lỗi thông tin bổ trợ ngày trống có giá trị khác &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. Thông tin sẽ được đặt là &apos;false&apos;</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="4672"/>
-        <location filename="../src/engine/rules.cpp" line="4753"/>
-        <location filename="../src/engine/rules.cpp" line="9693"/>
-        <location filename="../src/engine/rules.cpp" line="9764"/>
-        <location filename="../src/engine/rules.cpp" line="9830"/>
-        <location filename="../src/engine/rules.cpp" line="9901"/>
-        <location filename="../src/engine/rules.cpp" line="9958"/>
-        <location filename="../src/engine/rules.cpp" line="10010"/>
-        <location filename="../src/engine/rules.cpp" line="10067"/>
-        <location filename="../src/engine/rules.cpp" line="10119"/>
-        <location filename="../src/engine/rules.cpp" line="10205"/>
-        <location filename="../src/engine/rules.cpp" line="10296"/>
-        <location filename="../src/engine/rules.cpp" line="12578"/>
-        <location filename="../src/engine/rules.cpp" line="12704"/>
+        <location filename="../src/engine/rules.cpp" line="4696"/>
+        <location filename="../src/engine/rules.cpp" line="4777"/>
+        <location filename="../src/engine/rules.cpp" line="9717"/>
+        <location filename="../src/engine/rules.cpp" line="9788"/>
+        <location filename="../src/engine/rules.cpp" line="9854"/>
+        <location filename="../src/engine/rules.cpp" line="9925"/>
+        <location filename="../src/engine/rules.cpp" line="9982"/>
+        <location filename="../src/engine/rules.cpp" line="10034"/>
+        <location filename="../src/engine/rules.cpp" line="10091"/>
+        <location filename="../src/engine/rules.cpp" line="10143"/>
+        <location filename="../src/engine/rules.cpp" line="10229"/>
+        <location filename="../src/engine/rules.cpp" line="10320"/>
+        <location filename="../src/engine/rules.cpp" line="12602"/>
+        <location filename="../src/engine/rules.cpp" line="12728"/>
         <source>%1 not found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="10189"/>
+        <location filename="../src/engine/rules.cpp" line="10213"/>
         <source>Found constraint students min hours daily with tag allow empty days which is not &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. The tag will be considered false</source>
         <comment>Instructions for translators: please leave the &apos;true&apos;, &apos;false&apos;, &apos;yes&apos; and &apos;no&apos; fields untranslated, as they are in English</comment>
         <translation>Lỗi thông tin bổ trợ ngày trống có giá trị khác &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. Thông tin sẽ được đặt là &apos;false&apos;</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="10280"/>
+        <location filename="../src/engine/rules.cpp" line="10304"/>
         <source>Found constraint students set min hours daily with tag allow empty days which is not &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. The tag will be considered false</source>
         <comment>Instructions for translators: please leave the &apos;true&apos;, &apos;false&apos;, &apos;yes&apos; and &apos;no&apos; fields untranslated, as they are in English</comment>
         <translation>Lỗi thông tin bổ trợ ngày trống có giá trị khác &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. Thông tin sẽ được đặt là &apos;false&apos;</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="10358"/>
-        <location filename="../src/engine/rules.cpp" line="10536"/>
+        <location filename="../src/engine/rules.cpp" line="10382"/>
+        <location filename="../src/engine/rules.cpp" line="10560"/>
         <source>Found constraint activity preferred starting time with tag permanently locked which is not &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. The tag will be considered false</source>
         <comment>Instructions for translators: please leave the &apos;true&apos;, &apos;false&apos;, &apos;yes&apos; and &apos;no&apos; fields untranslated, as they are in English</comment>
         <translation>Lỗi thông tin bổ trợ khóa vĩnh viễn có giá trị khác &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. Thông tin sẽ được đặt là &apos;false&apos;</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="10421"/>
-        <location filename="../src/engine/rules.cpp" line="10599"/>
+        <location filename="../src/engine/rules.cpp" line="10445"/>
+        <location filename="../src/engine/rules.cpp" line="10623"/>
         <source>Found constraint activity preferred starting time, with unspecified tag &apos;permanently locked&apos; - this tag will be set to &apos;false&apos; by default. You can always modify it by editing the constraint in the &apos;Data&apos; menu</source>
         <translation>Lỗi thông tin bổ trợ khóa vĩnh viễn bị thiếu. Thông tin sẽ được đặt là &apos;false&apos;</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="10424"/>
-        <location filename="../src/engine/rules.cpp" line="10602"/>
+        <location filename="../src/engine/rules.cpp" line="10448"/>
+        <location filename="../src/engine/rules.cpp" line="10626"/>
         <source>Explanation: starting with version 5.8.0 (January 2009), the constraint activity preferred starting time has a new tag, &apos;permanently locked&apos; (true or false). It is recommended to make the tag &apos;permanently locked&apos; true for the constraints you need to be not modifiable from the &apos;Timetable&apos; menu and leave this tag false for the constraints you need to be modifiable from the &apos;Timetable&apos; menu (the &apos;permanently locked&apos; tag can be modified by editing the constraint from the &apos;Data&apos; menu). This way, when viewing the timetable and locking/unlocking some activities, you will not unlock the constraints which need to be locked all the time.</source>
         <translation>Giải thích: Bắt đầu từ phiên bản 5.8.0 (tháng 01 năm 2009), RB tiết giảng với thời điểm bắt đầu buổi học cụ thể có thông tin bổ trợ mới, &apos;khóa vĩnh viễn&apos; (true hay false).</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="10443"/>
-        <location filename="../src/engine/rules.cpp" line="10621"/>
+        <location filename="../src/engine/rules.cpp" line="10467"/>
+        <location filename="../src/engine/rules.cpp" line="10645"/>
         <source>Found constraint activity preferred starting time, with unspecified day or hour. This constraint will be transformed into constraint activity preferred starting times (a set of times, not only one). This change is done in FET versions 5.8.1 and higher.</source>
         <translation>Lỗi tiết giảng với thời điểm bắt đầu cụ thể bị thiếu. RB đã được chuyển sang dạng mới từ phiên bản 5.8.1.</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="14266"/>
+        <location filename="../src/engine/rules.cpp" line="14290"/>
         <source>Found constraint activity preferred room with tag permanently locked which is not &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. The tag will be considered false</source>
         <comment>Instructions for translators: please leave the &apos;true&apos;, &apos;false&apos;, &apos;yes&apos; and &apos;no&apos; fields untranslated, as they are in English</comment>
         <translation>Lỗi thông tin bổ trợ khóa vĩnh viễn có giá trị khác &apos;true&apos;, &apos;false&apos;, &apos;yes&apos;, &apos;no&apos;, &apos;1&apos; or &apos;0&apos;. Thông tin sẽ được đặt là &apos;false&apos;</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="14309"/>
+        <location filename="../src/engine/rules.cpp" line="14333"/>
         <source>Found constraint activity preferred room, with unspecified tag &apos;permanently locked&apos; - this tag will be set to &apos;false&apos; by default. You can always modify it by editing the constraint in the &apos;Data&apos; menu</source>
         <translation>Lỗi thông tin bổ trợ khóa vĩnh viễn bị thiếu. Thông tin sẽ được đặt là &apos;false&apos;</translation>
     </message>
     <message>
-        <location filename="../src/engine/rules.cpp" line="14312"/>
+        <location filename="../src/engine/rules.cpp" line="14336"/>
         <source>Explanation: starting with version 5.8.0 (January 2009), the constraint activity preferred room has a new tag, &apos;permanently locked&apos; (true or false). It is recommended to make the tag &apos;permanently locked&apos; true for the constraints you need to be not modifiable from the &apos;Timetable&apos; menu and leave this tag false for the constraints you need to be modifiable from the &apos;Timetable&apos; menu (the &apos;permanently locked&apos; tag can be modified by editing the constraint from the &apos;Data&apos; menu). This way, when viewing the timetable and locking/unlocking some activities, you will not unlock the constraints which need to be locked all the time.</source>
         <translation>Giải thích: Bắt đầu từ phiên bản 5.8.0 (tháng 01 năm 2009), RB tiết giảng với thời điểm bắt đầu buổi học cụ thể có thông tin bổ trợ mới, &apos;khóa vĩnh viễn&apos; (true hay false).</translation>
     </message>
@@ -45982,22 +45951,22 @@ not added - must be a duplicate</source>
 <context>
     <name>SettingsTimetableHtmlLevelForm</name>
     <message>
-        <location filename="../src/interface/settingstimetablehtmllevelform.cpp" line="77"/>
+        <location filename="../src/interface/settingstimetablehtmllevelform.cpp" line="81"/>
         <source>FET warning</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="../src/interface/settingstimetablehtmllevelform.cpp" line="77"/>
+        <location filename="../src/interface/settingstimetablehtmllevelform.cpp" line="81"/>
         <source>No level selected</source>
         <translation>Chưa cấp nào được chọn</translation>
     </message>
     <message>
-        <location filename="../src/interface/settingstimetablehtmllevelform.cpp" line="84"/>
+        <location filename="../src/interface/settingstimetablehtmllevelform.cpp" line="88"/>
         <source>FET information</source>
         <translation>Thông tin</translation>
     </message>
     <message>
-        <location filename="../src/interface/settingstimetablehtmllevelform.cpp" line="84"/>
+        <location filename="../src/interface/settingstimetablehtmllevelform.cpp" line="88"/>
         <source>This level might generate very large timetables, maybe 1 MB per file and 20 MB for all files of a timetable or even more. Are you sure you have enough disk space?</source>
         <translation>Cấp độ này có thể tạo TKB kích thước lớn, có lẽ 1 MB/tệp và 20 MB/tất cả tệp của 1 TKB. Bạn có chắc chắn đĩa đủ dung lượng?</translation>
     </message>
@@ -46010,14 +45979,7 @@ not added - must be a duplicate</source>
         <translation>Cấp độ HTML cho TKB</translation>
     </message>
     <message>
-        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="26"/>
-        <source>Level 0 - no css
-- smallest filesize
-- no css file</source>
-        <translation>Cấp 0 - không CSS - kích cỡ nhỏ nhất</translation>
-    </message>
-    <message>
-        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="85"/>
+        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="83"/>
         <source>Level 5 - JavaScript
 - all features of level 4 with around 3.5 times larger filesize than level 2
 - highlighting of same subjects, activity tags, teachers, students sets and rooms
@@ -46027,17 +45989,17 @@ not added - must be a duplicate</source>
 - hiện rõ những môn học, thông tin bổ trợ, giáo viên, lớp học và phòng học trùng nhau</translation>
     </message>
     <message>
-        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="129"/>
+        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="133"/>
         <source>OK</source>
         <translation>Đồng ý</translation>
     </message>
     <message>
-        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="136"/>
+        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="140"/>
         <source>Cancel</source>
         <translation>Thoát</translation>
     </message>
     <message>
-        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="35"/>
+        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="33"/>
         <source>Level 1 - basic css
 - less then 1 kb larger filesize than level 0
 - css file created to style elements table, caption, thead, tfoot, tbody, th and td
@@ -46050,14 +46012,19 @@ not added - must be a duplicate</source>
         <translation>Hộp thoại thiết lập cấp độ HTML của TKB</translation>
     </message>
     <message>
-        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="45"/>
+        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="26"/>
+        <source>Level 0 - no css (smallest filesize, no css file)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="43"/>
         <source>Level 2 - normal css (default)
 - all features of level 1 with around 5% larger filesize than level 1
 - style x-axis and y-axis of tablehead (useful to style width and height of the activity cells)</source>
         <translation>Cấp 2 - CSS bình thường - kích cỡ 5% lớn hơn cấp 1</translation>
     </message>
     <message>
-        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="54"/>
+        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="52"/>
         <source>Level 3 - advanced css
 - all features of level 2 with around 2 times larger filesize than level 2
 - style (or hide) all subjects, activity tags, teachers, students sets and rooms
@@ -46065,19 +46032,24 @@ not added - must be a duplicate</source>
         <translation>Cấp 3 - CSS nâng cao - kích cỡ gấp đôi cấp 2</translation>
     </message>
     <message>
-        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="70"/>
+        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="68"/>
         <source>Level 4 - full css
 - all features of level 3 with around 2.5 times larger filesize than level 2
 - style every single subject, activity tag, teacher, students set and room</source>
         <translation>Cấp 4 - CSS đầy đủ - kích cỡ 2.5 lần cấp 2</translation>
     </message>
     <message>
-        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="101"/>
+        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="99"/>
         <source>Level 6 - overloaded css
 - all features of level 5 with around 4 times larger filesize than level 2
 - style the cell of every single subject, activity tag, teacher or student
 (also useful to hide activities with special activity tags)</source>
         <translation>Cấp 6 - CSS tràn - kích cỡ khoảng 4 lần cấp 2</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/settingstimetablehtmllevelform_template.ui" line="111"/>
+        <source>Level 7 - colors (level 3 plus colors)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -46283,6 +46255,11 @@ not added - must be a duplicate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/interface/splityearform.cpp" line="746"/>
+        <source>Maybe an alternative to dividing a year into many categories/subgroups would be to enter individual students as FET subgroups and add into each group the corresponding subgroups. But this is hard to do from the FET interface - maybe a solution would be to use an automatic tool to convert your institution data into a file in .fet format.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/interface/splityearform.cpp" line="784"/>
         <source>Do you really want to reset the form values to defaults (empty)?</source>
         <translation type="unfinished"></translation>
@@ -46381,11 +46358,6 @@ not added - must be a duplicate</source>
     <message>
         <location filename="../src/interface/splityearform.cpp" line="743"/>
         <source>Maybe a reasonable number of categories could be 2, 3 or maximum 4. The divide year dialog allows much higher values, but these are not at all recommended.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/interface/splityearform.cpp" line="746"/>
-        <source>Maybe an alternative to dividing a year into many categories/subgroups would be to enter individual students as FET subgroups and add into each group the corresponding subgroups. But this is hard to do from the FET interface - maybe a solution would be to use an automatic tool to convert your instition data into a file in .fet format.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -46878,12 +46850,12 @@ Please report error. FET will now abort current operation</source>
 <context>
     <name>StartTimetablePrint</name>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="146"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="153"/>
         <source>FET warning</source>
         <translation type="unfinished">Cảnh báo</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="147"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="154"/>
         <source>Printing is currently not possible, because you modified the dataset. Please generate a new timetable before printing.</source>
         <translatorcomment>Hiện nay không in TKB được vì chưa có dữ liệu. Hãy tạo ra một TKB mới trước khi in.</translatorcomment>
         <translation></translation>
@@ -48560,1122 +48532,1128 @@ Bottom: %4</source>
 <context>
     <name>TimetableExport</name>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="770"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1291"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1583"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1642"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1708"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1772"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1830"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2165"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2332"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2388"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2445"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2482"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2519"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2560"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2601"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2660"/>
+        <location filename="../src/engine/timetableexport.cpp" line="809"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1334"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1630"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1689"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1755"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1819"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1877"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2212"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2450"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2506"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2563"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2600"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2637"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2678"/>
         <location filename="../src/engine/timetableexport.cpp" line="2719"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2762"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2804"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2850"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2898"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2952"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3006"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3049"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3092"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3138"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3186"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3220"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3254"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3290"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3326"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3365"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2778"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2837"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2880"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2922"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2968"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3016"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3070"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3124"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3167"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3210"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3256"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3304"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3338"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3372"/>
         <location filename="../src/engine/timetableexport.cpp" line="3408"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3455"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3501"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3536"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3571"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3611"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3652"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3702"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3754"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3794"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3835"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3880"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3928"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3976"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4023"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4059"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4096"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4138"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4179"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4237"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4296"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4332"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3444"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3483"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3526"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3573"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3619"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3654"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3689"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3729"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3770"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3820"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3872"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3912"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3953"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3998"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4046"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4094"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4141"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4177"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4214"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4256"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4297"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4355"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4414"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4450"/>
         <source>Cannot open file %1 for writing. Please check your disk&apos;s free space. Saving of %1 aborted.</source>
         <translation>Không thể mở tệp %1. Hãy kiểm tra dung lượng đĩa. Lưu tệp %1 bị hủy bỏ.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1602"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1617"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2307"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1649"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1664"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2425"/>
         <source>End of file.</source>
         <translation>Cuối tệp.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1608"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1655"/>
         <source>Conflicts of %1</source>
         <translation>Mâu thuẫn tại %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1610"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2180"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4557"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1657"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2227"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4782"/>
         <source>Warning! Only %1 out of %2 activities placed!</source>
         <translation>Cảnh báo: Chỉ có %1 trong số %2 tiết giảng đã được xếp!</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="801"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1304"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1622"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1688"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1752"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1814"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2133"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2311"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2367"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2424"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2461"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2498"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2539"/>
+        <location filename="../src/engine/timetableexport.cpp" line="840"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1347"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1669"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1735"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1799"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1861"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2180"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2429"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2485"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2542"/>
         <location filename="../src/engine/timetableexport.cpp" line="2579"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2639"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2698"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2741"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2783"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2829"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2875"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2931"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2985"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3028"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3071"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3117"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3163"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3199"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3233"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3269"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3305"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3344"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3385"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3434"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3480"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3515"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3550"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3590"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3631"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3681"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3733"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3773"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3814"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3859"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3905"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3955"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4002"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4038"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4075"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4117"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4158"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4216"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4275"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4311"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4347"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2616"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2657"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2697"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2757"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2816"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2859"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2901"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2947"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2993"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3049"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3103"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3146"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3189"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3235"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3281"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3317"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3351"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3387"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3423"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3462"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3503"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3552"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3598"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3633"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3668"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3708"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3749"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3799"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3851"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3891"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3932"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3977"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4023"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4073"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4120"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4156"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4193"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4235"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4276"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4334"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4393"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4429"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4465"/>
         <source>Writing %1 gave error code %2, which means saving is compromised. Please check your disk&apos;s free space.</source>
         <translation>Ghi %1 với mã lỗi %2. Hãy kiểm tra dung lượng đĩa.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2196"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2245"/>
         <source>Some programs import &quot;tfoot&quot; incorrectly. So we use &quot;tr.foot&quot; instead of &quot;tfoot&quot;.</source>
         <comment>Please keep tfoot and tr.foot untranslated, as they are in the original English phrase</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="4559"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4784"/>
         <source>Institution name</source>
         <translation>Tên nhà trường</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="4560"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4785"/>
         <source>Comments</source>
         <translation>Ghi chú</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2183"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2230"/>
         <source>To do a page-break only after every second timetable, delete &quot;page-break-before: always;&quot; in &quot;table.even_table&quot;.</source>
         <comment>Please keep fields in quotes as they are, untranslated.</comment>
         <translation>Để chỉ đặt ngắt trang ở những TKB chẵn, xóa &quot;page-break-before: always;&quot; trong &quot;table.even_table&quot;.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2185"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2234"/>
         <source>To hide an element just write the following phrase into the element: %1 (without quotes).</source>
         <comment>%1 is a short phrase beginning and ending with quotes, and we want the user to be able to add it, but without quotes</comment>
         <translation>Để ẩn một yếu tố, chỉ cần viết đoạn sau vào yếu tố đó:%1 (không có kí tự trích dẫn).</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2345"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2401"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2614"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2673"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2911"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2965"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8661"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8672"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2463"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2519"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2732"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2791"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3029"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3083"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8903"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8914"/>
         <source>Year</source>
         <translation>Khối</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2348"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2404"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2617"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2676"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8679"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8690"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2466"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2522"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2735"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2794"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8921"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8932"/>
         <source>Group</source>
         <translation>Nhóm lớp</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2361"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2417"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2532"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2573"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2630"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2689"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2733"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2775"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2820"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2866"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2922"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2976"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3020"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3063"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3108"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3154"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3338"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3378"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3428"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3474"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3584"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3624"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3674"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3726"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3852"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3897"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3949"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3996"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4110"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4152"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4208"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4267"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2479"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2535"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2650"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2691"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2748"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2807"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2851"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2893"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2938"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2984"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3040"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3094"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3138"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3181"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3226"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3272"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3456"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3496"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3546"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3592"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3702"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3742"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3792"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3844"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3970"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4015"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4067"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4114"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4228"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4270"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4326"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4385"/>
         <source>back to the top</source>
         <translation>Trở lên trên đỉnh</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2618"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2677"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2912"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2966"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4189"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4247"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4574"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8078"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8189"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2736"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2795"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3030"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3084"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4307"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4365"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4799"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8320"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8431"/>
         <source>Detailed</source>
         <translation>Chi tiết</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2619"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2678"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2913"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2967"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4190"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4248"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4576"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8079"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8190"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2737"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2796"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3031"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3085"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4308"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4366"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4801"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8321"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8432"/>
         <source>Less detailed</source>
         <translation>Bớt chi tiết</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="3940"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3988"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4058"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4106"/>
         <source>Subject</source>
         <translation>Môn học</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2292"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2410"/>
         <source>Style the teachers free periods</source>
         <translation>Đánh dấu các tiết nghỉ giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="783"/>
+        <location filename="../src/engine/timetableexport.cpp" line="822"/>
         <source>Generation started on: %1</source>
         <comment>%1 is the time</comment>
         <translation>Sinh TKB bắt đầu lúc: %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="787"/>
-        <location filename="../src/engine/timetableexport.cpp" line="795"/>
+        <location filename="../src/engine/timetableexport.cpp" line="826"/>
+        <location filename="../src/engine/timetableexport.cpp" line="834"/>
         <source>This file was automatically generated by FET %1.</source>
         <translation>Tệp này được sinh tự động bởi FET phiên bản %1.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="791"/>
+        <location filename="../src/engine/timetableexport.cpp" line="830"/>
         <source>Generation ended on: %1</source>
         <comment>%1 is the time</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="793"/>
+        <location filename="../src/engine/timetableexport.cpp" line="832"/>
         <source>Random seed at the end of generation is: X=%1, Y=%2</source>
         <comment>The random seed has two components, X and Y</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1594"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1641"/>
         <source>Soft conflicts of %1</source>
         <comment>%1 is the file name</comment>
         <translation>Mâu thuẫn mềm trong tệp %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1596"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1611"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1643"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1658"/>
         <source>Generated with FET %1 on %2</source>
         <comment>%1 is FET version, %2 is the date and time of generation</comment>
         <translation>TKB tạo ra với FET phiên bản %1 vào lúc %2</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1598"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1645"/>
         <source>Total soft conflicts:</source>
         <translation>Tổng số mâu thuẫn mềm:</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1613"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1660"/>
         <source>Total conflicts:</source>
         <translation>Tổng số mâu thuẫn:</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1855"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1902"/>
         <source>No timetable was written, because from the settings you disabled writing any timetable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1856"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1903"/>
         <source>The exception is that after each successful (complete) timetable generation the %1 file will be written.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1860"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1907"/>
         <source>File generated with FET %1 on %2</source>
         <comment>%1 is FET version, %2 is the date and time of generation</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1873"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1920"/>
         <source>students</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1875"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1922"/>
         <source>students - disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1880"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1927"/>
         <source>teachers - disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1882"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1929"/>
         <source>View statistics: %1, %2.</source>
         <comment>%1 and %2 are two files in HTML format, to show statistics for students and teachers. The user can click on one file to view it</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1928"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1932"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1936"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1940"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1942"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1943"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1944"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1945"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1954"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1958"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1962"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1966"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1968"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1969"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1970"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1971"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1980"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1984"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1988"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1975"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1979"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1983"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1987"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1989"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1990"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1991"/>
         <location filename="../src/engine/timetableexport.cpp" line="1992"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1994"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1995"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1996"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1997"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2006"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2010"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2014"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2001"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2005"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2009"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2013"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2015"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2016"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2017"/>
         <location filename="../src/engine/timetableexport.cpp" line="2018"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2020"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2021"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2022"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2023"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2032"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2036"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2038"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2027"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2031"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2035"/>
         <location filename="../src/engine/timetableexport.cpp" line="2039"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2050"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2054"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2058"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2062"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2064"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2041"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2042"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2043"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2044"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2053"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2057"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2061"/>
         <location filename="../src/engine/timetableexport.cpp" line="2065"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2066"/>
         <location filename="../src/engine/timetableexport.cpp" line="2067"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2076"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2080"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2084"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2088"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2090"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2091"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2092"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2093"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2102"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2106"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2110"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2068"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2069"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2070"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2079"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2083"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2085"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2086"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2097"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2101"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2105"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2109"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2111"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2112"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2113"/>
         <location filename="../src/engine/timetableexport.cpp" line="2114"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2116"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2117"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2118"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2119"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2123"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2127"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2131"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2135"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2137"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2138"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2139"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2140"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2149"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2153"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2157"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2161"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2163"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2164"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2165"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2166"/>
         <source>disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2123"/>
-        <location filename="../src/engine/timetableexport.cpp" line="5173"/>
-        <location filename="../src/engine/timetableexport.cpp" line="5231"/>
-        <location filename="../src/engine/timetableexport.cpp" line="5298"/>
-        <location filename="../src/engine/timetableexport.cpp" line="5361"/>
-        <location filename="../src/engine/timetableexport.cpp" line="5426"/>
-        <location filename="../src/engine/timetableexport.cpp" line="5488"/>
-        <location filename="../src/engine/timetableexport.cpp" line="5559"/>
-        <location filename="../src/engine/timetableexport.cpp" line="5630"/>
-        <location filename="../src/engine/timetableexport.cpp" line="5711"/>
-        <location filename="../src/engine/timetableexport.cpp" line="5791"/>
-        <location filename="../src/engine/timetableexport.cpp" line="5870"/>
-        <location filename="../src/engine/timetableexport.cpp" line="5946"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6020"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6096"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6183"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6268"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6355"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6436"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6487"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6538"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6589"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6646"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6697"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6751"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6810"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6871"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6937"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6999"/>
-        <location filename="../src/engine/timetableexport.cpp" line="7064"/>
-        <location filename="../src/engine/timetableexport.cpp" line="7126"/>
-        <location filename="../src/engine/timetableexport.cpp" line="7185"/>
-        <location filename="../src/engine/timetableexport.cpp" line="7245"/>
-        <location filename="../src/engine/timetableexport.cpp" line="7311"/>
-        <location filename="../src/engine/timetableexport.cpp" line="7374"/>
-        <location filename="../src/engine/timetableexport.cpp" line="7440"/>
-        <location filename="../src/engine/timetableexport.cpp" line="7501"/>
-        <location filename="../src/engine/timetableexport.cpp" line="7593"/>
-        <location filename="../src/engine/timetableexport.cpp" line="7686"/>
-        <location filename="../src/engine/timetableexport.cpp" line="7779"/>
-        <location filename="../src/engine/timetableexport.cpp" line="7877"/>
-        <location filename="../src/engine/timetableexport.cpp" line="7965"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8060"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8171"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8281"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8433"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8458"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8622"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8652"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8782"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8787"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8813"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2170"/>
+        <location filename="../src/engine/timetableexport.cpp" line="5415"/>
+        <location filename="../src/engine/timetableexport.cpp" line="5473"/>
+        <location filename="../src/engine/timetableexport.cpp" line="5540"/>
+        <location filename="../src/engine/timetableexport.cpp" line="5603"/>
+        <location filename="../src/engine/timetableexport.cpp" line="5668"/>
+        <location filename="../src/engine/timetableexport.cpp" line="5730"/>
+        <location filename="../src/engine/timetableexport.cpp" line="5801"/>
+        <location filename="../src/engine/timetableexport.cpp" line="5872"/>
+        <location filename="../src/engine/timetableexport.cpp" line="5953"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6033"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6112"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6188"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6262"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6338"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6425"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6510"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6597"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6678"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6729"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6780"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6831"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6888"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6939"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6993"/>
+        <location filename="../src/engine/timetableexport.cpp" line="7052"/>
+        <location filename="../src/engine/timetableexport.cpp" line="7113"/>
+        <location filename="../src/engine/timetableexport.cpp" line="7179"/>
+        <location filename="../src/engine/timetableexport.cpp" line="7241"/>
+        <location filename="../src/engine/timetableexport.cpp" line="7306"/>
+        <location filename="../src/engine/timetableexport.cpp" line="7368"/>
+        <location filename="../src/engine/timetableexport.cpp" line="7427"/>
+        <location filename="../src/engine/timetableexport.cpp" line="7487"/>
+        <location filename="../src/engine/timetableexport.cpp" line="7553"/>
+        <location filename="../src/engine/timetableexport.cpp" line="7616"/>
+        <location filename="../src/engine/timetableexport.cpp" line="7682"/>
+        <location filename="../src/engine/timetableexport.cpp" line="7743"/>
+        <location filename="../src/engine/timetableexport.cpp" line="7835"/>
+        <location filename="../src/engine/timetableexport.cpp" line="7928"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8021"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8119"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8207"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8302"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8413"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8523"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8675"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8700"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8864"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8894"/>
+        <location filename="../src/engine/timetableexport.cpp" line="9024"/>
+        <location filename="../src/engine/timetableexport.cpp" line="9029"/>
+        <location filename="../src/engine/timetableexport.cpp" line="9055"/>
         <source>Timetable generated with FET %1 on %2</source>
         <comment>%1 is FET version, %2 is the date and time of generation</comment>
         <translation>TKB tạo ra với FET phiên bản %1 vào lúc %2</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2177"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2224"/>
         <source>CSS Stylesheet of %1</source>
         <comment>%1 is the file name</comment>
         <translation>CSS Stylesheet dạng %1</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2181"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2228"/>
         <source>Stylesheet generated with FET %1 on %2</source>
         <comment>%1 is FET version, %2 is date and time</comment>
         <translation>Stylesheet tạo ra với FET phiên bản %1 vào lúc %2</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2261"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2232"/>
+        <source>Delete &quot;page-break-before: always;&quot; in &quot;table.even_table&quot; and in &quot;table.odd_table&quot; to skip page-breaks.</source>
+        <comment>Please keep fields in quotes as they are, untranslated.</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/engine/timetableexport.cpp" line="2379"/>
         <source>Be careful. You might get mutual and ambiguous styles. CSS means that the last definition will be used.</source>
         <translation>Lưu ý: Bạn có thể nhận được kết quả dạng nhập nhằng. CSS đảm bảo định nghĩa mới nhất được dùng.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2341"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2397"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2610"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2669"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2907"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2961"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3417"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3464"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3664"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3716"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3937"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3985"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4568"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2459"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2515"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2728"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2787"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3025"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3079"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3535"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3582"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3782"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3834"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4055"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4103"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4793"/>
         <source>Table of contents</source>
         <translation>Mục lục</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="3662"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3714"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3764"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3804"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3846"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3891"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3780"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3832"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3882"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3922"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3964"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4009"/>
         <source>No rooms recorded in FET for %1.</source>
         <comment>%1 is the institution name</comment>
         <translation>Số phòng được ghi trong %1.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="4189"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4190"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4247"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4248"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8078"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8079"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8189"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8190"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4307"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4308"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4365"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4366"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8320"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8321"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8431"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8432"/>
         <source>Teachers&apos; Free Periods</source>
         <translation>Tiết nghỉ của giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="4193"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4251"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4311"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4369"/>
         <source>Teacher has a single gap</source>
         <translation>Giáo viên có một tiết nghỉ xen kẽ</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="4194"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4252"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4312"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4370"/>
         <source>Teacher has a border gap</source>
         <translation>Giáo viên có tiết nghỉ xen kẽ ở vị trí bao</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="4195"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4253"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4313"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4371"/>
         <source>Teacher has a big gap</source>
         <translation>Giáo viên có một tiết nghỉ xen kẽ dài</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="4196"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4254"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4314"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4372"/>
         <source>Teacher must come earlier</source>
         <translation>Giáo viên lên lớp sớm</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="4197"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4255"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4315"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4373"/>
         <source>Teacher must come much earlier</source>
         <translation>Giáo viên lên lớp rất sớm</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="4198"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4256"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4316"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4374"/>
         <source>Teacher must stay longer</source>
         <translation>Giáo viên dạy liên tục nhiều giờ</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="4199"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4257"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4317"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4375"/>
         <source>Teacher must stay much longer</source>
         <translation>Giáo viên dạy liên tục rất nhiều giờ</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="4200"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4258"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4318"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4376"/>
         <source>Teacher has a free day</source>
         <translation>Giáo viên có ngày trống</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="4201"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4259"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4319"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4377"/>
         <source>Teacher is not available</source>
         <translation>Giáo viên bận</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8117"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8228"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8359"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8470"/>
         <source>Single gap</source>
         <translation>Tiết nghỉ xen kẽ đơn</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8118"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8229"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8360"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8471"/>
         <source>Border gap</source>
         <translation>Tiết nghỉ xen kẽ ở vị trí bao</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8119"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8230"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8361"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8472"/>
         <source>Big gap</source>
         <translation>Tiết nghỉ xen kẽ dài</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8120"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8231"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8362"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8473"/>
         <source>Must come earlier</source>
         <translation>Lên lớp sớm</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8121"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8232"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8363"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8474"/>
         <source>Must stay longer</source>
         <translation>Dạy liên tục nhiều giờ</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8122"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8233"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8364"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8475"/>
         <source>Must come much earlier</source>
         <translation>Lên lớp rất sớm</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8123"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8234"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8365"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8476"/>
         <source>Must stay much longer</source>
         <translation>Dạy liên tục rất nhiều giờ</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8124"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8235"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8366"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8477"/>
         <source>Free day</source>
         <translation>Ngày trống</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8125"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8367"/>
         <source>Not available</source>
         <comment>It refers to a teacher</comment>
         <translation type="unfinished">Bận</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8236"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8478"/>
         <source>Not available</source>
         <translation>Bận</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8294"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8471"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8536"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8713"/>
         <source>This is a teaser only. Values are not correct!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8298"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8475"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8540"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8717"/>
         <source>This file doesn&apos;t list limits that are set by constraints. It contains statistics about the min and max values of the currently calculated solution.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8401"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8643"/>
         <source>All teachers</source>
         <translation type="unfinished">Tất cả giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8402"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8444"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8591"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8638"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8799"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8644"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8686"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8833"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8880"/>
+        <location filename="../src/engine/timetableexport.cpp" line="9041"/>
         <source>Free days</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8403"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8592"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8645"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8834"/>
         <source>Gaps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8404"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8593"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8646"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8835"/>
         <source>Gaps per day</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8405"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8594"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8647"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8836"/>
         <source>Hours per day</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8408"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8597"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8650"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8839"/>
         <source>Sum</source>
         <translation type="unfinished">Tổng</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8414"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8603"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8656"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8845"/>
         <source>Average</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8420"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8609"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8662"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8851"/>
         <source>Min</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8426"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8615"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8668"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8857"/>
         <source>Max</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8443"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8452"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8685"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8694"/>
         <source>Teacher</source>
         <translation type="unfinished">Giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8445"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8639"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8800"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8687"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8881"/>
+        <location filename="../src/engine/timetableexport.cpp" line="9042"/>
         <source>Total gaps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8446"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8640"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8668"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8686"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8801"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8688"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8882"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8910"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8928"/>
+        <location filename="../src/engine/timetableexport.cpp" line="9043"/>
         <source>Min gaps per day</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8447"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8641"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8669"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8687"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8802"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8689"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8883"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8911"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8929"/>
+        <location filename="../src/engine/timetableexport.cpp" line="9044"/>
         <source>Max gaps per day</source>
         <translation type="unfinished">Số tiết nghỉ xen kẽ tối đa trong ngày</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8448"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8642"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8664"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8682"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8803"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8690"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8884"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8906"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8924"/>
+        <location filename="../src/engine/timetableexport.cpp" line="9045"/>
         <source>Min hours per day</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8449"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8643"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8665"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8683"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8804"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8691"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8885"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8907"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8925"/>
+        <location filename="../src/engine/timetableexport.cpp" line="9046"/>
         <source>Max hours per day</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8590"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8832"/>
         <source>All students</source>
         <translation type="unfinished">Tất cả học sinh</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8662"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8680"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8904"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8922"/>
         <source>Min free days</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8663"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8681"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8905"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8923"/>
         <source>Max free days</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8666"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8684"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8908"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8926"/>
         <source>Min gaps per week</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8667"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8685"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8909"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8927"/>
         <source>Max gaps per week</source>
         <translation type="unfinished">Số tiết nghỉ xen kẽ tối đa trong tuần</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="8637"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8646"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8798"/>
-        <location filename="../src/engine/timetableexport.cpp" line="8807"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8879"/>
+        <location filename="../src/engine/timetableexport.cpp" line="8888"/>
+        <location filename="../src/engine/timetableexport.cpp" line="9040"/>
+        <location filename="../src/engine/timetableexport.cpp" line="9049"/>
         <source>Subgroup</source>
         <translation type="unfinished">Nhóm con</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1599"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1646"/>
         <source>Soft conflicts list (in decreasing order):</source>
         <translation>Danh sách mâu thuẫn mềm (theo thứ tự giảm dần):</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1614"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1661"/>
         <source>Conflicts list (in decreasing order):</source>
         <translation>Danh sách mâu thuẫn (theo thứ tự giảm dần):</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="808"/>
-        <location filename="../src/engine/timetableexport.cpp" line="818"/>
-        <location filename="../src/engine/timetableexport.cpp" line="824"/>
+        <location filename="../src/engine/timetableexport.cpp" line="847"/>
+        <location filename="../src/engine/timetableexport.cpp" line="857"/>
+        <location filename="../src/engine/timetableexport.cpp" line="863"/>
         <source>FET - Critical</source>
         <translation>Điểm quan trọng</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="808"/>
+        <location filename="../src/engine/timetableexport.cpp" line="847"/>
         <source>Timetable not generated - cannot save it - this should not happen (please report bug)</source>
         <translation>TKB không lập và lưu được. Hãy liên hệ với đơn vị phát triển vì lỗi này</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="818"/>
-        <location filename="../src/engine/timetableexport.cpp" line="824"/>
+        <location filename="../src/engine/timetableexport.cpp" line="857"/>
+        <location filename="../src/engine/timetableexport.cpp" line="863"/>
         <source>Incomplete timetable - this should not happen - please report bug</source>
         <translation>TKB không hoàn thiện. Hãy liên hệ với đơn vị phát triển vì lỗi này</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="896"/>
-        <location filename="../src/engine/timetableexport.cpp" line="930"/>
+        <location filename="../src/engine/timetableexport.cpp" line="935"/>
+        <location filename="../src/engine/timetableexport.cpp" line="969"/>
         <source>Added the following constraint to saved file:</source>
         <translation>Đã thêm những RB sau vào tệp:</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="898"/>
-        <location filename="../src/engine/timetableexport.cpp" line="932"/>
+        <location filename="../src/engine/timetableexport.cpp" line="937"/>
+        <location filename="../src/engine/timetableexport.cpp" line="971"/>
         <source>Constraint
 %1 NOT added to saved file - duplicate</source>
         <translation>RB %1 KHÔNG được thêm vào tệp do trùng</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="769"/>
-        <location filename="../src/engine/timetableexport.cpp" line="800"/>
-        <location filename="../src/engine/timetableexport.cpp" line="992"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1290"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1303"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1582"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1621"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1641"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1687"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1707"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1751"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1771"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1813"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1829"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2132"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2164"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2310"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2331"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2366"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2387"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2423"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2444"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2460"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2481"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2497"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2518"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2538"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2559"/>
+        <location filename="../src/engine/timetableexport.cpp" line="808"/>
+        <location filename="../src/engine/timetableexport.cpp" line="839"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1031"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1333"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1346"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1629"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1668"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1688"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1734"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1754"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1798"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1818"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1860"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1876"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2179"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2211"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2428"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2449"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2484"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2505"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2541"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2562"/>
         <location filename="../src/engine/timetableexport.cpp" line="2578"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2600"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2638"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2659"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2697"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2599"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2615"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2636"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2656"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2677"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2696"/>
         <location filename="../src/engine/timetableexport.cpp" line="2718"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2740"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2761"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2782"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2803"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2828"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2849"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2874"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2897"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2930"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2951"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2984"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3005"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3027"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2756"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2777"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2815"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2836"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2858"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2879"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2900"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2921"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2946"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2967"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2992"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3015"/>
         <location filename="../src/engine/timetableexport.cpp" line="3048"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3070"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3091"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3116"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3137"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3162"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3185"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3198"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3219"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3232"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3253"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3268"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3289"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3304"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3325"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3343"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3364"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3384"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3069"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3102"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3123"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3145"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3166"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3188"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3209"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3234"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3255"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3280"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3303"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3316"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3337"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3350"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3371"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3386"/>
         <location filename="../src/engine/timetableexport.cpp" line="3407"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3433"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3454"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3479"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3500"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3514"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3535"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3549"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3570"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3589"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3610"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3630"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3651"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3680"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3701"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3732"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3753"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3772"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3793"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3813"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3834"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3858"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3879"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3904"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3927"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3954"/>
-        <location filename="../src/engine/timetableexport.cpp" line="3975"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4001"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3422"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3443"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3461"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3482"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3502"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3525"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3551"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3572"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3597"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3618"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3632"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3653"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3667"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3688"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3707"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3728"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3748"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3769"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3798"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3819"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3850"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3871"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3890"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3911"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3931"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3952"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3976"/>
+        <location filename="../src/engine/timetableexport.cpp" line="3997"/>
         <location filename="../src/engine/timetableexport.cpp" line="4022"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4037"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4058"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4074"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4095"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4116"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4137"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4157"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4178"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4215"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4236"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4274"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4295"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4310"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4331"/>
-        <location filename="../src/engine/timetableexport.cpp" line="4346"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4045"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4072"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4093"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4119"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4140"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4155"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4176"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4192"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4213"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4234"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4255"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4275"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4296"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4333"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4354"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4392"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4413"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4428"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4449"/>
+        <location filename="../src/engine/timetableexport.cpp" line="4464"/>
         <source>FET critical</source>
         <translation>Điểm quan trọng</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="785"/>
+        <location filename="../src/engine/timetableexport.cpp" line="824"/>
         <source>Random seed at the start of generation is: X=%1, Y=%2</source>
         <comment>The random seed has two components, X and Y</comment>
         <translation>Lõi tạo số ngẫu nhiên lúc bắt đầu sinh TKB: X=%1, Y=%2</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="992"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1031"/>
         <source>Could not save the data + timetable file on the hard disk - maybe hard disk is full</source>
         <translation>Không thể lưu dữ liệu và TKB. Có lẽ đĩa bị đầy</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1867"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1914"/>
         <source>Soft conflicts list - disabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1893"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1940"/>
         <source>subgroups - disabled</source>
         <comment>It means the subgroups XML timetables are disabled</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1897"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1944"/>
         <source>teachers - disabled</source>
         <comment>It means the teachers XML timetables are disabled</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1901"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1948"/>
         <source>activities - disabled</source>
         <comment>It means the activities XML timetables are disabled</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1902"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1949"/>
         <source>View XML: %1, %2, %3.</source>
         <comment>%1, %2 and %3 are three files in XML format, subgroups, teachers and activities timetables. The user can click on one file to view it</comment>
         <translation>Xem XML: %1, %2, %3.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1911"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1958"/>
         <source>Timetables</source>
         <translation>Thời khóa biểu</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1913"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1960"/>
         <source>Days Horizontal</source>
         <translation>Ngày ở trục hoành</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1913"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1960"/>
         <source>Days Vertical</source>
         <translation>Ngày ở trục tung</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1913"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1960"/>
         <source>Time Horizontal</source>
         <translation>Tiết học ở trục hoành</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1913"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1960"/>
         <source>Time Vertical</source>
         <translation>Tiết học ở trục tung</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1923"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1970"/>
         <source>Subgroups</source>
         <translation>Nhóm con</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1926"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1930"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1934"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1938"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1952"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1956"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1960"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1964"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1978"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1982"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1986"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1990"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2004"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2008"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2012"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2016"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2030"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2034"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2048"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2052"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2056"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2060"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2074"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2078"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2082"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2086"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2100"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2104"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2108"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2112"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1973"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1977"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1981"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1985"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1999"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2003"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2007"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2011"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2025"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2029"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2033"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2037"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2051"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2055"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2059"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2063"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2077"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2081"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2095"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2099"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2103"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2107"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2121"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2125"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2129"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2133"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2147"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2151"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2155"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2159"/>
         <source>view</source>
         <translation>Khung nhìn</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1949"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1996"/>
         <source>Groups</source>
         <translation>Nhóm lớp</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1975"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2022"/>
         <source>Years</source>
         <translation>Khối</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2001"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2048"/>
         <source>Teachers</source>
         <translation>Giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2027"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2074"/>
         <source>Teachers Free Periods</source>
         <translation>Tiết nghỉ của giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2045"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2092"/>
         <source>Rooms</source>
         <translation>Phòng học</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2071"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2118"/>
         <source>Subjects</source>
         <translation>Môn học</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1865"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1912"/>
         <source>View the soft conflicts list.</source>
         <translation>Xem danh sách mâu thuẫn mềm.</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="2097"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2144"/>
         <source>Activities</source>
         <translation>Tiết giảng</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="6448"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6499"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6556"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6627"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6642"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6665"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6734"/>
-        <location filename="../src/engine/timetableexport.cpp" line="6747"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6690"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6741"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6798"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6869"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6884"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6907"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6976"/>
+        <location filename="../src/engine/timetableexport.cpp" line="6989"/>
         <source>All Activities</source>
         <translation>Tiết giảng</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1899"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1946"/>
         <source>activities</source>
         <translation>Tiết giảng</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1878"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1895"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1925"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1942"/>
         <source>teachers</source>
         <translation>Giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1891"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1938"/>
         <source>subgroups</source>
         <translation>Nhóm con</translation>
     </message>
     <message>
-        <location filename="../src/engine/timetableexport.cpp" line="1593"/>
-        <location filename="../src/engine/timetableexport.cpp" line="1607"/>
-        <location filename="../src/engine/timetableexport.cpp" line="2176"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1640"/>
+        <location filename="../src/engine/timetableexport.cpp" line="1654"/>
+        <location filename="../src/engine/timetableexport.cpp" line="2223"/>
         <source>unnamed</source>
         <translation>chưa đặt tên</translation>
     </message>
@@ -49695,9 +49673,9 @@ Bottom: %4</source>
     <message>
         <location filename="../src/interface/timetablegenerateform.cpp" line="146"/>
         <location filename="../src/interface/timetablegenerateform.cpp" line="162"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="661"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="811"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="858"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="663"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="816"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="863"/>
         <source>FET information</source>
         <translation>Thông tin</translation>
     </message>
@@ -49720,15 +49698,15 @@ Bottom: %4</source>
         <location filename="../src/interface/timetablegenerateform.cpp" line="213"/>
         <location filename="../src/interface/timetablegenerateform.cpp" line="364"/>
         <location filename="../src/interface/timetablegenerateform.cpp" line="493"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="785"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="832"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="790"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="837"/>
         <source>Total conflicts:</source>
         <translation>Tổng số mâu thuẫn:</translation>
     </message>
     <message>
         <location filename="../src/interface/timetablegenerateform.cpp" line="288"/>
         <location filename="../src/interface/timetablegenerateform.cpp" line="535"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="887"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="892"/>
         <source>No: %1</source>
         <translation>Số: %1</translation>
     </message>
@@ -49742,8 +49720,8 @@ Bottom: %4</source>
         <location filename="../src/interface/timetablegenerateform.cpp" line="310"/>
         <location filename="../src/interface/timetablegenerateform.cpp" line="438"/>
         <location filename="../src/interface/timetablegenerateform.cpp" line="557"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="909"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="941"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="914"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="946"/>
         <source>OK</source>
         <translation>Đồng ý</translation>
     </message>
@@ -49770,98 +49748,98 @@ Bottom: %4</source>
         <translation>Tổng số mâu thuẫn mềm:</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="683"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="688"/>
         <source>%1 out of %2 activities placed</source>
         <translation>%1 trong số %2 tiết giảng đã được xếp</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="685"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="690"/>
         <source>Elapsed time:</source>
         <translation>Thời gian đã chạy:</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="689"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="715"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="694"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="720"/>
         <source>%1 h</source>
         <comment>hours</comment>
         <translation>%1 giờ</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="695"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="719"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="700"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="724"/>
         <source>%1 m</source>
         <comment>minutes</comment>
         <translation>%1 phút</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="700"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="723"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="705"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="728"/>
         <source>%1 s</source>
         <comment>seconds</comment>
         <translation>%1 giây</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="738"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="743"/>
         <source>Please wait. It might take 5 to 20 minutes or even more for very difficult timetables</source>
         <translation>Chương trình có thể cần 5 - 20 phút hoặc hơn để lập những TKB khó. Hãy chờ thêm lát nữa</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="740"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="745"/>
         <source>Activities are placed in order, most difficult ones first</source>
         <translation>Các tiết giảng được xếp theo trình tự khó nhất trước, dễ sau</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="742"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="747"/>
         <source>The process of searching is semi-randomized, which means that you will get different timetables and running times each time. You can choose the best timetable from several runs</source>
         <translation>Quá trình tìm kiếm là bán ngẫu nhiên, có nghĩa là mỗi lần chạy chương trình có thể tạo ra TKB và thời gian lập lịch khác nhau. Bạn hãy chọn TKB tốt nhất sau vài lần chạy</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="749"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="754"/>
         <source>It is recommended to strengthen the constraints step by step (for instance min days between activities weight or teacher(s) max gaps), as you obtain feasible timetables.</source>
         <translation>Bạn nên tiếp cận theo hướng &quot;tiệm tiến&quot; (chặt dần với vài loại RB) chừng nào còn lập được TKB.</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="752"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="757"/>
         <source>If your timetable gets stuck on a certain activity number k (and then begins going back), please check the initial evaluation order and see activity number k+1 in this list. You may find errors this way.</source>
         <translation>Nếu TKB bị dừng tại một tiết giảng k nào đó (và bắt đầu quay ngược lại), hãy kiểm tra trình tự xếp lịch và kiểm tra tiết giảng thứ (k+1) trong danh sách.</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="756"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="761"/>
         <source>If the generation is successful, you cannot have hard conflicts. You can have only soft conflicts, corresponding to constraints with weight lower than 100.0%, which are reported in detail.</source>
         <translation>Nếu việc lập lịch thành công, sẽ không có mâu thuẫn cứng. Bạn chỉ có mâu thuẫn mềm tương ứng với những RB có trọng số nhỏ hơn 100% được chỉ dẫn chi tiết.</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="759"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="764"/>
         <source>After the generation (successful or interrupted), you can view the current (complete or incomplete) timetable in the corresponding view timetable dialogs, and the list of conflicts in the view conflicts dialog.</source>
         <translation>Sau khi lâp lịch (dù thành công hay bị ngắt), bạn có thể xem TKB hiện tại trong hộp thoại TKB và danh sách các mâu thuẫn trong hộp thoại mâu thuẫn.</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="762"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="767"/>
         <source>The results are saved in your selected results directory in HTML and XML mode and the soft conflicts in text mode, along with the current data and timetable, saved as a .fet data file (with activities locked by constraints), so that you can open, modify and regenerate the current timetable later</source>
         <translation>Kết quả được lưu trong thư mục kết quả ở dạng HTML hoặc XML; các mâu thuẫn mềm trong dạng ký tự, cùng với dữ liệu và TKB hiện hành</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="766"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="771"/>
         <source>FET help</source>
         <translation>Trợ giúp</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="812"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="817"/>
         <source>Simulation results should now be written in the directory %1 in html and xml mode and the conflicts in txt mode</source>
         <translation>Kết quả TKB lâm thời được lưu trong thư mục %1 ở dạng HTML và XML; trong khi các mâu thuẫn ở dạng xâu kí tự TXT</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="875"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="880"/>
         <source>Information relating difficult to schedule activities:</source>
         <translation>Thông tin liên quan tới những khó khăn khi lập lịch:</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="877"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="882"/>
         <source>Please check the constraints related to the last activities in the list below, which might be difficult to schedule:</source>
         <translation>Hãy kiểm tra các RB của những tiết giảng cuối cùng trong danh sách sau, thường là khó xếp lịch:</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="880"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="885"/>
         <source>Here are the placed activities which lead to a difficulty, in order from the first one to the last (the last one FET failed to schedule and the last ones are difficult):</source>
         <translation>Đây là những tiết giảng đã được xếp lịch dẫn tới tình huống khó, theo trình tự từ tiết đầu tới tiết cuối (tiết cuối không thể xếp được lịch và là tình huống khó):</translation>
     </message>
@@ -49869,8 +49847,8 @@ Bottom: %4</source>
         <location filename="../src/interface/timetablegenerateform.cpp" line="211"/>
         <location filename="../src/interface/timetablegenerateform.cpp" line="362"/>
         <location filename="../src/interface/timetablegenerateform.cpp" line="491"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="783"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="830"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="788"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="835"/>
         <source>Conflicts</source>
         <comment>Title of dialog</comment>
         <translation>Mâu thuẫn</translation>
@@ -49879,8 +49857,8 @@ Bottom: %4</source>
         <location filename="../src/interface/timetablegenerateform.cpp" line="217"/>
         <location filename="../src/interface/timetablegenerateform.cpp" line="368"/>
         <location filename="../src/interface/timetablegenerateform.cpp" line="497"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="789"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="836"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="794"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="841"/>
         <source>Conflicts listing (in decreasing order):</source>
         <translation>Danh sách mâu thuẫn (theo mức độ giảm dần):</translation>
     </message>
@@ -49908,7 +49886,7 @@ Bottom: %4</source>
         <location filename="../src/interface/timetablegenerateform.cpp" line="292"/>
         <location filename="../src/interface/timetablegenerateform.cpp" line="417"/>
         <location filename="../src/interface/timetablegenerateform.cpp" line="539"/>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="891"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="896"/>
         <source>Id: %1 (%2)</source>
         <comment>%1 is id of activity, %2 is detailed description of activity</comment>
         <translation>Id:%1 (%2)</translation>
@@ -49955,22 +49933,22 @@ Bottom: %4</source>
         <translation>Kết quả được lưu trong thư mục %1</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="859"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="864"/>
         <source>Highest stage results should now be written in the directory %1 in html and xml mode and the conflicts in txt mode</source>
         <translation>Kết quả TKB lâm thời được lưu trong thư mục %1 ở dạng HTML và XML; trong khi các mâu thuẫn ở dạng xâu kí tự TXT</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="903"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="908"/>
         <source>FET - information about difficult activities</source>
         <translation>Thông tin về những tiết giảng khó xếp lịch</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="935"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="940"/>
         <source>FET - information about initial order of evaluation of activities</source>
         <translation>Thông tin về những trình tự tiết giảng ban đầu để xếp lịch</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="745"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="750"/>
         <source>Usually, there is no need to stop and restart the search. But for very difficult timetables this can help. Sometimes in such cases FET can become stuck and cycle forever, and restarting might produce a very fast solution.</source>
         <translation>Thường thì không cần dừng và tái khởi động việc tìm kiếm. Tuy nhiên, với những TKB rất khó, giải pháp này có thể hữu ích để tránh chương trình rơi vào vòng lặp mãi mãi.</translation>
     </message>
@@ -50003,7 +49981,7 @@ Bottom: %4</source>
         <translation>Phần mềm không thể tìm được TKB! Có lẽ bạn cần hạ thấp số lượng và trọng số các RB.</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegenerateform.cpp" line="727"/>
+        <location filename="../src/interface/timetablegenerateform.cpp" line="732"/>
         <source>Max placed activities: %1 (at %2)</source>
         <comment>%1 represents the maximum number of activities placed, %2 is a time interval</comment>
         <translation>Số tiêt giảng tối đa đã xếp được %1 (trong khoảng %2)</translation>
@@ -50097,7 +50075,7 @@ Bottom: %4</source>
         <location filename="../src/interface/timetablegeneratemultipleform.cpp" line="281"/>
         <location filename="../src/interface/timetablegeneratemultipleform.cpp" line="295"/>
         <location filename="../src/interface/timetablegeneratemultipleform.cpp" line="402"/>
-        <location filename="../src/interface/timetablegeneratemultipleform.cpp" line="452"/>
+        <location filename="../src/interface/timetablegeneratemultipleform.cpp" line="454"/>
         <source>FET information</source>
         <translation>Thông tin</translation>
     </message>
@@ -50132,7 +50110,7 @@ Bottom: %4</source>
         <translation>Tổng số mâu thuẫn mềm:</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegeneratemultipleform.cpp" line="504"/>
+        <location filename="../src/interface/timetablegeneratemultipleform.cpp" line="509"/>
         <source>Current timetable: %1 out of %2 activities placed, %3h %4m %5s</source>
         <translation>TKB hiện hành: %1 trong số %2 tiết giảng được xếp, trong %3 giờ %4 phút %5 giây</translation>
     </message>
@@ -50205,25 +50183,25 @@ Bottom: %4</source>
         <translation>Tổng thời gian tìm kiếm là %1 giờ %2 phút %3 giây</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegeneratemultipleform.cpp" line="489"/>
+        <location filename="../src/interface/timetablegeneratemultipleform.cpp" line="494"/>
         <source>%1 h</source>
         <comment>hours</comment>
         <translation>%1 giờ</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegeneratemultipleform.cpp" line="493"/>
+        <location filename="../src/interface/timetablegeneratemultipleform.cpp" line="498"/>
         <source>%1 m</source>
         <comment>minutes</comment>
         <translation>%1 phút</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegeneratemultipleform.cpp" line="497"/>
+        <location filename="../src/interface/timetablegeneratemultipleform.cpp" line="502"/>
         <source>%1 s</source>
         <comment>seconds</comment>
         <translation>%1 giây</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetablegeneratemultipleform.cpp" line="501"/>
+        <location filename="../src/interface/timetablegeneratemultipleform.cpp" line="506"/>
         <source>Max placed activities: %1 (at %2)</source>
         <comment>%1 represents the maximum number of activities placed, %2 is a time interval</comment>
         <translation>Số tiêt giảng tối đa đã xếp được %1 (trong khoảng %2)</translation>
@@ -50288,455 +50266,460 @@ Bottom: %4</source>
 <context>
     <name>TimetablePrintForm</name>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="1202"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1290"/>
         <source>Print timetable</source>
         <translation>In TKB</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="160"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="167"/>
         <source>Subgroups</source>
         <translation>Tổ</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="153"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="160"/>
         <source>Print timetable dialog</source>
         <translation>In TKB</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="161"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="168"/>
         <source>Groups</source>
         <translation type="unfinished">Nhóm lớp</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="162"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="169"/>
         <source>Years</source>
         <translation type="unfinished">Khối</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="163"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="170"/>
         <source>Teachers</source>
         <translation type="unfinished">Giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="164"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="171"/>
         <source>Teachers Free Periods</source>
         <translation type="unfinished">Tiết nghỉ của giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="165"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="172"/>
         <source>Rooms</source>
         <translation>Phòng học</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="166"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="173"/>
         <source>Subjects</source>
         <translation>Môn học</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="167"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="813"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="829"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="848"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="174"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="827"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="843"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="862"/>
         <source>All activities</source>
         <translation>Tất cả tiết giảng</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="189"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="196"/>
         <source>Print</source>
         <translation>In</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="191"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="198"/>
         <source>Days horizontal</source>
         <translation>Ngày ở trục hoành</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="192"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="199"/>
         <source>Days vertical</source>
         <translation>Ngày ở trục tung</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="193"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="200"/>
         <source>Time horizontal</source>
         <translation>Tiết học ở trục hoành</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="194"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="201"/>
         <source>Time vertical</source>
         <translation>Tiết học ở trục tung</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="212"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="219"/>
         <source>Options</source>
         <translation>Lựa chọn</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="177"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="184"/>
         <source>All</source>
         <comment>Refers to a list of items, select all. Please keep translation short</comment>
         <translation>Tất cả</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="168"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="175"/>
         <source>Students Statistics</source>
         <translation>Thống kê lớp học</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="169"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="176"/>
         <source>Teachers Statistics</source>
         <translation>Thống kê giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="179"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="186"/>
         <source>None</source>
         <comment>Refers to a list of items, select none. Please keep translation short</comment>
         <translation>Hủy chọn</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="198"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="205"/>
         <source>Time horizontal per day</source>
         <translation>Tiết học ở trục hoành mỗi ngày</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="199"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="206"/>
         <source>Time vertical per day</source>
         <translation>Tiết học ở trục tung mỗi ngày</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="217"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="224"/>
         <source>Page-break: none</source>
         <comment>No page-break between timetables. Please keep translation short</comment>
         <translation>Ngắt trang: không</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="218"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="225"/>
         <source>Page-break: always</source>
         <comment>Page-break after each timetable. Please keep translation short</comment>
         <translation>Ngắt trang: từng TKB</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="219"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="226"/>
         <source>Page-break: even</source>
         <comment>Page-break after each even timetable. Please keep translation short</comment>
         <translation>Ngắt trang: từng loại TKB</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="233"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="240"/>
         <source>Portrait</source>
         <translation>Khổ dọc</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="233"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="240"/>
         <source>Landscape</source>
         <translation>Khổ ngang</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="250"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="257"/>
         <source>Custom</source>
         <comment>Type of paper size</comment>
         <translation>Lựa chọn</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="252"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="259"/>
         <source>A0</source>
         <comment>Type of paper size</comment>
         <translation>A0</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="253"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="260"/>
         <source>A1</source>
         <comment>Type of paper size</comment>
         <translation>A1</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="254"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="261"/>
         <source>A2</source>
         <comment>Type of paper size</comment>
         <translation>A2</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="255"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="262"/>
         <source>A3</source>
         <comment>Type of paper size</comment>
         <translation>A3</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="256"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="263"/>
         <source>A4</source>
         <comment>Type of paper size</comment>
         <translation>A4</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="257"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="264"/>
         <source>A5</source>
         <comment>Type of paper size</comment>
         <translation>A5</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="258"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="265"/>
         <source>A6</source>
         <comment>Type of paper size</comment>
         <translation>A6</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="259"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="266"/>
         <source>A7</source>
         <comment>Type of paper size</comment>
         <translation>A7</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="260"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="267"/>
         <source>A8</source>
         <comment>Type of paper size</comment>
         <translation>A8</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="261"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="268"/>
         <source>A9</source>
         <comment>Type of paper size</comment>
         <translation>A9</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="262"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="269"/>
         <source>B0</source>
         <comment>Type of paper size</comment>
         <translation>B0</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="263"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="270"/>
         <source>B1</source>
         <comment>Type of paper size</comment>
         <translation>B1</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="264"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="271"/>
         <source>B2</source>
         <comment>Type of paper size</comment>
         <translation>B2</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="265"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="272"/>
         <source>B3</source>
         <comment>Type of paper size</comment>
         <translation>B3</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="266"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="273"/>
         <source>B4</source>
         <comment>Type of paper size</comment>
         <translation>B4</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="267"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="274"/>
         <source>B5</source>
         <comment>Type of paper size</comment>
         <translation>B5</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="268"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="275"/>
         <source>B6</source>
         <comment>Type of paper size</comment>
         <translation>B6</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="269"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="276"/>
         <source>B7</source>
         <comment>Type of paper size</comment>
         <translation>B7</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="270"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="277"/>
         <source>B8</source>
         <comment>Type of paper size</comment>
         <translation>B8</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="271"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="278"/>
         <source>B9</source>
         <comment>Type of paper size</comment>
         <translation>B9</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="272"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="279"/>
         <source>B10</source>
         <comment>Type of paper size</comment>
         <translation>B10</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="273"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="280"/>
         <source>C5E</source>
         <comment>Type of paper size</comment>
         <translation>C5E</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="274"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="281"/>
         <source>Comm10E</source>
         <comment>Type of paper size</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="275"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="282"/>
         <source>DLE</source>
         <comment>Type of paper size</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="276"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="283"/>
         <source>Executive</source>
         <comment>Type of paper size</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="277"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="284"/>
         <source>Folio</source>
         <comment>Type of paper size</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="278"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="285"/>
         <source>Ledger</source>
         <comment>Type of paper size</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="279"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="286"/>
         <source>Legal</source>
         <comment>Type of paper size</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="280"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="287"/>
         <source>Letter</source>
         <comment>Type of paper size</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="281"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="288"/>
         <source>Tabloid</source>
         <comment>Type of paper size</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="301"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="308"/>
         <source>Detailed tables</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="304"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="311"/>
         <source>Activity tags</source>
         <translation type="unfinished">Thông tin bổ trợ</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="307"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="314"/>
         <source>Repeat vertical names</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="320"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="317"/>
+        <source>Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetableprintform.cpp" line="330"/>
         <source>Font size: %1 pt</source>
         <comment>pt means points for font size, when printing the timetable</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="344"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="354"/>
         <source>Activities padding: %1 px</source>
         <comment>px means pixels, when printing the timetable</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="367"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="377"/>
         <source>Space after table: +%1 px</source>
         <comment>px means pixels, when printing the timetable</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="390"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="400"/>
         <source>Split after: %1 names</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="413"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="423"/>
         <source>Left margin: %1 mm</source>
         <comment>mm means millimeters</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="436"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="446"/>
         <source>Top margin: %1 mm</source>
         <comment>mm means millimeters</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="459"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="469"/>
         <source>Right margin: %1 mm</source>
         <comment>mm means millimeters</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="482"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="492"/>
         <source>Bottom margin: %1 mm</source>
         <comment>mm means millimeters</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="496"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="506"/>
         <source>Teaser</source>
         <comment>Small print preview. Please keep translation short</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="497"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="507"/>
         <source>Preview</source>
         <comment>Full print preview. Please keep translation short</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="498"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="508"/>
         <source>Print</source>
         <comment>Please keep translation short</comment>
         <translation type="unfinished">In</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="500"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="510"/>
         <source>Close</source>
         <comment>Please keep translation short</comment>
         <translation type="unfinished">Thoát</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="760"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="774"/>
         <source>All teachers</source>
         <translation type="unfinished">Tất cả giáo viên</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="979"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1068"/>
         <source>Warning! Only %1 out of %2 activities placed!</source>
         <translation type="unfinished">Cảnh báo: Chỉ có %1 trong số %2 tiết giảng đã được xếp!</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="1172"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="1193"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="1216"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="1237"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="1254"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="1267"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="1289"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="1306"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1260"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1281"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1304"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1325"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1342"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1355"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1377"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1394"/>
         <source>FET warning</source>
         <translation type="unfinished">Cảnh báo</translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="1172"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="1216"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="1254"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="1267"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="1306"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1260"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1304"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1342"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1355"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1394"/>
         <source>FET is compiled without printer support - it is impossible to print from this dialog. Please open the HTML timetables from the results directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/timetableprintform.cpp" line="1193"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="1237"/>
-        <location filename="../src/interface/timetableprintform.cpp" line="1289"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1281"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1325"/>
+        <location filename="../src/interface/timetableprintform.cpp" line="1377"/>
         <source>No margins set, because at least one value is too small. You need to enter at least:
 Left: %1
 Right: %2
@@ -51620,6 +51603,99 @@ Please stop simulation before this.</source>
         <location filename="../src/interface/timetableviewteachersform_template.ui" line="112"/>
         <source>Teacher&apos;s name</source>
         <translation>Tên giáo viên</translation>
+    </message>
+</context>
+<context>
+    <name>TimetablesToWriteOnDiskForm_template</name>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="14"/>
+        <source>Select the categories of timetables to be written on disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="31"/>
+        <source>Soft conflicts</source>
+        <translation type="unfinished">Các mâu thuẫn mềm</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="53"/>
+        <source>Subgroups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="63"/>
+        <source>Groups</source>
+        <translation type="unfinished">Nhóm lớp</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="73"/>
+        <source>Years</source>
+        <translation type="unfinished">Khối</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="83"/>
+        <source>Teachers</source>
+        <translation type="unfinished">Giáo viên</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="93"/>
+        <source>Teachers free periods</source>
+        <translation type="unfinished">Tiết nghỉ của giáo viên</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="103"/>
+        <source>Rooms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="113"/>
+        <source>Subjects</source>
+        <translation type="unfinished">Môn học</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="123"/>
+        <source>Activities</source>
+        <translation type="unfinished">Tiết giảng</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="145"/>
+        <source>Statistics</source>
+        <translation type="unfinished">Thống kê</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="155"/>
+        <source>XML</source>
+        <translation type="unfinished">XML</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="165"/>
+        <source>Days horizontal</source>
+        <translation type="unfinished">Ngày ở trục hoành</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="175"/>
+        <source>Days vertical</source>
+        <translation type="unfinished">Ngày ở trục tung</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="185"/>
+        <source>Time horizontal</source>
+        <translation type="unfinished">Tiết học ở trục hoành</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="195"/>
+        <source>Time vertical</source>
+        <translation type="unfinished">Tiết học ở trục tung</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="238"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Thoát</translation>
+    </message>
+    <message>
+        <location filename="../src/interface/timetablestowriteondiskform_template.ui" line="245"/>
+        <source>OK</source>
+        <translation type="unfinished">Đồng ý</translation>
     </message>
 </context>
 <context>

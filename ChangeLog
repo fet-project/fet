@@ -1814,7 +1814,7 @@ Versions 5.27.0 - 5.27.9
 	- Corrected some typos (reported by locutusofborg).
 	- Added a section Keywords in the fet.desktop file (reported by locutusofborg).
 ---------------------------------------------------------------------------------
-Versions 5.28.0 - 5.28.v
+Versions 5.28.0 - 5.28.6
 - Version 5.28.0
 	- Crash bugs fixed (reported by Davide Cottignoli).
 	- Removed useless CONFIG += thread from src.pro and src-cl.pro (reported by locutusofborg).
@@ -1847,3 +1847,33 @@ Versions 5.28.0 - 5.28.v
 	- The user can now change the order of the teachers, students, subjects, activity tags, buildings, rooms, time constraints, and space constraints
 	from the interface (suggested by Volker Dirr).
 	- Added a new Indian example file, by Sudharshan K M and Nataraj Urs H D.
+---------------------------------------------------------------------------------
+Versions 5.29.0 - 5.29.v
+- Version 5.29.0
+	- Updated to Qt 5.6.0.
+	- Added the possibility of automatic coloring of the HTML timetables, using the HTML level 7 in the "Settings/Timetables" menu.
+	Also, the user can color the timetables in a similar way from the "Timetable print" dialog.
+	(Suggested by Handaya, hudrea and Udo Schütz, implemented by Volker Dirr and Liviu Lalescu, using also code by Marco Vassura.)
+	- Code cleanup.
+	- Brazilian Portuguese translation update, by Alexandre R. Soares.
+	- Added a new Indian example file, by Jijo Jose.
+	- Added two new Namibian example files, by Bobby.
+- Version 5.29.1
+	- The method of selection of the categories of timetables to be written on disk after generation is now improved (suggested by Alexandre R. Soares).
+	- Brazilian Portuguese translation update, by Alexandre R. Soares.
+- Version 5.29.2
+	- Crash bugs fixed - the program crashed when renaming teachers/students and removing their attached constraints not available times
+	(reported by Wizard).
+	- Brazilian Portuguese translation update, by Alexandre R. Soares. It is now complete.
+	- Code cleanup (improvements found by Volker Dirr using Cppcheck 1.73).
+- Version 5.29.3
+	- Code cleanup.
+	- Corrected two minor typos in the source code (reported by Alexandre R. Soares).
+- Version 5.29.4
+	- Updated the sources to gcc-6.1.1 (but the Windows version still uses MinGW 4.9.2).
+	- The code in the HTML timetables tries to avoid page breaks in the tables (suggested by Benahmed Abdelkrim, implemented by Volker Dirr).
+- Version 5.29.5
+	- Updated to Qt 5.6.1.
+	- Rare crash bug fix in the activity planning form (reported by Benahmed Abdelkrim).
+- Version 5.29.6
+	- Updated to Qt 5.7.0 (thus, the Windows version now uses MinGW 5.3.0).
