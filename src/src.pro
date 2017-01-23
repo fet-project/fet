@@ -855,6 +855,7 @@ HEADERS += \
 	interface/advancedlockunlockform.h \
 	\
 	interface/longtextmessagebox.h \
+	interface/longtextmessagebox_auxiliary.h \
 	interface/advancedfilterform.h \
 	\
 	interface/activityplanningform.h \
@@ -1301,7 +1302,7 @@ TRANSLATIONS += \
 
 TEMPLATE = app
 
-CONFIG += release warn_on thread
+CONFIG += release warn_on
 QT += network
 
 greaterThan(QT_MAJOR_VERSION, 4){

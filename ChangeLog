@@ -1780,7 +1780,7 @@ Versions 5.26.0 - 5.26.2
 	- Added a partial Chinese Traditional (zh_TW) translation, by James.
 	- Updated the German translation, by Bob Hairgrove.
 ---------------------------------------------------------------------------------
-Versions 5.27.0 - 5.27.v
+Versions 5.27.0 - 5.27.9
 - Version 5.27.0
 	- Writing the statistics of the generated timetable (gaps, min/max hours, free days), implemented by Volker Dirr.
 	- Updated the Chinese Traditional translation, by James.
@@ -1813,3 +1813,37 @@ Versions 5.27.0 - 5.27.v
 - Version 5.27.9
 	- Corrected some typos (reported by locutusofborg).
 	- Added a section Keywords in the fet.desktop file (reported by locutusofborg).
+---------------------------------------------------------------------------------
+Versions 5.28.0 - 5.28.v
+- Version 5.28.0
+	- Crash bugs fixed (reported by Davide Cottignoli).
+	- Removed useless CONFIG += thread from src.pro and src-cl.pro (reported by locutusofborg).
+	- Corrected a few typos in the Italian translation, by flauta.
+	- Updated the Italian translation, by Marco Barsotti.
+- Version 5.28.1
+	- Crash bug fix when the input file contained activities with duplicate students sets / teachers and the user
+	renamed these students sets / teachers (reported by Volker Dirr).
+	- When renaming a students year, the user can choose to rename also automatically the groups and subgroups
+	contained in this year (suggested and implemented by Volker Dirr).
+	- Added colors when viewing the timetable from the interface, if the option to use colors in the interface
+	is selected (suggested and implemented by Marco Vassura).
+- Version 5.28.2
+	- Updated to Qt 5.5.1.
+	- Source cleanup.
+- Version 5.28.3
+	- After a successful single generation (or after an impossible one), an attention sound will be emitted. Also, after all the timetables finished
+	(successfully, impossibly, or with time limit exceeded) in a multiple generation, the same attention sound will be emitted (suggested by Maouhoub
+	and uni_instructor).
+	- Updated the Vietnamese translation, by Nguyễn Hữu Duyệt.
+	- Updated the Arabic translation, by Silver.
+	- Added a new Vietnamese example file, by Nguyễn Hữu Duyệt.
+	- Added a new Namibian example file, by Bobby.
+- Version 5.28.4
+	- Bug fix: not allowing the file name to start with white space(s), as the HTML results do not work (reported by Volker Dirr).
+	- Updated the Arabic translation, by Silver.
+- Version 5.28.5
+	- Bug fix: not allowing the file name to end with white space(s), as this may lead to errors (reported by Volker Dirr).
+- Version 5.28.6
+	- The user can now change the order of the teachers, students, subjects, activity tags, buildings, rooms, time constraints, and space constraints
+	from the interface (suggested by Volker Dirr).
+	- Added a new Indian example file, by Sudharshan K M and Nataraj Urs H D.

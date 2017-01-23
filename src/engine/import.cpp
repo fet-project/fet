@@ -2238,12 +2238,12 @@ void Import::importCSVActivities(QWidget* parent){
 					if(firstWarning){
 						lastWarning+=Import::tr("FET can't import activities, because FET needs to know the stucture of the "
 						"students sets. You must add (or import) years, groups and subgroups first.")+"\n"+
-						tr("I recommend to import also teachers, rooms, buildings, subjects and activity tags before "
+						tr("It is recommended to import also teachers, rooms, buildings, subjects and activity tags before "
 						"importing activities. It is not needed, because FET will automatically do it, but you can "
 						"check the activity csv file by that.")+"\n";
 						firstWarning=false;
 					}
-					lastWarning+=Import::tr("Student set %1 doesn't exist. You must add (or import) years, groups and subgroups first.").arg(students[s])+"\n";
+					lastWarning+=Import::tr("Students set %1 doesn't exist. You must add (or import) years, groups and subgroups first.").arg(students[s])+"\n";
 				}
 			}
 		}
@@ -2434,23 +2434,55 @@ void Import::importCSVActivities(QWidget* parent){
 		double weight=customFETStrToDouble(tmpStr, &ok2);
 		assert(ok2);
 
-		QStringList teachers_names;
+		QStringList teachers_namesFromFile;
 		if(!fieldList[FIELD_TEACHERS_SET][i].isEmpty())
-			teachers_names = fieldList[FIELD_TEACHERS_SET][i].split("+", QString::SkipEmptyParts);
+			teachers_namesFromFile = fieldList[FIELD_TEACHERS_SET][i].split("+", QString::SkipEmptyParts);
+		
+		QStringList teachers_names;
+		QSet<QString> _teachersSet;
+		foreach(QString teacherName, teachers_namesFromFile){
+			//assert(teachersHash.contains(teacherName));
+			if(!_teachersSet.contains(teacherName)){
+				_teachersSet.insert(teacherName);
+				teachers_names<<teacherName;
+			} else {
+				lastWarning+=tr("Line %1: Activity contains duplicate teacher %2 - please correct that").arg(fieldList[FIELD_LINE_NUMBER][i]).arg(teacherName)+"\n";
+			}
+		}
 		
 		QString subject_name = fieldList[FIELD_SUBJECT_NAME][i];
 		
-		QStringList activity_tags_names;
+		QStringList activity_tags_namesFromFile;
 		if(!fieldList[FIELD_ACTIVITY_TAGS_SET][i].isEmpty())
-			activity_tags_names = fieldList[FIELD_ACTIVITY_TAGS_SET][i].split("+", QString::SkipEmptyParts);
+			activity_tags_namesFromFile = fieldList[FIELD_ACTIVITY_TAGS_SET][i].split("+", QString::SkipEmptyParts);
 		
-		QStringList students_names;
+		QStringList activity_tags_names;
+		QSet<QString> _activityTagsSet;
+		foreach(QString activityTag, activity_tags_namesFromFile){
+			//assert(activityTagsHash.contains(activityTag));
+			if(!_activityTagsSet.contains(activityTag)){
+				_activityTagsSet.insert(activityTag);
+				activity_tags_names<<activityTag;
+			} else {
+				lastWarning+=tr("Line %1: Activity contains duplicate activity tag %2 - please correct that").arg(fieldList[FIELD_LINE_NUMBER][i]).arg(activityTag)+"\n";
+			}
+		}
+		
+		QStringList students_namesFromFile;
 		if(!fieldList[FIELD_STUDENTS_SET][i].isEmpty())
-			students_names = fieldList[FIELD_STUDENTS_SET][i].split("+", QString::SkipEmptyParts);
+			students_namesFromFile = fieldList[FIELD_STUDENTS_SET][i].split("+", QString::SkipEmptyParts);
 
 		int numberOfStudents=0;
-		foreach(QString studentsSet, students_names){
+		QStringList students_names;
+		QSet<QString> _studentsSet;
+		foreach(QString studentsSet, students_namesFromFile){
 			assert(studentsHash.contains(studentsSet));
+			if(!_studentsSet.contains(studentsSet)){
+				_studentsSet.insert(studentsSet);
+				students_names<<studentsSet;
+			} else {
+				lastWarning+=tr("Line %1: Activity contains duplicate students set %2 - please correct that").arg(fieldList[FIELD_LINE_NUMBER][i]).arg(studentsSet)+"\n";
+			}
 			numberOfStudents+=studentsHash.value(studentsSet)->numberOfStudents;
 		}
 
