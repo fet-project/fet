@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>Default institution</Institution_Name>
 
@@ -68,955 +68,1436 @@
 </Hour>
 </Hours_List>
 
+<Subjects_List>
+<Subject>
+	<Name>Analiza matematica I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Algebra liniara</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Programarea calculatoarelor</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Fizica</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Desen si Autocad</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Limba engleza</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Educatie fizica si sport</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Practica</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Matematici speciale</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Calcul numeric</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Structuri de date si algoritmi</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Dispozitive si circuite electronice I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Electrotehnica II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Bazele logice ale proiectarii calculatoarelor II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Arhitectura calculatoarelor</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Circuite digitale</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Programarea orientata pe obiecte</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Inteligenta artificiala</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Elemente de contabilitate</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Microprocesoare si microcontrolere</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sisteme de operare</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Baze de date</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Retele de calculatoare</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Managementul proiectelor informationale</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Administrarea retelelor de calculatoare</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Structura calculatoarelor paralele</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Proiectarea, realizarea si testarea echipamentelor</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Comert electronic</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Medii de programare VLSI</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>DSP in comunicatii</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sisteme de prelucrari grafice</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Limbaje si algoritmi paraleli</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Proiectarea compilatoarelor</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Dezvoltarea de aplicatii multimedia</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Baze de date multimedia</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Complexitatea calculului</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Dezvoltarea aplicatiilor WWW</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Metode formale in proiectarea software</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Metrici software si ingineria calitatii</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Proiectarea sistemelor de timp real</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sisteme de regasire a informatiei vizuale</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sisteme grafice complexe</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Matematica</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Introducere in sistemele de calcul</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Bazele logice ale aclculatoarelor</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Programare si elemente de grafica I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Procesoare de documente</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Structuri de date</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Microcalculatoare</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Comunicatii de date</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Baze de date I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sisteme de operare I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Administrarea retelelor</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Internet si intranet</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Aplicatii economice pt intreprinderi</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Metode de dezvoltare a aplicatiilor complexe</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Notiuni de contabilitate</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Analiza matematica I - sem</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Algebra liniara - sem</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Programarea calculatoarelor - sem</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Programarea calculatoarelor - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Fizica - sem</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Desen si Autocad - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Matematici speciale - sem</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Calcul numeric - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Structrui de date si algoritmi - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Structuri de date si algoritmi - pr</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Dispozitive si circuite electronice I - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Electrotehnica II - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Bazele logice ale proiectarii calculatoarelor II - sem</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Arhitectura calculatoarelor - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Circuite digitale - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Programarea orientata pe obiecte - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Programarea orientata pe obiecte - pr</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Inteligenta artificiala - sem</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Inteligenta artificiala - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Elemente de contabilitate - sem</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Microprocesoare si microcontrolere - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sisteme de operare - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Baze de date - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Retele de calculatoare - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Modelarea si simularea sistemelor de calculatoare si a retelelor - pr</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Modelarea si simularea sistemelor de calculatoare si a retelelor - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Managementul proiectelor informationale - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Modelarea si simularea sistemelor de calculatoare si a retelelor</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Administrarea retelelor de calculatoare - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Administrarea retelelor de calculatoare - pr</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Structura calculatoarelor paralele - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Proiectarea, realizarea si testarea echipamentelor - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Proiectarea, realizarea si testarea echipamentelor - pr</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Comert electonic - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Medii de programare VLSI - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>DSP in comunicatii - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sisteme pt prelucrari grafice - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sisteme pt prelucrari grafice - pr</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Limbaje si algoritmi paraleli - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Limbaje si algoritmi paraleli - pr</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Proiectarea compilatoarelor - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Dezvoltarea de aplicatii multimedia - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Dezvoltarea de aplicatii multimedia - pr</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Baze de date multimedia - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Complexitatea calculului - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Dezvoltarea aplicatiilor WWW - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Metode formale in proiectarea software - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Metrici software si ingineria calitatii - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Proiectarea sistemelor de  timp real - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sisteme de regasire a informatiei vizuale - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sisteme grafice complexe - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Matematica - sem</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Introducere in sistemele de calcul - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Bazele logice ale calculatoarelor - sem</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Programare si elemente de grafica I - sem</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Programare si elemente de grafica I - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Procesoare de documente - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Structuri de date - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Structuri de date - pr</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Microcalculatoare - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Comunicatii de date - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Baze de date I - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sisteme de operare I - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Administrarea retelelor - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Internet si intranet - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Internet si intranet - pr</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Aplicatii economice pt intreprinderi - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Aplicatii economice pt intreprinderi - pr</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Metode de dezvoltare a aplicatiilor complexe - lab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Metode de dezvoltare a aplicatiilor complexe - pr</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Notiuni de contabilitate - sem</Name>
+	<Comments></Comments>
+</Subject>
+</Subjects_List>
+
+<Activity_Tags_List>
+</Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>A. Busu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Adelina Popescu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Adrian Neatu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Alina Resceanu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Anca Ion</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Augustin Ionescu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Aurelian Popescu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>C. Daneti</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>C. Sterbeti</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Carmen Dobre</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Catalin Cerbulescu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Constantin Patrascu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Constantin Pistol</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Cosmin Stoica-Spahiu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Costin Badica</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Cristian Mihaescu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Cristian Vasile</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Cristina Sosoi</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>D. Popa</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dan Dumitru Burdescu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dan Mancas</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dan Ovidiu Andrei</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dan Tusaliu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Daniel Cartog</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dorian Cojocaru</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dorian Dogaru</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Elena Niculescu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Eugen Dumitrascu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Eugen Ganea</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>F. Munteanu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Gabi Toma-Tumbar</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Garlesteanu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>George Popescu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Gheorghe Marian</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>I. Nicolae</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>I.Puchin</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ileana Nicolae</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ioan Lemeni</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ion Carstea</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ion Vladimirescu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>L. Nicolescu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Leonard Petrescu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Liana Stanescu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Lucian Barbulescu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>M. Ivanovici</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>M. Leoveanu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Maria Predoi</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Marilena Popa</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Marin Lungu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Marius Brezovan</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mihai Mocanu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mihai Popa</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mircea Grosu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mircea Petrescu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Oleg Cernian</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Oprea Jitianu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>P. Vana</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Petre Nicolae</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Razvan Tanasie</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Romulus Militaru</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sorin Nicola</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Stefan Matei</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Stefan Udristoiu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Trandafir Balan</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Vlad Diaconu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>prof. Sport</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
 <Students_List>
 <Year>
 	<Name>I</Name>
 	<Number_of_Students>157</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>C 10103</Name>
 		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>a1.1</Name>
 			<Number_of_Students>14</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>b1.1</Name>
 			<Number_of_Students>13</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>C 10104</Name>
 		<Number_of_Students>33</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>c1.1</Name>
 			<Number_of_Students>17</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>d1.1</Name>
 			<Number_of_Students>16</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>CE 10105</Name>
 		<Number_of_Students>31</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>a1.2</Name>
 			<Number_of_Students>15</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>b1.2</Name>
 			<Number_of_Students>16</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>CE 10106</Name>
 		<Number_of_Students>31</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>c1.2</Name>
 			<Number_of_Students>15</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>d1.2</Name>
 			<Number_of_Students>16</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>TC 10110</Name>
 		<Number_of_Students>35</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>a1.3</Name>
 			<Number_of_Students>17</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>b1.3</Name>
 			<Number_of_Students>18</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 </Year>
 <Year>
 	<Name>II</Name>
 	<Number_of_Students>164</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>C 10203</Name>
 		<Number_of_Students>25</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>a2.1</Name>
 			<Number_of_Students>12</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>b2.1</Name>
 			<Number_of_Students>13</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>C 10204</Name>
 		<Number_of_Students>33</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>c2.1</Name>
 			<Number_of_Students>15</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>d2.1</Name>
 			<Number_of_Students>18</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>CE 10205</Name>
 		<Number_of_Students>31</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>a2.2</Name>
 			<Number_of_Students>14</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>b2.2</Name>
 			<Number_of_Students>14</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>CE 10206</Name>
 		<Number_of_Students>28</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>c2.2</Name>
 			<Number_of_Students>16</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>d2.2</Name>
 			<Number_of_Students>15</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>TC 10210</Name>
 		<Number_of_Students>23</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>a2.3</Name>
 			<Number_of_Students>11</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>b2.3</Name>
 			<Number_of_Students>12</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>TC 10211</Name>
 		<Number_of_Students>24</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>c2.3</Name>
 			<Number_of_Students>12</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>d2.3</Name>
 			<Number_of_Students>12</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 </Year>
 <Year>
 	<Name>III</Name>
 	<Number_of_Students>188</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>C 10304</Name>
 		<Number_of_Students>28</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>a3.1</Name>
 			<Number_of_Students>14</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>b3.1</Name>
 			<Number_of_Students>14</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>C 10305</Name>
 		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>c3.1</Name>
 			<Number_of_Students>16</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>d3.1</Name>
 			<Number_of_Students>14</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>C 10306</Name>
 		<Number_of_Students>32</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>e3.1</Name>
 			<Number_of_Students>16</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>f3.1</Name>
 			<Number_of_Students>16</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>CE 10307</Name>
 		<Number_of_Students>21</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>a3.2</Name>
 			<Number_of_Students>10</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>b3.2</Name>
 			<Number_of_Students>11</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>CE 10308</Name>
 		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>c3.2</Name>
 			<Number_of_Students>14</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>d3.2</Name>
 			<Number_of_Students>13</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>TC 10312</Name>
 		<Number_of_Students>24</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>a3.3</Name>
 			<Number_of_Students>12</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>b3.3</Name>
 			<Number_of_Students>12</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>TC 10313</Name>
 		<Number_of_Students>26</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>c3.3</Name>
 			<Number_of_Students>12</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>d3.3</Name>
 			<Number_of_Students>14</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 </Year>
 <Year>
 	<Name>IV</Name>
 	<Number_of_Students>119</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>C-SSC 10403</Name>
 		<Number_of_Students>37</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>a4.1</Name>
 			<Number_of_Students>12</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>b4.1</Name>
 			<Number_of_Students>12</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>c4.1</Name>
 			<Number_of_Students>13</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>C-SW 10404</Name>
 		<Number_of_Students>37</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>d4.1</Name>
 			<Number_of_Students>12</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>e4.1</Name>
 			<Number_of_Students>12</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>f4.1</Name>
 			<Number_of_Students>13</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>CE-SW 10406</Name>
 		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>b4.2</Name>
 			<Number_of_Students>14</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>c4.2</Name>
 			<Number_of_Students>16</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>CE-SSC 10405</Name>
 		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>a4.2</Name>
 			<Number_of_Students>15</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 </Year>
 <Year>
 	<Name>V</Name>
 	<Number_of_Students>116</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>C-SW 10503</Name>
 		<Number_of_Students>32</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>a5.1</Name>
 			<Number_of_Students>16</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>b5.1</Name>
 			<Number_of_Students>16</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>C-SW 10504</Name>
 		<Number_of_Students>31</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>c5.1</Name>
 			<Number_of_Students>15</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>d5.1</Name>
 			<Number_of_Students>16</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>C-SSC 10505</Name>
 		<Number_of_Students>21</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>e5.1</Name>
 			<Number_of_Students>10</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>f5.1</Name>
 			<Number_of_Students>11</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>CE-SW 10506</Name>
 		<Number_of_Students>17</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>a5.2</Name>
 			<Number_of_Students>17</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>CE-SSC 10507</Name>
 		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>b5.2</Name>
 			<Number_of_Students>15</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 </Year>
 <Year>
 	<Name>VI</Name>
 	<Number_of_Students>19</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>Master I</Name>
 		<Number_of_Students>19</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 </Year>
 <Year>
 	<Name>VII</Name>
 	<Number_of_Students>17</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>Master II</Name>
 		<Number_of_Students>17</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 </Year>
 </Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>A. Busu</Name>
-</Teacher>
-<Teacher>
-	<Name>Adelina Popescu</Name>
-</Teacher>
-<Teacher>
-	<Name>Adrian Neatu</Name>
-</Teacher>
-<Teacher>
-	<Name>Alina Resceanu</Name>
-</Teacher>
-<Teacher>
-	<Name>Anca Ion</Name>
-</Teacher>
-<Teacher>
-	<Name>Augustin Ionescu</Name>
-</Teacher>
-<Teacher>
-	<Name>Aurelian Popescu</Name>
-</Teacher>
-<Teacher>
-	<Name>C. Daneti</Name>
-</Teacher>
-<Teacher>
-	<Name>C. Sterbeti</Name>
-</Teacher>
-<Teacher>
-	<Name>Carmen Dobre</Name>
-</Teacher>
-<Teacher>
-	<Name>Catalin Cerbulescu</Name>
-</Teacher>
-<Teacher>
-	<Name>Constantin Patrascu</Name>
-</Teacher>
-<Teacher>
-	<Name>Constantin Pistol</Name>
-</Teacher>
-<Teacher>
-	<Name>Cosmin Stoica-Spahiu</Name>
-</Teacher>
-<Teacher>
-	<Name>Costin Badica</Name>
-</Teacher>
-<Teacher>
-	<Name>Cristian Mihaescu</Name>
-</Teacher>
-<Teacher>
-	<Name>Cristian Vasile</Name>
-</Teacher>
-<Teacher>
-	<Name>Cristina Sosoi</Name>
-</Teacher>
-<Teacher>
-	<Name>D. Popa</Name>
-</Teacher>
-<Teacher>
-	<Name>Dan Dumitru Burdescu</Name>
-</Teacher>
-<Teacher>
-	<Name>Dan Mancas</Name>
-</Teacher>
-<Teacher>
-	<Name>Dan Ovidiu Andrei</Name>
-</Teacher>
-<Teacher>
-	<Name>Dan Tusaliu</Name>
-</Teacher>
-<Teacher>
-	<Name>Daniel Cartog</Name>
-</Teacher>
-<Teacher>
-	<Name>Dorian Cojocaru</Name>
-</Teacher>
-<Teacher>
-	<Name>Dorian Dogaru</Name>
-</Teacher>
-<Teacher>
-	<Name>Elena Niculescu</Name>
-</Teacher>
-<Teacher>
-	<Name>Eugen Dumitrascu</Name>
-</Teacher>
-<Teacher>
-	<Name>Eugen Ganea</Name>
-</Teacher>
-<Teacher>
-	<Name>F. Munteanu</Name>
-</Teacher>
-<Teacher>
-	<Name>Gabi Toma-Tumbar</Name>
-</Teacher>
-<Teacher>
-	<Name>Garlesteanu</Name>
-</Teacher>
-<Teacher>
-	<Name>George Popescu</Name>
-</Teacher>
-<Teacher>
-	<Name>Gheorghe Marian</Name>
-</Teacher>
-<Teacher>
-	<Name>I. Nicolae</Name>
-</Teacher>
-<Teacher>
-	<Name>I.Puchin</Name>
-</Teacher>
-<Teacher>
-	<Name>Ileana Nicolae</Name>
-</Teacher>
-<Teacher>
-	<Name>Ioan Lemeni</Name>
-</Teacher>
-<Teacher>
-	<Name>Ion Carstea</Name>
-</Teacher>
-<Teacher>
-	<Name>Ion Vladimirescu</Name>
-</Teacher>
-<Teacher>
-	<Name>L. Nicolescu</Name>
-</Teacher>
-<Teacher>
-	<Name>Leonard Petrescu</Name>
-</Teacher>
-<Teacher>
-	<Name>Liana Stanescu</Name>
-</Teacher>
-<Teacher>
-	<Name>Lucian Barbulescu</Name>
-</Teacher>
-<Teacher>
-	<Name>M. Ivanovici</Name>
-</Teacher>
-<Teacher>
-	<Name>M. Leoveanu</Name>
-</Teacher>
-<Teacher>
-	<Name>Maria Predoi</Name>
-</Teacher>
-<Teacher>
-	<Name>Marilena Popa</Name>
-</Teacher>
-<Teacher>
-	<Name>Marin Lungu</Name>
-</Teacher>
-<Teacher>
-	<Name>Marius Brezovan</Name>
-</Teacher>
-<Teacher>
-	<Name>Mihai Mocanu</Name>
-</Teacher>
-<Teacher>
-	<Name>Mihai Popa</Name>
-</Teacher>
-<Teacher>
-	<Name>Mircea Grosu</Name>
-</Teacher>
-<Teacher>
-	<Name>Mircea Petrescu</Name>
-</Teacher>
-<Teacher>
-	<Name>Oleg Cernian</Name>
-</Teacher>
-<Teacher>
-	<Name>Oprea Jitianu</Name>
-</Teacher>
-<Teacher>
-	<Name>P. Vana</Name>
-</Teacher>
-<Teacher>
-	<Name>Petre Nicolae</Name>
-</Teacher>
-<Teacher>
-	<Name>Razvan Tanasie</Name>
-</Teacher>
-<Teacher>
-	<Name>Romulus Militaru</Name>
-</Teacher>
-<Teacher>
-	<Name>Sorin Nicola</Name>
-</Teacher>
-<Teacher>
-	<Name>Stefan Matei</Name>
-</Teacher>
-<Teacher>
-	<Name>Stefan Udristoiu</Name>
-</Teacher>
-<Teacher>
-	<Name>Trandafir Balan</Name>
-</Teacher>
-<Teacher>
-	<Name>Vlad Diaconu</Name>
-</Teacher>
-<Teacher>
-	<Name>prof. Sport</Name>
-</Teacher>
-</Teachers_List>
-
-<Subjects_List>
-<Subject>
-	<Name>Analiza matematica I</Name>
-</Subject>
-<Subject>
-	<Name>Algebra liniara</Name>
-</Subject>
-<Subject>
-	<Name>Programarea calculatoarelor</Name>
-</Subject>
-<Subject>
-	<Name>Fizica</Name>
-</Subject>
-<Subject>
-	<Name>Desen si Autocad</Name>
-</Subject>
-<Subject>
-	<Name>Limba engleza</Name>
-</Subject>
-<Subject>
-	<Name>Educatie fizica si sport</Name>
-</Subject>
-<Subject>
-	<Name>Practica</Name>
-</Subject>
-<Subject>
-	<Name>Matematici speciale</Name>
-</Subject>
-<Subject>
-	<Name>Calcul numeric</Name>
-</Subject>
-<Subject>
-	<Name>Structuri de date si algoritmi</Name>
-</Subject>
-<Subject>
-	<Name>Dispozitive si circuite electronice I</Name>
-</Subject>
-<Subject>
-	<Name>Electrotehnica II</Name>
-</Subject>
-<Subject>
-	<Name>Bazele logice ale proiectarii calculatoarelor II</Name>
-</Subject>
-<Subject>
-	<Name>Arhitectura calculatoarelor</Name>
-</Subject>
-<Subject>
-	<Name>Circuite digitale</Name>
-</Subject>
-<Subject>
-	<Name>Programarea orientata pe obiecte</Name>
-</Subject>
-<Subject>
-	<Name>Inteligenta artificiala</Name>
-</Subject>
-<Subject>
-	<Name>Elemente de contabilitate</Name>
-</Subject>
-<Subject>
-	<Name>Microprocesoare si microcontrolere</Name>
-</Subject>
-<Subject>
-	<Name>Sisteme de operare</Name>
-</Subject>
-<Subject>
-	<Name>Baze de date</Name>
-</Subject>
-<Subject>
-	<Name>Retele de calculatoare</Name>
-</Subject>
-<Subject>
-	<Name>Managementul proiectelor informationale</Name>
-</Subject>
-<Subject>
-	<Name>Administrarea retelelor de calculatoare</Name>
-</Subject>
-<Subject>
-	<Name>Structura calculatoarelor paralele</Name>
-</Subject>
-<Subject>
-	<Name>Proiectarea, realizarea si testarea echipamentelor</Name>
-</Subject>
-<Subject>
-	<Name>Comert electronic</Name>
-</Subject>
-<Subject>
-	<Name>Medii de programare VLSI</Name>
-</Subject>
-<Subject>
-	<Name>DSP in comunicatii</Name>
-</Subject>
-<Subject>
-	<Name>Sisteme de prelucrari grafice</Name>
-</Subject>
-<Subject>
-	<Name>Limbaje si algoritmi paraleli</Name>
-</Subject>
-<Subject>
-	<Name>Proiectarea compilatoarelor</Name>
-</Subject>
-<Subject>
-	<Name>Dezvoltarea de aplicatii multimedia</Name>
-</Subject>
-<Subject>
-	<Name>Baze de date multimedia</Name>
-</Subject>
-<Subject>
-	<Name>Complexitatea calculului</Name>
-</Subject>
-<Subject>
-	<Name>Dezvoltarea aplicatiilor WWW</Name>
-</Subject>
-<Subject>
-	<Name>Metode formale in proiectarea software</Name>
-</Subject>
-<Subject>
-	<Name>Metrici software si ingineria calitatii</Name>
-</Subject>
-<Subject>
-	<Name>Proiectarea sistemelor de timp real</Name>
-</Subject>
-<Subject>
-	<Name>Sisteme de regasire a informatiei vizuale</Name>
-</Subject>
-<Subject>
-	<Name>Sisteme grafice complexe</Name>
-</Subject>
-<Subject>
-	<Name>Matematica</Name>
-</Subject>
-<Subject>
-	<Name>Introducere in sistemele de calcul</Name>
-</Subject>
-<Subject>
-	<Name>Bazele logice ale aclculatoarelor</Name>
-</Subject>
-<Subject>
-	<Name>Programare si elemente de grafica I</Name>
-</Subject>
-<Subject>
-	<Name>Procesoare de documente</Name>
-</Subject>
-<Subject>
-	<Name>Structuri de date</Name>
-</Subject>
-<Subject>
-	<Name>Microcalculatoare</Name>
-</Subject>
-<Subject>
-	<Name>Comunicatii de date</Name>
-</Subject>
-<Subject>
-	<Name>Baze de date I</Name>
-</Subject>
-<Subject>
-	<Name>Sisteme de operare I</Name>
-</Subject>
-<Subject>
-	<Name>Administrarea retelelor</Name>
-</Subject>
-<Subject>
-	<Name>Internet si intranet</Name>
-</Subject>
-<Subject>
-	<Name>Aplicatii economice pt intreprinderi</Name>
-</Subject>
-<Subject>
-	<Name>Metode de dezvoltare a aplicatiilor complexe</Name>
-</Subject>
-<Subject>
-	<Name>Notiuni de contabilitate</Name>
-</Subject>
-<Subject>
-	<Name>Analiza matematica I - sem</Name>
-</Subject>
-<Subject>
-	<Name>Algebra liniara - sem</Name>
-</Subject>
-<Subject>
-	<Name>Programarea calculatoarelor - sem</Name>
-</Subject>
-<Subject>
-	<Name>Programarea calculatoarelor - lab</Name>
-</Subject>
-<Subject>
-	<Name>Fizica - sem</Name>
-</Subject>
-<Subject>
-	<Name>Desen si Autocad - lab</Name>
-</Subject>
-<Subject>
-	<Name>Matematici speciale - sem</Name>
-</Subject>
-<Subject>
-	<Name>Calcul numeric - lab</Name>
-</Subject>
-<Subject>
-	<Name>Structrui de date si algoritmi - lab</Name>
-</Subject>
-<Subject>
-	<Name>Structuri de date si algoritmi - pr</Name>
-</Subject>
-<Subject>
-	<Name>Dispozitive si circuite electronice I - lab</Name>
-</Subject>
-<Subject>
-	<Name>Electrotehnica II - lab</Name>
-</Subject>
-<Subject>
-	<Name>Bazele logice ale proiectarii calculatoarelor II - sem</Name>
-</Subject>
-<Subject>
-	<Name>Arhitectura calculatoarelor - lab</Name>
-</Subject>
-<Subject>
-	<Name>Circuite digitale - lab</Name>
-</Subject>
-<Subject>
-	<Name>Programarea orientata pe obiecte - lab</Name>
-</Subject>
-<Subject>
-	<Name>Programarea orientata pe obiecte - pr</Name>
-</Subject>
-<Subject>
-	<Name>Inteligenta artificiala - sem</Name>
-</Subject>
-<Subject>
-	<Name>Inteligenta artificiala - lab</Name>
-</Subject>
-<Subject>
-	<Name>Elemente de contabilitate - sem</Name>
-</Subject>
-<Subject>
-	<Name>Microprocesoare si microcontrolere - lab</Name>
-</Subject>
-<Subject>
-	<Name>Sisteme de operare - lab</Name>
-</Subject>
-<Subject>
-	<Name>Baze de date - lab</Name>
-</Subject>
-<Subject>
-	<Name>Retele de calculatoare - lab</Name>
-</Subject>
-<Subject>
-	<Name>Modelarea si simularea sistemelor de calculatoare si a retelelor - pr</Name>
-</Subject>
-<Subject>
-	<Name>Modelarea si simularea sistemelor de calculatoare si a retelelor - lab</Name>
-</Subject>
-<Subject>
-	<Name>Managementul proiectelor informationale - lab</Name>
-</Subject>
-<Subject>
-	<Name>Modelarea si simularea sistemelor de calculatoare si a retelelor</Name>
-</Subject>
-<Subject>
-	<Name>Administrarea retelelor de calculatoare - lab</Name>
-</Subject>
-<Subject>
-	<Name>Administrarea retelelor de calculatoare - pr</Name>
-</Subject>
-<Subject>
-	<Name>Structura calculatoarelor paralele - lab</Name>
-</Subject>
-<Subject>
-	<Name>Proiectarea, realizarea si testarea echipamentelor - lab</Name>
-</Subject>
-<Subject>
-	<Name>Proiectarea, realizarea si testarea echipamentelor - pr</Name>
-</Subject>
-<Subject>
-	<Name>Comert electonic - lab</Name>
-</Subject>
-<Subject>
-	<Name>Medii de programare VLSI - lab</Name>
-</Subject>
-<Subject>
-	<Name>DSP in comunicatii - lab</Name>
-</Subject>
-<Subject>
-	<Name>Sisteme pt prelucrari grafice - lab</Name>
-</Subject>
-<Subject>
-	<Name>Sisteme pt prelucrari grafice - pr</Name>
-</Subject>
-<Subject>
-	<Name>Limbaje si algoritmi paraleli - lab</Name>
-</Subject>
-<Subject>
-	<Name>Limbaje si algoritmi paraleli - pr</Name>
-</Subject>
-<Subject>
-	<Name>Proiectarea compilatoarelor - lab</Name>
-</Subject>
-<Subject>
-	<Name>Dezvoltarea de aplicatii multimedia - lab</Name>
-</Subject>
-<Subject>
-	<Name>Dezvoltarea de aplicatii multimedia - pr</Name>
-</Subject>
-<Subject>
-	<Name>Baze de date multimedia - lab</Name>
-</Subject>
-<Subject>
-	<Name>Complexitatea calculului - lab</Name>
-</Subject>
-<Subject>
-	<Name>Dezvoltarea aplicatiilor WWW - lab</Name>
-</Subject>
-<Subject>
-	<Name>Metode formale in proiectarea software - lab</Name>
-</Subject>
-<Subject>
-	<Name>Metrici software si ingineria calitatii - lab</Name>
-</Subject>
-<Subject>
-	<Name>Proiectarea sistemelor de  timp real - lab</Name>
-</Subject>
-<Subject>
-	<Name>Sisteme de regasire a informatiei vizuale - lab</Name>
-</Subject>
-<Subject>
-	<Name>Sisteme grafice complexe - lab</Name>
-</Subject>
-<Subject>
-	<Name>Matematica - sem</Name>
-</Subject>
-<Subject>
-	<Name>Introducere in sistemele de calcul - lab</Name>
-</Subject>
-<Subject>
-	<Name>Bazele logice ale calculatoarelor - sem</Name>
-</Subject>
-<Subject>
-	<Name>Programare si elemente de grafica I - sem</Name>
-</Subject>
-<Subject>
-	<Name>Programare si elemente de grafica I - lab</Name>
-</Subject>
-<Subject>
-	<Name>Procesoare de documente - lab</Name>
-</Subject>
-<Subject>
-	<Name>Structuri de date - lab</Name>
-</Subject>
-<Subject>
-	<Name>Structuri de date - pr</Name>
-</Subject>
-<Subject>
-	<Name>Microcalculatoare - lab</Name>
-</Subject>
-<Subject>
-	<Name>Comunicatii de date - lab</Name>
-</Subject>
-<Subject>
-	<Name>Baze de date I - lab</Name>
-</Subject>
-<Subject>
-	<Name>Sisteme de operare I - lab</Name>
-</Subject>
-<Subject>
-	<Name>Administrarea retelelor - lab</Name>
-</Subject>
-<Subject>
-	<Name>Internet si intranet - lab</Name>
-</Subject>
-<Subject>
-	<Name>Internet si intranet - pr</Name>
-</Subject>
-<Subject>
-	<Name>Aplicatii economice pt intreprinderi - lab</Name>
-</Subject>
-<Subject>
-	<Name>Aplicatii economice pt intreprinderi - pr</Name>
-</Subject>
-<Subject>
-	<Name>Metode de dezvoltare a aplicatiilor complexe - lab</Name>
-</Subject>
-<Subject>
-	<Name>Metode de dezvoltare a aplicatiilor complexe - pr</Name>
-</Subject>
-<Subject>
-	<Name>Notiuni de contabilitate - sem</Name>
-</Subject>
-</Subjects_List>
-
-<Activity_Tags_List>
-</Activity_Tags_List>
 
 <Activities_List>
 <Activity>
@@ -5890,116 +6371,139 @@
 	<Name>109</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>122</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ACB</Name>
 	<Building></Building>
 	<Capacity>200</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>BA206</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>C11</Name>
 	<Building></Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>C4</Name>
 	<Building></Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>H1</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>H2</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>L1</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>N10</Name>
 	<Building></Building>
 	<Capacity>80</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>N4</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>S1</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>S1b</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>S2</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>S3</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>S31</Name>
 	<Building></Building>
 	<Capacity>50</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>S6N</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>S6a</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>S6b</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>S7</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>S7b</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>elth</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>sala sport</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

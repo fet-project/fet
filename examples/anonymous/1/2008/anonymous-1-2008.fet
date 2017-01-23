@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>Anonymous institution 1</Institution_Name>
 
@@ -50,501 +50,754 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>Students year 1</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>Students group 1_1</Name>
-		<Number_of_Students>10</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Students group 1_2</Name>
-		<Number_of_Students>10</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Students group 1_3</Name>
-		<Number_of_Students>10</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Students group 1_4</Name>
-		<Number_of_Students>10</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Students group 1_5</Name>
-		<Number_of_Students>10</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Students group 1_6</Name>
-		<Number_of_Students>10</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>Students year 2</Name>
-	<Number_of_Students>120</Number_of_Students>
-	<Group>
-		<Name>Students group 2_1</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Students group 2_2</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Students group 2_3</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Students group 2_4</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Students group 2_5</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>Teacher 1</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 2</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 3</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 4</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 5</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 6</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 7</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 8</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 9</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 10</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 11</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 12</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 13</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 14</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 15</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 16</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 17</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 18</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 19</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 20</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 21</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 22</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 23</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 24</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 25</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 26</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 27</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 28</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 29</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 30</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 31</Name>
-</Teacher>
-<Teacher>
-	<Name>Teacher 32</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>Subject 1</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 3</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 4</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 5</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 6</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 7</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 8</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 9</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 10</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 11</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 12</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 13</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 14</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 15</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 16</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 17</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 18</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 19</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 20</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 21</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 22</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 23</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 24</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 25</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 26</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 27</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 28</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 29</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 30</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 31</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 32</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 33</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 34</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 35</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 36</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 37</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 38</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 39</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 40</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 41</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 42</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 43</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 44</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 45</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 46</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 47</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 48</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 49</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 50</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 51</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 52</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 53</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 54</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 55</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 56</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 57</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 58</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 59</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 60</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 61</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 62</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 63</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 64</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 65</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 66</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 67</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 68</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 69</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 70</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 71</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 72</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 73</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 74</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 75</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 76</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 77</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 78</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 79</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 80</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 81</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 82</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 83</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 84</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 85</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 86</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 87</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 88</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 89</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 90</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 91</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 92</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 93</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 94</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 95</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 96</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 97</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 98</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 99</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 100</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 101</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 102</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 103</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 104</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 105</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 106</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 107</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 108</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 109</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Subject 110</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>Activity tag 1</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Activity tag 2</Name>
+	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Teacher 1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 3</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 4</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 5</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 6</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 7</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 8</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 9</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 10</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 11</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 12</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 13</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 14</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 15</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 16</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 17</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 18</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 19</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 20</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 21</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 22</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 23</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 24</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 25</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 26</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 27</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 28</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 29</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 30</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 31</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teacher 32</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>Students year 1</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Students group 1_1</Name>
+		<Number_of_Students>10</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Students group 1_2</Name>
+		<Number_of_Students>10</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Students group 1_3</Name>
+		<Number_of_Students>10</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Students group 1_4</Name>
+		<Number_of_Students>10</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Students group 1_5</Name>
+		<Number_of_Students>10</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Students group 1_6</Name>
+		<Number_of_Students>10</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>Students year 2</Name>
+	<Number_of_Students>120</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Students group 2_1</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Students group 2_2</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Students group 2_3</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Students group 2_4</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Students group 2_5</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -2678,41 +2931,49 @@
 	<Name>Room 1</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Room 2</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Room 3</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Room 4</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Room 5</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Room 6</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Room 7</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Room 8</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

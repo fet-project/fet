@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>Liceo Scientifico Mazzini - Ancona</Institution_Name>
 
@@ -50,385 +50,603 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>1</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>1 A</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1A</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1 B</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1B</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1 C</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1C</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1 D</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1D</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1 E</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1E</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>2</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>2 A</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2A</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>2 B</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2B</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>2 C</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2C</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>2 D</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2D</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>2 E</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2E</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>3</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>3 A</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3A</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>3 B</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3B</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>3 C</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3C</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>3 D</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3D</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>4</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>4 A</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4A</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>4 B</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4B</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>4 C</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4C</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>4 D</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4D</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>5</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>5 CD</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>5CD</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>5 A</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>5A</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>5 B</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>5B</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>Aldighieri</Name>
-</Teacher>
-<Teacher>
-	<Name>Baioni</Name>
-</Teacher>
-<Teacher>
-	<Name>Baldelli</Name>
-</Teacher>
-<Teacher>
-	<Name>Bernardi</Name>
-</Teacher>
-<Teacher>
-	<Name>Casali</Name>
-</Teacher>
-<Teacher>
-	<Name>Cecconi</Name>
-</Teacher>
-<Teacher>
-	<Name>Conti</Name>
-</Teacher>
-<Teacher>
-	<Name>Corradi</Name>
-</Teacher>
-<Teacher>
-	<Name>Farina</Name>
-</Teacher>
-<Teacher>
-	<Name>Frulla</Name>
-</Teacher>
-<Teacher>
-	<Name>Galli</Name>
-</Teacher>
-<Teacher>
-	<Name>Gattari</Name>
-</Teacher>
-<Teacher>
-	<Name>Giacinti</Name>
-</Teacher>
-<Teacher>
-	<Name>Girelli</Name>
-</Teacher>
-<Teacher>
-	<Name>Grimaldi</Name>
-</Teacher>
-<Teacher>
-	<Name>Lombardi</Name>
-</Teacher>
-<Teacher>
-	<Name>Lucaboni</Name>
-</Teacher>
-<Teacher>
-	<Name>Lucentini</Name>
-</Teacher>
-<Teacher>
-	<Name>Luzi</Name>
-</Teacher>
-<Teacher>
-	<Name>Marrocchi</Name>
-</Teacher>
-<Teacher>
-	<Name>Marzioni</Name>
-</Teacher>
-<Teacher>
-	<Name>Montanari</Name>
-</Teacher>
-<Teacher>
-	<Name>Olivetti</Name>
-</Teacher>
-<Teacher>
-	<Name>Paolini</Name>
-</Teacher>
-<Teacher>
-	<Name>Pellegrini</Name>
-</Teacher>
-<Teacher>
-	<Name>Pezzolesi</Name>
-</Teacher>
-<Teacher>
-	<Name>Piccinini</Name>
-</Teacher>
-<Teacher>
-	<Name>Renzi</Name>
-</Teacher>
-<Teacher>
-	<Name>Ricci</Name>
-</Teacher>
-<Teacher>
-	<Name>Rossini</Name>
-</Teacher>
-<Teacher>
-	<Name>Santarelli</Name>
-</Teacher>
-<Teacher>
-	<Name>Sasso</Name>
-</Teacher>
-<Teacher>
-	<Name>Sbarbati</Name>
-</Teacher>
-<Teacher>
-	<Name>Spadoni</Name>
-</Teacher>
-<Teacher>
-	<Name>Tesei</Name>
-</Teacher>
-<Teacher>
-	<Name>Tonelli</Name>
-</Teacher>
-<Teacher>
-	<Name>Valeri</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>ED.FISICA</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>FILOSOFIA</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>FISICA</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>GEOGRAFIA</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>INGLESE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ITALIANO</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>LATINO</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MATEMATICA</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>RELIGIONE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>SCIENZE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ST.ARTE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>STORIA</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEDESCO</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>mat_fis</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ita_lat</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>sto_fil</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>sto_lat</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ita_sto</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>geo_lat</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ita_geo</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>centrale</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>via fiorani</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>palasport</Name>
+	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Aldighieri</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Baioni</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Baldelli</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Bernardi</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Casali</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Cecconi</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Conti</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Corradi</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Farina</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Frulla</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Galli</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Gattari</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Giacinti</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Girelli</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Grimaldi</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Lombardi</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Lucaboni</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Lucentini</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Luzi</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Marrocchi</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Marzioni</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Montanari</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Olivetti</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Paolini</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Pellegrini</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Pezzolesi</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Piccinini</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Renzi</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ricci</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rossini</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Santarelli</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sasso</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sbarbati</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Spadoni</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Tesei</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Tonelli</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Valeri</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>1</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>1 A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1A</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1 B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1B</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1 C</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1C</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1 D</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1D</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1 E</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1E</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>2 A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2A</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>2 B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2B</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>2 C</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2C</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>2 D</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2D</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>2 E</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2E</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>3</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>3 A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3A</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>3 B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3B</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>3 C</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3C</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>3 D</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3D</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>4 A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4A</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>4 B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4B</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>4 C</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4C</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>4 D</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4D</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>5</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>5 CD</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>5CD</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>5 A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>5A</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>5 B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>5B</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -5755,41 +5973,49 @@
 	<Name>Palestra</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Palestra Via fiorani</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Lab.Informatica 1</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Lab.Informatica 2</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Lab.Fisica</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Lab.Chimica</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Lab.Lingue</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Palasport</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

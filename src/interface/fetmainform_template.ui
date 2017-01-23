@@ -246,7 +246,21 @@
                </property>
               </widget>
              </item>
+             <item row="4" column="0">
+              <widget class="QPushButton" name="shortcutActivitiesPushButton">
+               <property name="text">
+                <string comment="It is on the shortcuts tab buttons, so keep translation short">Activities</string>
+               </property>
+              </widget>
+             </item>
              <item row="0" column="1">
+              <widget class="QPushButton" name="shortcutSubjectsPushButton">
+               <property name="text">
+                <string comment="It is on the shortcuts tab buttons, so keep translation short">Subjects</string>
+               </property>
+              </widget>
+             </item>
+             <item row="2" column="0">
               <widget class="QPushButton" name="shortcutTeachersPushButton">
                <property name="text">
                 <string comment="It is on the shortcuts tab buttons, so keep translation short">Teachers</string>
@@ -254,23 +268,16 @@
               </widget>
              </item>
              <item row="0" column="2">
-              <widget class="QPushButton" name="shortcutStudentsPushButton">
+              <widget class="QPushButton" name="shortcutActivityTagsPushButton">
                <property name="text">
-                <string comment="It is on the shortcuts tab buttons, so keep translation short">Students</string>
-               </property>
-              </widget>
-             </item>
-             <item row="2" column="0">
-              <widget class="QPushButton" name="shortcutSubjectsPushButton">
-               <property name="text">
-                <string comment="It is on the shortcuts tab buttons, so keep translation short">Subjects</string>
+                <string comment="It means activity tags, but I want to keep it short. It is on the shortcuts tab buttons, so keep translation short">Tags</string>
                </property>
               </widget>
              </item>
              <item row="2" column="1">
-              <widget class="QPushButton" name="shortcutActivityTagsPushButton">
+              <widget class="QPushButton" name="shortcutStudentsPushButton">
                <property name="text">
-                <string comment="It means activity tags, but I want to keep it short. It is on the shortcuts tab buttons, so keep translation short">Tags</string>
+                <string comment="It is on the shortcuts tab buttons, so keep translation short">Students</string>
                </property>
               </widget>
              </item>
@@ -278,13 +285,6 @@
               <widget class="QPushButton" name="shortcutDataSpacePushButton">
                <property name="text">
                 <string comment="It is on the shortcuts tab buttons, so keep translation short. It contains submenu for buildings and rooms">Space</string>
-               </property>
-              </widget>
-             </item>
-             <item row="4" column="0">
-              <widget class="QPushButton" name="shortcutActivitiesPushButton">
-               <property name="text">
-                <string comment="It is on the shortcuts tab buttons, so keep translation short">Activities</string>
                </property>
               </widget>
              </item>
@@ -556,45 +556,45 @@
                </property>
               </widget>
              </item>
-             <item row="0" column="1">
-              <widget class="QPushButton" name="shortcutTeachersSpaceConstraintsPushButton">
+             <item row="4" column="0">
+              <widget class="QPushButton" name="shortcutActivitiesSpaceConstraintsPushButton">
                <property name="text">
-                <string comment="It is on the shortcuts tab buttons, so keep translation short">Teachers</string>
+                <string comment="It is on the shortcuts tab buttons, so keep translation short">Activities</string>
                </property>
               </widget>
              </item>
-             <item row="0" column="2">
-              <widget class="QPushButton" name="shortcutStudentsSpaceConstraintsPushButton">
-               <property name="text">
-                <string comment="It is on the shortcuts tab buttons, so keep translation short">Students</string>
-               </property>
-              </widget>
-             </item>
-             <item row="2" column="0">
+             <item row="2" column="2">
               <widget class="QPushButton" name="shortcutRoomsSpaceConstraintsPushButton">
                <property name="text">
                 <string comment="It is on the shortcuts tab buttons, so keep translation short">Rooms</string>
                </property>
               </widget>
              </item>
+             <item row="2" column="0">
+              <widget class="QPushButton" name="shortcutTeachersSpaceConstraintsPushButton">
+               <property name="text">
+                <string comment="It is on the shortcuts tab buttons, so keep translation short">Teachers</string>
+               </property>
+              </widget>
+             </item>
              <item row="2" column="1">
+              <widget class="QPushButton" name="shortcutStudentsSpaceConstraintsPushButton">
+               <property name="text">
+                <string comment="It is on the shortcuts tab buttons, so keep translation short">Students</string>
+               </property>
+              </widget>
+             </item>
+             <item row="0" column="1">
               <widget class="QPushButton" name="shortcutSubjectsSpaceConstraintsPushButton">
                <property name="text">
                 <string comment="It is on the shortcuts tab buttons, so keep translation short">Subjects</string>
                </property>
               </widget>
              </item>
-             <item row="2" column="2">
+             <item row="0" column="2">
               <widget class="QPushButton" name="shortcutActivityTagsSpaceConstraintsPushButton">
                <property name="text">
                 <string comment="It means activity tags, but I want to keep it short. It is on the shortcuts tab buttons, so keep translation short">Tags</string>
-               </property>
-              </widget>
-             </item>
-             <item row="4" column="0">
-              <widget class="QPushButton" name="shortcutActivitiesSpaceConstraintsPushButton">
-               <property name="text">
-                <string comment="It is on the shortcuts tab buttons, so keep translation short">Activities</string>
                </property>
               </widget>
              </item>
@@ -605,15 +605,15 @@
                </property>
               </widget>
              </item>
-             <item row="1" column="0" colspan="3">
-              <widget class="Line" name="line_3">
+             <item row="3" column="0" colspan="3">
+              <widget class="Line" name="line_4">
                <property name="orientation">
                 <enum>Qt::Horizontal</enum>
                </property>
               </widget>
              </item>
-             <item row="3" column="0" colspan="3">
-              <widget class="Line" name="line_4">
+             <item row="1" column="0" colspan="3">
+              <widget class="Line" name="line_3">
                <property name="orientation">
                 <enum>Qt::Horizontal</enum>
                </property>
@@ -852,7 +852,7 @@
      <x>0</x>
      <y>0</y>
      <width>560</width>
-     <height>28</height>
+     <height>24</height>
     </rect>
    </property>
    <widget class="QMenu" name="helpMenu">
@@ -963,6 +963,8 @@
     <addaction name="dataStudentsStatisticsAction"/>
     <addaction name="separator"/>
     <addaction name="dataActivitiesRoomsStatisticsAction"/>
+    <addaction name="separator"/>
+    <addaction name="dataTeachersSubjectsQualificationsStatisticsAction"/>
     <addaction name="separator"/>
     <addaction name="statisticsPrintAction"/>
     <addaction name="statisticsExportToDiskAction"/>
@@ -1252,6 +1254,9 @@
      </property>
      <addaction name="timetablesToWriteOnDiskAction"/>
      <addaction name="settingsTimetableHtmlLevelAction"/>
+     <addaction name="separator"/>
+     <addaction name="settingsPrintDetailedTimetablesAction"/>
+     <addaction name="settingsPrintDetailedTeachersFreePeriodsTimetablesAction"/>
      <addaction name="separator"/>
      <addaction name="settingsPrintActivityTagsAction"/>
      <addaction name="separator"/>
@@ -2345,6 +2350,12 @@
    </property>
   </action>
   <action name="settingsPrintActivityTagsAction">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
    <property name="text">
     <string>Print activity tags in timetables</string>
    </property>
@@ -2439,6 +2450,33 @@
   <action name="timetablesToWriteOnDiskAction">
    <property name="text">
     <string comment="It means that the user selects the categories of timetables to be written on disk after the generation (soft conflicts, XML, days horizontal, time vertical, subgroups, teachers, etc.)">Categories of timetables to be written on disk</string>
+   </property>
+  </action>
+  <action name="settingsPrintDetailedTimetablesAction">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Print detailed timetables</string>
+   </property>
+  </action>
+  <action name="settingsPrintDetailedTeachersFreePeriodsTimetablesAction">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Print detailed teachers' free periods timetables</string>
+   </property>
+  </action>
+  <action name="dataTeachersSubjectsQualificationsStatisticsAction">
+   <property name="text">
+    <string comment="It means the statistics for the teachers - check the teacher's subject qualification">Teachers subjects qualifications statistics</string>
    </property>
   </action>
  </widget>

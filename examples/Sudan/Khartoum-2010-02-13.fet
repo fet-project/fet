@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>Nile Theological College, Khartoum North - Bahri</Institution_Name>
 
@@ -38,369 +38,543 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>Senior English</Name>
-	<Number_of_Students>15</Number_of_Students>
-	<Group>
-		<Name>Senior English PX</Name>
-		<Number_of_Students>5</Number_of_Students>
-		<Subgroup>
-			<Name>Senior English PX elective 1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Senior English PX elective 2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Senior English PG</Name>
-		<Number_of_Students>4</Number_of_Students>
-		<Subgroup>
-			<Name>Senior English PG elective 1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Senior English PG elective 2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Senior English CE</Name>
-		<Number_of_Students>3</Number_of_Students>
-		<Subgroup>
-			<Name>Senior English CE elective 1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Senior English CE elective 2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Senior English elective 1</Name>
-		<Number_of_Students>4</Number_of_Students>
-		<Subgroup>
-			<Name>Senior English PX elective 1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Senior English PG elective 1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Senior English CE elective 1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Senior English elective 2</Name>
-		<Number_of_Students>8</Number_of_Students>
-		<Subgroup>
-			<Name>Senior English PX elective 2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Senior English PG elective 2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Senior English CE elective 2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>Senior Arabic</Name>
-	<Number_of_Students>23</Number_of_Students>
-	<Group>
-		<Name>Senior Arabic/PX</Name>
-		<Number_of_Students>5</Number_of_Students>
-		<Subgroup>
-			<Name>Senior Arabic/PX/elective 1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Senior Arabic/PX/elective 2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Senior Arabic/PG</Name>
-		<Number_of_Students>10</Number_of_Students>
-		<Subgroup>
-			<Name>Senior Arabic/PG/elective 1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Senior Arabic/PG/elective 2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Senior Arabic/CE</Name>
-		<Number_of_Students>7</Number_of_Students>
-		<Subgroup>
-			<Name>Senior Arabic/CE/elective 1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Senior Arabic/CE/elective 2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Senior Arabic/elective 1</Name>
-		<Number_of_Students>7</Number_of_Students>
-		<Subgroup>
-			<Name>Senior Arabic/PX/elective 1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Senior Arabic/PG/elective 1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Senior Arabic/CE/elective 1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Senior Arabic/elective 2</Name>
-		<Number_of_Students>15</Number_of_Students>
-		<Subgroup>
-			<Name>Senior Arabic/PX/elective 2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Senior Arabic/PG/elective 2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Senior Arabic/CE/elective 2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>Junior English</Name>
-	<Number_of_Students>24</Number_of_Students>
-	<Group>
-		<Name>Junior English BS </Name>
-		<Number_of_Students>4</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Junior English T/CH</Name>
-		<Number_of_Students>3</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Junior English PM </Name>
-		<Number_of_Students>10</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Junior English CE</Name>
-		<Number_of_Students>7</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>Junior Arabic</Name>
-	<Number_of_Students>13</Number_of_Students>
-	<Group>
-		<Name>Junior Arabic BS</Name>
-		<Number_of_Students>3</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Junior Arabic T/CH</Name>
-		<Number_of_Students>2</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Junior Arabic PM</Name>
-		<Number_of_Students>3</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Junior Arabic CE</Name>
-		<Number_of_Students>5</Number_of_Students>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>Dr. Daniel Thabo</Name>
-</Teacher>
-<Teacher>
-	<Name>Dr. Joshua Otor</Name>
-</Teacher>
-<Teacher>
-	<Name>Rev. Ayman Mahrous</Name>
-</Teacher>
-<Teacher>
-	<Name>Rev. Christoph Schilling</Name>
-</Teacher>
-<Teacher>
-	<Name>Rev. Debbie Blane</Name>
-</Teacher>
-<Teacher>
-	<Name>Rev. Francis Clement</Name>
-</Teacher>
-<Teacher>
-	<Name>Rev. Hanna Refaat</Name>
-</Teacher>
-<Teacher>
-	<Name>Rev. Ismail Kanani</Name>
-</Teacher>
-<Teacher>
-	<Name>Rev. John Tong</Name>
-</Teacher>
-<Teacher>
-	<Name>Rev. Michael Aban</Name>
-</Teacher>
-<Teacher>
-	<Name>Father Dr. Philotheos Faraj</Name>
-</Teacher>
-<Teacher>
-	<Name>Rev. Santino Odong</Name>
-</Teacher>
-<Teacher>
-	<Name>Rev. Thomas Maluit</Name>
-</Teacher>
-<Teacher>
-	<Name>Rev. Tut Kong</Name>
-</Teacher>
-<Teacher>
-	<Name>Rev. Yahya A/Rahim</Name>
-</Teacher>
-<Teacher>
-	<Name>Ust. Abdelgadir</Name>
-</Teacher>
-<Teacher>
-	<Name>Ust. Francis Yukusuk</Name>
-</Teacher>
-<Teacher>
-	<Name>Ust. Jackson Albino</Name>
-</Teacher>
-<Teacher>
-	<Name>Rev. Musa Kody</Name>
-</Teacher>
-<Teacher>
-	<Name>Ust. Simon Chuol</Name>
-</Teacher>
-<Teacher>
-	<Name>Ust. Woldeyesus</Name>
-</Teacher>
-<Teacher>
-	<Name>Usta. Aida Nasser</Name>
-</Teacher>
-<Teacher>
-	<Name>Usta. Mistire Girma</Name>
-</Teacher>
-<Teacher>
-	<Name>Ust. Ibrahim al-Sayyed</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>RE 820 Isl. / Chr. </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MT 310 Backgr NT</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>OT 710/920 Ex. of Pent/Gen.</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>PM 780 Ch Admin</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>PM 781 Marr. &amp; fam.</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ED790 Curr dev.</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MI 930/970 Ch.growth</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>NT921 Women/men in Bible</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ED791 Teach Engl.3</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ED792 Teach. Hist. 2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>GS 101 Computer Science</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>CH 320 Ch Hist. 1</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>PS 340 Psychology</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>EN 350 Engl. 2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>OT 910/911 Hebrew 2/3</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>NT 912 Ex of Matt</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>CO 920 Hist. of Missiology</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>CH 922 Hist. of Chr. thought</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>RE 921 Intro to world rel</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MI 930 Ch Growth</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>LI 930 Mus in church</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>LI 931 Worship</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ED 940 Comm. publ. speaking</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TL 940 Teach Arabic 1</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TG 940 Teach Geogr 1</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TL 940 Teach Engl 1</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ED 793 Teaching Arabic 3</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Small Group</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>(small group)</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>&lt;4</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>singing</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>office</Name>
+	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Dr. Daniel Thabo</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dr. Joshua Otor</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rev. Ayman Mahrous</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rev. Christoph Schilling</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rev. Debbie Blane</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rev. Francis Clement</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rev. Hanna Refaat</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rev. Ismail Kanani</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rev. John Tong</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rev. Michael Aban</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Father Dr. Philotheos Faraj</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rev. Santino Odong</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rev. Thomas Maluit</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rev. Tut Kong</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rev. Yahya A/Rahim</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ust. Abdelgadir</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ust. Francis Yukusuk</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ust. Jackson Albino</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rev. Musa Kody</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ust. Simon Chuol</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ust. Woldeyesus</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Usta. Aida Nasser</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Usta. Mistire Girma</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ust. Ibrahim al-Sayyed</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>Senior English</Name>
+	<Number_of_Students>15</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Senior English PX</Name>
+		<Number_of_Students>5</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Senior English PX elective 1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Senior English PX elective 2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Senior English PG</Name>
+		<Number_of_Students>4</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Senior English PG elective 1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Senior English PG elective 2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Senior English CE</Name>
+		<Number_of_Students>3</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Senior English CE elective 1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Senior English CE elective 2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Senior English elective 1</Name>
+		<Number_of_Students>4</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Senior English PX elective 1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Senior English PG elective 1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Senior English CE elective 1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Senior English elective 2</Name>
+		<Number_of_Students>8</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Senior English PX elective 2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Senior English PG elective 2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Senior English CE elective 2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>Senior Arabic</Name>
+	<Number_of_Students>23</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Senior Arabic/PX</Name>
+		<Number_of_Students>5</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Senior Arabic/PX/elective 1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Senior Arabic/PX/elective 2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Senior Arabic/PG</Name>
+		<Number_of_Students>10</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Senior Arabic/PG/elective 1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Senior Arabic/PG/elective 2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Senior Arabic/CE</Name>
+		<Number_of_Students>7</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Senior Arabic/CE/elective 1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Senior Arabic/CE/elective 2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Senior Arabic/elective 1</Name>
+		<Number_of_Students>7</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Senior Arabic/PX/elective 1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Senior Arabic/PG/elective 1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Senior Arabic/CE/elective 1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Senior Arabic/elective 2</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Senior Arabic/PX/elective 2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Senior Arabic/PG/elective 2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Senior Arabic/CE/elective 2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>Junior English</Name>
+	<Number_of_Students>24</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Junior English BS </Name>
+		<Number_of_Students>4</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Junior English T/CH</Name>
+		<Number_of_Students>3</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Junior English PM </Name>
+		<Number_of_Students>10</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Junior English CE</Name>
+		<Number_of_Students>7</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>Junior Arabic</Name>
+	<Number_of_Students>13</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Junior Arabic BS</Name>
+		<Number_of_Students>3</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Junior Arabic T/CH</Name>
+		<Number_of_Students>2</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Junior Arabic PM</Name>
+		<Number_of_Students>3</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Junior Arabic CE</Name>
+		<Number_of_Students>5</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -1348,46 +1522,55 @@
 	<Name>R1</Name>
 	<Building></Building>
 	<Capacity>25</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>R2</Name>
 	<Building></Building>
 	<Capacity>24</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>R3</Name>
 	<Building></Building>
 	<Capacity>23</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>R4</Name>
 	<Building></Building>
 	<Capacity>22</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Chapel</Name>
 	<Building></Building>
 	<Capacity>15</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Rak</Name>
 	<Building></Building>
 	<Capacity>12</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Office Reg</Name>
 	<Building></Building>
 	<Capacity>4</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Staffroom</Name>
 	<Building></Building>
 	<Capacity>3</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Lab</Name>
 	<Building></Building>
 	<Capacity>15</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

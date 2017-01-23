@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>ثانوية الفارابي-حد كورت</Institution_Name>
 
@@ -77,379 +77,569 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>الجذع المشترك علمي</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>TS01</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>TS01-1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>TS01-2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>TS02</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>TS02-1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>TS02-2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>جذع مشترك  أدبي</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>TL01</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>TL01-1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>TL01-2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>TL02</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>TL02-1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>TL02-2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>TL03</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>TL03-1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>TL03-2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>TL04</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>TL04-1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>TL04-2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>TL05</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>TL05-1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>TL05-2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>أولى علوم</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>1S01</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1S01-1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S01-2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>أولى آداب</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>1L01</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1L01-1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1L01-2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1L02</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1L02-1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1L02-2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1L03</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1L03-1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1L03-2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1L04</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1L04-1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1L04-2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>ثانية علوم إنسانية</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>2H01</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>2H02</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>ثانية آداب</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>2L01</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>ثانية فيزياء</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>2P01</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2P01-1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2P01-2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>ثانية علوم حياة</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>2B01</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2B01-1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2B02-2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>ar1</Name>
-</Teacher>
-<Teacher>
-	<Name>ar2</Name>
-</Teacher>
-<Teacher>
-	<Name>ar3</Name>
-</Teacher>
-<Teacher>
-	<Name>ar4</Name>
-</Teacher>
-<Teacher>
-	<Name>bio1</Name>
-</Teacher>
-<Teacher>
-	<Name>bio2</Name>
-</Teacher>
-<Teacher>
-	<Name>bio3</Name>
-</Teacher>
-<Teacher>
-	<Name>eng1</Name>
-</Teacher>
-<Teacher>
-	<Name>eng2</Name>
-</Teacher>
-<Teacher>
-	<Name>eng3</Name>
-</Teacher>
-<Teacher>
-	<Name>fr1</Name>
-</Teacher>
-<Teacher>
-	<Name>fr2</Name>
-</Teacher>
-<Teacher>
-	<Name>fr3</Name>
-</Teacher>
-<Teacher>
-	<Name>fr4</Name>
-</Teacher>
-<Teacher>
-	<Name>geo1</Name>
-</Teacher>
-<Teacher>
-	<Name>geo2</Name>
-</Teacher>
-<Teacher>
-	<Name>geo3</Name>
-</Teacher>
-<Teacher>
-	<Name>inf1</Name>
-</Teacher>
-<Teacher>
-	<Name>isl1</Name>
-</Teacher>
-<Teacher>
-	<Name>isl2</Name>
-</Teacher>
-<Teacher>
-	<Name>math1</Name>
-</Teacher>
-<Teacher>
-	<Name>math2</Name>
-</Teacher>
-<Teacher>
-	<Name>math3</Name>
-</Teacher>
-<Teacher>
-	<Name>phil1</Name>
-</Teacher>
-<Teacher>
-	<Name>phil2</Name>
-</Teacher>
-<Teacher>
-	<Name>phy1</Name>
-</Teacher>
-<Teacher>
-	<Name>phy2</Name>
-</Teacher>
-<Teacher>
-	<Name>spr1</Name>
-</Teacher>
-<Teacher>
-	<Name>spr2</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>عربية</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>طبيعيات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>انجليزية</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>فرنسية</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>اجتماعيات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>اعلاميات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تءاسلامية</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>رياضيات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>فلسفة</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>فيزياء</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تءبدنية</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ترجمة</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>فيزياء-</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>طبيعيات-</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>طبيعياتءأ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ثقافة</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>رياضياتءع</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>فلسفة-</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Pseudo</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>group-L</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>group_S</Name>
+	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>ar1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ar2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ar3</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ar4</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bio1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bio2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bio3</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>eng1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>eng2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>eng3</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>fr1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>fr2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>fr3</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>fr4</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>geo1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>geo2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>geo3</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>inf1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>isl1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>isl2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>math1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>math2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>math3</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>phil1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>phil2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>phy1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>phy2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>spr1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>spr2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>الجذع المشترك علمي</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>TS01</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>TS01-1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>TS01-2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>TS02</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>TS02-1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>TS02-2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>جذع مشترك  أدبي</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>TL01</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>TL01-1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>TL01-2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>TL02</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>TL02-1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>TL02-2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>TL03</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>TL03-1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>TL03-2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>TL04</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>TL04-1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>TL04-2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>TL05</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>TL05-1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>TL05-2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>أولى علوم</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>1S01</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1S01-1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S01-2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>أولى آداب</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>1L01</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1L01-1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1L01-2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1L02</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1L02-1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1L02-2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1L03</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1L03-1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1L03-2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1L04</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1L04-1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1L04-2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>ثانية علوم إنسانية</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>2H01</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>2H02</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>ثانية آداب</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>2L01</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>ثانية فيزياء</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>2P01</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2P01-1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2P01-2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>ثانية علوم حياة</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>2B01</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2B01-1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2B02-2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -6892,45 +7082,59 @@
 <Buildings_List>
 <Building>
 	<Name>1</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>2</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>3</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>4</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>5</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>6</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>7</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>8</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>9</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>10</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>عط1</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>فك2</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>عط2</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>فك1</Name>
+	<Comments></Comments>
 </Building>
 </Buildings_List>
 
@@ -6939,86 +7143,103 @@
 	<Name>ق01</Name>
 	<Building>1</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ق02</Name>
 	<Building>2</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ق03</Name>
 	<Building>3</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ق04</Name>
 	<Building>4</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ق05</Name>
 	<Building>5</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ق06</Name>
 	<Building>6</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>قءاعل</Name>
 	<Building></Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ق07</Name>
 	<Building>7</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ق08</Name>
 	<Building>8</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ق09</Name>
 	<Building>9</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>عط2</Name>
 	<Building>عط2</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>فك1</Name>
 	<Building>فك1</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ر1</Name>
 	<Building></Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ر2</Name>
 	<Building></Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>قءإعل</Name>
 	<Building></Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>عط1</Name>
 	<Building>عط1</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>فك2</Name>
 	<Building>فك2</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

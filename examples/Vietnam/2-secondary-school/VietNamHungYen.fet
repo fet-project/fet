@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>Trường THCS Đức Hợp_(33331517)</Institution_Name>
 
@@ -49,222 +49,385 @@ VEMIS_Timetable_(1.2.0)</Comments>
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>Lớp 6</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>6A</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>6B</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>Lớp 7</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>7A</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>7B</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>Lớp 8</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>8A</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>8B</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>Lớp 9</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>9A</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>9B</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>9C</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>Hưng_(10909507_000020)</Name>
-</Teacher>
-<Teacher>
-	<Name>Yến _(10909510_000019)</Name>
-</Teacher>
-<Teacher>
-	<Name>Thắm_(10909511_000030)</Name>
-</Teacher>
-<Teacher>
-	<Name>Mười_(10909517_000002)</Name>
-</Teacher>
-<Teacher>
-	<Name>Lan_(10909517_000007)</Name>
-</Teacher>
-<Teacher>
-	<Name>Tiến_(10909517_000009)</Name>
-</Teacher>
-<Teacher>
-	<Name>T.Hường_(10909517_000012)</Name>
-</Teacher>
-<Teacher>
-	<Name>Dung A_(10909517_000013)</Name>
-</Teacher>
-<Teacher>
-	<Name>Tân_(10909517_000015)</Name>
-</Teacher>
-<Teacher>
-	<Name>Quyên_(10909517_000021)</Name>
-</Teacher>
-<Teacher>
-	<Name>Nhinh_(10909517_000023)</Name>
-</Teacher>
-<Teacher>
-	<Name>Hương_(10909517_000024)</Name>
-</Teacher>
-<Teacher>
-	<Name>Tuynh_(10909517_000027)</Name>
-</Teacher>
-<Teacher>
-	<Name>Thủy_(10909517_000028)</Name>
-</Teacher>
-<Teacher>
-	<Name>Huyền_(10909517_000029)</Name>
-</Teacher>
-<Teacher>
-	<Name>Nụ_(10909517_000030)</Name>
-</Teacher>
-<Teacher>
-	<Name>Duyệt_(10909517_000032)</Name>
-</Teacher>
-<Teacher>
-	<Name>Quang_(10909517_000034)</Name>
-</Teacher>
-<Teacher>
-	<Name>Hà_(33331517_060902)</Name>
-</Teacher>
-<Teacher>
-	<Name>Hoa_(33331517_060905)</Name>
-</Teacher>
-<Teacher>
-	<Name>Ngọ_(33331517_060915)</Name>
-</Teacher>
-<Teacher>
-	<Name>Dung B_(33331517_060916)</Name>
-</Teacher>
-<Teacher>
-	<Name>Thảo_(33331517_60906)</Name>
-</Teacher>
-<Teacher>
-	<Name>Hường Kt_(33331517_60907)</Name>
-</Teacher>
-<Teacher>
-	<Name>Dương_(33331517_60908)</Name>
-</Teacher>
-<Teacher>
-	<Name>Yến(GV)_(33331517_60909)</Name>
-</Teacher>
-<Teacher>
-	<Name>Hiền_(33331517_60910)</Name>
-</Teacher>
-<Teacher>
-	<Name>Hằng_(33331517_60911)</Name>
-</Teacher>
-<Teacher>
-	<Name>Huệ_(33331517_60912)</Name>
-</Teacher>
-<Teacher>
-	<Name>Thu_(33331517_60913)</Name>
-</Teacher>
-<Teacher>
-	<Name>Nguyễn Hữu Duyệt_(duyet)</Name>
-</Teacher>
-<Teacher>
-	<Name>super admin_(superadmin)</Name>
-</Teacher>
-<Teacher>
-	<Name>abc123_(username)</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>Toán</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Vật lí</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Hóa học</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sinh học</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Công nghệ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Ngữ văn</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Lịch Sử</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Địa Lí</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>GDCD</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Thể dục</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Ngoại ngữ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Tin học</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Mỹ thuật</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Âm nhạc</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Tiếng dân tộc</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Ngoại ngữ 2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sinh hoạt</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Chào cờ</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Hưng_(10909507_000020)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Yến _(10909510_000019)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Thắm_(10909511_000030)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mười_(10909517_000002)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Lan_(10909517_000007)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Tiến_(10909517_000009)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>T.Hường_(10909517_000012)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dung A_(10909517_000013)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Tân_(10909517_000015)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Quyên_(10909517_000021)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Nhinh_(10909517_000023)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Hương_(10909517_000024)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Tuynh_(10909517_000027)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Thủy_(10909517_000028)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Huyền_(10909517_000029)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Nụ_(10909517_000030)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Duyệt_(10909517_000032)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Quang_(10909517_000034)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Hà_(33331517_060902)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Hoa_(33331517_060905)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ngọ_(33331517_060915)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dung B_(33331517_060916)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Thảo_(33331517_60906)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Hường Kt_(33331517_60907)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dương_(33331517_60908)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Yến(GV)_(33331517_60909)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Hiền_(33331517_60910)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Hằng_(33331517_60911)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Huệ_(33331517_60912)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Thu_(33331517_60913)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Nguyễn Hữu Duyệt_(duyet)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>super admin_(superadmin)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>abc123_(username)</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>Lớp 6</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>6A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>6B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>Lớp 7</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>7A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>7B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>Lớp 8</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>8A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>8B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>Lớp 9</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>9A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>9B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>9C</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>

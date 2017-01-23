@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>EEB Leopoldo Jacobsen</Institution_Name>
 
@@ -44,113 +44,183 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>1 em 4</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>2 em 3</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>3 em 3</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>Alexandra</Name>
-</Teacher>
-<Teacher>
-	<Name>Carlos</Name>
-</Teacher>
-<Teacher>
-	<Name>Corine</Name>
-</Teacher>
-<Teacher>
-	<Name>Guido</Name>
-</Teacher>
-<Teacher>
-	<Name>Jean</Name>
-</Teacher>
-<Teacher>
-	<Name>Joel</Name>
-</Teacher>
-<Teacher>
-	<Name>Keyse</Name>
-</Teacher>
-<Teacher>
-	<Name>Naici</Name>
-</Teacher>
-<Teacher>
-	<Name>Nislaine</Name>
-</Teacher>
-<Teacher>
-	<Name>Nádia</Name>
-</Teacher>
-<Teacher>
-	<Name>Rubens</Name>
-</Teacher>
-<Teacher>
-	<Name>Simone</Name>
-</Teacher>
-<Teacher>
-	<Name>Sueli</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>LPL</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>LEI</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>HIS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>FIS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>QUI</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>SOC</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>FIL</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ART</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MAT</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>BIL</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>EFI</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>GEO</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>HA</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>HA</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>HP</Name>
+	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Alexandra</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Carlos</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Corine</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Guido</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Jean</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Joel</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Keyse</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Naici</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Nislaine</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Nádia</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rubens</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Simone</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sueli</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>1 em 4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>2 em 3</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>3 em 3</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>

@@ -20,6 +20,10 @@
 
 Teacher::Teacher()
 {
+	targetNumberOfHours=0;
+	comments=QString("");
+	qualifiedSubjectsList.clear();
+	qualifiedSubjectsHash.clear();
 }
 
 Teacher::~Teacher()
@@ -30,9 +34,26 @@ QString Teacher::getXmlDescription()
 {
 	QString s="<Teacher>\n";
 	s+="	<Name>"+protect(this->name)+"</Name>\n";
+	s+="	<Target_Number_of_Hours>"+CustomFETString::number(targetNumberOfHours)+"</Target_Number_of_Hours>\n";
+	s+="	<Qualified_Subjects>\n";
+	foreach(QString sbj, qualifiedSubjectsList)
+		s+="		<Qualified_Subject>"+sbj+"</Qualified_Subject>\n";
+	s+="	</Qualified_Subjects>\n";
+	s+="	<Comments>"+protect(comments)+"</Comments>\n";
 	s+="</Teacher>\n";
 
 	return s;
+}
+
+QString Teacher::getDescription()
+{
+	QString s=tr("N:%1", "The name of the teacher").arg(name);
+	
+	QString end=QString("");
+	if(!comments.isEmpty())
+		end=", "+tr("C: %1", "Comments").arg(comments);
+	
+	return s+end;
 }
 
 QString Teacher::getDetailedDescription()
@@ -41,6 +62,22 @@ QString Teacher::getDetailedDescription()
 	s+="\n";
 	s+=tr("Name=%1", "The name of the teacher").arg(this->name);
 	s+="\n";
+	
+	s+=tr("Target number of hours=%1", "The target number of hours for the teacher").arg(targetNumberOfHours);
+	s+="\n";
+
+	s+=tr("Qualified subjects:", "The list of qualified subjects for a teacher");
+	s+="\n";
+	foreach(QString sbj, qualifiedSubjectsList){
+		s+=sbj;
+		s+="\n";
+	}
+
+	//Has comments?
+	if(!comments.isEmpty()){
+		s+=tr("Comments=%1").arg(comments);
+		s+="\n";
+	}
 
 	return s;
 }

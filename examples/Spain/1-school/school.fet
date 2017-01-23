@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>INSTITUT</Institution_Name>
 
@@ -56,541 +56,906 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>2008-2009</Name>
-	<Number_of_Students>575</Number_of_Students>
-	<Group>
-		<Name>1-BAT-A</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>1-BAT-B</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>1-BAT-C</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>1-ESO-A</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>1-ESO-B</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>1-ESO-C</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>2-BAT-A</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>2-BAT-B</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>2-ESO-A</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>2-ESO-B</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>2-ESO-C</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>2-ESO-D</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>3-ESO-A</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>3-ESO-B</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>3-ESO-C</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>3-ESO-D</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>4-ESO-A</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>4-ESO-B</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>4-ESO-C</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>4-ESO-C2</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>G</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>GJ</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>AM</Name>
-</Teacher>
-<Teacher>
-	<Name>AS</Name>
-</Teacher>
-<Teacher>
-	<Name>AV</Name>
-</Teacher>
-<Teacher>
-	<Name>ANAS</Name>
-</Teacher>
-<Teacher>
-	<Name>SO</Name>
-</Teacher>
-<Teacher>
-	<Name>CARLES  Q1</Name>
-</Teacher>
-<Teacher>
-	<Name>CARLES  Q2</Name>
-</Teacher>
-<Teacher>
-	<Name>CARME  Q1</Name>
-</Teacher>
-<Teacher>
-	<Name>CARME  Q2</Name>
-</Teacher>
-<Teacher>
-	<Name>MONTSERRAT  Q1</Name>
-</Teacher>
-<Teacher>
-	<Name>MONTSERRAT  Q2</Name>
-</Teacher>
-<Teacher>
-	<Name>CA</Name>
-</Teacher>
-<Teacher>
-	<Name>CM</Name>
-</Teacher>
-<Teacher>
-	<Name>EDUARDO  Q1</Name>
-</Teacher>
-<Teacher>
-	<Name>EDUARDO  Q2</Name>
-</Teacher>
-<Teacher>
-	<Name>EA</Name>
-</Teacher>
-<Teacher>
-	<Name>FINA  Q1</Name>
-</Teacher>
-<Teacher>
-	<Name>FINA  Q2</Name>
-</Teacher>
-<Teacher>
-	<Name>MC</Name>
-</Teacher>
-<Teacher>
-	<Name>GG</Name>
-</Teacher>
-<Teacher>
-	<Name>IO</Name>
-</Teacher>
-<Teacher>
-	<Name>ID</Name>
-</Teacher>
-<Teacher>
-	<Name>IP</Name>
-</Teacher>
-<Teacher>
-	<Name>JF</Name>
-</Teacher>
-<Teacher>
-	<Name>J.M.  Q1</Name>
-</Teacher>
-<Teacher>
-	<Name>J.M.  Q2</Name>
-</Teacher>
-<Teacher>
-	<Name>JD</Name>
-</Teacher>
-<Teacher>
-	<Name>JT</Name>
-</Teacher>
-<Teacher>
-	<Name>JV</Name>
-</Teacher>
-<Teacher>
-	<Name>JP</Name>
-</Teacher>
-<Teacher>
-	<Name>JS</Name>
-</Teacher>
-<Teacher>
-	<Name>LS</Name>
-</Teacher>
-<Teacher>
-	<Name>LL</Name>
-</Teacher>
-<Teacher>
-	<Name>MARIA  Q1</Name>
-</Teacher>
-<Teacher>
-	<Name>MARIA  Q2</Name>
-</Teacher>
-<Teacher>
-	<Name>RÉS Q1</Name>
-</Teacher>
-<Teacher>
-	<Name>RÉS Q2</Name>
-</Teacher>
-<Teacher>
-	<Name>MD</Name>
-</Teacher>
-<Teacher>
-	<Name>MG</Name>
-</Teacher>
-<Teacher>
-	<Name>MONTSE C</Name>
-</Teacher>
-<Teacher>
-	<Name>MÚSICA2 Q1</Name>
-</Teacher>
-<Teacher>
-	<Name>MÚSICA2 Q2</Name>
-</Teacher>
-<Teacher>
-	<Name>MO</Name>
-</Teacher>
-<Teacher>
-	<Name>MONTSE  Q1</Name>
-</Teacher>
-<Teacher>
-	<Name>MONTSE  Q2</Name>
-</Teacher>
-<Teacher>
-	<Name>MR</Name>
-</Teacher>
-<Teacher>
-	<Name>SG</Name>
-</Teacher>
-<Teacher>
-	<Name>OA</Name>
-</Teacher>
-<Teacher>
-	<Name>PERE  Q1</Name>
-</Teacher>
-<Teacher>
-	<Name>PERE  Q2</Name>
-</Teacher>
-<Teacher>
-	<Name>RELIGIÓ</Name>
-</Teacher>
-<Teacher>
-	<Name>RP</Name>
-</Teacher>
-<Teacher>
-	<Name>RC</Name>
-</Teacher>
-<Teacher>
-	<Name>RB</Name>
-</Teacher>
-<Teacher>
-	<Name>ROSER F Q1</Name>
-</Teacher>
-<Teacher>
-	<Name>ROSER F Q2</Name>
-</Teacher>
-<Teacher>
-	<Name>SGL</Name>
-</Teacher>
-<Teacher>
-	<Name>SL</Name>
-</Teacher>
-<Teacher>
-	<Name>SA</Name>
-</Teacher>
-<Teacher>
-	<Name>SF</Name>
-</Teacher>
-<Teacher>
-	<Name>TECNO4</Name>
-</Teacher>
-<Teacher>
-	<Name>EV</Name>
-</Teacher>
-<Teacher>
-	<Name>TP</Name>
-</Teacher>
-<Teacher>
-	<Name>TT</Name>
-</Teacher>
-<Teacher>
-	<Name>VM</Name>
-</Teacher>
-<Teacher>
-	<Name>YA</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>Anglès</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Anglès Oral</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Biologia</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>CC Experim</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>CC Món Cont</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>CC Socials</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Castellà</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Català</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Ciutadania o Optativa</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Religió o Competències bàsiques</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Diari de l&apos;estudiant</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Dibuix</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Ed Física</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Filosofia</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Fis i Quim</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>.</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Hora B</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Instrumental</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Matemàtiques</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Mates-Llatí-Mates CCSS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Mecànica-Química-Grec-Geografia</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Tecno-Biologia-Dibuix-Lit cast-EOE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>CC Terra-Física-Art</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Música</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Mates-Mates CCSS-Llatí</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Física-CC Terra-EOE-Lite cat</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Tecno Ind-Història-Química-Grec</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Dibuix-Francès-Economia-Biologia-Electrotècnia</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Optativa 1rESO</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Optativa-2nBat</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Optativa 2nESO</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Optativa 4tESO-1</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Optativa 4tESO-2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Optativa 4tESO-3</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Religió-Alternativa</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Reunió EE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Reunió Junta</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Reunió Tutors</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Tecnologia</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Tutoria</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Ètica al Q1 i Treball Recerca al Q2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Reunió EE i tutors 1r</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Reunió EE i tutors 2n</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Reunió EE 3r, 4t i batx</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Reunió EE 4t</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>Suport 1A</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Suport 1B</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Suport 1C</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Suport 2A</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Suport 2B</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Suport 2C</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Suport 2D</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Suport 3A</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Suport 3B</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Suport 3C</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Suport 3D</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Acastellà-Bmates-Ccatalà-I3mates</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Acatalà-Bcastellà-Cmates-I3castellà</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Amates-Bcatalà-Ccastellà-I3català</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Anglès-Experim</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Anglès-Mates</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Anglès-Tecno</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Anglès</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Biologia</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>CC Experimentals</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Castellà</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Català-Castellà</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Català</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>FiQ</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>I1castellà-I2matesalà-I3cat</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>I1català-I2castellà-I3mates</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>I1mates-I2-català-I3castellà</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>I4castellà-I5mates-I6català</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>I4català-I5castellà-I6mates</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>I4mates-I5català-I6castellà</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Matemàtiques</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Tecno-Exp</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Tecnologia</Name>
+	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>AM</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>AS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>AV</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ANAS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SO</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>CARLES  Q1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>CARLES  Q2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>CARME  Q1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>CARME  Q2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MONTSERRAT  Q1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MONTSERRAT  Q2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>CA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>CM</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>EDUARDO  Q1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>EDUARDO  Q2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>EA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>FINA  Q1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>FINA  Q2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MC</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>GG</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>IO</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ID</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>IP</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>JF</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>J.M.  Q1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>J.M.  Q2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>JD</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>JT</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>JV</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>JP</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>JS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>LS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>LL</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MARIA  Q1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MARIA  Q2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RÉS Q1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RÉS Q2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MD</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MG</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MONTSE C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MÚSICA2 Q1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MÚSICA2 Q2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MO</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MONTSE  Q1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MONTSE  Q2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MR</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SG</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>OA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PERE  Q1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PERE  Q2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RELIGIÓ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RP</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RC</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RB</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ROSER F Q1</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ROSER F Q2</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SGL</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SL</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SF</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>TECNO4</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>EV</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>TP</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>TT</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>VM</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>YA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>2008-2009</Name>
+	<Number_of_Students>575</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>1-BAT-A</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>1-BAT-B</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>1-BAT-C</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>1-ESO-A</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>1-ESO-B</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>1-ESO-C</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>2-BAT-A</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>2-BAT-B</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>2-ESO-A</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>2-ESO-B</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>2-ESO-C</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>2-ESO-D</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>3-ESO-A</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>3-ESO-B</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>3-ESO-C</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>3-ESO-D</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>4-ESO-A</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>4-ESO-B</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>4-ESO-C</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>4-ESO-C2</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>G</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>GJ</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -6173,12 +6538,15 @@
 <Buildings_List>
 <Building>
 	<Name>CENTRE</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>GIMNÀS</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>PATI</Name>
+	<Comments></Comments>
 </Building>
 </Buildings_List>
 
@@ -6187,196 +6555,235 @@
 	<Name>A-1</Name>
 	<Building>CENTRE</Building>
 	<Capacity>90</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-2</Name>
 	<Building>CENTRE</Building>
 	<Capacity>90</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-3</Name>
 	<Building>CENTRE</Building>
 	<Capacity>90</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-4</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-5</Name>
 	<Building>CENTRE</Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-6</Name>
 	<Building>CENTRE</Building>
 	<Capacity>90</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-7</Name>
 	<Building>CENTRE</Building>
 	<Capacity>90</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-8</Name>
 	<Building>CENTRE</Building>
 	<Capacity>90</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-9</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-10</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-11</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-12</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-13</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-14</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-15</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-16</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-17</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-18</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-19</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-20</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-21</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-22</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-23</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-24</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A-25</Name>
 	<Building>CENTRE</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>GIM</Name>
 	<Building>GIMNÀS</Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>PISTA</Name>
 	<Building>PATI</Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ACTES</Name>
 	<Building>CENTRE</Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>IDIOMES</Name>
 	<Building>CENTRE</Building>
 	<Capacity>60</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>MÚSICA</Name>
 	<Building>CENTRE</Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>DIBUIX</Name>
 	<Building>CENTRE</Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>AUDIO</Name>
 	<Building>CENTRE</Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>INF1</Name>
 	<Building>CENTRE</Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>INF2</Name>
 	<Building>CENTRE</Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>TEC1</Name>
 	<Building>CENTRE</Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>TEC2</Name>
 	<Building>CENTRE</Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>BIO</Name>
 	<Building>CENTRE</Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>FIS</Name>
 	<Building>CENTRE</Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>QUI</Name>
 	<Building>CENTRE</Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

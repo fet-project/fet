@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>Concordia College</Institution_Name>
 
@@ -62,966 +62,1323 @@
 </Hour>
 </Hours_List>
 
+<Subjects_List>
+<Subject>
+	<Name>Acc</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Afr</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Art</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BIS</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>BSt</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Bio</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>CPr</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>CSt</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>DSt</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Eco</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Eng</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Ent</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Geo</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Grm</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>His</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>K&amp;W</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>LSc</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>LSk</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Mat</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>OAd</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Otj</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>PEd</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>PSc</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>RME</Name>
+	<Comments></Comments>
+</Subject>
+</Subjects_List>
+
+<Activity_Tags_List>
+</Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>!Omes</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Amalwa</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Bock</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Eliakim</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Geingos</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Haixwa</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Henock</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Kaangundue</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Kamwi-N</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Kandjimi</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Katjariua</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Kaulinge</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Kazenaimue</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Kazondovi</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Kubaula</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Martina</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Masule</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mbeeli</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mpinge</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mukata-L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mungonen</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mwahafa</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ndongo</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ngula-A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rukoro</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Shikomba</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Shikongo</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Shoolongo</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Silio-N</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Tawana</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Tjikumise</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Tjingaete</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ujamba</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Van Wyk</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>VanZyl</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
 <Students_List>
 <Year>
 	<Name> 8a</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name> 8a CPr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 	<Group>
 		<Name>8a K&amp;W</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 </Year>
 <Year>
 	<Name> 8b</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name> 8b CPr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 	<Group>
 		<Name> 8b K&amp;W</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 </Year>
 <Year>
 	<Name> 8c</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 </Year>
 <Year>
 	<Name> 8d</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 </Year>
 <Year>
 	<Name> 8e</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 </Year>
 <Year>
 	<Name> 8f</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 </Year>
 <Year>
 	<Name> 8g</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 </Year>
 <Year>
 	<Name> 9a</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name> 9a CPr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 	<Group>
 		<Name> 9a K&amp;W</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 </Year>
 <Year>
 	<Name> 9b</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name> 9b CPr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 	<Group>
 		<Name> 9b K&amp;W</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 </Year>
 <Year>
 	<Name> 9c</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 </Year>
 <Year>
 	<Name> 9d</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 </Year>
 <Year>
 	<Name> 9e</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 </Year>
 <Year>
 	<Name> 9f</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 </Year>
 <Year>
 	<Name>10a</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>10a CPr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 	<Group>
 		<Name>10a K&amp;W</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 </Year>
 <Year>
 	<Name>10b</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>10b CPr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 	<Group>
 		<Name>10b K&amp;W</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 </Year>
 <Year>
 	<Name>10c</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 </Year>
 <Year>
 	<Name>10d</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 </Year>
 <Year>
 	<Name>10e</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 </Year>
 <Year>
 	<Name>10f</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 </Year>
 <Year>
 	<Name>11a</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>11a Afr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11a Afr BSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11a Afr Cst</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11a Afr OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>11a Grm</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11a Grm BSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11a Grm Cst</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11a Grm OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>11a Otj</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11a Otj BSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11a Otj Cst</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11a Otj OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>11a BSt</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11a Afr BSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11a Grm BSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11a Otj BSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>11a Cst</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11a Afr Cst</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11a Grm Cst</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11a Otj Cst</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>11a OAd</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11a Afr OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11a Grm OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11a Otj OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 </Year>
 <Year>
 	<Name>11b</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>11b Afr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 	<Group>
 		<Name>11b Grm</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 </Year>
 <Year>
 	<Name>11c</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>11c Afr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11c Afr CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11c Afr DSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11c Afr OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>11c Grm</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11c Grm CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11c Grm DSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11c Grm OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>11c Otj</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11c Otj CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11c Otj DSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11c Otj OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>11c CSt</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11c Afr CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11c Grm CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11c Otj CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>11c DSt</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11c Afr DSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11c Grm DSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11c Otj DSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>11c OAd</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11c Afr OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11c Grm OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11c Otj OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 </Year>
 <Year>
 	<Name>11d</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>11d Afr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 	<Group>
 		<Name>11d Grm</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 </Year>
 <Year>
 	<Name>11e</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>11e Afr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11e Afr CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11e Afr Geo</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11e Afr OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>11e Grm</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11e Grm CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11e Grm Geo</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11e Grm OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>11e Otj</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11e Otj CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11e Otj Geo</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11e Otj OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>11e CSt</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11e Afr CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11e Grm CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11e Otj CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>11e Geo</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11e Afr Geo</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11e Grm Geo</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11e Otj Geo</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>11e OAd</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>11e Afr OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11e Grm OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>11e Otj OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 </Year>
 <Year>
 	<Name>12a</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>12a Afr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12a Afr BSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12a Afr Cst</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12a Afr OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>12a Grm</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12a Grm BSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12a Grm Cst</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12a Grm OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>12a Otj</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12a Otj BSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12a Otj Cst</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12a Otj OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>12a BSt</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12a Afr BSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12a Grm BSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12a Otj BSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>12a Cst</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12a Afr Cst</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12a Grm Cst</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12a Otj Cst</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>12a OAd</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12a Afr OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12a Grm OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12a Otj OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 </Year>
 <Year>
 	<Name>12b</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>12b Afr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 	<Group>
 		<Name>12b Grm</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 </Year>
 <Year>
 	<Name>12c</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>12c Afr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12c Afr CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12c Afr DSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12c Afr OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>12c Grm</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12c Grm CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12c Grm DSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12c Grm OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>12c Otj</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12c Otj CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12c Otj DSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12c Otj OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>12c CSt</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12c Afr CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12c Grm CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12c Otj CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>12c DSt</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12c Afr DSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12c Grm DSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12c Otj DSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>12c OAd</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12c Afr OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12c Grm OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12c Otj OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 </Year>
 <Year>
 	<Name>12d</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>12d Afr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 	<Group>
 		<Name>12d Grm</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 	</Group>
 </Year>
 <Year>
 	<Name>12e</Name>
 	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
 	<Group>
 		<Name>12e Afr</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12e Afr CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12e Afr Geo</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12e Afr OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>12e Grm</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12e Grm CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12e Grm Geo</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12e Grm OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>12e Otj</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12e Otj CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12e Otj Geo</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12e Otj OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>12e CSt</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12e Afr CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12e Grm CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12e Otj CSt</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>12e Geo</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12e Afr Geo</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12e Grm Geo</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12e Otj Geo</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 	<Group>
 		<Name>12e OAd</Name>
 		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
 		<Subgroup>
 			<Name>12e Afr OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12e Grm OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 		<Subgroup>
 			<Name>12e Otj OAd</Name>
 			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
 		</Subgroup>
 	</Group>
 </Year>
 </Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>!Omes</Name>
-</Teacher>
-<Teacher>
-	<Name>Amalwa</Name>
-</Teacher>
-<Teacher>
-	<Name>Bock</Name>
-</Teacher>
-<Teacher>
-	<Name>Eliakim</Name>
-</Teacher>
-<Teacher>
-	<Name>Geingos</Name>
-</Teacher>
-<Teacher>
-	<Name>Haixwa</Name>
-</Teacher>
-<Teacher>
-	<Name>Henock</Name>
-</Teacher>
-<Teacher>
-	<Name>Kaangundue</Name>
-</Teacher>
-<Teacher>
-	<Name>Kamwi-N</Name>
-</Teacher>
-<Teacher>
-	<Name>Kandjimi</Name>
-</Teacher>
-<Teacher>
-	<Name>Katjariua</Name>
-</Teacher>
-<Teacher>
-	<Name>Kaulinge</Name>
-</Teacher>
-<Teacher>
-	<Name>Kazenaimue</Name>
-</Teacher>
-<Teacher>
-	<Name>Kazondovi</Name>
-</Teacher>
-<Teacher>
-	<Name>Kubaula</Name>
-</Teacher>
-<Teacher>
-	<Name>Martina</Name>
-</Teacher>
-<Teacher>
-	<Name>Masule</Name>
-</Teacher>
-<Teacher>
-	<Name>Mbeeli</Name>
-</Teacher>
-<Teacher>
-	<Name>Mpinge</Name>
-</Teacher>
-<Teacher>
-	<Name>Mukata-L</Name>
-</Teacher>
-<Teacher>
-	<Name>Mungonen</Name>
-</Teacher>
-<Teacher>
-	<Name>Mwahafa</Name>
-</Teacher>
-<Teacher>
-	<Name>Ndongo</Name>
-</Teacher>
-<Teacher>
-	<Name>Ngula-A</Name>
-</Teacher>
-<Teacher>
-	<Name>Rukoro</Name>
-</Teacher>
-<Teacher>
-	<Name>Shikomba</Name>
-</Teacher>
-<Teacher>
-	<Name>Shikongo</Name>
-</Teacher>
-<Teacher>
-	<Name>Shoolongo</Name>
-</Teacher>
-<Teacher>
-	<Name>Silio-N</Name>
-</Teacher>
-<Teacher>
-	<Name>Tawana</Name>
-</Teacher>
-<Teacher>
-	<Name>Tjikumise</Name>
-</Teacher>
-<Teacher>
-	<Name>Tjingaete</Name>
-</Teacher>
-<Teacher>
-	<Name>Ujamba</Name>
-</Teacher>
-<Teacher>
-	<Name>Van Wyk</Name>
-</Teacher>
-<Teacher>
-	<Name>VanZyl</Name>
-</Teacher>
-</Teachers_List>
-
-<Subjects_List>
-<Subject>
-	<Name>Acc</Name>
-</Subject>
-<Subject>
-	<Name>Afr</Name>
-</Subject>
-<Subject>
-	<Name>Art</Name>
-</Subject>
-<Subject>
-	<Name>BIS</Name>
-</Subject>
-<Subject>
-	<Name>BSt</Name>
-</Subject>
-<Subject>
-	<Name>Bio</Name>
-</Subject>
-<Subject>
-	<Name>CPr</Name>
-</Subject>
-<Subject>
-	<Name>CSt</Name>
-</Subject>
-<Subject>
-	<Name>DSt</Name>
-</Subject>
-<Subject>
-	<Name>Eco</Name>
-</Subject>
-<Subject>
-	<Name>Eng</Name>
-</Subject>
-<Subject>
-	<Name>Ent</Name>
-</Subject>
-<Subject>
-	<Name>Geo</Name>
-</Subject>
-<Subject>
-	<Name>Grm</Name>
-</Subject>
-<Subject>
-	<Name>His</Name>
-</Subject>
-<Subject>
-	<Name>K&amp;W</Name>
-</Subject>
-<Subject>
-	<Name>LSc</Name>
-</Subject>
-<Subject>
-	<Name>LSk</Name>
-</Subject>
-<Subject>
-	<Name>Mat</Name>
-</Subject>
-<Subject>
-	<Name>OAd</Name>
-</Subject>
-<Subject>
-	<Name>Otj</Name>
-</Subject>
-<Subject>
-	<Name>PEd</Name>
-</Subject>
-<Subject>
-	<Name>PSc</Name>
-</Subject>
-<Subject>
-	<Name>RME</Name>
-</Subject>
-</Subjects_List>
-
-<Activity_Tags_List>
-</Activity_Tags_List>
 
 <Activities_List>
 <Activity>

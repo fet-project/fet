@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>Institution</Institution_Name>
 
@@ -50,938 +50,1478 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>الفرقة الأولى</Name>
-	<Number_of_Students>600</Number_of_Students>
-	<Group>
-		<Name>مجموعة( أ )-أولى</Name>
-		<Number_of_Students>300</Number_of_Students>
-		<Subgroup>
-			<Name>أولى-مج1</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج2</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج3</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج4</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج5</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج6</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج7</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج8</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج9</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج10</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج11</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج12</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>مجموعة( ب )-أولى</Name>
-		<Number_of_Students>300</Number_of_Students>
-		<Subgroup>
-			<Name>أولى-مج13</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج14</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج15</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج16</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج17</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج18</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج19</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج20</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج21</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج22</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج23</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>أولى-مج24</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>الفرقة الثانية</Name>
-	<Number_of_Students>600</Number_of_Students>
-	<Group>
-		<Name>مجموعة( أ ) فرقة ثانية</Name>
-		<Number_of_Students>300</Number_of_Students>
-		<Subgroup>
-			<Name>ثانية-مج1</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج2</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج3</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج4</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج5</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج6</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج7</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج8</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج9</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج10</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج11</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>مجموعة( ب ) فرقة ثانية</Name>
-		<Number_of_Students>300</Number_of_Students>
-		<Subgroup>
-			<Name>ثانية-مج12</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج13</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج14</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج15</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج16</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج17</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج18</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج19</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج20</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ثانية-مج21</Name>
-			<Number_of_Students>27</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>الفرقة الثالثة-علوم حاسب</Name>
-	<Number_of_Students>30</Number_of_Students>
-	<Group>
-		<Name>ثالثةع-مج1</Name>
-		<Number_of_Students>33</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>الفرقة الثالثة-نظم</Name>
-	<Number_of_Students>30</Number_of_Students>
-	<Group>
-		<Name>ثالثة ن-مج1</Name>
-		<Number_of_Students>24</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>ثالثة ن-مج2</Name>
-		<Number_of_Students>24</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>الفرقة الثالثة-تكنولوجيا</Name>
-	<Number_of_Students>30</Number_of_Students>
-	<Group>
-		<Name>ثالثة تك-مج1</Name>
-		<Number_of_Students>22</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>ثالثة تك-مج2</Name>
-		<Number_of_Students>22</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>الفرقة الرابعة-علوم حاسب</Name>
-	<Number_of_Students>150</Number_of_Students>
-	<Group>
-		<Name>رابعةع-مج1</Name>
-		<Number_of_Students>26</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>رابعةع-مج2</Name>
-		<Number_of_Students>26</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>رابعةع-مج3</Name>
-		<Number_of_Students>26</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>رابعةع-مج4</Name>
-		<Number_of_Students>26</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>رابعةع-مج5</Name>
-		<Number_of_Students>26</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>رابعةع-مج6</Name>
-		<Number_of_Students>26</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>الفرقة الرابعة-نظم</Name>
-	<Number_of_Students>180</Number_of_Students>
-	<Group>
-		<Name>رابعةن-مج1</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>رابعةن-مج2</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>رابعةن-مج3</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>رابعةن-مج4</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>رابعةن-مج5</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>رابعةن-مج6</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>الفرقة الرابعة-تكنولوجيا</Name>
-	<Number_of_Students>150</Number_of_Students>
-	<Group>
-		<Name>رابعةتك-مج1</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>رابعةتك-مج2</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>رابعةتك-مج3</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>رابعةتك-مج4</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>رابعةتك-مج5</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>رابعةتك-مج6</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>تمهيدي علوم حاسب</Name>
-	<Number_of_Students>10</Number_of_Students>
-	<Group>
-		<Name>تمهيدي علوم حاسب-مج</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>تمهيدي نظم</Name>
-	<Number_of_Students>10</Number_of_Students>
-	<Group>
-		<Name>تمهيدي نظم-مج</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>تمهيدي تكنولوجيا</Name>
-	<Number_of_Students>10</Number_of_Students>
-	<Group>
-		<Name>تمهيدي تكنولوجيا-مج</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>دبلوم علوم-الفرقة الأولي</Name>
-	<Number_of_Students>10</Number_of_Students>
-	<Group>
-		<Name>دبلوم علوم-الفرقة الأولي-مج</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>دبلوم نظم-الفرقة الأولي</Name>
-	<Number_of_Students>10</Number_of_Students>
-	<Group>
-		<Name>دبلوم نظم-الفرقة الأولي-مج</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>دبلوم تكنولوجيا-الفرقة الأولي</Name>
-	<Number_of_Students>10</Number_of_Students>
-	<Group>
-		<Name>دبلوم تكنولوجيا-الفرقة الأولي-مج</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>دبلوم علوم-الفرقة الثانية</Name>
-	<Number_of_Students>10</Number_of_Students>
-	<Group>
-		<Name>دبلوم علوم-الفرقة الثانية-مج</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>دبلوم نظم-الفرقة الثانية</Name>
-	<Number_of_Students>10</Number_of_Students>
-	<Group>
-		<Name>دبلوم نظم-الفرقة الثانية-مج</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>دبلوم تكنولوجيا-الفرقة الثانية</Name>
-	<Number_of_Students>10</Number_of_Students>
-	<Group>
-		<Name>دبلوم تكنولوجيا-الفرقة الثانية-مج</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>دبلوم مهني-الفرقة الأولى</Name>
-	<Number_of_Students>10</Number_of_Students>
-	<Group>
-		<Name>دبلوم مهني-الفرقة الأولى-مج</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>دبلوم مهني-الفرقة الثانية</Name>
-	<Number_of_Students>10</Number_of_Students>
-	<Group>
-		<Name>دبلوم مهني-الفرقة الثانية-مج</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>a</Name>
-</Teacher>
-<Teacher>
-	<Name>b</Name>
-</Teacher>
-<Teacher>
-	<Name>c</Name>
-</Teacher>
-<Teacher>
-	<Name>d</Name>
-</Teacher>
-<Teacher>
-	<Name>e</Name>
-</Teacher>
-<Teacher>
-	<Name>q</Name>
-</Teacher>
-<Teacher>
-	<Name>w</Name>
-</Teacher>
-<Teacher>
-	<Name>r</Name>
-</Teacher>
-<Teacher>
-	<Name>t</Name>
-</Teacher>
-<Teacher>
-	<Name>y</Name>
-</Teacher>
-<Teacher>
-	<Name>u</Name>
-</Teacher>
-<Teacher>
-	<Name>i</Name>
-</Teacher>
-<Teacher>
-	<Name>o</Name>
-</Teacher>
-<Teacher>
-	<Name>p</Name>
-</Teacher>
-<Teacher>
-	<Name>ab</Name>
-</Teacher>
-<Teacher>
-	<Name>s</Name>
-</Teacher>
-<Teacher>
-	<Name>f</Name>
-</Teacher>
-<Teacher>
-	<Name>g</Name>
-</Teacher>
-<Teacher>
-	<Name>h</Name>
-</Teacher>
-<Teacher>
-	<Name>j</Name>
-</Teacher>
-<Teacher>
-	<Name>ac</Name>
-</Teacher>
-<Teacher>
-	<Name>ad</Name>
-</Teacher>
-<Teacher>
-	<Name>z</Name>
-</Teacher>
-<Teacher>
-	<Name>ae</Name>
-</Teacher>
-<Teacher>
-	<Name>af</Name>
-</Teacher>
-<Teacher>
-	<Name>ag</Name>
-</Teacher>
-<Teacher>
-	<Name>x</Name>
-</Teacher>
-<Teacher>
-	<Name>ah</Name>
-</Teacher>
-<Teacher>
-	<Name>ai</Name>
-</Teacher>
-<Teacher>
-	<Name>aj</Name>
-</Teacher>
-<Teacher>
-	<Name>ak</Name>
-</Teacher>
-<Teacher>
-	<Name>v</Name>
-</Teacher>
-<Teacher>
-	<Name>al</Name>
-</Teacher>
-<Teacher>
-	<Name>am</Name>
-</Teacher>
-<Teacher>
-	<Name>an</Name>
-</Teacher>
-<Teacher>
-	<Name>ap</Name>
-</Teacher>
-<Teacher>
-	<Name>n</Name>
-</Teacher>
-<Teacher>
-	<Name>ao</Name>
-</Teacher>
-<Teacher>
-	<Name>aq</Name>
-</Teacher>
-<Teacher>
-	<Name>ar</Name>
-</Teacher>
-<Teacher>
-	<Name>m</Name>
-</Teacher>
-<Teacher>
-	<Name>as</Name>
-</Teacher>
-<Teacher>
-	<Name>at</Name>
-</Teacher>
-<Teacher>
-	<Name>au</Name>
-</Teacher>
-<Teacher>
-	<Name>av</Name>
-</Teacher>
-<Teacher>
-	<Name>aw</Name>
-</Teacher>
-<Teacher>
-	<Name>ax</Name>
-</Teacher>
-<Teacher>
-	<Name>ay</Name>
-</Teacher>
-<Teacher>
-	<Name>az</Name>
-</Teacher>
-<Teacher>
-	<Name>ba</Name>
-</Teacher>
-<Teacher>
-	<Name>bb</Name>
-</Teacher>
-<Teacher>
-	<Name>bc</Name>
-</Teacher>
-<Teacher>
-	<Name>bd</Name>
-</Teacher>
-<Teacher>
-	<Name>be</Name>
-</Teacher>
-<Teacher>
-	<Name>bf</Name>
-</Teacher>
-<Teacher>
-	<Name>bg</Name>
-</Teacher>
-<Teacher>
-	<Name>bh</Name>
-</Teacher>
-<Teacher>
-	<Name>bj</Name>
-</Teacher>
-<Teacher>
-	<Name>bi</Name>
-</Teacher>
-<Teacher>
-	<Name>bk</Name>
-</Teacher>
-<Teacher>
-	<Name>bl</Name>
-</Teacher>
-<Teacher>
-	<Name>bm</Name>
-</Teacher>
-<Teacher>
-	<Name>bn</Name>
-</Teacher>
-<Teacher>
-	<Name>bo</Name>
-</Teacher>
-<Teacher>
-	<Name>bp</Name>
-</Teacher>
-<Teacher>
-	<Name>bq</Name>
-</Teacher>
-<Teacher>
-	<Name>br</Name>
-</Teacher>
-<Teacher>
-	<Name>bs</Name>
-</Teacher>
-<Teacher>
-	<Name>bt</Name>
-</Teacher>
-<Teacher>
-	<Name>bu</Name>
-</Teacher>
-<Teacher>
-	<Name>bv</Name>
-</Teacher>
-<Teacher>
-	<Name>bw</Name>
-</Teacher>
-<Teacher>
-	<Name>bx</Name>
-</Teacher>
-<Teacher>
-	<Name>by</Name>
-</Teacher>
-<Teacher>
-	<Name>bz</Name>
-</Teacher>
-<Teacher>
-	<Name>ca</Name>
-</Teacher>
-<Teacher>
-	<Name>cb</Name>
-</Teacher>
-<Teacher>
-	<Name>cc</Name>
-</Teacher>
-<Teacher>
-	<Name>cd</Name>
-</Teacher>
-<Teacher>
-	<Name>ce</Name>
-</Teacher>
-<Teacher>
-	<Name>cf</Name>
-</Teacher>
-<Teacher>
-	<Name>cg</Name>
-</Teacher>
-<Teacher>
-	<Name>ch</Name>
-</Teacher>
-<Teacher>
-	<Name>ci</Name>
-</Teacher>
-<Teacher>
-	<Name>cj</Name>
-</Teacher>
-<Teacher>
-	<Name>ck</Name>
-</Teacher>
-<Teacher>
-	<Name>cl</Name>
-</Teacher>
-<Teacher>
-	<Name>cm</Name>
-</Teacher>
-<Teacher>
-	<Name>cn</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>أجازة</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>أساسيات علوم الحاسب</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>أساسيات البرمجة</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>رياضيات منفصلة</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>لغة انجليزية</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>فيزياء</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>حقوق انسان</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>نظم التشغيل-1</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>هياكل بيانات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>الجبر الخطي</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تنظيم وبناء الحاسبات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>برمجة الويب</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>هندسة البرمجيات-1</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>شبكات وأمن الحاسب</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تحليل وتصميم الخوارزميات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>البرمجة المنطقية</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>لغة التجميع</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>نظرية المعلومات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>شبكات الحاسب</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تحليل النظم والتصميم المنطقي</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>قواعد بيانات-2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>أساليب البحث العلمي</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>الكترونيات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>معالجة اللغات الطبيعية</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>النظم الموزعة</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ذكاء اصطناعي-2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>موضوعات مختارة في علوم الحاسب</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>اختياري كلية2-رابعة علوم</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>الوسائط المتعددة</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>الحسابات المتنقلة</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>قواعد البيانات الموزعة</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ادارة المشروعات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>اختياري كلية2-رابعة نظم</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>التعرف على الأنماط</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>المعلوماتية الطبية</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>اختياري كلية2-رابعة تكنولوجيا</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تمهيدي-نظرية الحاسبات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تمهيدي-تحليل وتصميم الخوارزميات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تمهيدي-مادة اختياري علوم حاسب</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تمهيدي-نظرية قواعد البيانات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تمهيدي-قواعد البيانات شيئية التوجه</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تمهيدي-مادة اختياري 1 نظم</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تمهيدي-علوم الادراك</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تمهيدي-اتصالات الوسائط المتعددة</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تمهيدي-مادة اختياري 1 تكنولوجيا</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-علوم1-برمجة الحاسبات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-علوم1-تراكيب حسابية غير متصلة</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-علوم1-طرق احصائية</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-علوم1-مقدمة في علم النظم</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-علوم1-رياضيات3</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-علوم2-هندسة البرمجيات1</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-علوم2-نظم التشغيل1</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-علوم2-تنظيم الحاسبات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-علوم2-نظم قواعد البيانات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-علوم2-الذكاء الاصطناعي</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-نظم1-مقدمة في تكنولوجيا المعلومات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-نظم1-احصاء تطبيقي</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-نظم1-اقتصاديات المعلومات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-نظم2-الرسم بالحاسب</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-نظم2-تحليل وتصميم النظم</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-نظم2-مادة اختياري2 نظم</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم تك-2-شبكات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم مهني-1-نظم التشغيل</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم مهني-1-مقدمة في نظم المعلومات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم مهني-1-نظم الحاسبات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم مهني-1-هياكل بيانات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم مهني-2-اتصالات البيانات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم مهني-2-تحليل وتصميم النظم</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم مهني-2-قواعد البيانات2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>دبلوم-تك2-مادة اختياري1</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>مشروع تمهيدي</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>محاضرة عامة</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>_فترة_</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>تمرين عملي داخلي</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>تمرين نظري</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>محاضرة دراسات عليا</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>تمرين دراسات عليا</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>داخلي( بدون انتداب)</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>(انتداب خارجي)</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>تمرين فيزياء خارجي</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>فترة للتقسيم</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>نهاية اليوم</Name>
+	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>a</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>b</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>c</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>d</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>e</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>q</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>w</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>r</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>t</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>y</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>u</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>i</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>o</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>p</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ab</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>s</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>f</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>g</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>h</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>j</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ac</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ad</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>z</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ae</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>af</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ag</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>x</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ah</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ai</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>aj</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ak</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>v</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>al</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>am</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>an</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ap</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>n</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ao</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>aq</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ar</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>m</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>as</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>at</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>au</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>av</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>aw</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ax</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ay</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>az</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ba</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bb</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bc</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bd</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>be</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bf</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bg</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bh</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bj</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bi</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bk</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bl</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bm</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bn</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bo</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bp</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bq</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>br</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bs</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bt</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bv</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bw</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bx</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>by</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>bz</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ca</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>cb</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>cc</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>cd</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ce</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>cf</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>cg</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ch</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ci</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>cj</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ck</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>cl</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>cm</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>cn</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>الفرقة الأولى</Name>
+	<Number_of_Students>600</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>مجموعة( أ )-أولى</Name>
+		<Number_of_Students>300</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>أولى-مج1</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج2</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج3</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج4</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج5</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج6</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج7</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج8</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج9</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج10</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج11</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج12</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>مجموعة( ب )-أولى</Name>
+		<Number_of_Students>300</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>أولى-مج13</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج14</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج15</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج16</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج17</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج18</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج19</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج20</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج21</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج22</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج23</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>أولى-مج24</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>الفرقة الثانية</Name>
+	<Number_of_Students>600</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>مجموعة( أ ) فرقة ثانية</Name>
+		<Number_of_Students>300</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>ثانية-مج1</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج2</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج3</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج4</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج5</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج6</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج7</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج8</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج9</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج10</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج11</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>مجموعة( ب ) فرقة ثانية</Name>
+		<Number_of_Students>300</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>ثانية-مج12</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج13</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج14</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج15</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج16</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج17</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج18</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج19</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج20</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ثانية-مج21</Name>
+			<Number_of_Students>27</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>الفرقة الثالثة-علوم حاسب</Name>
+	<Number_of_Students>30</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>ثالثةع-مج1</Name>
+		<Number_of_Students>33</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>الفرقة الثالثة-نظم</Name>
+	<Number_of_Students>30</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>ثالثة ن-مج1</Name>
+		<Number_of_Students>24</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>ثالثة ن-مج2</Name>
+		<Number_of_Students>24</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>الفرقة الثالثة-تكنولوجيا</Name>
+	<Number_of_Students>30</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>ثالثة تك-مج1</Name>
+		<Number_of_Students>22</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>ثالثة تك-مج2</Name>
+		<Number_of_Students>22</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>الفرقة الرابعة-علوم حاسب</Name>
+	<Number_of_Students>150</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>رابعةع-مج1</Name>
+		<Number_of_Students>26</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>رابعةع-مج2</Name>
+		<Number_of_Students>26</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>رابعةع-مج3</Name>
+		<Number_of_Students>26</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>رابعةع-مج4</Name>
+		<Number_of_Students>26</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>رابعةع-مج5</Name>
+		<Number_of_Students>26</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>رابعةع-مج6</Name>
+		<Number_of_Students>26</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>الفرقة الرابعة-نظم</Name>
+	<Number_of_Students>180</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>رابعةن-مج1</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>رابعةن-مج2</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>رابعةن-مج3</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>رابعةن-مج4</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>رابعةن-مج5</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>رابعةن-مج6</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>الفرقة الرابعة-تكنولوجيا</Name>
+	<Number_of_Students>150</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>رابعةتك-مج1</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>رابعةتك-مج2</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>رابعةتك-مج3</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>رابعةتك-مج4</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>رابعةتك-مج5</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>رابعةتك-مج6</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>تمهيدي علوم حاسب</Name>
+	<Number_of_Students>10</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>تمهيدي علوم حاسب-مج</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>تمهيدي نظم</Name>
+	<Number_of_Students>10</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>تمهيدي نظم-مج</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>تمهيدي تكنولوجيا</Name>
+	<Number_of_Students>10</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>تمهيدي تكنولوجيا-مج</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>دبلوم علوم-الفرقة الأولي</Name>
+	<Number_of_Students>10</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>دبلوم علوم-الفرقة الأولي-مج</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>دبلوم نظم-الفرقة الأولي</Name>
+	<Number_of_Students>10</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>دبلوم نظم-الفرقة الأولي-مج</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>دبلوم تكنولوجيا-الفرقة الأولي</Name>
+	<Number_of_Students>10</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>دبلوم تكنولوجيا-الفرقة الأولي-مج</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>دبلوم علوم-الفرقة الثانية</Name>
+	<Number_of_Students>10</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>دبلوم علوم-الفرقة الثانية-مج</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>دبلوم نظم-الفرقة الثانية</Name>
+	<Number_of_Students>10</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>دبلوم نظم-الفرقة الثانية-مج</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>دبلوم تكنولوجيا-الفرقة الثانية</Name>
+	<Number_of_Students>10</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>دبلوم تكنولوجيا-الفرقة الثانية-مج</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>دبلوم مهني-الفرقة الأولى</Name>
+	<Number_of_Students>10</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>دبلوم مهني-الفرقة الأولى-مج</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>دبلوم مهني-الفرقة الثانية</Name>
+	<Number_of_Students>10</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>دبلوم مهني-الفرقة الثانية-مج</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -6899,9 +7439,11 @@
 <Buildings_List>
 <Building>
 	<Name>كلية حاسبات</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>كلية علوم</Name>
+	<Comments></Comments>
 </Building>
 </Buildings_List>
 
@@ -6910,111 +7452,133 @@
 	<Name>معمل1(أ)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>معمل2(ب)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>معمل3-وسائط متعددة</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>معمل4(ج)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>معمل5(د)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>معمل6-معالجات دقيقة</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>معمل7(هـ)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>معمل8(و)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>معمل9(و)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>معمل10(ز)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>معمل الكترونيات1</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>معمل الكترونيات2</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>مدرج (1)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>700</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>مدرج (2)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>330</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>مدرج (3)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>330</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>مدرج (4)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>170</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>قاعة نظري (1)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>قاعة نظري (2)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>قاعة نظري (3)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>قاعة نظري (4)</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>معمل شبكات</Name>
 	<Building>كلية حاسبات</Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>معمل فيزياء(كلية علوم)</Name>
 	<Building>كلية علوم</Building>
 	<Capacity>120</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

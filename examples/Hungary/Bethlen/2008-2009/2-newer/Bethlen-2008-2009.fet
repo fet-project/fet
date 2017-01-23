@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>Bethlen Gábor Református Gimnázium</Institution_Name>
 
@@ -50,516 +50,816 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>2008-2009</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>05A</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>05A1</Name>
-			<Number_of_Students>12</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>05A2</Name>
-			<Number_of_Students>12</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>06A</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>06A1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>06A2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>07A</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>07A1-N</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>07A1-F</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>07A1-L</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>07A2-N</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>07A2-F</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>07A2-L</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>08A</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>08A-N</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>08A-F</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>09A</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>09A1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>09A2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>09B</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>09B1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>09B2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>09C</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>09C1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>09C2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>09D</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>09D1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>09D2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>09D3</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>10A</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>10A1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>10A2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>10B</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>10B1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>10B2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>10C</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>10C1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>10C2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>11D</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>11D-nk</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>11D-nh</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>11A</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>11A1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>11A2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>11B</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>11B1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>11B2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>11C</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>11C1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>11C2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>12E</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>12E1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>12E2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>12B</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>12B1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>12B2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>12C</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>12C1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>12C2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>12D</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>12D1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>12D2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>13D</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>13D1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>13D2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>13D3</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>BAIM</Name>
-</Teacher>
-<Teacher>
-	<Name>BEGE</Name>
-</Teacher>
-<Teacher>
-	<Name>BEJÁ</Name>
-</Teacher>
-<Teacher>
-	<Name>BINÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>BOÉV</Name>
-</Teacher>
-<Teacher>
-	<Name>BVNÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>CESÁ</Name>
-</Teacher>
-<Teacher>
-	<Name>CSMÁ</Name>
-</Teacher>
-<Teacher>
-	<Name>CSNÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>DENÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>DIOR</Name>
-</Teacher>
-<Teacher>
-	<Name>DOMI</Name>
-</Teacher>
-<Teacher>
-	<Name>EDIT</Name>
-</Teacher>
-<Teacher>
-	<Name>FAMA</Name>
-</Teacher>
-<Teacher>
-	<Name>FRNÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>HAEN</Name>
-</Teacher>
-<Teacher>
-	<Name>JANÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>JEER</Name>
-</Teacher>
-<Teacher>
-	<Name>JSZK</Name>
-</Teacher>
-<Teacher>
-	<Name>JÓNÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>KENÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>KIGA</Name>
-</Teacher>
-<Teacher>
-	<Name>KINÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>KMNÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>KOKÁ</Name>
-</Teacher>
-<Teacher>
-	<Name>LENÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>LTIS</Name>
-</Teacher>
-<Teacher>
-	<Name>MFNÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>MIOR</Name>
-</Teacher>
-<Teacher>
-	<Name>MOAL</Name>
-</Teacher>
-<Teacher>
-	<Name>MOLÁ</Name>
-</Teacher>
-<Teacher>
-	<Name>MOTÜ</Name>
-</Teacher>
-<Teacher>
-	<Name>MOÁG</Name>
-</Teacher>
-<Teacher>
-	<Name>MPNÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>NATI</Name>
-</Teacher>
-<Teacher>
-	<Name>NAZO</Name>
-</Teacher>
-<Teacher>
-	<Name>NBCS</Name>
-</Teacher>
-<Teacher>
-	<Name>PEZS</Name>
-</Teacher>
-<Teacher>
-	<Name>PINÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>POGÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>PRGY</Name>
-</Teacher>
-<Teacher>
-	<Name>PRÁG</Name>
-</Teacher>
-<Teacher>
-	<Name>RANÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>RINÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>SIFE</Name>
-</Teacher>
-<Teacher>
-	<Name>SINÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>SZIT</Name>
-</Teacher>
-<Teacher>
-	<Name>SZZS</Name>
-</Teacher>
-<Teacher>
-	<Name>TANÉ</Name>
-</Teacher>
-<Teacher>
-	<Name>UDZS</Name>
-</Teacher>
-<Teacher>
-	<Name>VALA</Name>
-</Teacher>
-<Teacher>
-	<Name>VIPÁ</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>1. nyelv</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>1. nyelv - Alan</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>1. sáv</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>2. nyelv</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>2. sáv</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Biológia</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Ebédeltetés</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Egyházi ének</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Etika</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Filozófia</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Fizika</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Földrajz</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Hittan</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Informatika</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Kémia</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Lyukasóra</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Magyar</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Matematika</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Osztályfőnöki</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Rajz</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Testnevelés</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Történelem</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Záró óra</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Életvitel</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Ének</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>BAIM</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>BEGE</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>BEJÁ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>BINÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>BOÉV</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>BVNÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>CESÁ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>CSMÁ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>CSNÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>DENÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>DIOR</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>DOMI</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>EDIT</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>FAMA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>FRNÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>HAEN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>JANÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>JEER</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>JSZK</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>JÓNÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>KENÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>KIGA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>KINÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>KMNÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>KOKÁ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>LENÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>LTIS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MFNÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MIOR</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MOAL</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MOLÁ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MOTÜ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MOÁG</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MPNÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>NATI</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>NAZO</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>NBCS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PEZS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PINÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>POGÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PRGY</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PRÁG</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RANÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RINÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SIFE</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SINÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SZIT</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SZZS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>TANÉ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>UDZS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>VALA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>VIPÁ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>2008-2009</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>05A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>05A1</Name>
+			<Number_of_Students>12</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>05A2</Name>
+			<Number_of_Students>12</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>06A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>06A1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>06A2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>07A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>07A1-N</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>07A1-F</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>07A1-L</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>07A2-N</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>07A2-F</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>07A2-L</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>08A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>08A-N</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>08A-F</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>09A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>09A1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>09A2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>09B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>09B1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>09B2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>09C</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>09C1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>09C2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>09D</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>09D1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>09D2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>09D3</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>10A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>10A1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>10A2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>10B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>10B1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>10B2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>10C</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>10C1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>10C2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>11D</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>11D-nk</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>11D-nh</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>11A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>11A1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>11A2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>11B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>11B1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>11B2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>11C</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>11C1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>11C2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>12E</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>12E1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>12E2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>12B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>12B1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>12B2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>12C</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>12C1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>12C2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>12D</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>12D1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>12D2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>13D</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>13D1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>13D2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>13D3</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -9255,9 +9555,11 @@
 <Buildings_List>
 <Building>
 	<Name>Gimnázium</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>Uszoda</Name>
+	<Comments></Comments>
 </Building>
 </Buildings_List>
 
@@ -9266,51 +9568,61 @@
 	<Name>Fizika előadó</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Fizika labor</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Kémia</Name>
 	<Building></Building>
 	<Capacity>35</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Biológia labor</Name>
 	<Building></Building>
 	<Capacity>35</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Biológia előadó</Name>
 	<Building></Building>
 	<Capacity>28</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Ének-rajz terem</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Tornaterem</Name>
 	<Building>Gimnázium</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Uszoda</Name>
 	<Building>Uszoda</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Informatika terem</Name>
 	<Building></Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Multimédia terem</Name>
 	<Building></Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

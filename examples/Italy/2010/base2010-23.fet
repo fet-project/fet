@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>ISTITUTO TECNICO COMMERCIALE E PER GEOMETRI</Institution_Name>
 
@@ -59,461 +59,756 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>CAT_1</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>CAT_1 A</Name>
-		<Number_of_Students>28</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>CAT_1 B</Name>
-		<Number_of_Students>29</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>GEO_2</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>GEO_2 A</Name>
-		<Number_of_Students>23</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>GEO_2 B</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>GEO_2 C</Name>
-		<Number_of_Students>22</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>GEO_3</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>GEO_3 A</Name>
-		<Number_of_Students>26</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>GEO_3 B</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>GEO_4</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>GEO_4 A</Name>
-		<Number_of_Students>26</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>GEO_4 B</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>GEO_5</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>GEO_5 A</Name>
-		<Number_of_Students>22</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>AMM_1</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>AMM_1 A</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>AMM_1 B</Name>
-		<Number_of_Students>27</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>AMM_1 C</Name>
-		<Number_of_Students>28</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>IGE_2</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>IGE_2 A</Name>
-		<Number_of_Students>24</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>IGE_2 B</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>IGE_2 C</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>IGE_3</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>IGE_3 A</Name>
-		<Number_of_Students>25</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>IGE_3 B</Name>
-		<Number_of_Students>26</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>IGE_4</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>IGE_4 A</Name>
-		<Number_of_Students>26</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>IGE_5</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>IGE_5 A</Name>
-		<Number_of_Students>29</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>PRO_3</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>PRO_3 A</Name>
-		<Number_of_Students>18</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>PRO_4</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>PRO_4 A</Name>
-		<Number_of_Students>19</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>PRO_5</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>PRO_5 A</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>PROF01</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF02</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF03</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF04</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF05</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF06</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF07</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF08</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF09</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF10</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF11</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF12</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF13</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF14</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF15</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF16</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF17</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF18</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF19</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF20</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF21</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF22</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF23</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF24</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF25</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF26</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF27</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF28</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF29</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF30</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF31</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF32</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF33</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF34</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF35</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF36</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF37</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF38</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF39</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF40</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF42</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF43</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF44</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF45</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF46</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF47</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF48</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF49</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF50</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF51</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF52</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF53</Name>
-</Teacher>
-<Teacher>
-	<Name>PROF54</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>CHI</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>COS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>COS_DIS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DIR</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DIR_ECP</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DIR_FIN</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DIS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>EAZ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>EAZ_LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ECP</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>EDF</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>EST</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>FIN</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>FIS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>FRA</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>FRA-TED</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>GEO</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>GPD</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>IMP</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>INF</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>INF_LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ING</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>IRC</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ITA</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ITA_STO</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>LN2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MAT</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MAT_LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>REL</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>SCF</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>SCI</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>SCM</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>SCM_SCN</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>SCN</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>SCP</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>STO</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TED</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TOP</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TXT</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>palestra</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>info3</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>info4</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>psocc</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>am</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>pm</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>info1</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>nop</Name>
+	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>PROF01</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF02</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF03</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF04</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF05</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF06</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF07</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF08</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF09</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF10</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF11</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF12</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF13</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF14</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF15</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF16</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF17</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF18</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF19</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF20</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF21</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF22</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF23</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF24</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF25</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF26</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF27</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF28</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF29</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF30</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF31</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF32</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF33</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF34</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF35</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF36</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF37</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF38</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF39</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF40</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF42</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF43</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF44</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF45</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF46</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF47</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF48</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF49</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF50</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF51</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF52</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF53</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PROF54</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>CAT_1</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>CAT_1 A</Name>
+		<Number_of_Students>28</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>CAT_1 B</Name>
+		<Number_of_Students>29</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>GEO_2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>GEO_2 A</Name>
+		<Number_of_Students>23</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>GEO_2 B</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>GEO_2 C</Name>
+		<Number_of_Students>22</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>GEO_3</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>GEO_3 A</Name>
+		<Number_of_Students>26</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>GEO_3 B</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>GEO_4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>GEO_4 A</Name>
+		<Number_of_Students>26</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>GEO_4 B</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>GEO_5</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>GEO_5 A</Name>
+		<Number_of_Students>22</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>AMM_1</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>AMM_1 A</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>AMM_1 B</Name>
+		<Number_of_Students>27</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>AMM_1 C</Name>
+		<Number_of_Students>28</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>IGE_2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>IGE_2 A</Name>
+		<Number_of_Students>24</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>IGE_2 B</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>IGE_2 C</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>IGE_3</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>IGE_3 A</Name>
+		<Number_of_Students>25</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>IGE_3 B</Name>
+		<Number_of_Students>26</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>IGE_4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>IGE_4 A</Name>
+		<Number_of_Students>26</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>IGE_5</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>IGE_5 A</Name>
+		<Number_of_Students>29</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>PRO_3</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>PRO_3 A</Name>
+		<Number_of_Students>18</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>PRO_4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>PRO_4 A</Name>
+		<Number_of_Students>19</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>PRO_5</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>PRO_5 A</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -6877,21 +7172,25 @@
 	<Name>palestra</Name>
 	<Building></Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>info3</Name>
 	<Building></Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>info4</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>info1</Name>
 	<Building></Building>
 	<Capacity>30000</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

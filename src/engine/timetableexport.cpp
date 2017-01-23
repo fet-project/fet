@@ -29,7 +29,7 @@ File timetableexport.cpp
 //            - index HTML file
 //            - TIMETABLE_HTML_LEVEL
 //            - days/time horizontal/vertical
-//            - subgroups, groups, years, teachers, rooms, subjects, activities timetable
+//            - subgroups, groups, years, teachers, rooms, subjects, activities, activity tags timetable
 //            - teachers free periods
 //            - daily timetable
 //            - activities with same starting time
@@ -103,6 +103,7 @@ extern Matrix2D<double> notAllowedRoomTimePercentages;
 extern Matrix3D<bool> subgroupNotAvailableDayHour;
 
 static QList<int> activitiesForCurrentSubject[MAX_DAYS_PER_WEEK][MAX_HOURS_PER_DAY];
+static QList<int> activitiesForCurrentActivityTag[MAX_DAYS_PER_WEEK][MAX_HOURS_PER_DAY];
 
 static QList<int> activitiesAtTime[MAX_DAYS_PER_WEEK][MAX_HOURS_PER_DAY];
 
@@ -174,6 +175,11 @@ const QString SUBJECTS_TIMETABLE_DAYS_HORIZONTAL_FILENAME_HTML="subjects_days_ho
 const QString SUBJECTS_TIMETABLE_DAYS_VERTICAL_FILENAME_HTML="subjects_days_vertical.html";
 const QString SUBJECTS_TIMETABLE_TIME_HORIZONTAL_FILENAME_HTML="subjects_time_horizontal.html";
 const QString SUBJECTS_TIMETABLE_TIME_VERTICAL_FILENAME_HTML="subjects_time_vertical.html";
+
+const QString ACTIVITY_TAGS_TIMETABLE_DAYS_HORIZONTAL_FILENAME_HTML="activity_tags_days_horizontal.html";
+const QString ACTIVITY_TAGS_TIMETABLE_DAYS_VERTICAL_FILENAME_HTML="activity_tags_days_vertical.html";
+const QString ACTIVITY_TAGS_TIMETABLE_TIME_HORIZONTAL_FILENAME_HTML="activity_tags_time_horizontal.html";
+const QString ACTIVITY_TAGS_TIMETABLE_TIME_VERTICAL_FILENAME_HTML="activity_tags_time_vertical.html";
 
 const QString ALL_ACTIVITIES_TIMETABLE_DAYS_HORIZONTAL_FILENAME_HTML="activities_days_horizontal.html";
 const QString ALL_ACTIVITIES_TIMETABLE_DAYS_VERTICAL_FILENAME_HTML="activities_days_vertical.html";
@@ -250,6 +256,7 @@ bool writeAtLeastATimetable()
 	 WRITE_TIMETABLES_TEACHERS ||
 	 WRITE_TIMETABLES_ROOMS ||
 	 WRITE_TIMETABLES_SUBJECTS ||
+	 WRITE_TIMETABLES_ACTIVITY_TAGS ||
 	 WRITE_TIMETABLES_ACTIVITIES)) ||
 	
 	 ((WRITE_TIMETABLES_DAYS_HORIZONTAL ||
@@ -487,6 +494,22 @@ void TimetableExport::writeSimulationResults(QWidget* parent){
 		s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+SUBJECTS_TIMETABLE_TIME_VERTICAL_FILENAME_HTML;
 		writeSubjectsTimetableTimeVerticalDailyHtml(parent, s, sTime, na);
 	}
+	//activty_tags
+	s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+ACTIVITY_TAGS_TIMETABLE_DAYS_HORIZONTAL_FILENAME_HTML;
+	writeActivityTagsTimetableDaysHorizontalHtml(parent, s, sTime, na);
+	s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+ACTIVITY_TAGS_TIMETABLE_DAYS_VERTICAL_FILENAME_HTML;
+	writeActivityTagsTimetableDaysVerticalHtml(parent, s, sTime, na);
+	if(!DIVIDE_HTML_TIMETABLES_WITH_TIME_AXIS_BY_DAYS){
+		s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+ACTIVITY_TAGS_TIMETABLE_TIME_HORIZONTAL_FILENAME_HTML;
+		writeActivityTagsTimetableTimeHorizontalHtml(parent, s, sTime, na);
+		s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+ACTIVITY_TAGS_TIMETABLE_TIME_VERTICAL_FILENAME_HTML;
+		writeActivityTagsTimetableTimeVerticalHtml(parent, s, sTime, na);
+	} else {
+		s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+ACTIVITY_TAGS_TIMETABLE_TIME_HORIZONTAL_FILENAME_HTML;
+		writeActivityTagsTimetableTimeHorizontalDailyHtml(parent, s, sTime, na);
+		s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+ACTIVITY_TAGS_TIMETABLE_TIME_VERTICAL_FILENAME_HTML;
+		writeActivityTagsTimetableTimeVerticalDailyHtml(parent, s, sTime, na);
+	}
 	//all activities
 	s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+ALL_ACTIVITIES_TIMETABLE_DAYS_HORIZONTAL_FILENAME_HTML;
 	writeAllActivitiesTimetableDaysHorizontalHtml(parent, s, sTime, na);
@@ -712,6 +735,22 @@ void TimetableExport::writeHighestStageResults(QWidget* parent){
 		writeSubjectsTimetableTimeHorizontalDailyHtml(parent, s, sTime, na);
 		s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+SUBJECTS_TIMETABLE_TIME_VERTICAL_FILENAME_HTML;
 		writeSubjectsTimetableTimeVerticalDailyHtml(parent, s, sTime, na);
+	}
+	//activity_tags
+	s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+ACTIVITY_TAGS_TIMETABLE_DAYS_HORIZONTAL_FILENAME_HTML;
+	writeActivityTagsTimetableDaysHorizontalHtml(parent, s, sTime, na);
+	s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+ACTIVITY_TAGS_TIMETABLE_DAYS_VERTICAL_FILENAME_HTML;
+	writeActivityTagsTimetableDaysVerticalHtml(parent, s, sTime, na);
+	if(!DIVIDE_HTML_TIMETABLES_WITH_TIME_AXIS_BY_DAYS){
+		s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+ACTIVITY_TAGS_TIMETABLE_TIME_HORIZONTAL_FILENAME_HTML;
+		writeActivityTagsTimetableTimeHorizontalHtml(parent, s, sTime, na);
+		s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+ACTIVITY_TAGS_TIMETABLE_TIME_VERTICAL_FILENAME_HTML;
+		writeActivityTagsTimetableTimeVerticalHtml(parent, s, sTime, na);
+	} else {
+		s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+ACTIVITY_TAGS_TIMETABLE_TIME_HORIZONTAL_FILENAME_HTML;
+		writeActivityTagsTimetableTimeHorizontalDailyHtml(parent, s, sTime, na);
+		s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+ACTIVITY_TAGS_TIMETABLE_TIME_VERTICAL_FILENAME_HTML;
+		writeActivityTagsTimetableTimeVerticalDailyHtml(parent, s, sTime, na);
 	}
 	//all activities
 	s=OUTPUT_DIR_TIMETABLES+FILE_SEP+s2+bar+ALL_ACTIVITIES_TIMETABLE_DAYS_HORIZONTAL_FILENAME_HTML;
@@ -1213,6 +1252,22 @@ void TimetableExport::writeSimulationResults(QWidget* parent, int n){
 		s=finalDestDir+SUBJECTS_TIMETABLE_TIME_VERTICAL_FILENAME_HTML;
 		writeSubjectsTimetableTimeVerticalDailyHtml(parent, s, sTime, na);
 	}
+	//activity_tags
+	s=finalDestDir+ACTIVITY_TAGS_TIMETABLE_DAYS_HORIZONTAL_FILENAME_HTML;
+	writeActivityTagsTimetableDaysHorizontalHtml(parent, s, sTime, na);
+	s=finalDestDir+ACTIVITY_TAGS_TIMETABLE_DAYS_VERTICAL_FILENAME_HTML;
+	writeActivityTagsTimetableDaysVerticalHtml(parent, s, sTime, na);
+	if(!DIVIDE_HTML_TIMETABLES_WITH_TIME_AXIS_BY_DAYS){
+		s=finalDestDir+ACTIVITY_TAGS_TIMETABLE_TIME_HORIZONTAL_FILENAME_HTML;
+		writeActivityTagsTimetableTimeHorizontalHtml(parent, s, sTime, na);
+		s=finalDestDir+ACTIVITY_TAGS_TIMETABLE_TIME_VERTICAL_FILENAME_HTML;
+		writeActivityTagsTimetableTimeVerticalHtml(parent, s, sTime, na);
+	} else {
+		s=finalDestDir+ACTIVITY_TAGS_TIMETABLE_TIME_HORIZONTAL_FILENAME_HTML;
+		writeActivityTagsTimetableTimeHorizontalDailyHtml(parent, s, sTime, na);
+		s=finalDestDir+ACTIVITY_TAGS_TIMETABLE_TIME_VERTICAL_FILENAME_HTML;
+		writeActivityTagsTimetableTimeVerticalDailyHtml(parent, s, sTime, na);
+	}
 	//all activities
 	s=finalDestDir+ALL_ACTIVITIES_TIMETABLE_DAYS_HORIZONTAL_FILENAME_HTML;
 	writeAllActivitiesTimetableDaysHorizontalHtml(parent, s, sTime, na);
@@ -1541,6 +1596,28 @@ void TimetableExport::writeSimulationResultsCommandLine(QWidget* parent, const Q
 		s.prepend(outputDirectory);
 		TimetableExport::writeSubjectsTimetableTimeVerticalDailyHtml(parent, s, sTime, na);
 	}
+	//activity_tags
+	s=add+ACTIVITY_TAGS_TIMETABLE_DAYS_HORIZONTAL_FILENAME_HTML;
+	s.prepend(outputDirectory);
+	TimetableExport::writeActivityTagsTimetableDaysHorizontalHtml(parent, s, sTime, na);
+	s=add+ACTIVITY_TAGS_TIMETABLE_DAYS_VERTICAL_FILENAME_HTML;
+	s.prepend(outputDirectory);
+	TimetableExport::writeActivityTagsTimetableDaysVerticalHtml(parent, s, sTime, na);
+	if(!DIVIDE_HTML_TIMETABLES_WITH_TIME_AXIS_BY_DAYS){
+		s=add+ACTIVITY_TAGS_TIMETABLE_TIME_HORIZONTAL_FILENAME_HTML;
+		s.prepend(outputDirectory);
+		TimetableExport::writeActivityTagsTimetableTimeHorizontalHtml(parent, s, sTime, na);
+		s=add+ACTIVITY_TAGS_TIMETABLE_TIME_VERTICAL_FILENAME_HTML;
+		s.prepend(outputDirectory);
+		TimetableExport::writeActivityTagsTimetableTimeVerticalHtml(parent, s, sTime, na);
+	} else {
+		s=add+ACTIVITY_TAGS_TIMETABLE_TIME_HORIZONTAL_FILENAME_HTML;
+		s.prepend(outputDirectory);
+		TimetableExport::writeActivityTagsTimetableTimeHorizontalDailyHtml(parent, s, sTime, na);
+		s=add+ACTIVITY_TAGS_TIMETABLE_TIME_VERTICAL_FILENAME_HTML;
+		s.prepend(outputDirectory);
+		TimetableExport::writeActivityTagsTimetableTimeVerticalDailyHtml(parent, s, sTime, na);
+	}
 	//all activities
 	s=add+ALL_ACTIVITIES_TIMETABLE_DAYS_HORIZONTAL_FILENAME_HTML;
 	s.prepend(outputDirectory);
@@ -1642,7 +1719,8 @@ void TimetableExport::writeConflictsTxt(QWidget* parent, const QString& filename
 		tos<<"\n";
 		tos<<TimetableExport::tr("Generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)<<"\n\n";
 
-		tos<<TimetableExport::tr("Total soft conflicts:")<<QString(" ")<<best_solution.conflictsTotal<<endl<<endl;
+		tos<<TimetableExport::tr("Number of broken soft constraints: %1").arg(best_solution.conflictsWeightList.count())<<endl;
+		tos<<TimetableExport::tr("Total soft conflicts: %1").arg(CustomFETString::number(best_solution.conflictsTotal))<<endl<<endl;
 		tos<<TimetableExport::tr("Soft conflicts list (in decreasing order):")<<endl<<endl;
 		foreach(QString t, best_solution.conflictsDescriptionList)
 			tos<<t<<endl;
@@ -1657,7 +1735,8 @@ void TimetableExport::writeConflictsTxt(QWidget* parent, const QString& filename
 		tos<<TimetableExport::tr("Warning! Only %1 out of %2 activities placed!").arg(placedActivities).arg(gt.rules.nInternalActivities)<<"\n";
 		tos<<TimetableExport::tr("Generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)<<"\n\n";
 
-		tos<<TimetableExport::tr("Total conflicts:")<<QString(" ")<<best_solution.conflictsTotal<<endl<<endl;
+		tos<<TimetableExport::tr("Number of broken constraints: %1").arg(best_solution.conflictsWeightList.count())<<endl;
+		tos<<TimetableExport::tr("Total conflicts: %1").arg(CustomFETString::number(best_solution.conflictsTotal))<<endl<<endl;
 		tos<<TimetableExport::tr("Conflicts list (in decreasing order):")<<endl<<endl;
 		foreach(QString t, best_solution.conflictsDescriptionList)
 			tos<<t<<endl;
@@ -2131,6 +2210,32 @@ void TimetableExport::writeIndexHtml(QWidget* parent, const QString& htmlfilenam
 				tos<<"          <td>"+tr("disabled")+"</td>\n";
 			if(WRITE_TIMETABLES_TIME_VERTICAL)
 				tos<<"          <td><a href=\""<<s2+bar+SUBJECTS_TIMETABLE_TIME_VERTICAL_FILENAME_HTML<<"\">"+tr("view")+"</a></td>\n";
+			else
+				tos<<"          <td>"+tr("disabled")+"</td>\n";
+		} else {
+			tos<<"          <td>"+tr("disabled")+"</td>\n";
+			tos<<"          <td>"+tr("disabled")+"</td>\n";
+			tos<<"          <td>"+tr("disabled")+"</td>\n";
+			tos<<"          <td>"+tr("disabled")+"</td>\n";
+		}
+		tos<<"        </tr>\n";
+		tos<<"        <tr>\n";
+		tos<<"          <th>"+tr("Activity Tags")+"</th>\n";
+		if(WRITE_TIMETABLES_ACTIVITY_TAGS){
+			if(WRITE_TIMETABLES_DAYS_HORIZONTAL)
+				tos<<"          <td><a href=\""<<s2+bar+ACTIVITY_TAGS_TIMETABLE_DAYS_HORIZONTAL_FILENAME_HTML<<"\">"+tr("view")+"</a></td>\n";
+			else
+				tos<<"          <td>"+tr("disabled")+"</td>\n";
+			if(WRITE_TIMETABLES_DAYS_VERTICAL)
+				tos<<"          <td><a href=\""<<s2+bar+ACTIVITY_TAGS_TIMETABLE_DAYS_VERTICAL_FILENAME_HTML<<"\">"+tr("view")+"</a></td>\n";
+			else
+				tos<<"          <td>"+tr("disabled")+"</td>\n";
+			if(WRITE_TIMETABLES_TIME_HORIZONTAL)
+				tos<<"          <td><a href=\""<<s2+bar+ACTIVITY_TAGS_TIMETABLE_TIME_HORIZONTAL_FILENAME_HTML<<"\">"+tr("view")+"</a></td>\n";
+			else
+				tos<<"          <td>"+tr("disabled")+"</td>\n";
+			if(WRITE_TIMETABLES_TIME_VERTICAL)
+				tos<<"          <td><a href=\""<<s2+bar+ACTIVITY_TAGS_TIMETABLE_TIME_VERTICAL_FILENAME_HTML<<"\">"+tr("view")+"</a></td>\n";
 			else
 				tos<<"          <td>"+tr("disabled")+"</td>\n";
 		} else {
@@ -2642,7 +2747,7 @@ void TimetableExport::writeSubgroupsTimetableTimeVerticalDailyHtml(QWidget* pare
 	tos.setGenerateByteOrderMark(true);
 
 	tos<<writeHead(true, placedActivities, true);
-	tos<<writeTOCDays(false);
+	tos<<writeTOCDays();
 
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		QSet<int> tmp;
@@ -2683,7 +2788,7 @@ void TimetableExport::writeSubgroupsTimetableTimeHorizontalDailyHtml(QWidget* pa
 	tos.setGenerateByteOrderMark(true);
 
 	tos<<writeHead(true, placedActivities, true);
-	tos<<writeTOCDays(false);
+	tos<<writeTOCDays();
 	
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		QSet<int> tmp;
@@ -2733,23 +2838,18 @@ void TimetableExport::writeGroupsTimetableDaysHorizontalHtml(QWidget* parent, co
 		for(int j=0; j<sty->groupsList.size(); j++){
 			StudentsGroup* stg=sty->groupsList[j];
 			tos<<"          <li>\n            "<<TimetableExport::tr("Group");
-			tos<<" <a href=\""<<"#table_"<<hashStudentIDsTimetable.value(stg->name)<<"_DETAILED\">"<<protect2(stg->name)<<" ("<<tr("Detailed")<<")</a> /";
-			tos<<" <a href=\""<<"#table_"<<hashStudentIDsTimetable.value(stg->name)<<"\">"<<protect2(stg->name)<<" ("<<tr("Less detailed")<<")</a>\n";
+			tos<<" <a href=\""<<"#table_"<<hashStudentIDsTimetable.value(stg->name)<<"\">"<<protect2(stg->name)<<"</a>\n";
 			tos<<"          </li>\n";
 		}
 		tos<<"        </ul>\n      </li>\n";
 	}
 	tos<<"    </ul>\n    <p>&nbsp;</p>\n\n";
 
-	bool PRINT_DETAILED=true;
-	do{
-		for(int group=0; group<gt.rules.internalGroupsList.size(); group++){
-			tos << singleGroupsTimetableDaysHorizontalHtml(TIMETABLE_HTML_LEVEL, group, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED, TIMETABLE_HTML_REPEAT_NAMES);
-			tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
-		}
-		if(PRINT_DETAILED) PRINT_DETAILED=false;
-		else PRINT_DETAILED=true;
-	} while(!PRINT_DETAILED);
+	for(int group=0; group<gt.rules.internalGroupsList.size(); group++){
+		tos << singleGroupsTimetableDaysHorizontalHtml(TIMETABLE_HTML_LEVEL, group, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED_HTML_TIMETABLES, TIMETABLE_HTML_REPEAT_NAMES);
+		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	}
+	
 	tos<<"  </body>\n</html>\n";
 
 	if(file.error()>0){
@@ -2792,23 +2892,18 @@ void TimetableExport::writeGroupsTimetableDaysVerticalHtml(QWidget* parent, cons
 		for(int j=0; j<sty->groupsList.size(); j++){
 			StudentsGroup* stg=sty->groupsList[j];
 			tos<<"          <li>\n            "<<TimetableExport::tr("Group");
-			tos<<" <a href=\""<<"#table_"<<hashStudentIDsTimetable.value(stg->name)<<"_DETAILED\">"<<protect2(stg->name)<<" ("<<tr("Detailed")<<")</a> /";
-			tos<<" <a href=\""<<"#table_"<<hashStudentIDsTimetable.value(stg->name)<<"\">"<<protect2(stg->name)<<" ("<<tr("Less detailed")<<")</a>\n";
+			tos<<" <a href=\""<<"#table_"<<hashStudentIDsTimetable.value(stg->name)<<"\">"<<protect2(stg->name)<<"</a>\n";
 			tos<<"          </li>\n";
 		}
 		tos<<"        </ul>\n      </li>\n";
 	}
 	tos<<"    </ul>\n    <p>&nbsp;</p>\n";
 
-	bool PRINT_DETAILED=true;
-	do{
-		for(int group=0; group<gt.rules.internalGroupsList.size(); group++){
-			tos<<singleGroupsTimetableDaysVerticalHtml(TIMETABLE_HTML_LEVEL, group, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED, TIMETABLE_HTML_REPEAT_NAMES);
-			tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
-		}
-		if(PRINT_DETAILED) PRINT_DETAILED=false;
-		else PRINT_DETAILED=true;
-	} while(!PRINT_DETAILED);
+	for(int group=0; group<gt.rules.internalGroupsList.size(); group++){
+		tos<<singleGroupsTimetableDaysVerticalHtml(TIMETABLE_HTML_LEVEL, group, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED_HTML_TIMETABLES, TIMETABLE_HTML_REPEAT_NAMES);
+		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	}
+	
 	tos<<"  </body>\n</html>\n";
 
 	if(file.error()>0){
@@ -2843,15 +2938,11 @@ void TimetableExport::writeGroupsTimetableTimeVerticalHtml(QWidget* parent, cons
 
 	tos<<writeHead(true, placedActivities, false);
 	
-	bool PRINT_DETAILED=true;
-	do{
-		QSet<int> tmp;
-		tos<<singleGroupsTimetableTimeVerticalHtml(TIMETABLE_HTML_LEVEL, gt.rules.internalGroupsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED, TIMETABLE_HTML_REPEAT_NAMES);
+	QSet<int> tmp;
+	tos<<singleGroupsTimetableTimeVerticalHtml(TIMETABLE_HTML_LEVEL, gt.rules.internalGroupsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED_HTML_TIMETABLES, TIMETABLE_HTML_REPEAT_NAMES);
 
-		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
-		if(PRINT_DETAILED) PRINT_DETAILED=false;
-		else PRINT_DETAILED=true;
-	} while(!PRINT_DETAILED);
+	tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	
 	tos << "  </body>\n</html>\n";
 
 	if(file.error()>0){
@@ -2886,14 +2977,10 @@ void TimetableExport::writeGroupsTimetableTimeHorizontalHtml(QWidget* parent, co
 
 	tos<<writeHead(true, placedActivities, false);
 	
-	bool PRINT_DETAILED=true;
-	do{
-		QSet<int> tmp;
-		tos<<singleGroupsTimetableTimeHorizontalHtml(TIMETABLE_HTML_LEVEL, gt.rules.internalGroupsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED, TIMETABLE_HTML_REPEAT_NAMES);
-		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
-		if(PRINT_DETAILED) PRINT_DETAILED=false;
-		else PRINT_DETAILED=true;
-	} while(!PRINT_DETAILED);
+	QSet<int> tmp;
+	tos<<singleGroupsTimetableTimeHorizontalHtml(TIMETABLE_HTML_LEVEL, gt.rules.internalGroupsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED_HTML_TIMETABLES, TIMETABLE_HTML_REPEAT_NAMES);
+	tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	
 	tos << "  </body>\n</html>\n";
 
 	if(file.error()>0){
@@ -2927,19 +3014,14 @@ void TimetableExport::writeGroupsTimetableTimeVerticalDailyHtml(QWidget* parent,
 	tos.setGenerateByteOrderMark(true);
 
 	tos<<writeHead(true, placedActivities, true);
-	tos<<writeTOCDays(true);
+	tos<<writeTOCDays();
 
-	bool PRINT_DETAILED=true;
-	do{
-		for(int day=0; day<gt.rules.nDaysPerWeek; day++){
-			QSet<int> tmp;
-			tos<<singleGroupsTimetableTimeVerticalDailyHtml(TIMETABLE_HTML_LEVEL, day, gt.rules.internalGroupsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED, TIMETABLE_HTML_REPEAT_NAMES);
-
-			tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
-		}
-		if(PRINT_DETAILED) PRINT_DETAILED=false;
-		else PRINT_DETAILED=true;
-	} while(!PRINT_DETAILED);
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
+		QSet<int> tmp;
+		tos<<singleGroupsTimetableTimeVerticalDailyHtml(TIMETABLE_HTML_LEVEL, day, gt.rules.internalGroupsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED_HTML_TIMETABLES, TIMETABLE_HTML_REPEAT_NAMES);
+		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	}
+	
 	tos << "  </body>\n</html>\n";
 
 	if(file.error()>0){
@@ -2973,19 +3055,14 @@ void TimetableExport::writeGroupsTimetableTimeHorizontalDailyHtml(QWidget* paren
 	tos.setGenerateByteOrderMark(true);
 
 	tos<<writeHead(true, placedActivities, true);
-	tos<<writeTOCDays(true);
+	tos<<writeTOCDays();
 	
-	bool PRINT_DETAILED=true;
-	do{
-		for(int day=0; day<gt.rules.nDaysPerWeek; day++){
-			QSet<int> tmp;
-			tos<<singleGroupsTimetableTimeHorizontalDailyHtml(TIMETABLE_HTML_LEVEL, day, gt.rules.internalGroupsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED, TIMETABLE_HTML_REPEAT_NAMES);
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
+		QSet<int> tmp;
+		tos<<singleGroupsTimetableTimeHorizontalDailyHtml(TIMETABLE_HTML_LEVEL, day, gt.rules.internalGroupsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED_HTML_TIMETABLES, TIMETABLE_HTML_REPEAT_NAMES);
+		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	}
 
-			tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
-		}
-		if(PRINT_DETAILED) PRINT_DETAILED=false;
-		else PRINT_DETAILED=true;
-	} while(!PRINT_DETAILED);
 	tos << "  </body>\n</html>\n";
 
 	if(file.error()>0){
@@ -3027,21 +3104,16 @@ void TimetableExport::writeYearsTimetableDaysHorizontalHtml(QWidget* parent, con
 	for(int year=0; year<gt.rules.augmentedYearsList.size(); year++){
 		StudentsYear* sty=gt.rules.augmentedYearsList[year];
 		tos<<"      <li>\n        "<<TimetableExport::tr("Year");
-		tos<<" <a href=\""<<"#table_"<<hashStudentIDsTimetable.value(sty->name)<<"_DETAILED\">"<<protect2(sty->name)<<" ("<<tr("Detailed")<<")</a> /";
-		tos<<" <a href=\""<<"#table_"<<hashStudentIDsTimetable.value(sty->name)<<"\">"<<protect2(sty->name)<<" ("<<tr("Less detailed")<<")</a>\n";
+		tos<<" <a href=\""<<"#table_"<<hashStudentIDsTimetable.value(sty->name)<<"\">"<<protect2(sty->name)<<"</a>\n";
 		tos<<"      </li>\n";
 	}
 	tos<<"    </ul>\n    <p>&nbsp;</p>\n\n";
 
-	bool PRINT_DETAILED=true;
-	do{
-		for(int year=0; year<gt.rules.augmentedYearsList.size(); year++){
-			tos << singleYearsTimetableDaysHorizontalHtml(TIMETABLE_HTML_LEVEL, year, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED, TIMETABLE_HTML_REPEAT_NAMES);
-			tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
-		}
-		if(PRINT_DETAILED) PRINT_DETAILED=false;
-		else PRINT_DETAILED=true;
-	} while(!PRINT_DETAILED);
+	for(int year=0; year<gt.rules.augmentedYearsList.size(); year++){
+		tos << singleYearsTimetableDaysHorizontalHtml(TIMETABLE_HTML_LEVEL, year, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED_HTML_TIMETABLES, TIMETABLE_HTML_REPEAT_NAMES);
+		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	}
+	
 	tos<<"  </body>\n</html>\n";
 
 	if(file.error()>0){
@@ -3081,21 +3153,16 @@ void TimetableExport::writeYearsTimetableDaysVerticalHtml(QWidget* parent, const
 	for(int year=0; year<gt.rules.augmentedYearsList.size(); year++){
 		StudentsYear* sty=gt.rules.augmentedYearsList[year];
 		tos<<"      <li>\n        "<<TimetableExport::tr("Year");
-		tos<<" <a href=\""<<"#table_"<<hashStudentIDsTimetable.value(sty->name)<<"_DETAILED\">"<<protect2(sty->name)<<" ("<<tr("Detailed")<<")</a> /";
-		tos<<" <a href=\""<<"#table_"<<hashStudentIDsTimetable.value(sty->name)<<"\">"<<protect2(sty->name)<<" ("<<tr("Less detailed")<<")</a>\n";
+		tos<<" <a href=\""<<"#table_"<<hashStudentIDsTimetable.value(sty->name)<<"\">"<<protect2(sty->name)<<"</a>\n";
 		tos<<"      </li>\n";
 	}
 	tos<<"    </ul>\n    <p>&nbsp;</p>\n\n";
 
-	bool PRINT_DETAILED=true;
-	do{
-		for(int year=0; year<gt.rules.augmentedYearsList.size(); year++){
-			tos << singleYearsTimetableDaysVerticalHtml(TIMETABLE_HTML_LEVEL, year, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED, TIMETABLE_HTML_REPEAT_NAMES);
-			tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
-		}
-		if(PRINT_DETAILED) PRINT_DETAILED=false;
-		else PRINT_DETAILED=true;
-	} while(!PRINT_DETAILED);
+	for(int year=0; year<gt.rules.augmentedYearsList.size(); year++){
+		tos << singleYearsTimetableDaysVerticalHtml(TIMETABLE_HTML_LEVEL, year, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED_HTML_TIMETABLES, TIMETABLE_HTML_REPEAT_NAMES);
+		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	}
+	
 	tos<<"  </body>\n</html>\n";
 
 	if(file.error()>0){
@@ -3130,15 +3197,11 @@ void TimetableExport::writeYearsTimetableTimeVerticalHtml(QWidget* parent, const
 
 	tos<<writeHead(true, placedActivities, false);
 	
-	bool PRINT_DETAILED=true;
-	do{
-		QSet<int> tmp;
-		tos<<singleYearsTimetableTimeVerticalHtml(TIMETABLE_HTML_LEVEL, gt.rules.augmentedYearsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED, TIMETABLE_HTML_REPEAT_NAMES);
+	QSet<int> tmp;
+	tos<<singleYearsTimetableTimeVerticalHtml(TIMETABLE_HTML_LEVEL, gt.rules.augmentedYearsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED_HTML_TIMETABLES, TIMETABLE_HTML_REPEAT_NAMES);
 
-		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
-		if(PRINT_DETAILED) PRINT_DETAILED=false;
-		else PRINT_DETAILED=true;
-	} while(!PRINT_DETAILED);
+	tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	
 	tos << "  </body>\n</html>\n";
 
 	if(file.error()>0){
@@ -3173,15 +3236,11 @@ void TimetableExport::writeYearsTimetableTimeHorizontalHtml(QWidget* parent, con
 
 	tos<<writeHead(true, placedActivities, false);
 	
-	bool PRINT_DETAILED=true;
-	do{
-		QSet<int> tmp;
-		tos<<singleYearsTimetableTimeHorizontalHtml(TIMETABLE_HTML_LEVEL, gt.rules.augmentedYearsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED, TIMETABLE_HTML_REPEAT_NAMES);
+	QSet<int> tmp;
+	tos<<singleYearsTimetableTimeHorizontalHtml(TIMETABLE_HTML_LEVEL, gt.rules.augmentedYearsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED_HTML_TIMETABLES, TIMETABLE_HTML_REPEAT_NAMES);
 
-		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
-		if(PRINT_DETAILED) PRINT_DETAILED=false;
-		else PRINT_DETAILED=true;
-	} while(!PRINT_DETAILED);
+	tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	
 	tos << "  </body>\n</html>\n";
 
 	if(file.error()>0){
@@ -3215,19 +3274,14 @@ void TimetableExport::writeYearsTimetableTimeVerticalDailyHtml(QWidget* parent, 
 	tos.setGenerateByteOrderMark(true);
 
 	tos<<writeHead(true, placedActivities, true);
-	tos<<writeTOCDays(true);
+	tos<<writeTOCDays();
 
-	bool PRINT_DETAILED=true;
-	do{
-		for(int day=0; day<gt.rules.nDaysPerWeek; day++){
-			QSet<int> tmp;
-			tos<<singleYearsTimetableTimeVerticalDailyHtml(TIMETABLE_HTML_LEVEL, day, gt.rules.augmentedYearsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED, TIMETABLE_HTML_REPEAT_NAMES);
-
-			tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
-		}
-		if(PRINT_DETAILED) PRINT_DETAILED=false;
-		else PRINT_DETAILED=true;
-	} while(!PRINT_DETAILED);
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
+		QSet<int> tmp;
+		tos<<singleYearsTimetableTimeVerticalDailyHtml(TIMETABLE_HTML_LEVEL, day, gt.rules.augmentedYearsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED_HTML_TIMETABLES, TIMETABLE_HTML_REPEAT_NAMES);
+		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	}
+	
 	tos << "  </body>\n</html>\n";
 
 	if(file.error()>0){
@@ -3261,19 +3315,14 @@ void TimetableExport::writeYearsTimetableTimeHorizontalDailyHtml(QWidget* parent
 	tos.setGenerateByteOrderMark(true);
 
 	tos<<writeHead(true, placedActivities, true);
-	tos<<writeTOCDays(true);
+	tos<<writeTOCDays();
 	
-	bool PRINT_DETAILED=true;
-	do{
-		for(int day=0; day<gt.rules.nDaysPerWeek; day++){
-			QSet<int> tmp;
-			tos<<singleYearsTimetableTimeHorizontalDailyHtml(TIMETABLE_HTML_LEVEL, day, gt.rules.augmentedYearsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED, TIMETABLE_HTML_REPEAT_NAMES);
-
-			tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
-		}
-		if(PRINT_DETAILED) PRINT_DETAILED=false;
-		else PRINT_DETAILED=true;
-	} while(!PRINT_DETAILED);
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
+		QSet<int> tmp;
+		tos<<singleYearsTimetableTimeHorizontalDailyHtml(TIMETABLE_HTML_LEVEL, day, gt.rules.augmentedYearsList.size(), tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, PRINT_DETAILED_HTML_TIMETABLES, TIMETABLE_HTML_REPEAT_NAMES);
+		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	}
+	
 	tos << "  </body>\n</html>\n";
 
 	if(file.error()>0){
@@ -3449,7 +3498,7 @@ void TimetableExport::writeAllActivitiesTimetableTimeVerticalDailyHtml(QWidget* 
 	tos.setGenerateByteOrderMark(true);
 
 	tos<<writeHead(true, placedActivities, true);
-	tos<<writeTOCDays(false);
+	tos<<writeTOCDays();
 
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		tos<<singleAllActivitiesTimetableTimeVerticalDailyHtml(TIMETABLE_HTML_LEVEL, day, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, TIMETABLE_HTML_REPEAT_NAMES);
@@ -3488,7 +3537,7 @@ void TimetableExport::writeAllActivitiesTimetableTimeHorizontalDailyHtml(QWidget
 	tos.setGenerateByteOrderMark(true);
 
 	tos<<writeHead(true, placedActivities, true);
-	tos<<writeTOCDays(false);
+	tos<<writeTOCDays();
 
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		tos<<singleAllActivitiesTimetableTimeHorizontalDailyHtml(TIMETABLE_HTML_LEVEL, day, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, TIMETABLE_HTML_REPEAT_NAMES);
@@ -3694,7 +3743,7 @@ void TimetableExport::writeTeachersTimetableTimeVerticalDailyHtml(QWidget* paren
 	tos.setGenerateByteOrderMark(true);
 
 	tos<<writeHead(true, placedActivities, true);
-	tos<<writeTOCDays(false);
+	tos<<writeTOCDays();
 
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		QSet<int> tmp;
@@ -3734,7 +3783,7 @@ void TimetableExport::writeTeachersTimetableTimeHorizontalDailyHtml(QWidget* par
 	tos.setGenerateByteOrderMark(true);
 
 	tos<<writeHead(true, placedActivities, true);
-	tos<<writeTOCDays(false);
+	tos<<writeTOCDays();
 
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		QSet<int> tmp;
@@ -3958,7 +4007,7 @@ void TimetableExport::writeRoomsTimetableTimeVerticalDailyHtml(QWidget* parent, 
 	tos.setGenerateByteOrderMark(true);
 
 	tos<<writeHead(true, placedActivities, true);
-	tos<<writeTOCDays(false);
+	tos<<writeTOCDays();
 	
 	if(gt.rules.nInternalRooms==0)
 		tos<<"    <h1>"<<TimetableExport::tr("No rooms recorded in FET for %1.", "%1 is the institution name").arg(protect2(gt.rules.institutionName))<<"</h1>\n";
@@ -4003,7 +4052,7 @@ void TimetableExport::writeRoomsTimetableTimeHorizontalDailyHtml(QWidget* parent
 	tos.setGenerateByteOrderMark(true);
 
 	tos<<writeHead(true, placedActivities, true);
-	tos<<writeTOCDays(false);
+	tos<<writeTOCDays();
 	
 	if(gt.rules.nInternalRooms==0)
 		tos<<"    <h1>"<<TimetableExport::tr("No rooms recorded in FET for %1.", "%1 is the institution name").arg(protect2(gt.rules.institutionName))<<"</h1>\n";
@@ -4219,7 +4268,7 @@ void TimetableExport::writeSubjectsTimetableTimeVerticalDailyHtml(QWidget* paren
 	tos.setGenerateByteOrderMark(true);
 
 	tos<<writeHead(true, placedActivities, true);
-	tos<<writeTOCDays(false);
+	tos<<writeTOCDays();
 
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		QSet<int> tmp;
@@ -4261,11 +4310,264 @@ void TimetableExport::writeSubjectsTimetableTimeHorizontalDailyHtml(QWidget* par
 	tos.setGenerateByteOrderMark(true);
 
 	tos<<writeHead(true, placedActivities, true);
-	tos<<writeTOCDays(false);
+	tos<<writeTOCDays();
 
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		QSet<int> tmp;
 		tos<<singleSubjectsTimetableTimeHorizontalDailyHtml(TIMETABLE_HTML_LEVEL, day, gt.rules.nInternalSubjects, tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, TIMETABLE_HTML_REPEAT_NAMES);
+
+		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	}
+	tos << "  </body>\n</html>\n";
+
+	if(file.error()>0){
+		IrreconcilableCriticalMessage::critical(parent, tr("FET critical"),
+		 TimetableExport::tr("Writing %1 gave error code %2, which means saving is compromised. Please check your disk's free space.").arg(htmlfilename).arg(file.error()));
+	}
+	file.close();
+}
+
+//Print the activity tags
+
+//XHTML generation code by Volker Dirr (http://timetabling.de/)
+void TimetableExport::writeActivityTagsTimetableDaysHorizontalHtml(QWidget* parent, const QString& htmlfilename, const QString& saveTime, int placedActivities){
+	assert(gt.rules.initialized && gt.rules.internalStructureComputed);
+	assert(students_schedule_ready && teachers_schedule_ready && rooms_schedule_ready);
+
+	if(!WRITE_TIMETABLES_DAYS_HORIZONTAL || !WRITE_TIMETABLES_ACTIVITY_TAGS){
+		if(QFile::exists(htmlfilename))
+			QFile::remove(htmlfilename);
+
+		return;
+	}
+
+	//Now we print the results to an HTML file
+	QFile file(htmlfilename);
+	if(!file.open(QIODevice::WriteOnly)){
+		IrreconcilableCriticalMessage::critical(parent, tr("FET critical"),
+		 TimetableExport::tr("Cannot open file %1 for writing. Please check your disk's free space. Saving of %1 aborted.").arg(htmlfilename));
+		return;
+	}
+	QTextStream tos(&file);
+	tos.setCodec("UTF-8");
+	tos.setGenerateByteOrderMark(true);
+
+	tos<<writeHead(true, placedActivities, true);
+
+	tos<<"    <p><strong>"<<TimetableExport::tr("Table of contents")<<"</strong></p>\n";
+	tos<<"    <ul>\n";
+	for(int i=0; i<gt.rules.nInternalActivityTags; i++){
+		tos<<"      <li>\n        "<<TimetableExport::tr("Activity Tag");
+		tos<<" <a href=\""<<"#table_"<<hashActivityTagIDsTimetable.value(gt.rules.internalActivityTagsList[i]->name)<<"\">"<<gt.rules.internalActivityTagsList[i]->name<<"</a>\n";
+		tos<<"      </li>\n";
+	}
+	tos<<"    </ul>\n    <p>&nbsp;</p>\n\n";
+
+
+	for(int activityTag=0; activityTag<gt.rules.nInternalActivityTags; activityTag++){
+		tos<<singleActivityTagsTimetableDaysHorizontalHtml(TIMETABLE_HTML_LEVEL, activityTag, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, TIMETABLE_HTML_REPEAT_NAMES);
+		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	}
+	tos<<"  </body>\n</html>\n";
+
+	if(file.error()>0){
+		IrreconcilableCriticalMessage::critical(parent, tr("FET critical"),
+		 TimetableExport::tr("Writing %1 gave error code %2, which means saving is compromised. Please check your disk's free space.").arg(htmlfilename).arg(file.error()));
+	}
+	file.close();
+}
+
+//XHTML generation code by Volker Dirr (http://timetabling.de/)
+void TimetableExport::writeActivityTagsTimetableDaysVerticalHtml(QWidget* parent, const QString& htmlfilename, const QString& saveTime, int placedActivities){
+	assert(gt.rules.initialized && gt.rules.internalStructureComputed);
+	assert(students_schedule_ready && teachers_schedule_ready && rooms_schedule_ready);
+
+	if(!WRITE_TIMETABLES_DAYS_VERTICAL || !WRITE_TIMETABLES_ACTIVITY_TAGS){
+		if(QFile::exists(htmlfilename))
+			QFile::remove(htmlfilename);
+
+		return;
+	}
+
+	//Now we print the results to an HTML file
+	QFile file(htmlfilename);
+	if(!file.open(QIODevice::WriteOnly)){
+		IrreconcilableCriticalMessage::critical(parent, tr("FET critical"),
+		 TimetableExport::tr("Cannot open file %1 for writing. Please check your disk's free space. Saving of %1 aborted.").arg(htmlfilename));
+		return;
+	}
+	QTextStream tos(&file);
+	tos.setCodec("UTF-8");
+	tos.setGenerateByteOrderMark(true);
+
+	tos<<writeHead(true, placedActivities, true);
+
+	tos<<"    <p><strong>"<<TimetableExport::tr("Table of contents")<<"</strong></p>\n";
+	tos<<"    <ul>\n";
+	for(int i=0; i<gt.rules.nInternalActivityTags; i++){
+		tos<<"      <li>\n        "<<TimetableExport::tr("Activity Tag");
+		tos<<" <a href=\""<<"#table_"<<hashActivityTagIDsTimetable.value(gt.rules.internalActivityTagsList[i]->name)<<"\">"<<gt.rules.internalActivityTagsList[i]->name<<"</a>\n";
+		tos<<"      </li>\n";
+	}
+	tos<<"    </ul>\n    <p>&nbsp;</p>\n\n";
+
+	for(int activityTag=0; activityTag<gt.rules.nInternalActivityTags; activityTag++){
+		tos<<singleActivityTagsTimetableDaysVerticalHtml(TIMETABLE_HTML_LEVEL, activityTag, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, TIMETABLE_HTML_REPEAT_NAMES);
+		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	}
+	tos << "  </body>\n</html>\n";
+
+	if(file.error()>0){
+		IrreconcilableCriticalMessage::critical(parent, tr("FET critical"),
+		 TimetableExport::tr("Writing %1 gave error code %2, which means saving is compromised. Please check your disk's free space.").arg(htmlfilename).arg(file.error()));
+	}
+	file.close();
+}
+
+//XHTML generation code by Volker Dirr (http://timetabling.de/)
+void TimetableExport::writeActivityTagsTimetableTimeVerticalHtml(QWidget* parent, const QString& htmlfilename, const QString& saveTime, int placedActivities){
+	assert(gt.rules.initialized && gt.rules.internalStructureComputed);
+	assert(students_schedule_ready && teachers_schedule_ready && rooms_schedule_ready);
+
+	if(!WRITE_TIMETABLES_TIME_VERTICAL || !WRITE_TIMETABLES_ACTIVITY_TAGS){
+		if(QFile::exists(htmlfilename))
+			QFile::remove(htmlfilename);
+
+		return;
+	}
+
+	//Now we print the results to an HTML file
+	QFile file(htmlfilename);
+	if(!file.open(QIODevice::WriteOnly)){
+		IrreconcilableCriticalMessage::critical(parent, tr("FET critical"),
+		 TimetableExport::tr("Cannot open file %1 for writing. Please check your disk's free space. Saving of %1 aborted.").arg(htmlfilename));
+		return;
+	}
+	QTextStream tos(&file);
+	tos.setCodec("UTF-8");
+	tos.setGenerateByteOrderMark(true);
+
+	tos<<writeHead(true, placedActivities, false);
+
+	QSet<int> tmp;
+	tos<<singleActivityTagsTimetableTimeVerticalHtml(TIMETABLE_HTML_LEVEL, gt.rules.nInternalActivityTags, tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, TIMETABLE_HTML_REPEAT_NAMES);
+	tos << "  </body>\n</html>\n";
+
+	if(file.error()>0){
+		IrreconcilableCriticalMessage::critical(parent, tr("FET critical"),
+		 TimetableExport::tr("Writing %1 gave error code %2, which means saving is compromised. Please check your disk's free space.").arg(htmlfilename).arg(file.error()));
+	}
+	file.close();
+}
+
+//XHTML generation code by Volker Dirr (http://timetabling.de/)
+void TimetableExport::writeActivityTagsTimetableTimeHorizontalHtml(QWidget* parent, const QString& htmlfilename, const QString& saveTime, int placedActivities){
+	assert(gt.rules.initialized && gt.rules.internalStructureComputed);
+	assert(students_schedule_ready && teachers_schedule_ready && rooms_schedule_ready);
+
+	if(!WRITE_TIMETABLES_TIME_HORIZONTAL || !WRITE_TIMETABLES_ACTIVITY_TAGS){
+		if(QFile::exists(htmlfilename))
+			QFile::remove(htmlfilename);
+
+		return;
+	}
+
+	//Now we print the results to an HTML file
+	QFile file(htmlfilename);
+	if(!file.open(QIODevice::WriteOnly)){
+		IrreconcilableCriticalMessage::critical(parent, tr("FET critical"),
+		 TimetableExport::tr("Cannot open file %1 for writing. Please check your disk's free space. Saving of %1 aborted.").arg(htmlfilename));
+		return;
+	}
+	QTextStream tos(&file);
+	tos.setCodec("UTF-8");
+	tos.setGenerateByteOrderMark(true);
+
+	tos<<writeHead(true, placedActivities, false);
+
+	QSet<int> tmp;
+	tos<<singleActivityTagsTimetableTimeHorizontalHtml(TIMETABLE_HTML_LEVEL, gt.rules.nInternalActivityTags, tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, TIMETABLE_HTML_REPEAT_NAMES);
+
+	tos << "  </body>\n</html>\n";
+
+	if(file.error()>0){
+		IrreconcilableCriticalMessage::critical(parent, tr("FET critical"),
+		 TimetableExport::tr("Writing %1 gave error code %2, which means saving is compromised. Please check your disk's free space.").arg(htmlfilename).arg(file.error()));
+	}
+	file.close();
+}
+
+//XHTML generation code by Volker Dirr (http://timetabling.de/)
+void TimetableExport::writeActivityTagsTimetableTimeVerticalDailyHtml(QWidget* parent, const QString& htmlfilename, const QString& saveTime, int placedActivities){
+	assert(gt.rules.initialized && gt.rules.internalStructureComputed);
+	assert(students_schedule_ready && teachers_schedule_ready && rooms_schedule_ready);
+
+	if(!WRITE_TIMETABLES_TIME_VERTICAL || !WRITE_TIMETABLES_ACTIVITY_TAGS){
+		if(QFile::exists(htmlfilename))
+			QFile::remove(htmlfilename);
+
+		return;
+	}
+
+	//Now we print the results to an HTML file
+	QFile file(htmlfilename);
+	if(!file.open(QIODevice::WriteOnly)){
+		IrreconcilableCriticalMessage::critical(parent, tr("FET critical"),
+		 TimetableExport::tr("Cannot open file %1 for writing. Please check your disk's free space. Saving of %1 aborted.").arg(htmlfilename));
+		return;
+	}
+	QTextStream tos(&file);
+	tos.setCodec("UTF-8");
+	tos.setGenerateByteOrderMark(true);
+
+	tos<<writeHead(true, placedActivities, true);
+	tos<<writeTOCDays();
+
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
+		QSet<int> tmp;
+		tos<<singleActivityTagsTimetableTimeVerticalDailyHtml(TIMETABLE_HTML_LEVEL, day, gt.rules.nInternalActivityTags, tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, TIMETABLE_HTML_REPEAT_NAMES);
+
+		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
+	}
+
+	tos << "  </body>\n</html>\n";
+
+	if(file.error()>0){
+		IrreconcilableCriticalMessage::critical(parent, tr("FET critical"),
+		 TimetableExport::tr("Writing %1 gave error code %2, which means saving is compromised. Please check your disk's free space.").arg(htmlfilename).arg(file.error()));
+	}
+	file.close();
+}
+
+//XHTML generation code by Volker Dirr (http://timetabling.de/)
+void TimetableExport::writeActivityTagsTimetableTimeHorizontalDailyHtml(QWidget* parent, const QString& htmlfilename, const QString& saveTime, int placedActivities){
+	assert(gt.rules.initialized && gt.rules.internalStructureComputed);
+	assert(students_schedule_ready && teachers_schedule_ready && rooms_schedule_ready);
+
+	if(!WRITE_TIMETABLES_TIME_HORIZONTAL || !WRITE_TIMETABLES_ACTIVITY_TAGS){
+		if(QFile::exists(htmlfilename))
+			QFile::remove(htmlfilename);
+
+		return;
+	}
+
+	//Now we print the results to an HTML file
+	QFile file(htmlfilename);
+	if(!file.open(QIODevice::WriteOnly)){
+		IrreconcilableCriticalMessage::critical(parent, tr("FET critical"),
+		 TimetableExport::tr("Cannot open file %1 for writing. Please check your disk's free space. Saving of %1 aborted.").arg(htmlfilename));
+		return;
+	}
+	QTextStream tos(&file);
+	tos.setCodec("UTF-8");
+	tos.setGenerateByteOrderMark(true);
+
+	tos<<writeHead(true, placedActivities, true);
+	tos<<writeTOCDays();
+
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
+		QSet<int> tmp;
+		tos<<singleActivityTagsTimetableTimeHorizontalDailyHtml(TIMETABLE_HTML_LEVEL, day, gt.rules.nInternalActivityTags, tmp, saveTime, TIMETABLE_HTML_PRINT_ACTIVITY_TAGS, TIMETABLE_HTML_REPEAT_NAMES);
 
 		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
 	}
@@ -4303,11 +4605,6 @@ void TimetableExport::writeTeachersFreePeriodsTimetableDaysHorizontalHtml(QWidge
 
 	tos<<writeHead(true, placedActivities, true);
 
-	tos<<"    <ul>\n";
-	tos<<"      <li><a href=\""<<"#table_DETAILED\">"<<TimetableExport::tr("Teachers' Free Periods")<<" ("<<tr("Detailed")<<")</a></li>\n";
-	tos<<"      <li><a href=\""<<"#table_LESS_DETAILED\">"<<TimetableExport::tr("Teachers' Free Periods")<<" ("<<tr("Less detailed")<<")</a></li>\n";
-	tos<<"    </ul>\n    <p>&nbsp;</p>\n\n";
-
 	tos<<"    <div class=\"TEACHER_HAS_SINGLE_GAP\">"<<TimetableExport::tr("Teacher has a single gap")<<"</div>\n";
 	tos<<"    <div class=\"TEACHER_HAS_BORDER_GAP\">"<<TimetableExport::tr("Teacher has a border gap")<<"</div>\n";
 	tos<<"    <div class=\"TEACHER_HAS_BIG_GAP\">"<<TimetableExport::tr("Teacher has a big gap")<<"</div>\n";
@@ -4320,13 +4617,8 @@ void TimetableExport::writeTeachersFreePeriodsTimetableDaysHorizontalHtml(QWidge
 
 	tos<<"    <p>&nbsp;</p>\n\n";
 	
-	bool PRINT_DETAILED=true;
-	do{
-		tos<<singleTeachersFreePeriodsTimetableDaysHorizontalHtml(TIMETABLE_HTML_LEVEL, saveTime, PRINT_DETAILED, TIMETABLE_HTML_REPEAT_NAMES);
-		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
-		if(PRINT_DETAILED) PRINT_DETAILED=false;
-		else PRINT_DETAILED=true;
-	} while(!PRINT_DETAILED);
+	tos<<singleTeachersFreePeriodsTimetableDaysHorizontalHtml(TIMETABLE_HTML_LEVEL, saveTime, PRINT_DETAILED_HTML_TEACHERS_FREE_PERIODS, TIMETABLE_HTML_REPEAT_NAMES);
+	
 	tos<<"  </body>\n</html>\n";
 
 	if(file.error()>0){
@@ -4361,11 +4653,6 @@ void TimetableExport::writeTeachersFreePeriodsTimetableDaysVerticalHtml(QWidget*
 
 	tos<<writeHead(true, placedActivities, true);
 
-	tos<<"    <ul>\n";
-	tos<<"      <li><a href=\""<<"#table_DETAILED\">"<<TimetableExport::tr("Teachers' Free Periods")<<" ("<<tr("Detailed")<<")</a></li>\n";
-	tos<<"      <li><a href=\""<<"#table_LESS_DETAILED\">"<<TimetableExport::tr("Teachers' Free Periods")<<" ("<<tr("Less detailed")<<")</a></li>\n";
-	tos<<"    </ul>\n    <p>&nbsp;</p>\n\n";
-
 	tos<<"    <div class=\"TEACHER_HAS_SINGLE_GAP\">"<<TimetableExport::tr("Teacher has a single gap")<<"</div>\n";
 	tos<<"    <div class=\"TEACHER_HAS_BORDER_GAP\">"<<TimetableExport::tr("Teacher has a border gap")<<"</div>\n";
 	tos<<"    <div class=\"TEACHER_HAS_BIG_GAP\">"<<TimetableExport::tr("Teacher has a big gap")<<"</div>\n";
@@ -4378,14 +4665,8 @@ void TimetableExport::writeTeachersFreePeriodsTimetableDaysVerticalHtml(QWidget*
 
 	tos<<"    <p>&nbsp;</p>\n\n";
 
-	bool PRINT_DETAILED=true;
-	do{
-		tos<<singleTeachersFreePeriodsTimetableDaysVerticalHtml(TIMETABLE_HTML_LEVEL, saveTime, PRINT_DETAILED, TIMETABLE_HTML_REPEAT_NAMES);
+	tos<<singleTeachersFreePeriodsTimetableDaysVerticalHtml(TIMETABLE_HTML_LEVEL, saveTime, PRINT_DETAILED_HTML_TEACHERS_FREE_PERIODS, TIMETABLE_HTML_REPEAT_NAMES);
 
-		tos<<"    <p class=\"back\"><a href=\""<<"#top\">"<<TimetableExport::tr("back to the top")<<"</a></p>\n\n";
-		if(PRINT_DETAILED) PRINT_DETAILED=false;
-		else PRINT_DETAILED=true;
-	} while(!PRINT_DETAILED);
 	tos<<"  </body>\n</html>\n";
 
 	if(file.error()>0){
@@ -4788,21 +5069,13 @@ QString TimetableExport::writeHead(bool java, int placedActivities, bool printIn
 }
 
 // by Volker Dirr
-QString TimetableExport::writeTOCDays(bool detailed){
+QString TimetableExport::writeTOCDays(){
 	QString tmp;
 	tmp+="    <p><strong>"+TimetableExport::tr("Table of contents")+"</strong></p>\n";
 	tmp+="    <ul>\n";
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		tmp+="      <li>\n        ";
-		if(detailed){
-			tmp+=" <a href=\"";
-			tmp+="#table_"+hashDayIDsTimetable.value(gt.rules.daysOfTheWeek[day])+"_DETAILED\">"+protect2(gt.rules.daysOfTheWeek[day])+" ("+tr("Detailed")+")</a> /";
-			tmp+=" <a href=\"";
-			tmp+="#table_"+hashDayIDsTimetable.value(gt.rules.daysOfTheWeek[day])+"\">"+protect2(gt.rules.daysOfTheWeek[day])+" ("+tr("Less detailed")+")</a>\n";
-		} else{
-			tmp+=" <a href=\"";
-			tmp+="#table_"+hashDayIDsTimetable.value(gt.rules.daysOfTheWeek[day])+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</a>\n";
-		}
+		tmp+=" <a href=\"#table_"+hashDayIDsTimetable.value(gt.rules.daysOfTheWeek[day])+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</a>\n";
 		tmp+="          </li>\n";
 	}
 	tmp+="    </ul>\n    <p>&nbsp;</p>\n";
@@ -5359,6 +5632,60 @@ QString TimetableExport::writeActivitiesSubjects(int htmlLevel, const QList<int>
 	return tmp;
 }
 
+//by Volker Dirr
+QString TimetableExport::writeActivitiesActivityTags(int htmlLevel, const QList<int>& allActivities, bool printActivityTags){
+	QString tmp;
+	if(allActivities.isEmpty()){
+		tmp+=writeEmpty(htmlLevel);
+	} else {
+		if(htmlLevel>=1)
+			tmp+="          <td><table class=\"detailed\">";
+		else
+			tmp+="          <td><table>";
+		
+		if(htmlLevel>=3)
+			tmp+="<tr class=\"line0\">";
+		else	tmp+="<tr>";
+		for(int a=0; a<allActivities.size(); a++){
+			int ai=allActivities[a];
+			if(ai!=UNALLOCATED_ACTIVITY){
+				Activity* act=&gt.rules.internalActivitiesList[ai];
+				tmp+=writeStartTagTDofActivities(htmlLevel, act, true, false, false, COLOR_BY_SUBJECT_STUDENTS)+writeSubjectAndActivityTags(htmlLevel, act, "", "", false, printActivityTags)+"</td>";
+			}
+		}
+		tmp+="</tr>";
+		
+		if(htmlLevel>=3)
+			tmp+="<tr class=\"studentsset line1\">";
+		else	tmp+="<tr>";
+		for(int a=0; a<allActivities.size(); a++){
+			Activity* act=&gt.rules.internalActivitiesList[allActivities[a]];
+			tmp+=writeStartTagTDofActivities(htmlLevel, act, true, false, false, COLOR_BY_SUBJECT_STUDENTS)+writeStudents(htmlLevel, act, "", "")+"</td>";	
+		}
+		tmp+="</tr>";
+		if(htmlLevel>=3)
+			tmp+="<tr class=\"teacher line2\">";
+		else	tmp+="<tr>";
+		for(int a=0; a<allActivities.size(); a++){
+			Activity* act=&gt.rules.internalActivitiesList[allActivities[a]];
+			tmp+=writeStartTagTDofActivities(htmlLevel, act, true, false, false, COLOR_BY_SUBJECT_STUDENTS)+writeTeachers(htmlLevel, act, "", "")+"</td>";
+		}
+		tmp+="</tr>";
+		if(htmlLevel>=3)
+			tmp+="<tr class=\"room line3\">";
+		else	tmp+="<tr>";
+		for(int a=0; a<allActivities.size(); a++){
+			int ai=allActivities[a];
+			Activity* act=&gt.rules.internalActivitiesList[ai];
+			tmp+=writeStartTagTDofActivities(htmlLevel, act, true, false, false, COLOR_BY_SUBJECT_STUDENTS)+writeRoom(htmlLevel, ai, "", "")+"</td>";
+		}
+		tmp+="</tr>";
+		tmp+="</table></td>\n";
+	}
+	return tmp;
+}
+
+
 //the following functions return a single html table (needed for html file export and printing)
 
 //by Volker Dirr
@@ -5373,7 +5700,11 @@ QString TimetableExport::singleSubgroupsTimetableDaysHorizontalHtml(int htmlLeve
 	tmpString+=">\n";
 		
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
-	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+protect2(subgroup_name)+"</th></tr>\n";
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+protect2(subgroup_name)+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		if(htmlLevel>=2)
@@ -5407,12 +5738,20 @@ QString TimetableExport::singleSubgroupsTimetableDaysHorizontalHtml(int htmlLeve
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -5431,7 +5770,11 @@ QString TimetableExport::singleSubgroupsTimetableDaysVerticalHtml(int htmlLevel,
 	tmpString+=">\n";
 	
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
-		tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(subgroup_name)+"</th></tr>\n";
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(subgroup_name)+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 		if(htmlLevel>=2)
@@ -5465,12 +5808,20 @@ QString TimetableExport::singleSubgroupsTimetableDaysVerticalHtml(int htmlLevel,
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -5495,6 +5846,9 @@ QString TimetableExport::singleSubgroupsTimetableTimeVerticalHtml(int htmlLevel,
 				tmpString+="          <th>";
 			tmpString+=gt.rules.internalSubgroupsList[subgroup]->name+"</th>";
 		}
+	}
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
 	}
 	tmpString+="</tr>\n      </thead>\n";
 	/*workaround
@@ -5531,13 +5885,25 @@ QString TimetableExport::singleSubgroupsTimetableTimeVerticalHtml(int htmlLevel,
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+				
+				if(hour==0)
+					tmpString+="        <th rowspan=\"" +QString::number(gt.rules.nHoursPerDay)+"\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+				else tmpString+="          <!-- span -->\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="      <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="      <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n    </table>\n";
 	return tmpString;
@@ -5550,11 +5916,15 @@ QString TimetableExport::singleSubgroupsTimetableTimeHorizontalHtml(int htmlLeve
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 
 	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td>";
-	for(int day=0; day<gt.rules.nDaysPerWeek; day++)
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		tmpString+="<th colspan=\"" +QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	}
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
 	tmpString+="        </tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
-	for(int day=0; day<gt.rules.nDaysPerWeek; day++)
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 			if(htmlLevel>=2)
 				tmpString+="          <th class=\"xAxis\">";
@@ -5562,6 +5932,7 @@ QString TimetableExport::singleSubgroupsTimetableTimeHorizontalHtml(int htmlLeve
 				tmpString+="          <th>";
 			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
 		}
+	}
 	tmpString+="        </tr>\n";
 	tmpString+="      </thead>\n";
 	/*workaround
@@ -5579,7 +5950,7 @@ QString TimetableExport::singleSubgroupsTimetableTimeHorizontalHtml(int htmlLeve
 				tmpString+="          <th class=\"yAxis\">";
 			else
 				tmpString+="          <th>";
-			tmpString+=gt.rules.internalSubgroupsList[subgroup]->name+"</th>\n";
+			tmpString+=protect2(gt.rules.internalSubgroupsList[subgroup]->name)+"</th>\n";
 			for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 				for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 					QList<int> allActivities;
@@ -5594,13 +5965,21 @@ QString TimetableExport::singleSubgroupsTimetableTimeHorizontalHtml(int htmlLeve
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+gt.rules.internalSubgroupsList[subgroup]->name+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(gt.rules.internalSubgroupsList[subgroup]->name)+"</th>\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="      <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay*gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="      <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay*gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n    </table>\n";
 	return tmpString;
@@ -5626,6 +6005,9 @@ QString TimetableExport::singleSubgroupsTimetableTimeVerticalDailyHtml(int htmlL
 				tmpString+="          <th>";
 			tmpString+=gt.rules.internalSubgroupsList[subgroup]->name+"</th>";
 		}
+	}
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
 	}
 	tmpString+="</tr>\n      </thead>\n";
 	/*workaround
@@ -5660,12 +6042,24 @@ QString TimetableExport::singleSubgroupsTimetableTimeVerticalDailyHtml(int htmlL
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			
+			if(hour==0)
+				tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			else tmpString+="          <!-- span -->\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -5682,6 +6076,9 @@ QString TimetableExport::singleSubgroupsTimetableTimeHorizontalDailyHtml(int htm
 	
 	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td>";
 	tmpString+="<th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
 	tmpString+="        </tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
@@ -5690,7 +6087,7 @@ QString TimetableExport::singleSubgroupsTimetableTimeHorizontalDailyHtml(int htm
 		else
 			tmpString+="          <th>";
 		tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
-		}
+	}
 	tmpString+="        </tr>\n";
 	tmpString+="      </thead>\n";
 	/*workaround
@@ -5721,13 +6118,21 @@ QString TimetableExport::singleSubgroupsTimetableTimeHorizontalDailyHtml(int htm
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+gt.rules.internalSubgroupsList[subgroup]->name+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=gt.rules.internalSubgroupsList[subgroup]->name+"</th>\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -5740,14 +6145,17 @@ QString TimetableExport::singleGroupsTimetableDaysHorizontalHtml(int htmlLevel, 
 	assert(group<gt.rules.internalGroupsList.size());
 	QString tmpString;
 	tmpString+="    <table id=\"table_"+hashStudentIDsTimetable.value(gt.rules.internalGroupsList[group]->name);
-	if(detailed) tmpString+="_DETAILED";
 	tmpString+="\" border=\"1\"";
 	if(group%2) tmpString+=" class=\"even_table\"";
 	else tmpString+=" class=\"odd_table\"";
 	tmpString+=">\n";
 			
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
-	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+protect2(gt.rules.internalGroupsList[group]->name)+"</th></tr>\n";
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+protect2(gt.rules.internalGroupsList[group]->name)+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		if(htmlLevel>=2)
@@ -5793,12 +6201,20 @@ QString TimetableExport::singleGroupsTimetableDaysHorizontalHtml(int htmlLevel, 
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -5811,14 +6227,17 @@ QString TimetableExport::singleGroupsTimetableDaysVerticalHtml(int htmlLevel, in
 	assert(group<gt.rules.internalGroupsList.size());
 	QString tmpString;
 	tmpString+="    <table id=\"table_"+hashStudentIDsTimetable.value(gt.rules.internalGroupsList.at(group)->name);
-	if(detailed) tmpString+="_DETAILED";
 	tmpString+="\" border=\"1\"";
 	if(group%2) tmpString+=" class=\"even_table\"";
 	else tmpString+=" class=\"odd_table\"";
 	tmpString+=">\n";
 			
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
-	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.internalGroupsList.at(group)->name)+"</th></tr>\n";
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.internalGroupsList.at(group)->name)+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 		if(htmlLevel>=2)
@@ -5864,12 +6283,20 @@ QString TimetableExport::singleGroupsTimetableDaysVerticalHtml(int htmlLevel, in
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -5880,9 +6307,6 @@ QString TimetableExport::singleGroupsTimetableDaysVerticalHtml(int htmlLevel, in
 QString TimetableExport::singleGroupsTimetableTimeVerticalHtml(int htmlLevel, int maxGroups, QSet<int>& excludedNames, const QString& saveTime, bool printActivityTags, bool detailed, bool repeatNames){
 	QString tmpString;
 	tmpString+="    <table id=\"table";
-	if(!detailed)
-		tmpString+="_LESS";
-	tmpString+="_DETAILED";
 	tmpString+="\" border=\"1\">\n";
 		tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 		tmpString+="      <thead>\n        <tr><td colspan=\"2\"></td>";
@@ -5897,7 +6321,9 @@ QString TimetableExport::singleGroupsTimetableTimeVerticalHtml(int htmlLevel, in
 			tmpString+=protect2(gt.rules.internalGroupsList.at(group)->name)+"</th>";
 		}
 	}
-	
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n      </thead>\n";
 	/*workaround
 	tmpString+="      <tfoot><tr><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr></tfoot>\n";
@@ -5944,13 +6370,24 @@ QString TimetableExport::singleGroupsTimetableTimeVerticalHtml(int htmlLevel, in
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+				if(hour==0)
+					tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+				else tmpString+="          <!-- span -->\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -5961,17 +6398,17 @@ QString TimetableExport::singleGroupsTimetableTimeVerticalHtml(int htmlLevel, in
 QString TimetableExport::singleGroupsTimetableTimeHorizontalHtml(int htmlLevel, int maxGroups, QSet<int>& excludedNames, const QString& saveTime, bool printActivityTags, bool detailed, bool repeatNames){
 	QString tmpString;
 	tmpString+="    <table id=\"table";
-	if(!detailed)
-		tmpString+="_LESS";
-	tmpString+="_DETAILED";
 	tmpString+="\" border=\"1\">\n";
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td>";
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++)
 		tmpString+="<th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
-	for(int day=0; day<gt.rules.nDaysPerWeek; day++)
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 			if(htmlLevel>=2)
 				tmpString+="          <th class=\"xAxis\">";
@@ -5979,6 +6416,7 @@ QString TimetableExport::singleGroupsTimetableTimeHorizontalHtml(int htmlLevel, 
 				tmpString+="          <th>";
 			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
 		}
+	}
 	tmpString+="        </tr>\n";
 	tmpString+="      </thead>\n";
 	/*workaround
@@ -6024,13 +6462,21 @@ QString TimetableExport::singleGroupsTimetableTimeHorizontalHtml(int htmlLevel, 
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+protect2(gt.rules.internalGroupsList.at(group)->name)+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(gt.rules.internalGroupsList.at(group)->name)+"</th>\n";
 			}
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek*gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek*gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -6043,7 +6489,6 @@ QString TimetableExport::singleGroupsTimetableTimeVerticalDailyHtml(int htmlLeve
 	assert(day<gt.rules.nDaysPerWeek);
 	QString tmpString;
 	tmpString+="    <table id=\"table_"+hashDayIDsTimetable.value(gt.rules.daysOfTheWeek[day]);
-	if(detailed) tmpString+="_DETAILED";
 	tmpString+="\" border=\"1\">\n";
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 	tmpString+="      <thead>\n        <tr><td colspan=\"2\"></td>";
@@ -6058,7 +6503,9 @@ QString TimetableExport::singleGroupsTimetableTimeVerticalDailyHtml(int htmlLeve
 			tmpString+=gt.rules.internalGroupsList.at(group)->name+"</th>";
 		}
 	}
-	
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n      </thead>\n";
 	/*workaround
 	tmpString+="      <tfoot><tr><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr></tfoot>\n";
@@ -6104,12 +6551,23 @@ QString TimetableExport::singleGroupsTimetableTimeVerticalDailyHtml(int htmlLeve
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(hour==0)
+				tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">" + protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			else tmpString+="          <!-- span -->\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -6122,11 +6580,13 @@ QString TimetableExport::singleGroupsTimetableTimeHorizontalDailyHtml(int htmlLe
 	assert(day<gt.rules.nDaysPerWeek);
 	QString tmpString;
 	tmpString+="    <table id=\"table_"+hashDayIDsTimetable.value(gt.rules.daysOfTheWeek[day]);
-	if(detailed) tmpString+="_DETAILED";
 	tmpString+="\" border=\"1\">\n";
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td>";
 	tmpString+="<th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
@@ -6179,13 +6639,21 @@ QString TimetableExport::singleGroupsTimetableTimeHorizontalDailyHtml(int htmlLe
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+protect2(gt.rules.internalGroupsList.at(group)->name)+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(gt.rules.internalGroupsList.at(group)->name)+"</th>\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -6198,14 +6666,17 @@ QString TimetableExport::singleYearsTimetableDaysHorizontalHtml(int htmlLevel, i
 	assert(year<gt.rules.augmentedYearsList.size());
 	QString tmpString;
 	tmpString+="    <table id=\"table_"+hashStudentIDsTimetable.value(gt.rules.augmentedYearsList.at(year)->name);
-	if(detailed) tmpString+="_DETAILED";
 	tmpString+="\" border=\"1\"";
 	if(year%2)  tmpString+=" class=\"even_table\"";
 	else tmpString+=" class=\"odd_table\"";
 	tmpString+=">\n";
 				
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
-	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+protect2(gt.rules.augmentedYearsList.at(year)->name)+"</th></tr>\n";
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+protect2(gt.rules.augmentedYearsList.at(year)->name)+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		if(htmlLevel>=2)
@@ -6254,12 +6725,20 @@ QString TimetableExport::singleYearsTimetableDaysHorizontalHtml(int htmlLevel, i
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -6272,7 +6751,6 @@ QString TimetableExport::singleYearsTimetableDaysVerticalHtml(int htmlLevel, int
 	assert(year<gt.rules.augmentedYearsList.size());
 	QString tmpString;
 	tmpString+="    <table id=\"table_"+hashStudentIDsTimetable.value(gt.rules.augmentedYearsList.at(year)->name);
-	if(detailed) tmpString+="_DETAILED";
 	tmpString+="\" border=\"1\"";
 	if(year%2)  tmpString+=" class=\"even_table\"";
 	else tmpString+=" class=\"odd_table\"";
@@ -6280,7 +6758,11 @@ QString TimetableExport::singleYearsTimetableDaysVerticalHtml(int htmlLevel, int
 			
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 
-	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.augmentedYearsList.at(year)->name)+"</th></tr>\n";
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.augmentedYearsList.at(year)->name)+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 		if(htmlLevel>=2)
@@ -6330,12 +6812,20 @@ QString TimetableExport::singleYearsTimetableDaysVerticalHtml(int htmlLevel, int
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -6346,9 +6836,6 @@ QString TimetableExport::singleYearsTimetableDaysVerticalHtml(int htmlLevel, int
 QString TimetableExport::singleYearsTimetableTimeVerticalHtml(int htmlLevel, int maxYears, QSet<int>& excludedNames, const QString& saveTime, bool printActivityTags, bool detailed, bool repeatNames){
 	QString tmpString;
 	tmpString+="    <table id=\"table";
-	if(!detailed)
-		tmpString+="_LESS";
-	tmpString+="_DETAILED";
 	tmpString+="\" border=\"1\">\n";
 
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
@@ -6365,7 +6852,9 @@ QString TimetableExport::singleYearsTimetableTimeVerticalHtml(int htmlLevel, int
 			tmpString+=protect2(gt.rules.augmentedYearsList.at(year)->name)+"</th>";
 		}
 	}
-	
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n      </thead>\n";
 	/*workaround
 	tmpString+="      <tfoot><tr><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr></tfoot>\n";
@@ -6416,13 +6905,24 @@ QString TimetableExport::singleYearsTimetableTimeVerticalHtml(int htmlLevel, int
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour]) + "</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(gt.rules.hoursOfTheDay[hour]) + "</th>\n";
+				if(hour==0)
+					tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+				else tmpString+="          <!-- span -->\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -6433,9 +6933,6 @@ QString TimetableExport::singleYearsTimetableTimeVerticalHtml(int htmlLevel, int
 QString TimetableExport::singleYearsTimetableTimeHorizontalHtml(int htmlLevel, int maxYears, QSet<int>& excludedNames, const QString& saveTime, bool printActivityTags, bool detailed, bool repeatNames){
 	QString tmpString;
 	tmpString+="    <table id=\"table";
-	if(!detailed)
-		tmpString+="_LESS";
-	tmpString+="_DETAILED";
 	tmpString+="\" border=\"1\">\n";
 
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
@@ -6443,9 +6940,12 @@ QString TimetableExport::singleYearsTimetableTimeHorizontalHtml(int htmlLevel, i
 	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td>";
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++)
 		tmpString+="<th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
-	for(int day=0; day<gt.rules.nDaysPerWeek; day++)
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 			if(htmlLevel>=2)
 				tmpString+="          <th class=\"xAxis\">";
@@ -6453,6 +6953,7 @@ QString TimetableExport::singleYearsTimetableTimeHorizontalHtml(int htmlLevel, i
 				tmpString+="          <th>";
 			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
 		}
+	}
 	tmpString+="        </tr>\n";
 	tmpString+="      </thead>\n";
 	/*workaround
@@ -6501,13 +7002,21 @@ QString TimetableExport::singleYearsTimetableTimeHorizontalHtml(int htmlLevel, i
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+protect2(sty->name)+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(sty->name)+"</th>\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay*gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay*gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -6520,7 +7029,6 @@ QString TimetableExport::singleYearsTimetableTimeVerticalDailyHtml(int htmlLevel
 	assert(day<gt.rules.nDaysPerWeek);
 	QString tmpString;
 	tmpString+="    <table id=\"table_"+hashDayIDsTimetable.value(gt.rules.daysOfTheWeek[day]);
-	if(detailed) tmpString+="_DETAILED";
 	tmpString+="\" border=\"1\">\n";
 
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
@@ -6538,7 +7046,9 @@ QString TimetableExport::singleYearsTimetableTimeVerticalDailyHtml(int htmlLevel
 			tmpString+=protect2(gt.rules.augmentedYearsList.at(year)->name)+"</th>";
 		}
 	}
-	
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n      </thead>\n";
 	/*workaround
 	tmpString+="      <tfoot><tr><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr></tfoot>\n";
@@ -6589,12 +7099,23 @@ QString TimetableExport::singleYearsTimetableTimeVerticalDailyHtml(int htmlLevel
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(hour==0)
+				tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			else tmpString+="          <!-- span -->\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -6607,7 +7128,6 @@ QString TimetableExport::singleYearsTimetableTimeHorizontalDailyHtml(int htmlLev
 	assert(day<gt.rules.nDaysPerWeek);
 	QString tmpString;
 	tmpString+="    <table id=\"table_"+hashDayIDsTimetable.value(gt.rules.daysOfTheWeek[day]);
-	if(detailed) tmpString+="_DETAILED";
 	tmpString+="\" border=\"1\">\n";
 
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
@@ -6615,6 +7135,9 @@ QString TimetableExport::singleYearsTimetableTimeHorizontalDailyHtml(int htmlLev
 	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td>";
 
 	tmpString+="<th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
@@ -6669,13 +7192,21 @@ QString TimetableExport::singleYearsTimetableTimeHorizontalDailyHtml(int htmlLev
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+protect2(sty->name)+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(sty->name)+"</th>\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -6687,7 +7218,11 @@ QString TimetableExport::singleAllActivitiesTimetableDaysHorizontalHtml(int html
 	QString tmpString;
 	tmpString+="    <table border=\"1\">\n";	
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
-	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+tr("All Activities")+"</th></tr>\n";
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+tr("All Activities")+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		if(htmlLevel>=2)
@@ -6721,12 +7256,20 @@ QString TimetableExport::singleAllActivitiesTimetableDaysHorizontalHtml(int html
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="      <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="      <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n";
@@ -6738,7 +7281,11 @@ QString TimetableExport::singleAllActivitiesTimetableDaysVerticalHtml(int htmlLe
 	QString tmpString;
 	tmpString+="    <table border=\"1\">\n";
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
-	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+tr("All Activities")+"</th></tr>\n";
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+tr("All Activities")+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 		if(htmlLevel>=2)
@@ -6772,12 +7319,20 @@ QString TimetableExport::singleAllActivitiesTimetableDaysVerticalHtml(int htmlLe
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="      <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="      <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n";
@@ -6796,7 +7351,11 @@ QString tmpString;
 	else
 		tmpString+="          <th>";
 	tmpString+=tr("All Activities");
-	tmpString+="</th></tr>\n      </thead>\n";
+	tmpString+="</th>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n      </thead>\n";
 	/*workaround
 	tmpString+="      <tfoot><tr><td colspan=\"2\"></td><td>"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr></tfoot>\n";
 	*/
@@ -6822,13 +7381,24 @@ QString tmpString;
 				tmpString+=writeActivitiesStudents(htmlLevel, activitiesAtTime[day][hour], printActivityTags);
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+				if(hour==0)
+					tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+ "\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+				else tmpString+="          <!-- span -->\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="      <tr class=\"foot\"><td colspan=\"2\"></td><td>"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="      <tr class=\"foot\"><td colspan=\"2\"></td><td>"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n";
@@ -6842,8 +7412,12 @@ QString TimetableExport::singleAllActivitiesTimetableTimeHorizontalHtml(int html
 	tmpString+="    <table border=\"1\">\n";
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td>";
-	for(int day=0; day<gt.rules.nDaysPerWeek; day++)
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		tmpString+="<th colspan=\""+QString::number(gt.rules.nHoursPerDay) +"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	}
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
 	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++)
@@ -6881,11 +7455,19 @@ QString TimetableExport::singleAllActivitiesTimetableTimeHorizontalHtml(int html
 		}
 	}
 	if(repeatNames){
-		tmpString+="          <th>"+tr("All Activities")+"</th>\n";
+		if(htmlLevel>=2)
+			tmpString+="          <th class=\"yAxis\">";
+		else
+			tmpString+="          <th>";
+		tmpString+=tr("All Activities")+"</th>\n";
 	}
 	tmpString+="        </tr>\n";
 	//workaround begin.
-	tmpString+="      <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay*gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="      <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay*gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n";
@@ -6905,7 +7487,11 @@ QString TimetableExport::singleAllActivitiesTimetableTimeVerticalDailyHtml(int h
 	else
 		tmpString+="          <th>";
 	tmpString+=tr("All Activities");
-	tmpString+="</th></tr>\n      </thead>\n";
+	tmpString+="</th>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n      </thead>\n";
 	/*workaround
 	tmpString+="      <tfoot><tr><td colspan=\"2\"></td><td>"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr></tfoot>\n";
 	*/
@@ -6931,12 +7517,23 @@ QString TimetableExport::singleAllActivitiesTimetableTimeVerticalDailyHtml(int h
 			tmpString+=writeActivitiesStudents(htmlLevel, activitiesAtTime[day][hour], printActivityTags);
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(hour==0)
+				tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+ "\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			else tmpString+="          <!-- span -->\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td>"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td>"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -6952,6 +7549,9 @@ QString TimetableExport::singleAllActivitiesTimetableTimeHorizontalDailyHtml(int
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td>";
 	tmpString+="<th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
@@ -6986,11 +7586,19 @@ QString TimetableExport::singleAllActivitiesTimetableTimeHorizontalDailyHtml(int
 		}
 	}
 	if(repeatNames){
-		tmpString+="          <th>"+tr("All Activities")+"</th>\n";
+		if(htmlLevel>=2)
+			tmpString+="          <th class=\"yAxis\">";
+		else
+			tmpString+="          <th>";
+		tmpString+=tr("All Activities")+"</th>\n";
 	}
 	tmpString+="        </tr>\n";
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -7010,7 +7618,11 @@ QString TimetableExport::singleTeachersTimetableDaysHorizontalHtml(int htmlLevel
 	
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 
-	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+protect2(teacher_name)+"</th></tr>\n";
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+protect2(teacher_name)+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		if(htmlLevel>=2)
@@ -7044,12 +7656,20 @@ QString TimetableExport::singleTeachersTimetableDaysHorizontalHtml(int htmlLevel
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -7071,7 +7691,11 @@ QString TimetableExport::singleTeachersTimetableDaysVerticalHtml(int htmlLevel, 
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 
 	tmpString+="      <thead>\n";
-	tmpString+="        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(teacher_name)+"</th></tr>\n";
+	tmpString+="        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(teacher_name)+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 		if(htmlLevel>=2)
@@ -7105,12 +7729,20 @@ QString TimetableExport::singleTeachersTimetableDaysVerticalHtml(int htmlLevel, 
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -7135,6 +7767,9 @@ QString tmpString;
 				tmpString+="          <th>";
 			tmpString+=gt.rules.internalTeachersList[teacher]->name+"</th>";
 		}
+	}
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
 	}
 	tmpString+="</tr>\n      </thead>\n";
 	/*workaround
@@ -7170,13 +7805,24 @@ QString tmpString;
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+				if(hour==0)
+					tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+				else tmpString+="          <!-- span -->\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="      <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="      <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n    </table>\n";
 	return tmpString;
@@ -7191,9 +7837,12 @@ QString TimetableExport::singleTeachersTimetableTimeHorizontalHtml(int htmlLevel
 	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td>";
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++)
 		tmpString+="<th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
-	for(int day=0; day<gt.rules.nDaysPerWeek; day++)
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 			if(htmlLevel>=2)
 				tmpString+="          <th class=\"xAxis\">";
@@ -7201,6 +7850,7 @@ QString TimetableExport::singleTeachersTimetableTimeHorizontalHtml(int htmlLevel
 				tmpString+="          <th>";
 			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
 		}
+	}
 	tmpString+="        </tr>\n";
 	tmpString+="      </thead>\n";
 	/*workaround
@@ -7217,7 +7867,7 @@ QString TimetableExport::singleTeachersTimetableTimeHorizontalHtml(int htmlLevel
 				tmpString+="          <th class=\"yAxis\">";
 			else
 				tmpString+="          <th>";
-			tmpString+=gt.rules.internalTeachersList[teacher]->name+"</th>\n";
+			tmpString+=protect2(gt.rules.internalTeachersList[teacher]->name)+"</th>\n";
 			for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 				for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 					QList<int> allActivities;
@@ -7232,13 +7882,21 @@ QString TimetableExport::singleTeachersTimetableTimeHorizontalHtml(int htmlLevel
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+gt.rules.internalTeachersList[teacher]->name+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(gt.rules.internalTeachersList[teacher]->name)+"</th>\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="      <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay*gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="      <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay*gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n    </table>\n";
 	return tmpString;
@@ -7263,6 +7921,9 @@ QString TimetableExport::singleTeachersTimetableTimeVerticalDailyHtml(int htmlLe
 				tmpString+="          <th>";
 			tmpString+=gt.rules.internalTeachersList[teacher]->name+"</th>";
 		}
+	}
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
 	}
 	tmpString+="</tr>\n      </thead>\n";
 	/*workaround
@@ -7298,12 +7959,23 @@ QString TimetableExport::singleTeachersTimetableTimeVerticalDailyHtml(int htmlLe
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(hour==0)
+				tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+ "\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			else tmpString+="          <!-- span -->\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -7320,6 +7992,9 @@ QString TimetableExport::singleTeachersTimetableTimeHorizontalDailyHtml(int html
 
 	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td>";
 	tmpString+="<th colspan=\"" +QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
@@ -7345,7 +8020,7 @@ QString TimetableExport::singleTeachersTimetableTimeHorizontalDailyHtml(int html
 				tmpString+="          <th class=\"yAxis\">";
 			else
 				tmpString+="          <th>";
-			tmpString+=gt.rules.internalTeachersList[teacher]->name+"</th>\n";
+			tmpString+=protect2(gt.rules.internalTeachersList[teacher]->name)+"</th>\n";
 		
 			for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 				QList<int> allActivities;
@@ -7359,13 +8034,21 @@ QString TimetableExport::singleTeachersTimetableTimeHorizontalDailyHtml(int html
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+gt.rules.internalTeachersList[teacher]->name+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(gt.rules.internalTeachersList[teacher]->name)+"</th>\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -7385,7 +8068,11 @@ QString TimetableExport::singleRoomsTimetableDaysHorizontalHtml(int htmlLevel, i
 
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 
-	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+protect2(room_name)+"</th></tr>\n";
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+protect2(room_name)+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		if(htmlLevel>=2)
@@ -7419,12 +8106,20 @@ QString TimetableExport::singleRoomsTimetableDaysHorizontalHtml(int htmlLevel, i
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -7445,7 +8140,11 @@ QString TimetableExport::singleRoomsTimetableDaysVerticalHtml(int htmlLevel, int
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 
 	tmpString+="      <thead>\n";
-	tmpString+="        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(room_name)+"</th></tr>\n";
+	tmpString+="        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(room_name)+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 		if(htmlLevel>=2)
@@ -7479,12 +8178,20 @@ QString TimetableExport::singleRoomsTimetableDaysVerticalHtml(int htmlLevel, int
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -7509,6 +8216,9 @@ QString TimetableExport::singleRoomsTimetableTimeVerticalHtml(int htmlLevel, int
 				tmpString+="          <th>";
 			tmpString+=gt.rules.internalRoomsList[room]->name+"</th>";	
 		}
+	}
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
 	}
 	tmpString+="</tr>\n      </thead>\n";
 	/*workaround
@@ -7544,13 +8254,24 @@ QString TimetableExport::singleRoomsTimetableTimeVerticalHtml(int htmlLevel, int
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+				if(hour==0)
+					tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+ "\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+				else tmpString+="          <!-- span -->\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="      <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="      <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n    </table>\n";
 	return tmpString;
@@ -7565,9 +8286,12 @@ QString TimetableExport::singleRoomsTimetableTimeHorizontalHtml(int htmlLevel, i
 	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td>";
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++)
 		tmpString+="<th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
-	for(int day=0; day<gt.rules.nDaysPerWeek; day++)
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 			if(htmlLevel>=2)
 				tmpString+="          <th class=\"xAxis\">";
@@ -7575,6 +8299,7 @@ QString TimetableExport::singleRoomsTimetableTimeHorizontalHtml(int htmlLevel, i
 				tmpString+="          <th>";
 			tmpString+=protect2(gt.rules.hoursOfTheDay[hour]) + "</th>\n";
 		}
+	}
 	tmpString+="        </tr>\n";
 	tmpString+="      </thead>\n";
 	/*workaround
@@ -7592,7 +8317,7 @@ QString TimetableExport::singleRoomsTimetableTimeHorizontalHtml(int htmlLevel, i
 				tmpString+="          <th class=\"yAxis\">";
 			else
 				tmpString+="          <th>";
-			tmpString+=gt.rules.internalRoomsList[room]->name+"</th>\n";
+			tmpString+=protect2(gt.rules.internalRoomsList[room]->name)+"</th>\n";
 			for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 				for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 					QList<int> allActivities;
@@ -7607,13 +8332,21 @@ QString TimetableExport::singleRoomsTimetableTimeHorizontalHtml(int htmlLevel, i
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+gt.rules.internalRoomsList[room]->name+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(gt.rules.internalRoomsList[room]->name)+"</th>\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="      <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay*gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="      <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay*gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n    </table>\n";
 	return tmpString;
@@ -7639,6 +8372,9 @@ QString TimetableExport::singleRoomsTimetableTimeVerticalDailyHtml(int htmlLevel
 				tmpString+="          <th>";
 			tmpString+=gt.rules.internalRoomsList[room]->name+"</th>";
 		}
+	}
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
 	}
 	tmpString+="</tr>\n      </thead>\n";
 	/*workaround
@@ -7674,12 +8410,24 @@ QString TimetableExport::singleRoomsTimetableTimeVerticalDailyHtml(int htmlLevel
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			
+			if(hour==0)
+				tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+ "\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			else tmpString+="          <!-- span -->\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -7696,6 +8444,9 @@ QString TimetableExport::singleRoomsTimetableTimeHorizontalDailyHtml(int htmlLev
 
 	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td>";
 	tmpString+="<th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
@@ -7721,7 +8472,7 @@ QString TimetableExport::singleRoomsTimetableTimeHorizontalDailyHtml(int htmlLev
 				tmpString+="          <th class=\"yAxis\">";
 			else
 				tmpString+="          <th>";
-			tmpString+=gt.rules.internalRoomsList[room]->name+"</th>\n";
+			tmpString+=protect2(gt.rules.internalRoomsList[room]->name)+"</th>\n";
 			for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 				QList<int> allActivities;
 				allActivities.clear();
@@ -7734,13 +8485,21 @@ QString TimetableExport::singleRoomsTimetableTimeHorizontalDailyHtml(int htmlLev
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+gt.rules.internalRoomsList[room]->name+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(gt.rules.internalRoomsList[room]->name)+"</th>\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -7773,7 +8532,11 @@ QString TimetableExport::singleSubjectsTimetableDaysHorizontalHtml(int htmlLevel
 
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 
-	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+protect2(gt.rules.internalSubjectsList[subject]->name)+"</th></tr>\n";
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+protect2(gt.rules.internalSubjectsList[subject]->name)+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		if(htmlLevel>=2)
@@ -7827,12 +8590,20 @@ QString TimetableExport::singleSubjectsTimetableDaysHorizontalHtml(int htmlLevel
 			tmpString+=writeActivitiesSubjects(htmlLevel, allActivities, printActivityTags);
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -7865,7 +8636,11 @@ QString TimetableExport::singleSubjectsTimetableDaysVerticalHtml(int htmlLevel, 
 
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 
-	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.internalSubjectsList[subject]->name)+"</th></tr>\n";
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.internalSubjectsList[subject]->name)+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 		if(htmlLevel>=2)
@@ -7920,12 +8695,20 @@ QString TimetableExport::singleSubjectsTimetableDaysVerticalHtml(int htmlLevel, 
 			tmpString+=writeActivitiesSubjects(htmlLevel, allActivities, printActivityTags);
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -7952,7 +8735,9 @@ QString TimetableExport::singleSubjectsTimetableTimeVerticalHtml(int htmlLevel, 
 			tmpString+=gt.rules.internalSubjectsList[subject]->name+"</th>";
 		}
 	}
-		
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n      </thead>\n";
 	/*workaround
 	tmpString+="      <tfoot><tr><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr></tfoot>\n";
@@ -8012,13 +8797,24 @@ QString TimetableExport::singleSubjectsTimetableTimeVerticalHtml(int htmlLevel, 
 				}
 			}
 			if(repeatNames){
-				tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+				if(hour==0)
+					tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+ "\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+				else tmpString+="          <!-- span -->\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n    </table>\n";
 	return tmpString;
@@ -8035,9 +8831,12 @@ QString TimetableExport::singleSubjectsTimetableTimeHorizontalHtml(int htmlLevel
 
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++)
 		tmpString+="<th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
-	for(int day=0; day<gt.rules.nDaysPerWeek; day++)
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 			if(htmlLevel>=2)
 				tmpString+="          <th class=\"xAxis\">";
@@ -8045,6 +8844,7 @@ QString TimetableExport::singleSubjectsTimetableTimeHorizontalHtml(int htmlLevel
 				tmpString+="          <th>";
 			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
 		}
+	}
 	tmpString+="        </tr>\n";
 	tmpString+="      </thead>\n";
 	/*workaround
@@ -8110,13 +8910,20 @@ QString TimetableExport::singleSubjectsTimetableTimeHorizontalHtml(int htmlLevel
 				}
 			}
 			if(repeatNames){
-				tmpString+="        <th>"+protect2(gt.rules.internalSubjectsList[subject]->name)+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="        <th class=\"yAxis\">"+protect2(gt.rules.internalSubjectsList[subject]->name)+"</th>\n";
+				else
+					tmpString+="        <th>"+protect2(gt.rules.internalSubjectsList[subject]->name)+"</th>\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay*gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay*gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n    </table>\n";
 	return tmpString;
@@ -8141,6 +8948,9 @@ QString TimetableExport::singleSubjectsTimetableTimeVerticalDailyHtml(int htmlLe
 				tmpString+="          <th>";
 			tmpString+=gt.rules.internalSubjectsList[subject]->name+"</th>";
 		}
+	}
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
 	}
 	tmpString+="</tr>\n      </thead>\n";
 	/*workaround
@@ -8199,12 +9009,23 @@ QString TimetableExport::singleSubjectsTimetableTimeVerticalDailyHtml(int htmlLe
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(hour==0)
+				tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+ "\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			else tmpString+="          <!-- span -->\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -8221,6 +9042,9 @@ QString TimetableExport::singleSubjectsTimetableTimeHorizontalDailyHtml(int html
 	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td>";
 
 	tmpString+="<th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
 	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
@@ -8293,13 +9117,435 @@ QString TimetableExport::singleSubjectsTimetableTimeHorizontalDailyHtml(int html
 				tmpString+=writeActivitiesSubjects(htmlLevel, allActivities, printActivityTags);
 			}
 			if(repeatNames){
-				tmpString+="        <th>"+protect2(gt.rules.internalSubjectsList[subject]->name)+"</th>\n";
+				if(htmlLevel>=2)
+					tmpString+="        <th class=\"yAxis\">"+protect2(gt.rules.internalSubjectsList[subject]->name)+"</th>\n";
+				else
+					tmpString+="        <th>"+protect2(gt.rules.internalSubjectsList[subject]->name)+"</th>\n";
 			}
 			tmpString+="        </tr>\n";
 		}
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
+	//workaround end.
+	tmpString+="      </tbody>\n";
+	tmpString+="    </table>\n\n";
+	return tmpString;
+}
+
+
+//by Volker Dirr
+QString TimetableExport::singleActivityTagsTimetableDaysHorizontalHtml(int htmlLevel, int activityTag, const QString& saveTime, bool printActivityTags, bool repeatNames){
+	assert(activityTag>=0);
+	assert(activityTag<gt.rules.nInternalActivityTags);
+	QString tmpString;
+	///////by Liviu Lalescu
+	for(int d=0; d<gt.rules.nDaysPerWeek; d++)
+		for(int h=0; h<gt.rules.nHoursPerDay; h++)
+			activitiesForCurrentActivityTag[d][h].clear();
+	foreach(int ai, gt.rules.activitiesForActivityTagList[activityTag])
+		if(best_solution.times[ai]!=UNALLOCATED_TIME){
+			int d=best_solution.times[ai]%gt.rules.nDaysPerWeek;
+			int h=best_solution.times[ai]/gt.rules.nDaysPerWeek;
+			Activity* act=&gt.rules.internalActivitiesList[ai];
+			for(int dd=0; dd < act->duration && h+dd < gt.rules.nHoursPerDay; dd++)
+				activitiesForCurrentActivityTag[d][h+dd].append(ai);
+		}
+	///////end Liviu Lalescu
+	tmpString+="    <table id=\"table_"+hashActivityTagIDsTimetable.value(gt.rules.internalActivityTagsList[activityTag]->name);
+	tmpString+="\" border=\"1\"";
+	if(activityTag%2==0)  tmpString+=" class=\"odd_table\"";
+	else tmpString+=" class=\"even_table\"";
+	tmpString+=">\n";
+
+	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
+
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+protect2(gt.rules.internalActivityTagsList[activityTag]->name)+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
+	tmpString+="        <tr>\n          <!-- span -->\n";
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
+		if(htmlLevel>=2)
+			tmpString+="          <th class=\"xAxis\">";
+		else
+			tmpString+="          <th>";
+		tmpString+=protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
+	}
+	tmpString+="        </tr>\n";
+	tmpString+="      </thead>\n";
+	/*workaround
+	tmpString+="      <tfoot><tr><td></td><td colspan=\""+gt.rules.nDaysPerWeek+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr></tfoot>\n";
+	*/
+	tmpString+="      <tbody>\n";
+	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
+		tmpString+="        <tr>\n";
+		if(htmlLevel>=2)
+			tmpString+="          <th class=\"yAxis\">";
+		else
+			tmpString+="          <th>";
+		tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+		for(int day=0; day<gt.rules.nDaysPerWeek; day++){
+			QList<int> allActivities;
+			
+			allActivities=activitiesForCurrentActivityTag[day][hour];
+			
+			addActivitiesWithSameStartingTime(allActivities, hour);
+			tmpString+=writeActivitiesActivityTags(htmlLevel, allActivities, printActivityTags);
+		}
+		if(repeatNames){
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+		}
+		tmpString+="        </tr>\n";
+	}
+	//workaround begin.
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
+	//workaround end.
+	tmpString+="      </tbody>\n";
+	tmpString+="    </table>\n\n";
+	return tmpString;
+}
+	
+//by Volker Dirr	
+QString TimetableExport::singleActivityTagsTimetableDaysVerticalHtml(int htmlLevel, int activityTag, const QString& saveTime, bool printActivityTags, bool repeatNames){
+	assert(activityTag>=0);
+	assert(activityTag<gt.rules.nInternalActivityTags);
+	QString tmpString;
+	///////by Liviu Lalescu
+	for(int d=0; d<gt.rules.nDaysPerWeek; d++)
+		for(int h=0; h<gt.rules.nHoursPerDay; h++)
+			activitiesForCurrentActivityTag[d][h].clear();
+	foreach(int ai, gt.rules.activitiesForActivityTagList[activityTag])
+		if(best_solution.times[ai]!=UNALLOCATED_TIME){
+			int d=best_solution.times[ai]%gt.rules.nDaysPerWeek;
+			int h=best_solution.times[ai]/gt.rules.nDaysPerWeek;
+			Activity* act=&gt.rules.internalActivitiesList[ai];
+			for(int dd=0; dd < act->duration && h+dd < gt.rules.nHoursPerDay; dd++)
+				activitiesForCurrentActivityTag[d][h+dd].append(ai);
+		}
+	///////end Liviu Lalescu
+	tmpString+="    <table id=\"table_"+hashActivityTagIDsTimetable.value(gt.rules.internalActivityTagsList[activityTag]->name);
+	tmpString+="\" border=\"1\"";
+	if(activityTag%2==0) tmpString+=" class=\"odd_table\"";
+	else tmpString+=" class=\"even_table\"";
+	tmpString+=">\n";
+
+	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
+
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.internalActivityTagsList[activityTag]->name)+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
+	tmpString+="        <tr>\n          <!-- span -->\n";
+	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
+		if(htmlLevel>=2)
+			tmpString+="          <th class=\"xAxis\">";
+		else
+			tmpString+="          <th>";
+		tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+	}
+	tmpString+="        </tr>\n";
+	tmpString+="      </thead>\n";
+	/*workaround
+	tmpString+="      <tfoot><tr><td></td><td colspan=\""+gt.rules.nHoursPerDay+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr></tfoot>\n";
+	*/
+	tmpString+="      <tbody>\n";
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
+		tmpString+="        <tr>\n";
+		if(htmlLevel>=2)
+			tmpString+="          <th class=\"yAxis\">";
+		else
+			tmpString+="          <th>";
+		tmpString+=protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
+		for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
+			QList<int> allActivities;
+
+			allActivities=activitiesForCurrentActivityTag[day][hour];
+
+			addActivitiesWithSameStartingTime(allActivities, hour);
+			tmpString+=writeActivitiesActivityTags(htmlLevel, allActivities, printActivityTags);
+		}
+		if(repeatNames){
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
+		}
+		tmpString+="        </tr>\n";
+	}
+	//workaround begin.
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
+	//workaround end.
+	tmpString+="      </tbody>\n";
+	tmpString+="    </table>\n\n";
+	return tmpString;
+}
+
+	
+//by Volker Dirr	
+QString TimetableExport::singleActivityTagsTimetableTimeVerticalHtml(int htmlLevel, int maxActivityTag, QSet<int>& excludedNames, const QString& saveTime, bool printActivityTags, bool repeatNames){
+	QString tmpString;
+	tmpString+="    <table id=\"table\" border=\"1\">\n";
+
+	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
+
+	tmpString+="      <thead>\n        <tr><td colspan=\"2\"></td>";
+	int currentCount=0;
+	for(int activityTag=0; activityTag<gt.rules.nInternalActivityTags && currentCount<maxActivityTag; activityTag++){
+		if(!excludedNames.contains(activityTag)){	
+			currentCount++;
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"xAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=gt.rules.internalActivityTagsList[activityTag]->name+"</th>";
+		}
+	}
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n      </thead>\n";
+	/*workaround
+	tmpString+="      <tfoot><tr><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr></tfoot>\n";
+	*/
+	tmpString+="      <tbody>\n";
+
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
+		for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
+			tmpString+="        <tr>\n";
+			if(hour==0)
+				tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+ "\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			else tmpString+="          <!-- span -->\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+
+			currentCount=0;
+			for(int activityTag=0; activityTag<gt.rules.nInternalActivityTags && currentCount<maxActivityTag; activityTag++){
+				currentCount++;
+				if(!excludedNames.contains(activityTag)){	
+					if(day+1==gt.rules.nDaysPerWeek && hour+1==gt.rules.nHoursPerDay)
+						excludedNames<<activityTag;	
+					QList<int> allActivities;
+					allActivities.clear();
+					
+					foreach(int ai, gt.rules.activitiesForActivityTagList[activityTag])
+						if(activitiesAtTime[day][hour].contains(ai)){
+							assert(!allActivities.contains(ai));
+							allActivities.append(ai);
+						}
+					
+					addActivitiesWithSameStartingTime(allActivities, hour);
+					tmpString+=writeActivitiesActivityTags(htmlLevel, allActivities, printActivityTags);
+				}
+			}
+			if(repeatNames){
+				if(htmlLevel>=2)
+					tmpString+="          <th class=\"yAxis\">";
+				else
+					tmpString+="          <th>";
+				tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+				if(hour==0)
+					tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+ "\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+				else tmpString+="          <!-- span -->\n";
+			}
+			tmpString+="        </tr>\n";
+		}
+	}
+	//workaround begin.
+	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
+	//workaround end.
+	tmpString+="      </tbody>\n    </table>\n";
+	return tmpString;
+}
+
+//by Volker Dirr	
+QString TimetableExport::singleActivityTagsTimetableTimeHorizontalHtml(int htmlLevel, int maxActivityTag, QSet<int>& excludedNames, const QString& saveTime, bool printActivityTags, bool repeatNames){
+	QString tmpString;
+	tmpString+="    <table id=\"table\" border=\"1\">\n";
+
+	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
+
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td>";
+
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
+		tmpString+="<th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	}
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
+	tmpString+="        <tr>\n          <!-- span -->\n";
+	for(int day=0; day<gt.rules.nDaysPerWeek; day++)
+		for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"xAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+		}
+	tmpString+="        </tr>\n";
+	tmpString+="      </thead>\n";
+	/*workaround
+	tmpString+="      <tfoot><tr><td></td><td colspan=\""+gt.rules.nHoursPerDay*gt.rules.nDaysPerWeek+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr></tfoot>\n";
+	*/
+	tmpString+="      <tbody>\n";
+	int currentCount=0;
+	for(int activityTag=0; activityTag<gt.rules.nInternalActivityTags && currentCount<maxActivityTag; activityTag++){
+		if(!excludedNames.contains(activityTag)){	
+			currentCount++;
+			excludedNames<<activityTag;	
+			tmpString+="        <tr>\n";
+			if(htmlLevel>=2)
+				tmpString+="        <th class=\"yAxis\">"+protect2(gt.rules.internalActivityTagsList[activityTag]->name)+"</th>\n";
+			else
+				tmpString+="        <th>"+protect2(gt.rules.internalActivityTagsList[activityTag]->name)+"</th>\n";
+
+			///////by Liviu Lalescu
+			for(int d=0; d<gt.rules.nDaysPerWeek; d++)
+				for(int h=0; h<gt.rules.nHoursPerDay; h++)
+					activitiesForCurrentActivityTag[d][h].clear();
+			foreach(int ai, gt.rules.activitiesForActivityTagList[activityTag])
+				if(best_solution.times[ai]!=UNALLOCATED_TIME){
+					int d=best_solution.times[ai]%gt.rules.nDaysPerWeek;
+					int h=best_solution.times[ai]/gt.rules.nDaysPerWeek;
+					Activity* act=&gt.rules.internalActivitiesList[ai];
+					for(int dd=0; dd < act->duration && h+dd < gt.rules.nHoursPerDay; dd++)
+						activitiesForCurrentActivityTag[d][h+dd].append(ai);
+				}
+			///////end Liviu Lalescu
+
+			for(int day=0; day<gt.rules.nDaysPerWeek; day++){
+				for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
+					QList<int> allActivities;
+
+					allActivities=activitiesForCurrentActivityTag[day][hour];
+
+					addActivitiesWithSameStartingTime(allActivities, hour);
+					tmpString+=writeActivitiesActivityTags(htmlLevel, allActivities, printActivityTags);
+				}
+			}
+			if(repeatNames){
+				if(htmlLevel>=2)
+					tmpString+="        <th class=\"yAxis\">"+protect2(gt.rules.internalActivityTagsList[activityTag]->name)+"</th>\n";
+				else
+					tmpString+="        <th>"+protect2(gt.rules.internalActivityTagsList[activityTag]->name)+"</th>\n";
+			}
+			tmpString+="        </tr>\n";
+		}
+	}
+	//workaround begin.
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay*gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
+	//workaround end.
+	tmpString+="      </tbody>\n    </table>\n";
+	return tmpString;
+}
+	
+//by Volker Dirr
+QString TimetableExport::singleActivityTagsTimetableTimeVerticalDailyHtml(int htmlLevel, int day, int maxActivityTag, QSet<int>& excludedNames, const QString& saveTime, bool printActivityTags, bool repeatNames){
+	assert(day>=0);
+	assert(day<gt.rules.nDaysPerWeek);
+	QString tmpString;
+	tmpString+="    <table id=\"table_"+hashDayIDsTimetable.value(gt.rules.daysOfTheWeek[day])+"\" border=\"1\">\n";
+	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
+	tmpString+="      <thead>\n        <tr><td colspan=\"2\"></td>";
+	int currentCount=0;
+	for(int activityTag=0; activityTag<gt.rules.nInternalActivityTags && currentCount<maxActivityTag; activityTag++){
+		if(!excludedNames.contains(activityTag)){	
+			currentCount++;
+
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"xAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=gt.rules.internalActivityTagsList[activityTag]->name+"</th>";
+		}
+	}
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n      </thead>\n";
+	/*workaround
+	tmpString+="      <tfoot><tr><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr></tfoot>\n";
+	*/
+	tmpString+="      <tbody>\n";
+	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
+		tmpString+="        <tr>\n";
+		if(hour==0)
+			tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+ "\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+		else tmpString+="          <!-- span -->\n";
+		if(htmlLevel>=2)
+			tmpString+="          <th class=\"yAxis\">";
+		else
+			tmpString+="          <th>";
+		tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+
+		currentCount=0;
+		for(int activityTag=0; activityTag<gt.rules.nInternalActivityTags && currentCount<maxActivityTag; activityTag++){
+			currentCount++;
+			if(!excludedNames.contains(activityTag)){	
+				if(hour+1==gt.rules.nHoursPerDay)
+					excludedNames<<activityTag;	
+				QList<int> allActivities;
+				allActivities.clear();
+				
+				foreach(int ai, gt.rules.activitiesForActivityTagList[activityTag])
+					if(activitiesAtTime[day][hour].contains(ai)){
+						assert(!allActivities.contains(ai));
+						allActivities.append(ai);
+					}
+				
+				addActivitiesWithSameStartingTime(allActivities, hour);
+				tmpString+=writeActivitiesActivityTags(htmlLevel, allActivities, printActivityTags);
+			}
+		}
+		if(repeatNames){
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(hour==0)
+				tmpString+="        <th rowspan=\""+QString::number(gt.rules.nHoursPerDay)+ "\">"+protect2vert(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			else tmpString+="          <!-- span -->\n";
+		}
+		tmpString+="        </tr>\n";
+	}
+	//workaround begin.
+	tmpString+="        <tr class=\"foot\"><td colspan=\"2\"></td><td colspan=\""+QString::number(currentCount)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td colspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -8307,19 +9553,99 @@ QString TimetableExport::singleSubjectsTimetableTimeHorizontalDailyHtml(int html
 }
 	
 //by Volker Dirr
+QString TimetableExport::singleActivityTagsTimetableTimeHorizontalDailyHtml(int htmlLevel, int day, int maxActivityTag, QSet<int>& excludedNames, const QString& saveTime, bool printActivityTags, bool repeatNames){
+	assert(day>=0);
+	assert(day<gt.rules.nDaysPerWeek);
+	QString tmpString;
+	tmpString+="    <table id=\"table_"+hashDayIDsTimetable.value(gt.rules.daysOfTheWeek[day])+"\" border=\"1\">\n";
+	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td>";
+
+	tmpString+="<th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+protect2(gt.rules.daysOfTheWeek[day])+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
+	tmpString+="        <tr>\n          <!-- span -->\n";
+	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
+		if(htmlLevel>=2)
+			tmpString+="          <th class=\"xAxis\">";
+		else
+			tmpString+="          <th>";
+		tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+	}
+	tmpString+="        </tr>\n";
+	tmpString+="      </thead>\n";
+	/*workaround
+	tmpString+="      <tfoot><tr><td></td><td colspan=\""+gt.rules.nHoursPerDay+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr></tfoot>\n";
+	*/
+	tmpString+="      <tbody>\n";
+	int currentCount=0;
+	for(int activityTag=0; activityTag<gt.rules.nInternalActivityTags && currentCount<maxActivityTag; activityTag++){
+		currentCount++;
+		if(!excludedNames.contains(activityTag)){
+			excludedNames<<activityTag;
+			tmpString+="        <tr>\n";
+			if(htmlLevel>=2)
+				tmpString+="        <th class=\"yAxis\">"+protect2(gt.rules.internalActivityTagsList[activityTag]->name)+"</th>\n";
+			else
+				tmpString+="        <th>"+protect2(gt.rules.internalActivityTagsList[activityTag]->name)+"</th>\n";
+
+			///////by Liviu Lalescu
+			for(int d=0; d<gt.rules.nDaysPerWeek; d++)
+				for(int h=0; h<gt.rules.nHoursPerDay; h++)
+					activitiesForCurrentActivityTag[d][h].clear();
+			foreach(int ai, gt.rules.activitiesForActivityTagList[activityTag])
+				if(best_solution.times[ai]!=UNALLOCATED_TIME){
+					int d=best_solution.times[ai]%gt.rules.nDaysPerWeek;
+					int h=best_solution.times[ai]/gt.rules.nDaysPerWeek;
+					Activity* act=&gt.rules.internalActivitiesList[ai];
+					for(int dd=0; dd < act->duration && h+dd < gt.rules.nHoursPerDay; dd++)
+						activitiesForCurrentActivityTag[d][h+dd].append(ai);
+				}
+			///////end Liviu Lalescu
+
+			for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
+				QList<int> allActivities;
+
+				allActivities=activitiesForCurrentActivityTag[day][hour];
+
+				addActivitiesWithSameStartingTime(allActivities, hour);
+				tmpString+=writeActivitiesActivityTags(htmlLevel, allActivities, printActivityTags);
+			}
+			if(repeatNames){
+				if(htmlLevel>=2)
+					tmpString+="        <th class=\"yAxis\">"+protect2(gt.rules.internalActivityTagsList[activityTag]->name)+"</th>\n";
+				else
+					tmpString+="        <th>"+protect2(gt.rules.internalActivityTagsList[activityTag]->name)+"</th>\n";
+			}
+			tmpString+="        </tr>\n";
+		}
+	}
+	//workaround begin.
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
+	//workaround end.
+	tmpString+="      </tbody>\n";
+	tmpString+="    </table>\n\n";
+	return tmpString;
+}
+
+//by Volker Dirr
 QString TimetableExport::singleTeachersFreePeriodsTimetableDaysHorizontalHtml(int htmlLevel, const QString& saveTime, bool detailed, bool repeatNames){
 	QString tmpString;
-	if(detailed)
-		tmpString+="    <table id=\"table_DETAILED\" border=\"1\">\n";
-	else
-		tmpString+="    <table id=\"table_LESS_DETAILED\" border=\"1\">\n";
+	tmpString+="    <table id=\"table\" border=\"1\">\n";
 	
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 
-	if(detailed)
-		tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Teachers' Free Periods")+" ("+tr("Detailed")+")</th></tr>\n";
-	else	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Teachers' Free Periods")+" ("+tr("Less detailed")+")</th></tr>\n";
-
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Teachers' Free Periods")+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int day=0; day<gt.rules.nDaysPerWeek; day++){
 		if(htmlLevel>=2)
@@ -8405,12 +9731,20 @@ QString TimetableExport::singleTeachersFreePeriodsTimetableDaysHorizontalHtml(in
 			}
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.hoursOfTheDay[hour])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nDaysPerWeek)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -8420,17 +9754,17 @@ QString TimetableExport::singleTeachersFreePeriodsTimetableDaysHorizontalHtml(in
 //by Volker Dirr
 QString TimetableExport::singleTeachersFreePeriodsTimetableDaysVerticalHtml(int htmlLevel, const QString& saveTime, bool detailed, bool repeatNames){
 	QString tmpString;
-	if(detailed)
-		tmpString+="    <table id=\"table_DETAILED\" border=\"1\">\n";
-	else
-		tmpString+="    <table id=\"table_LESS_DETAILED\" border=\"1\">\n";
+	
+	tmpString+="    <table id=\"table\" border=\"1\">\n";
 	
 	tmpString+="      <caption>"+protect2(gt.rules.institutionName)+"</caption>\n";
 
-	if(detailed)
-		tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Teachers' Free Periods")+" ("+tr("Detailed")+")</th></tr>\n";
-	else	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Teachers' Free Periods")+" ("+tr("Less detailed")+")</th></tr>\n";
-
+	tmpString+="      <thead>\n        <tr><td rowspan=\"2\"></td><th colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Teachers' Free Periods")+"</th>";
+	if(repeatNames){
+		tmpString+="<td rowspan=\"2\"></td>";
+	}
+	tmpString+="</tr>\n";
+	
 	tmpString+="        <tr>\n          <!-- span -->\n";
 	for(int hour=0; hour<gt.rules.nHoursPerDay; hour++){
 		if(htmlLevel>=2)
@@ -8515,12 +9849,20 @@ QString TimetableExport::singleTeachersFreePeriodsTimetableDaysVerticalHtml(int 
 				tmpString+=writeEmpty(htmlLevel);
 		}
 		if(repeatNames){
-			tmpString+="          <th>"+protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
+			if(htmlLevel>=2)
+				tmpString+="          <th class=\"yAxis\">";
+			else
+				tmpString+="          <th>";
+			tmpString+=protect2(gt.rules.daysOfTheWeek[day])+"</th>\n";
 		}
 		tmpString+="        </tr>\n";
 	}
 	//workaround begin.
-	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+	tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(gt.rules.nHoursPerDay)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+	if(repeatNames){
+		tmpString+="<td></td>";
+	}
+	tmpString+="</tr>\n";
 	//workaround end.
 	tmpString+="      </tbody>\n";
 	tmpString+="    </table>\n\n";
@@ -8618,7 +9960,7 @@ QString TimetableExport::singleTeachersStatisticsHtml(int htmlLevel, const QStri
 		if(detailed){
 			if(freeDaysSingleTeacher==gt.rules.nDaysPerWeek)
 				minHoursPerDaySingleTeacher=0;
-			teachersString+="      <tr><th>"+gt.rules.internalTeachersList[tch]->name
+			teachersString+="      <tr><th>"+protect2(gt.rules.internalTeachersList[tch]->name)
 					+"</th><td>"+QString::number(freeDaysSingleTeacher)
 								+"</td><td>"+QString::number(gapsSingleTeacher)
 								+"</td><td>"+QString::number(minGapsPerDaySingleTeacher)
@@ -8628,7 +9970,7 @@ QString TimetableExport::singleTeachersStatisticsHtml(int htmlLevel, const QStri
 								+"</td>";
 			
 			if(repeatNames){
-				teachersString+="<th>"+gt.rules.internalTeachersList[tch]->name+"</th>";
+				teachersString+="<th>"+protect2(gt.rules.internalTeachersList[tch]->name)+"</th>";
 			}
 			teachersString+="</tr>\n";
 		}
@@ -8697,7 +10039,11 @@ QString TimetableExport::singleTeachersStatisticsHtml(int htmlLevel, const QStri
 		tmpString+="      </thead>\n";
 		tmpString+=teachersString;
 		//workaround begin.
-		tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(6)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+		tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(6)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+		if(repeatNames){
+			tmpString+="<td></td>";
+		}
+		tmpString+="</tr>\n";
 		//workaround end.
 		tmpString+="    </table>\n";
 	}
@@ -8802,7 +10148,7 @@ QString TimetableExport::singleStudentsStatisticsHtml(int htmlLevel, const QStri
 		if(freeDaysSingleSubgroup==gt.rules.nDaysPerWeek)
 			minHoursPerDaySingleSubgroup=0;
 		if(detailed){
-			subgroupsString+="      <tr><th>"+gt.rules.internalSubgroupsList[subgroup]->name
+			subgroupsString+="      <tr><th>"+protect2(gt.rules.internalSubgroupsList[subgroup]->name)
 						+"</th><td>"+QString::number(freeDaysSingleSubgroup)
 							 +"</td><td>"+QString::number(gapsSingleSubgroup)
 							 +"</td><td>"+QString::number(minGapsPerDaySingleSubgroup)
@@ -8811,7 +10157,7 @@ QString TimetableExport::singleStudentsStatisticsHtml(int htmlLevel, const QStri
 							 +"</td><td>"+QString::number(maxHoursPerDaySingleSubgroup)
 							 +"</td>";
 			if(repeatNames){
-				subgroupsString+="<th>"+gt.rules.internalSubgroupsList[subgroup]->name+"</th>";
+				subgroupsString+="<th>"+protect2(gt.rules.internalSubgroupsList[subgroup]->name)+"</th>";
 			}
 			subgroupsString+="</tr>\n";
 			freeDaysPerWeekSubgroupList<<freeDaysSingleSubgroup;
@@ -8891,7 +10237,11 @@ QString TimetableExport::singleStudentsStatisticsHtml(int htmlLevel, const QStri
 			tmpString+="      </thead>\n";
 			tmpString+=subgroupsString;
 			//workaround begin.
-			tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(6)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+			tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(6)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+			if(repeatNames){
+				tmpString+="<td></td>";
+			}
+			tmpString+="</tr>\n";
 			//workaround end.
 			tmpString+="    </table>\n";
 			//similar to source in else part (end)
@@ -9021,12 +10371,20 @@ QString TimetableExport::singleStudentsStatisticsHtml(int htmlLevel, const QStri
 					yearsString+="</tr>\n";
 			}
 			//workaround begin.
-			groupsString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(8)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+			groupsString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(8)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+			if(repeatNames){
+				groupsString+="<td></td>";
+			}
+			groupsString+="</tr>\n";
 			//workaround end.
 			groupsString+="    </table>\n";
 			groupsString+="    <p class=\"back0\"><br /></p>\n\n";
 			//workaround begin.
-			yearsString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(8)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+			yearsString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(8)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+			if(repeatNames){
+				yearsString+="<td></td>";
+			}
+			yearsString+="</tr>\n";
 			//workaround end.
 			yearsString+="    </table>\n";
 			yearsString+="    <p class=\"back0\"><br /></p>\n\n";
@@ -9052,7 +10410,11 @@ QString TimetableExport::singleStudentsStatisticsHtml(int htmlLevel, const QStri
 			tmpString+="      </thead>\n";
 			tmpString+=subgroupsString;
 			//workaround begin.
-			tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(6)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td></tr>\n";
+			tmpString+="        <tr class=\"foot\"><td></td><td colspan=\""+QString::number(6)+"\">"+TimetableExport::tr("Timetable generated with FET %1 on %2", "%1 is FET version, %2 is the date and time of generation").arg(FET_VERSION).arg(saveTime)+"</td>";
+			if(repeatNames){
+				tmpString+="<td></td>";
+			}
+			tmpString+="</tr>\n";
 			//workaround end.
 			tmpString+="    </table>\n";
 			//similar to source in if part (end)

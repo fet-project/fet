@@ -26,8 +26,18 @@ class TeachersStatisticsForm : public QDialog, Ui::TeachersStatisticsForm_templa
 	Q_OBJECT
 
 public:
+	QList<QString> names;
+	QList<int> subactivities;
+	QList<int> durations;
+	QList<int> targets;
+
+	QList<int> hideFullTeacher;
+
 	TeachersStatisticsForm(QWidget* parent);
 	~TeachersStatisticsForm();
+	
+public slots:
+	void hideFullTeachersCheckBoxModified();
 };
 
 #endif

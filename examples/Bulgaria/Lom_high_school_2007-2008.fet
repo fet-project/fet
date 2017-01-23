@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>ПГ &quot;Найден Геров&quot; - Лом</Institution_Name>
 
@@ -50,423 +50,639 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>8</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>8 а</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>8 а целия клас</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>8 б</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>8 б целия клас</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>9</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>9 а</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>9 а целия клас</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>9 б</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>9 б историци1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>9 б историци2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>9 в</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>9 в историци2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>9 в биолози</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>10</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>10 а</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>10 а целия клас</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>10 б</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>10 б математици</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>10 б худ.-биолози</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>10 в</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>10 в историци</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>10 в худ.-биолози</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>11</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>11 а</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>11 а целия клас</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>11 б</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>11 б художници</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>11 б спортисти</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>11 в</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>11 в историци</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>11 в спортисти</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>11 г</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>11 г биолози</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>11 г спортисти</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>12</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>12 а</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>12 а целия клас</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>12 б</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>12 б целия клас</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>12 в</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>12 в целия клас</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>12 г</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>12 г целия клас</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>12 д</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>12 д целия клас</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>Йончев</Name>
-</Teacher>
-<Teacher>
-	<Name>В.Йорданова</Name>
-</Teacher>
-<Teacher>
-	<Name>Цв.Евтимова</Name>
-</Teacher>
-<Teacher>
-	<Name>Р.Димитрова</Name>
-</Teacher>
-<Teacher>
-	<Name>Ек.Николова</Name>
-</Teacher>
-<Teacher>
-	<Name>Н.Кирилова</Name>
-</Teacher>
-<Teacher>
-	<Name>Ст.Караиванова</Name>
-</Teacher>
-<Teacher>
-	<Name>Найденова</Name>
-</Teacher>
-<Teacher>
-	<Name>Н.Гогошева</Name>
-</Teacher>
-<Teacher>
-	<Name>В.Илиева</Name>
-</Teacher>
-<Teacher>
-	<Name>Л.Хранова</Name>
-</Teacher>
-<Teacher>
-	<Name>Д.Димитрова</Name>
-</Teacher>
-<Teacher>
-	<Name>Б.Антова</Name>
-</Teacher>
-<Teacher>
-	<Name>М.Кадамяр</Name>
-</Teacher>
-<Teacher>
-	<Name>А.Борисова</Name>
-</Teacher>
-<Teacher>
-	<Name>Алб.Евгениева</Name>
-</Teacher>
-<Teacher>
-	<Name>Д.Трайчев</Name>
-</Teacher>
-<Teacher>
-	<Name>Ст.Петрова</Name>
-</Teacher>
-<Teacher>
-	<Name>В.Иванов</Name>
-</Teacher>
-<Teacher>
-	<Name>Зоя Дичева</Name>
-</Teacher>
-<Teacher>
-	<Name>В.Симеонова</Name>
-</Teacher>
-<Teacher>
-	<Name>Ем.Христова</Name>
-</Teacher>
-<Teacher>
-	<Name>Ю.Асенова</Name>
-</Teacher>
-<Teacher>
-	<Name>Р.Цветева</Name>
-</Teacher>
-<Teacher>
-	<Name>Д.Борисова</Name>
-</Teacher>
-<Teacher>
-	<Name>Д.Василева</Name>
-</Teacher>
-<Teacher>
-	<Name>Л.Асенова</Name>
-</Teacher>
-<Teacher>
-	<Name>К.Апостолов</Name>
-</Teacher>
-<Teacher>
-	<Name>Дафинка</Name>
-</Teacher>
-<Teacher>
-	<Name>Мл.Йорданов</Name>
-</Teacher>
-<Teacher>
-	<Name>М.Замфирова</Name>
-</Teacher>
-<Teacher>
-	<Name>Св.Георгиев</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>БЕЛ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ЗИП БЕЛ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Английски</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Немски</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Руски</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Математика</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ЗИП математика</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Информатика</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ЗИП Информатика</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ИТ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ЗИП ИТ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>История</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ЗИП История</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>География</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ЗИП География</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Психология</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Етика и право</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ЗИП Етика и право</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Философия</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ЗИП философия</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Свят и личност</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Биология</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ЗИП Биология</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Физика</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ЗИП Физика</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Химия</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ЗИП Химия</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Музика</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ЗИП Музика</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ИИ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ЗИП ИИ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Физкултура</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ЗИП Физкултура</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Час на класа</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Първи чужд</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Втори чужд</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>Тежък1</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Среден1</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Лек1</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Тежък2</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Среден2</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Лек2</Name>
+	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Йончев</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>В.Йорданова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Цв.Евтимова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Р.Димитрова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ек.Николова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Н.Кирилова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ст.Караиванова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Найденова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Н.Гогошева</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>В.Илиева</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Л.Хранова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Д.Димитрова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Б.Антова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>М.Кадамяр</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>А.Борисова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Алб.Евгениева</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Д.Трайчев</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ст.Петрова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>В.Иванов</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Зоя Дичева</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>В.Симеонова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ем.Христова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ю.Асенова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Р.Цветева</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Д.Борисова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Д.Василева</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Л.Асенова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>К.Апостолов</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Дафинка</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Мл.Йорданов</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>М.Замфирова</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Св.Георгиев</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>8</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>8 а</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>8 а целия клас</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>8 б</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>8 б целия клас</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>9</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>9 а</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>9 а целия клас</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>9 б</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>9 б историци1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>9 б историци2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>9 в</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>9 в историци2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>9 в биолози</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>10</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>10 а</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>10 а целия клас</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>10 б</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>10 б математици</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>10 б худ.-биолози</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>10 в</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>10 в историци</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>10 в худ.-биолози</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>11</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>11 а</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>11 а целия клас</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>11 б</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>11 б художници</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>11 б спортисти</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>11 в</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>11 в историци</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>11 в спортисти</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>11 г</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>11 г биолози</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>11 г спортисти</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>12</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>12 а</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>12 а целия клас</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>12 б</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>12 б целия клас</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>12 в</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>12 в целия клас</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>12 г</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>12 г целия клас</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>12 д</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>12 д целия клас</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -5915,146 +6131,175 @@
 	<Name>101</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>106</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>109</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>110</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>111</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>112</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>201</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>202</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>205</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>206</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>207</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>209</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>211</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>212</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>301</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>302</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>303</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>304</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>305</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>306</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>307</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>308</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>309</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>310</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>311</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>001</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>002</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>108</Name>
 	<Building></Building>
 	<Capacity>80</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>игрище</Name>
 	<Building></Building>
 	<Capacity>100</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

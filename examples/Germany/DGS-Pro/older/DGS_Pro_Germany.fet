@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>DGS Pro</Institution_Name>
 
@@ -48,291 +48,451 @@ Stand 23.07.2008/13.15 - wdj</Comments>
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>1</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>1a</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>1b</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>1c</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>2</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>2a</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>2b</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>2c</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>3</Name>
-	<Number_of_Students>80</Number_of_Students>
-	<Group>
-		<Name>3a</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>3b</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>3c</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>3d</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>4</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>4a</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>4b</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>4c</Name>
-		<Number_of_Students>20</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>6/7</Name>
-	<Number_of_Students>20</Number_of_Students>
-	<Group>
-		<Name>6g</Name>
-		<Number_of_Students>10</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>7g</Name>
-		<Number_of_Students>10</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>8</Name>
-	<Number_of_Students>15</Number_of_Students>
-	<Group>
-		<Name>8g</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>9</Name>
-	<Number_of_Students>15</Number_of_Students>
-	<Group>
-		<Name>9g</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>z</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>z1</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>z2</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>z3</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>Chr</Name>
-</Teacher>
-<Teacher>
-	<Name>Det</Name>
-</Teacher>
-<Teacher>
-	<Name>Esc</Name>
-</Teacher>
-<Teacher>
-	<Name>Fle</Name>
-</Teacher>
-<Teacher>
-	<Name>Fri</Name>
-</Teacher>
-<Teacher>
-	<Name>Gar</Name>
-</Teacher>
-<Teacher>
-	<Name>Gie</Name>
-</Teacher>
-<Teacher>
-	<Name>Gne</Name>
-</Teacher>
-<Teacher>
-	<Name>Gol</Name>
-</Teacher>
-<Teacher>
-	<Name>Joh</Name>
-</Teacher>
-<Teacher>
-	<Name>Jun</Name>
-</Teacher>
-<Teacher>
-	<Name>Kln</Name>
-</Teacher>
-<Teacher>
-	<Name>Kog</Name>
-</Teacher>
-<Teacher>
-	<Name>Koh</Name>
-</Teacher>
-<Teacher>
-	<Name>Kön</Name>
-</Teacher>
-<Teacher>
-	<Name>Mal</Name>
-</Teacher>
-<Teacher>
-	<Name>Maw</Name>
-</Teacher>
-<Teacher>
-	<Name>Mot</Name>
-</Teacher>
-<Teacher>
-	<Name>Off</Name>
-</Teacher>
-<Teacher>
-	<Name>Rei</Name>
-</Teacher>
-<Teacher>
-	<Name>Sce</Name>
-</Teacher>
-<Teacher>
-	<Name>Scf</Name>
-</Teacher>
-<Teacher>
-	<Name>StR</Name>
-</Teacher>
-<Teacher>
-	<Name>ThH</Name>
-</Teacher>
-<Teacher>
-	<Name>Tim</Name>
-</Teacher>
-<Teacher>
-	<Name>Wah</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>AG-3</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AG-4</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Bio</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Deutsch</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>EVA</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Englisch</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Erdk</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Fö-3</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Fö-4</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Geschi</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>HSU</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>JüV-KlL</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Fö-Kl</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Kunst</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Mathe</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Musik</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Phy/Che</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Religion</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sport</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sport-Bew</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sport-För</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sport-ScE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sport-Sch</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TechTex</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>WPK-HS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>WiPo</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ZZZZZ</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>G-P-G</Name>
+	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Chr</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Det</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Esc</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Fle</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Fri</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Gar</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Gie</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Gne</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Gol</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Joh</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Jun</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Kln</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Kog</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Koh</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Kön</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mal</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Maw</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mot</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Off</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rei</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sce</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Scf</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>StR</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ThH</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Tim</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Wah</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>1</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>1a</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>1b</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>1c</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>2</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>2a</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>2b</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>2c</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>3</Name>
+	<Number_of_Students>80</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>3a</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>3b</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>3c</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>3d</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>4</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>4a</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>4b</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>4c</Name>
+		<Number_of_Students>20</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>6/7</Name>
+	<Number_of_Students>20</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>6g</Name>
+		<Number_of_Students>10</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>7g</Name>
+		<Number_of_Students>10</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>8</Name>
+	<Number_of_Students>15</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>8g</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>9</Name>
+	<Number_of_Students>15</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>9g</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>z</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>z1</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>z2</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>z3</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -4049,56 +4209,67 @@ Stand 23.07.2008/13.15 - wdj</Comments>
 	<Name>HaW</Name>
 	<Building></Building>
 	<Capacity>50</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>KlG</Name>
 	<Building></Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>LSt</Name>
 	<Building></Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Mus</Name>
 	<Building></Building>
 	<Capacity>50</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>NaW</Name>
 	<Building></Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>PCr</Name>
 	<Building></Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>SHG</Name>
 	<Building></Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>SHK</Name>
 	<Building></Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Tec</Name>
 	<Building></Building>
 	<Capacity>50</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Tex</Name>
 	<Building></Building>
 	<Capacity>15</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Leg</Name>
 	<Building></Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

@@ -20,6 +20,7 @@
 #include "fet.h"
 #include "teachersform.h"
 #include "teacher.h"
+#include "teachersubjectsqualificationsform.h"
 
 #include <QInputDialog>
 
@@ -50,6 +51,9 @@ TeachersForm::TeachersForm(QWidget* parent): QDialog(parent)
 	connect(closePushButton, SIGNAL(clicked()), this, SLOT(close()));
 	connect(addTeacherPushButton, SIGNAL(clicked()), this, SLOT(addTeacher()));
 
+	connect(targetNumberOfHoursPushButton, SIGNAL(clicked()), this, SLOT(targetNumberOfHours()));
+	connect(qualifiedSubjectsPushButton, SIGNAL(clicked()), this, SLOT(qualifiedSubjects()));
+
 	connect(moveTeacherUpPushButton, SIGNAL(clicked()), this, SLOT(moveTeacherUp()));
 	connect(moveTeacherDownPushButton, SIGNAL(clicked()), this, SLOT(moveTeacherDown()));
 
@@ -59,6 +63,8 @@ TeachersForm::TeachersForm(QWidget* parent): QDialog(parent)
 	connect(activateTeacherPushButton, SIGNAL(clicked()), this, SLOT(activateTeacher()));
 	connect(deactivateTeacherPushButton, SIGNAL(clicked()), this, SLOT(deactivateTeacher()));
 	connect(teachersListWidget, SIGNAL(itemDoubleClicked(QListWidgetItem*)), this, SLOT(renameTeacher()));
+
+	connect(commentsPushButton, SIGNAL(clicked()), this, SLOT(comments()));
 
 	centerWidgetOnScreen(this);
 	restoreFETDialogGeometry(this);
@@ -76,7 +82,6 @@ TeachersForm::TeachersForm(QWidget* parent): QDialog(parent)
 	if(teachersListWidget->count()>0)
 		teachersListWidget->setCurrentRow(0);
 }
-
 
 TeachersForm::~TeachersForm()
 {
@@ -181,6 +186,60 @@ void TeachersForm::renameTeacher()
 			teacherChanged(teachersListWidget->currentRow());
 		}
 	}
+}
+
+void TeachersForm::targetNumberOfHours()
+{
+	if(teachersListWidget->currentRow()<0){
+		QMessageBox::information(this, tr("FET information"), tr("Invalid selected teacher"));
+		return;
+	}
+
+	QString teacherName=teachersListWidget->currentItem()->text();
+	int teacher_ID=gt.rules.searchTeacher(teacherName);
+	if(teacher_ID<0){
+		QMessageBox::information(this, tr("FET information"), tr("Invalid selected teacher"));
+		return;
+	}
+	
+	Teacher* tch=gt.rules.teachersList.at(teacher_ID);
+
+	bool ok = false;
+	int newTargetNumberOfHours = QInputDialog::getInt(this, tr("Target number of hours"), tr("Please enter the target number of hours for teacher %1").arg(teacherName),
+	 tch->targetNumberOfHours, 0, gt.rules.nDaysPerWeek*gt.rules.nHoursPerDay, 1, &ok);
+
+	if(ok){
+		// user entered something and pressed OK
+		tch->targetNumberOfHours=newTargetNumberOfHours;
+
+		gt.rules.internalStructureComputed=false;
+		setRulesModifiedAndOtherThings(&gt.rules);
+
+		teacherChanged(teachersListWidget->currentRow());
+	}
+}
+
+void TeachersForm::qualifiedSubjects()
+{
+	if(teachersListWidget->currentRow()<0){
+		QMessageBox::information(this, tr("FET information"), tr("Invalid selected teacher"));
+		return;
+	}
+
+	QString teacherName=teachersListWidget->currentItem()->text();
+	int teacher_ID=gt.rules.searchTeacher(teacherName);
+	if(teacher_ID<0){
+		QMessageBox::information(this, tr("FET information"), tr("Invalid selected teacher"));
+		return;
+	}
+	
+	Teacher* tch=gt.rules.teachersList.at(teacher_ID);
+
+	TeacherSubjectsQualificationsForm form(this, tch);
+	setParentAndOtherThings(&form, this);
+	form.exec();
+
+	teacherChanged(teachersListWidget->currentRow());
 }
 
 void TeachersForm::moveTeacherUp()
@@ -290,4 +349,62 @@ void TeachersForm::deactivateTeacher()
 	QString teacherName=teachersListWidget->currentItem()->text();
 	int count=gt.rules.deactivateTeacher(teacherName);
 	QMessageBox::information(this, tr("FET information"), tr("De-activated a number of %1 activities").arg(count));
+}
+
+void TeachersForm::comments()
+{
+	int ind=teachersListWidget->currentRow();
+	if(ind<0){
+		QMessageBox::information(this, tr("FET information"), tr("Invalid selected teacher"));
+		return;
+	}
+	
+	Teacher* tch=gt.rules.teachersList[ind];
+	assert(tch!=NULL);
+
+	QDialog getCommentsDialog(this);
+	
+	getCommentsDialog.setWindowTitle(tr("Teacher comments"));
+	
+	QPushButton* okPB=new QPushButton(tr("OK"));
+	okPB->setDefault(true);
+	QPushButton* cancelPB=new QPushButton(tr("Cancel"));
+	
+	connect(okPB, SIGNAL(clicked()), &getCommentsDialog, SLOT(accept()));
+	connect(cancelPB, SIGNAL(clicked()), &getCommentsDialog, SLOT(reject()));
+
+	QHBoxLayout* hl=new QHBoxLayout();
+	hl->addStretch();
+	hl->addWidget(okPB);
+	hl->addWidget(cancelPB);
+	
+	QVBoxLayout* vl=new QVBoxLayout();
+	
+	QPlainTextEdit* commentsPT=new QPlainTextEdit();
+	commentsPT->setPlainText(tch->comments);
+	commentsPT->selectAll();
+	commentsPT->setFocus();
+	
+	vl->addWidget(commentsPT);
+	vl->addLayout(hl);
+	
+	getCommentsDialog.setLayout(vl);
+	
+	const QString settingsName=QString("TeacherCommentsDialog");
+	
+	getCommentsDialog.resize(500, 320);
+	centerWidgetOnScreen(&getCommentsDialog);
+	restoreFETDialogGeometry(&getCommentsDialog, settingsName);
+	
+	int t=getCommentsDialog.exec();
+	saveFETDialogGeometry(&getCommentsDialog, settingsName);
+	
+	if(t==QDialog::Accepted){
+		tch->comments=commentsPT->toPlainText();
+	
+		gt.rules.internalStructureComputed=false;
+		setRulesModifiedAndOtherThings(&gt.rules);
+
+		teacherChanged(ind);
+	}
 }

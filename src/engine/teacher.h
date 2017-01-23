@@ -24,11 +24,11 @@
 
 #include <QString>
 #include <QList>
+#include <QLinkedList>
+#include <QHash>
 
 class Teacher;
 class Rules;
-
-#include <QList>
 
 typedef QList<Teacher*> TeachersList;
 
@@ -43,11 +43,19 @@ public:
 	QList<int> activitiesForTeacher;
 
 	QString name;
+	
+	QString comments;
+	
+	int targetNumberOfHours;
+	
+	QLinkedList<QString> qualifiedSubjectsList;
+	QHash<QString, QLinkedList<QString>::Iterator> qualifiedSubjectsHash; //index in the above list, useful when removing/renaming subjects
 
 	Teacher();
 	~Teacher();
 
 	QString getXmlDescription();
+	QString getDescription();
 	QString getDetailedDescription();
 	QString getDetailedDescriptionWithConstraints(Rules& r);
 };

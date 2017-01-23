@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>Ιόνιο Πανεπιστήμιο - Τμήμα Τεχνών Ήχου &amp; Εικόνας</Institution_Name>
 
@@ -110,557 +110,829 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>1ο Έτος</Name>
-	<Number_of_Students>90</Number_of_Students>
-	<Group>
-		<Name>Α Εξάμηνο</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>Α-Α</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Α-Β</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Β Εξάμηνο</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>B-A</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>B-B</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Β-Γ</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>2ο Έτος</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>Γ Εξάμηνο</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>Γ-Α</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Γ-Β</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Δ Εξάμηνο</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>3ο Έτος</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>Ε Εξάμηνο</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>Ε-Α</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Ε-Β</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>ΣΤ Εξάμηνο</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>ΣΤ-Α</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ΣΤ-Β</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>4ο Έτος</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>Ζ Εξάμηνο</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>Ζ-Α</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Ζ-Β</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Η Εξάμηνο</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>H-A</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>H-B</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>5ο έτος</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>Θ Εξάμηνο</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Ι Εξάμηνο</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>[Κουντουράς]</Name>
-</Teacher>
-<Teacher>
-	<Name>[Μηλιώτης]</Name>
-</Teacher>
-<Teacher>
-	<Name>Αβδελιώτης</Name>
-</Teacher>
-<Teacher>
-	<Name>Αναγνώστου</Name>
-</Teacher>
-<Teacher>
-	<Name>Αρβανίτης</Name>
-</Teacher>
-<Teacher>
-	<Name>Αργυροκαστρίτη</Name>
-</Teacher>
-<Teacher>
-	<Name>Αρτέμης</Name>
-</Teacher>
-<Teacher>
-	<Name>Βερύκιος</Name>
-</Teacher>
-<Teacher>
-	<Name>Βλάμος</Name>
-</Teacher>
-<Teacher>
-	<Name>Βλάχος</Name>
-</Teacher>
-<Teacher>
-	<Name>Γέπης</Name>
-</Teacher>
-<Teacher>
-	<Name>Δεληγιάννης</Name>
-</Teacher>
-<Teacher>
-	<Name>Επιτηρητής Αρβανίτη</Name>
-</Teacher>
-<Teacher>
-	<Name>Επιτηρητής Κανελλόπουλου</Name>
-</Teacher>
-<Teacher>
-	<Name>Επιτηρητής Κονιδάρη</Name>
-</Teacher>
-<Teacher>
-	<Name>Επιτηρητής Ονοράτου</Name>
-</Teacher>
-<Teacher>
-	<Name>Επιτηρητής Φλώρου</Name>
-</Teacher>
-<Teacher>
-	<Name>Επιτηρητής Χαμαλίδη</Name>
-</Teacher>
-<Teacher>
-	<Name>Ζάννος</Name>
-</Teacher>
-<Teacher>
-	<Name>Ζήβας</Name>
-</Teacher>
-<Teacher>
-	<Name>Κανελλόπουλος</Name>
-</Teacher>
-<Teacher>
-	<Name>Κερμανίδου</Name>
-</Teacher>
-<Teacher>
-	<Name>Κονιδάρη</Name>
-</Teacher>
-<Teacher>
-	<Name>Λέκκας</Name>
-</Teacher>
-<Teacher>
-	<Name>Λεοντής</Name>
-</Teacher>
-<Teacher>
-	<Name>Μητσάνη</Name>
-</Teacher>
-<Teacher>
-	<Name>Μπότη</Name>
-</Teacher>
-<Teacher>
-	<Name>Ονοράτου</Name>
-</Teacher>
-<Teacher>
-	<Name>Παναγόπουλος</Name>
-</Teacher>
-<Teacher>
-	<Name>Πιτσάκη</Name>
-</Teacher>
-<Teacher>
-	<Name>Στραπατσάκη</Name>
-</Teacher>
-<Teacher>
-	<Name>Τσιρίδου</Name>
-</Teacher>
-<Teacher>
-	<Name>Φλώρος</Name>
-</Teacher>
-<Teacher>
-	<Name>Χαμαλίδη</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>ΤΗΕ300 - Ιστορία της Σύγχρονης Τέχνης Ι (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ301 - Ξένη Γλώσσα &amp; Ορολογία ΙΙΙ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ302 - Φιλοσοφικες Θεωρίες των Μέσων (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ303 - Ιστορία &amp; Θεωρία του Κινηματογράφου Ι (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC311 - Εισαγωγή στον Προγραμματισμό ΙΙ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC320 - Διαδραστικά Συστήματα Ήχου</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ321 - Μουσική Μορφολογία</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS331 - Φωτογραφία Ι</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC332 - Ψηφιακή Επεξεργασία Εικόνας Ι</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS333 - Επεξεργασία - Σύνθεση Ψηφιακής Εικόνας</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS334 - Τεχνικές Βιντεοσκόπησης</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AVA340 - Χώρος &amp; Οπτικοακουστικά Μέσα Ι</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AVA341 - Διαδραστικα Πολυμεσα Ι</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ402 - Θεωρία της Επικοινωνίας (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ403 - Ιστορία &amp; Θεωρία του Κινηματογράφου ΙΙ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC410 - Διάδραση Ανθρώπου-Υπολογιστή</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC420 - Τεχνικές Σύνθεσης Ήχου</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ421 - Τάσεις στη Μουσικη</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS430 - Γραφικές Τέχνες Ι</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS431 - Φωτογραφία ΙΙ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC432 - Ψηφιακή Επεξεργασία Εικόνας ΙΙ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS433 - Γραφικά Υπολογιστή</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS435 - Μοντάζ Κινούμενης Εικόνας</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AVA440 - Χώρος &amp; Οπτικοακουστικά Μέσα ΙΙ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AVA441 - Διαδραστικά Πολυμέσα ΙΙ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ500 - Ιστορία της Σύγχρονης Τέχνης ΙΙ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ501 - Σεναριο &amp; Στοιχεία Δραματουργίας (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ502 - Επικοινωνιολογία &amp; Σημειολογία των Πολυμέσων</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ503 - Στοιχεία Σκηνοθεσίας</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ504 - Επιχειρηματικότητα και Τέχνη</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC510 - Ανάπτυξη Δικτυακών Τόπων</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AUD521 - Ηχητική Επεξεργασία</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AUD522 - Μουσική Πληροφορική</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS530 - Γραφικές Τέχνες ΙΙ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS531 - Επαγγελματική Φωτογραφία Ι</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AVA541 - Διαδραστικά Συστήματα Ήχου &amp; Εικόνας</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ600 - Ιστορία της Ψηφιακής Τέχνης (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ601 - Αφηγηματική Δομή των Πολυμέσων</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ602 - Ιδεολογία &amp; Μαζική Επικοινωνια</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ621 - Μουσική Θεωρία &amp; Ανάλυση</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC622 - Ψηφιακή Επεξεργασία Ήχου</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS631 - Επαγγελματική Φωτογραφία ΙΙ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS632 - Εικονογράφηση Κόμικ &amp; Εφαρμογές Κινούμενης Εικόνας</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS633 - Ψηφιακές Εικαστικές Τέχνες Ι</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS634 - Εικαστική Επένδυση Ήχου</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AVA640 - Εγκαταστάσεις &amp; Οπτικοακουστικά Μέσα</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>FRE660 - Επιλογή Μαθήματος Άλλου Τμηματος</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ700 - Διαδικτυακή Επικοινωνία</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ702 - Σημειωτική Ανάλυση των Νέων Μέσων</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ703 - Εισαγωγή στην Παιδαγωγική (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AUD721 - Ηλεκτρονική Μουσική</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS732 - Αφηγηματική Οργάνωση του Κόμικ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS733 - Ψηφιακές Εικαστικές Τέχνες ΙΙ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC736 - Τρισδιάστατα Μοντέλα</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AVA740 - Βίντεο Τέχνη</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AVA741 - Σύγχρονες Μορφές Εκδόσεων</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>PRO750 - Ατομική Εργασία</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>FRE760 - Επιλογή Μαθήματος άλλου Τμήματος</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ800 - Σχεδιασμός Οπτικοακουστικών Συστημάτων</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ801 - Νομική Κάλυψη Πολιτιστικού Προϊόντος</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ803 - Παιδαγωγική των Σύγχρονων Μέσων</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC811 - Τεχνητή Νοημοσύνη</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AUD820 - Αλγοριθμική Δόμηση του Ήχου</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AUD821 - Ηχητική Επένδυση Εικόνας</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC822 - Ηλεκτροακουστική &amp; Ακουστική Χώρων</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS830 - Εμψύχωση Τρισδιάστατων Μοντέλων</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AVA840 - Τέχνη Υπολογιστή - Τέχνη Διαδικτύου</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>PRO851 - Πρακτική Εξάσκηση</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>FRE860 - Επιλογή Μαθήματος άλλου Τμήματος</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ903 - Διδακτική της Τέχνης</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC920 - Προηγμένες Τεχνικές Επεξεργασίας Ήχου</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AUD921 - Ηχητικά Περιβάλλοντα</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS930 - Ψηφιακή Σύνδεση Εικονικών Περιβαλλόντων</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AVA940 - Πειραματικά Πολυμέσα</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AVA941 - Διαδραστικά Συστήματα Ψυχαγωγίας</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AVA942 - Εικονικη - Επαυξημένη Πραγματικότητα</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>PRO950 - Πτυχιακή Εργασία (1ο Εξάμηνο) (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ000 - Διαχείριση Πολιτιστικού Προϊόντος</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS030 - Ψηφιακή Επανασύνθεση Κινούμενης Εικόνας</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AVA041 - Πολυμεσικές Εφαρμογές Ψηφιακών Συλλογών Τέχνης</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>PRO050 - Πτυχιακή Εργασία (2ο Εξάμηνο) (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ100 - Εισαγωγή στην Ιστορία της Τέχνης (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ101 - Ξένη Γλώσσα &amp; Ορολογία Ι (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ103 - Μαθηματικά &amp; Τέχνη (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC110 - Εισαγωγή στην Επιστήμη των Υπολογιστών Ι (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ120 - Ακουστική &amp; Ψυχοακουστική (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ121 - Εισαγωγη στη Μουσική (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS130 - Αναλογικό Σχέδιο (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ200 - Ιστορία της Μοντέρνας Τέχνης (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ201 - Ξένη Γλώσσα &amp; Ορολογία ΙΙ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ202 - Αισθητική &amp; Οπτικοακουστική Κουλτούρα (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ203 - Επιστημονική Μεθοδολογία (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC210 - Εισαγωγή στην Επιστήμη των Υπολογιστών ΙΙ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC211 - Εισαγωγή στον Προγραμματισμό Ι (Υ)</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEC220 - Τεχνολογία Ήχου</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΗΕ221 - Μουσική Ανθολογία</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS230 - Σχέδιο - Χρώμα</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VIS231 - Εισαγωγή στην Φωτογραφία</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Παράδοση εργασιών</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Συνέλευση Τμήματος</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>[Διδασκαλία]</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>[Εργαστήριο]</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>[Εργαστηριακό]</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>[Φροντιστήριο]</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Αναπλήρωση</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Επιτήρηση</Name>
+	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>[Κουντουράς]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>[Μηλιώτης]</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Αβδελιώτης</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Αναγνώστου</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Αρβανίτης</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Αργυροκαστρίτη</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Αρτέμης</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Βερύκιος</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Βλάμος</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Βλάχος</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Γέπης</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Δεληγιάννης</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Επιτηρητής Αρβανίτη</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Επιτηρητής Κανελλόπουλου</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Επιτηρητής Κονιδάρη</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Επιτηρητής Ονοράτου</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Επιτηρητής Φλώρου</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Επιτηρητής Χαμαλίδη</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ζάννος</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ζήβας</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Κανελλόπουλος</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Κερμανίδου</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Κονιδάρη</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Λέκκας</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Λεοντής</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Μητσάνη</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Μπότη</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ονοράτου</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Παναγόπουλος</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Πιτσάκη</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Στραπατσάκη</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Τσιρίδου</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Φλώρος</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Χαμαλίδη</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>1ο Έτος</Name>
+	<Number_of_Students>90</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Α Εξάμηνο</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Α-Α</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Α-Β</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Β Εξάμηνο</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>B-A</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>B-B</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Β-Γ</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>2ο Έτος</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Γ Εξάμηνο</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Γ-Α</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Γ-Β</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Δ Εξάμηνο</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>3ο Έτος</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Ε Εξάμηνο</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Ε-Α</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Ε-Β</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>ΣΤ Εξάμηνο</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>ΣΤ-Α</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ΣΤ-Β</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>4ο Έτος</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Ζ Εξάμηνο</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Ζ-Α</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Ζ-Β</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Η Εξάμηνο</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>H-A</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>H-B</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>5ο έτος</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Θ Εξάμηνο</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Ι Εξάμηνο</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -1720,18 +1992,23 @@
 <Buildings_List>
 <Building>
 	<Name>Αρεταίος</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>Κτήριο Γραμματειών</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>Πρώην Τμήμα Ιστορίας</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>Ακαδημία</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>Ανάκτορα</Name>
+	<Comments></Comments>
 </Building>
 </Buildings_List>
 
@@ -1740,66 +2017,79 @@
 	<Name>Αίθουσα 3</Name>
 	<Building>Αρεταίος</Building>
 	<Capacity>58</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Κοινό Εργαστήριο Η/Υ</Name>
 	<Building>Αρεταίος</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Εργαστήριο MAC</Name>
 	<Building>Κτήριο Γραμματειών</Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Αμφιθέατρο</Name>
 	<Building>Πρώην Τμήμα Ιστορίας</Building>
 	<Capacity>46</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Αίθουσα 4</Name>
 	<Building>Κτήριο Γραμματειών</Building>
 	<Capacity>60</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Εργαστήριο Σχεδιου</Name>
 	<Building>Κτήριο Γραμματειών</Building>
 	<Capacity>60</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Εργαστήριο Φωτογραφίας</Name>
 	<Building>Κτήριο Γραμματειών</Building>
 	<Capacity>10</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Αίθουσα 1</Name>
 	<Building>Αρεταίος</Building>
 	<Capacity>45</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Αίθουσα 2</Name>
 	<Building>Αρεταίος</Building>
 	<Capacity>45</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Υπολογιστικό Κέντρο ΤΠ</Name>
 	<Building>Κτήριο Γραμματειών</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>1ος όροφος παλαιό ιστορίας</Name>
 	<Building>Πρώην Τμήμα Ιστορίας</Building>
 	<Capacity>100</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Εργαστηριο Πολυμεσων</Name>
 	<Building>Αρεταίος</Building>
 	<Capacity>6</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Γραφείο Αρτέμη</Name>
 	<Building>Ανάκτορα</Building>
 	<Capacity>15000</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

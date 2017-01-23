@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>Γυμνάσιο Βαρθολομιού</Institution_Name>
 
@@ -50,195 +50,311 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>2008-2009</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>Α</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>Α1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Α2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Β</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>Β1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Β2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Γ</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>Γ1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Γ2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>ΠΕ01 ΖΩΓΟΠΟΥΛΟΣ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ02 ΑΝΔΡΙΑΝΟΠΟΥΛΟΥ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ02 ΓΚΙΑΦΗΣ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ02 ΚΑΛΑΜΑΡΑ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ02 ΠΑΡΙΣΗ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ02 ΡΕΓΚΛΗ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ02 ΣΠΕΝΤΖΑΡΗ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ03 ΒΑΣΙΛΑΚΟΠΟΥΛΟΣ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ03 ΣΟΥΛΙΩΤΗ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ04 ΣΟΥΛΗΣ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ04 ΣΤΑΘΟΥΛΙΑ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ05 ΘΕΟΦΙΛΟΠΟΥΛΟΥ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ06 ΝΤΑΗ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ07 ΚΟΝΤΟΜΗΤΡΟΥ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ08 ΠΑΠΑΔΗΜΗΤΡΙΟΥ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ11 ΚΑΘΟΛΟΣ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ15 ΒΑΡΒΑΡΕΣΟΥ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ16 ΠΡΙΓΚΑΣ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ18.13 ΑΛΕΞΙΟΥ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕ19 ΒΟΒΟΣ</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>ΑΓΓΛΙΚΑ ΑΡΧ./Φ. ΑΓΩΓΗ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΑΓΓΛΙΚΑ ΠΡΟ./Φ. ΑΓΩΓΗ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΑΡΧ. ΕΛΛ. ΓΡΑΜΜΑΤΕΙΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΑΡΧ. ΕΛΛΗΝ. ΓΛΩΣΣΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΒΙΟΛΟΓΙΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΓΑΛΛΙΚΑ/ΓΕΡΜΑΝΙΚΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΓΕΩΓΡΑΦΙΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΕΡΓ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΘΡΗΣΚΕΥΤΙΚΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΙΣΤΟΡΙΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΚΑΛΛΙΤΕΧΝΙΚΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΚΟΙΝΩΝΙΚΗ &amp; ΠΟΛΙΤΙΚΗ ΑΓΩΓΗ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΛΥΚ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΜΑΘΗΜΑΤΙΚΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΜΟΥΣ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΜΟΥΣΙΚΗ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΝΕΟΕΛΛ. ΓΛΩΣΣΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΝΕΟΕΛΛ. ΓΡΑΜΜΑΤΕΙΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΟΙΚΙΑΚΗ ΟΙΚΟΝΟΜΙΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΠΛΗΡΟΦΟΡΙΚΗ/ΣΕΠ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΠΛΗΡΟΦΟΡΙΚΗ/ΤΕΧΝΟΛΟΓΙΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΣΕΠ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΕΧΝΟΛΟΓΙΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΦΥΣΙΚΗ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΦΥΣΙΚΗ ΑΓΩΓΗ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΧΗΜΕΙΑ</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>ΠΕ01 ΖΩΓΟΠΟΥΛΟΣ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ02 ΑΝΔΡΙΑΝΟΠΟΥΛΟΥ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ02 ΓΚΙΑΦΗΣ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ02 ΚΑΛΑΜΑΡΑ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ02 ΠΑΡΙΣΗ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ02 ΡΕΓΚΛΗ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ02 ΣΠΕΝΤΖΑΡΗ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ03 ΒΑΣΙΛΑΚΟΠΟΥΛΟΣ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ03 ΣΟΥΛΙΩΤΗ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ04 ΣΟΥΛΗΣ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ04 ΣΤΑΘΟΥΛΙΑ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ05 ΘΕΟΦΙΛΟΠΟΥΛΟΥ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ06 ΝΤΑΗ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ07 ΚΟΝΤΟΜΗΤΡΟΥ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ08 ΠΑΠΑΔΗΜΗΤΡΙΟΥ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ11 ΚΑΘΟΛΟΣ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ15 ΒΑΡΒΑΡΕΣΟΥ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ16 ΠΡΙΓΚΑΣ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ18.13 ΑΛΕΞΙΟΥ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕ19 ΒΟΒΟΣ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>2008-2009</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Α</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Α1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Α2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Β</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Β1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Β2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Γ</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Γ1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Γ2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>

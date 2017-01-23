@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.28.7">
+<fet version="5.30.3">
 
 <Institution_Name>ST marys</Institution_Name>
 
@@ -50,838 +50,1383 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>B Com fin 4</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BA_Eco-2013 Sem 6</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BA_Eco-2014 Sem 4</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BA_Eco-2015 Sem 2</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BA_Eng-2013 Sem 6</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BA_Eng-2014 Sem 4</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BA_Eng-2015 sem 2</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BBA-2013 Sem 6</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BBA-2014 Sem 4</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BBA-2015 sem 2</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BCA-2014 Sem 4</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BCA-2015 Sem 2</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BCOM_CA-2013 Sem 6</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BCOM_CA-2014 Sem 4</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BCOM_CA-2015 Sem 2</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BComF-2015 SEM 2</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BSC_Maths-2013 Sem 6</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BSC_Maths-2014 Sem 4</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BSC_Maths-2015 Sem 2</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BSC_Phy-2013 Sem 6</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BSC_Phy-2014 Sem 4</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>BSC_Phy-2015 Sem 2</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>MA_ENG-2014 Sem 4</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>MA_ENG-2015 Sem 2</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>MCOM-2014 Sem 4</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>MCOM-2015 Sem 2</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>P BA ENG-2013 Sem 6</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>P BA ENG-2014 Sem 4</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>P BA ENG-2015 Sem 2</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>PVTMCom-2014 Sem 4</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>PVTMCom-2015 Sem 2</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>P_BA_His-2013 Sem 6</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>P_BA_His-2015 Sem 2</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>P_BCom-2013 Sem 6 A</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>P_BCom-2013 Sem 6 B</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>P_BCom-2013 sem 6 C</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>P_BCom-2014 Sem 4 B</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>P_BCom-2014 Sem 4 a</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>P_BCom-2014 sem 4 c</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>P_BCom-2015 Sem 2 A</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-<Year>
-	<Name>P_BCom-2015 Sem 2 B</Name>
-	<Number_of_Students>0</Number_of_Students>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>Abdul Navas K T  </Name>
-</Teacher>
-<Teacher>
-	<Name>Abdul Rahim  C</Name>
-</Teacher>
-<Teacher>
-	<Name>AJITH .K  </Name>
-</Teacher>
-<Teacher>
-	<Name>Alex  Johnson  </Name>
-</Teacher>
-<Teacher>
-	<Name>Aleyamma  Joseph  </Name>
-</Teacher>
-<Teacher>
-	<Name>Antony CJ  </Name>
-</Teacher>
-<Teacher>
-	<Name>Anupama  K  </Name>
-</Teacher>
-<Teacher>
-	<Name>Archana Krishnakumar  </Name>
-</Teacher>
-<Teacher>
-	<Name>BEENA  JOSEPH  </Name>
-</Teacher>
-<Teacher>
-	<Name>BIJI K P  </Name>
-</Teacher>
-<Teacher>
-	<Name>BOBAN  K VARGHESE  </Name>
-</Teacher>
-<Teacher>
-	<Name>Br mathew  </Name>
-</Teacher>
-<Teacher>
-	<Name>Chandramathi  </Name>
-</Teacher>
-<Teacher>
-	<Name>CHITHRA S V  </Name>
-</Teacher>
-<Teacher>
-	<Name>DANY KURIAN  </Name>
-</Teacher>
-<Teacher>
-	<Name>Dilna Silvya P V  </Name>
-</Teacher>
-<Teacher>
-	<Name>DIVYA    </Name>
-</Teacher>
-<Teacher>
-	<Name>Divya  K M   </Name>
-</Teacher>
-<Teacher>
-	<Name>DR BALACHANDRAN  </Name>
-</Teacher>
-<Teacher>
-	<Name>Fr Francis Kurishummoottil     </Name>
-</Teacher>
-<Teacher>
-	<Name>FR. BINU   </Name>
-</Teacher>
-<Teacher>
-	<Name>Fr. Joy  Vadakkan</Name>
-</Teacher>
-<Teacher>
-	<Name>GIRIJA AP    </Name>
-</Teacher>
-<Teacher>
-	<Name>Honeymol  Joseph</Name>
-</Teacher>
-<Teacher>
-	<Name>Jesla P T   </Name>
-</Teacher>
-<Teacher>
-	<Name>JIJI  JOSEPH  </Name>
-</Teacher>
-<Teacher>
-	<Name>jijo  jose </Name>
-</Teacher>
-<Teacher>
-	<Name>Jiju  </Name>
-</Teacher>
-<Teacher>
-	<Name>JINU SALU  </Name>
-</Teacher>
-<Teacher>
-	<Name>Jithesh  K  </Name>
-</Teacher>
-<Teacher>
-	<Name>Jobin   Sebastian</Name>
-</Teacher>
-<Teacher>
-	<Name>JOHN P P  </Name>
-</Teacher>
-<Teacher>
-	<Name>JOSEPH P  </Name>
-</Teacher>
-<Teacher>
-	<Name>LEELA  K  </Name>
-</Teacher>
-<Teacher>
-	<Name>LEELAMMA ANTONEY  </Name>
-</Teacher>
-<Teacher>
-	<Name>LOVELY ANTONY   </Name>
-</Teacher>
-<Teacher>
-	<Name>MADHAVAN    </Name>
-</Teacher>
-<Teacher>
-	<Name>Manjusha P  </Name>
-</Teacher>
-<Teacher>
-	<Name>MARIYAMMA  AUGUSTINE  </Name>
-</Teacher>
-<Teacher>
-	<Name>MAYA   HARIGOVINDHAN  </Name>
-</Teacher>
-<Teacher>
-	<Name>Mini P  </Name>
-</Teacher>
-<Teacher>
-	<Name>Mohamed Shaheer  T  </Name>
-</Teacher>
-<Teacher>
-	<Name>Mohan  P   </Name>
-</Teacher>
-<Teacher>
-	<Name>Mrudula M M  </Name>
-</Teacher>
-<Teacher>
-	<Name>MUHAMMED RAFI  </Name>
-</Teacher>
-<Teacher>
-	<Name>NANDANAN  </Name>
-</Teacher>
-<Teacher>
-	<Name>Narayanan M K  </Name>
-</Teacher>
-<Teacher>
-	<Name>NIPIN  KURIAN</Name>
-</Teacher>
-<Teacher>
-	<Name>PRADEEP C P  </Name>
-</Teacher>
-<Teacher>
-	<Name>Prasad  K</Name>
-</Teacher>
-<Teacher>
-	<Name>PRINCY PRAKASH  </Name>
-</Teacher>
-<Teacher>
-	<Name>Prof  THOMAS   </Name>
-</Teacher>
-<Teacher>
-	<Name>Prof Das   </Name>
-</Teacher>
-<Teacher>
-	<Name>R Sreeja  </Name>
-</Teacher>
-<Teacher>
-	<Name>Radhika  M  </Name>
-</Teacher>
-<Teacher>
-	<Name>RAJEENA PHILIP  </Name>
-</Teacher>
-<Teacher>
-	<Name>Rajeena T K   </Name>
-</Teacher>
-<Teacher>
-	<Name>Rajesh  PS</Name>
-</Teacher>
-<Teacher>
-	<Name>Raman PP  </Name>
-</Teacher>
-<Teacher>
-	<Name>Ranjini  K P  </Name>
-</Teacher>
-<Teacher>
-	<Name>Rasheed  M</Name>
-</Teacher>
-<Teacher>
-	<Name>REMYA V  </Name>
-</Teacher>
-<Teacher>
-	<Name>ROSE DIANA VARGHESE  </Name>
-</Teacher>
-<Teacher>
-	<Name>S V Jayesh  </Name>
-</Teacher>
-<Teacher>
-	<Name>Sajana. s  </Name>
-</Teacher>
-<Teacher>
-	<Name>SAJITH T  </Name>
-</Teacher>
-<Teacher>
-	<Name>Sajitha  S</Name>
-</Teacher>
-<Teacher>
-	<Name>SAJNA K K   </Name>
-</Teacher>
-<Teacher>
-	<Name>SAMEER T  </Name>
-</Teacher>
-<Teacher>
-	<Name>SARASWATHI P  </Name>
-</Teacher>
-<Teacher>
-	<Name>SAREENA  K  </Name>
-</Teacher>
-<Teacher>
-	<Name>Saritha  KP</Name>
-</Teacher>
-<Teacher>
-	<Name>SATHEESH  </Name>
-</Teacher>
-<Teacher>
-	<Name>SECURITY SERVICES  </Name>
-</Teacher>
-<Teacher>
-	<Name>Seena  KT</Name>
-</Teacher>
-<Teacher>
-	<Name>SHABINA   E  </Name>
-</Teacher>
-<Teacher>
-	<Name>Shanibath  E K</Name>
-</Teacher>
-<Teacher>
-	<Name>Sheena  P</Name>
-</Teacher>
-<Teacher>
-	<Name>SIDHIQUE T S   </Name>
-</Teacher>
-<Teacher>
-	<Name>SIJI  M  G</Name>
-</Teacher>
-<Teacher>
-	<Name>SONA  R </Name>
-</Teacher>
-<Teacher>
-	<Name>Sonima Das C K</Name>
-</Teacher>
-<Teacher>
-	<Name>Sr Jancy Jacob  </Name>
-</Teacher>
-<Teacher>
-	<Name>Sreedevi  V</Name>
-</Teacher>
-<Teacher>
-	<Name>SREEKUMAR   C</Name>
-</Teacher>
-<Teacher>
-	<Name>SUBHRAMANYAN   </Name>
-</Teacher>
-<Teacher>
-	<Name>SUMA RAFEL  </Name>
-</Teacher>
-<Teacher>
-	<Name>SUMITHRA  P  </Name>
-</Teacher>
-<Teacher>
-	<Name>Thresyamma  Wilson  </Name>
-</Teacher>
-<Teacher>
-	<Name>TOMY ABRAHAM  </Name>
-</Teacher>
-<Teacher>
-	<Name>Udayakumar M  </Name>
-</Teacher>
-<Teacher>
-	<Name>Usha  KB</Name>
-</Teacher>
-<Teacher>
-	<Name>Varghese   KT</Name>
-</Teacher>
-<Teacher>
-	<Name>WILSON MANI  </Name>
-</Teacher>
-<Teacher>
-	<Name>ZERINA SHAJI  </Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>20th century literature </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>A/c for management </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>American and post colonial literature</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>American Ethic writing  </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>American literature </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Archioledgy</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Auditing </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AUDITING</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Banking </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Basics of Business Management</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>British History</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Business Enviournment</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>C lab</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>C programming</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>c sharp lab</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Calculus</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Co operation 1</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Co operation 2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Communication</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Complex Analysis</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Computer Application for Economics analysis</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Computer Oriented Statistical Methods </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Contemporary Kerala History </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Corporate Accounting</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Corporate Regulations</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Cost Accounding</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>cpp lab</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Cpp programming</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Culture and Civilization </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>E Commerce</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>E D M</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Early World</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Economics of Business and finance </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Electodynamics</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Entrepreneurship Development </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ERp</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Essentioal of Economics</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>European fiction in translation </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Financial Accounting</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Financial Derivatives </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Financial Management </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Gender Studies</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>General Cource</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Graphics and multimedia</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Hindi</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>historiography</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>History and Philosophy of Science</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Human Resource MAnagement</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>I T applications </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>I T for business</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Income Tax</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>INCOME TAX LAW AND PRACTICE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Indian English literature</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Indian Finance System</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>inspiring Expressions </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>International Business</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>international Economics</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>International Finace </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Investment  Mangement</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>IT Application</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>java lab</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Kerala Histroy</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Library</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>library</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>LIBRARY</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Linguistics </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Literary Criticism  </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>literary Criticism and world classics</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Lpp and Game thoery</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Malayalam</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Management  Information System</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Management Science</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Marketing Management</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Material Science</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Mathematical Economics</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Mathematics</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Methodology of Humanities</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Micro Economics -ii</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Modern and post modern Literature</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Nuclear particle and astrophysics </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Number Theory and linear algibra</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Numerical Methods </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Numerical methods in C  </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>OFFICE AUTO LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Office Automation</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Operation Reserch</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Organization Behaviour</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Perspective on Literature</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Php lab</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Placement training</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Political Economi</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Politics</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Post coloniyal poetry</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Practical</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Project</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Project and Programme viva voce </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Project viva</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Properties of matter waves </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Public Finance</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Quantitative Methods for Economics</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Quantitative Techniques</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Quantitative Techniques for Business </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>RDBMS </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>RDBMS AND C .Net </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Reading Fiction and Non fiction </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Reading Literature in English</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Reading Prose</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>READINGS ON Society </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Real Analysis</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Security Analysis</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Software Testing</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Solid-state spectroscopy laser </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Statitics</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Strategic Management </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Tally</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TALLY LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Tax</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Thermal and statistical physics </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>visual  programming using .Net </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Web Programming lab</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Web Programming using  php</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Women writing </Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Working Capital Management</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Writing for media</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Abdul Navas K T  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Abdul Rahim  C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>AJITH .K  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Alex  Johnson  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Aleyamma  Joseph  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Antony CJ  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Anupama  K  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Archana Krishnakumar  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>BEENA  JOSEPH  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>BIJI K P  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>BOBAN  K VARGHESE  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Br mathew  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Chandramathi  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>CHITHRA S V  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>DANY KURIAN  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dilna Silvya P V  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>DIVYA    </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Divya  K M   </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>DR BALACHANDRAN  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Fr Francis Kurishummoottil     </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>FR. BINU   </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Fr. Joy  Vadakkan</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>GIRIJA AP    </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Honeymol  Joseph</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Jesla P T   </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>JIJI  JOSEPH  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>jijo  jose </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Jiju  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>JINU SALU  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Jithesh  K  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Jobin   Sebastian</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>JOHN P P  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>JOSEPH P  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>LEELA  K  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>LEELAMMA ANTONEY  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>LOVELY ANTONY   </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MADHAVAN    </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Manjusha P  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MARIYAMMA  AUGUSTINE  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MAYA   HARIGOVINDHAN  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mini P  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mohamed Shaheer  T  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mohan  P   </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mrudula M M  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MUHAMMED RAFI  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>NANDANAN  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Narayanan M K  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>NIPIN  KURIAN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PRADEEP C P  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Prasad  K</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PRINCY PRAKASH  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Prof  THOMAS   </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Prof Das   </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>R Sreeja  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Radhika  M  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RAJEENA PHILIP  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rajeena T K   </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rajesh  PS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Raman PP  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ranjini  K P  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rasheed  M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>REMYA V  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ROSE DIANA VARGHESE  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>S V Jayesh  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sajana. s  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SAJITH T  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sajitha  S</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SAJNA K K   </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SAMEER T  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SARASWATHI P  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SAREENA  K  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Saritha  KP</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SATHEESH  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SECURITY SERVICES  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Seena  KT</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SHABINA   E  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Shanibath  E K</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sheena  P</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SIDHIQUE T S   </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SIJI  M  G</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SONA  R </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sonima Das C K</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sr Jancy Jacob  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sreedevi  V</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SREEKUMAR   C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SUBHRAMANYAN   </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SUMA RAFEL  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SUMITHRA  P  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Thresyamma  Wilson  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>TOMY ABRAHAM  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Udayakumar M  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Usha  KB</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Varghese   KT</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>WILSON MANI  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ZERINA SHAJI  </Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>B Com fin 4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BA_Eco-2013 Sem 6</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BA_Eco-2014 Sem 4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BA_Eco-2015 Sem 2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BA_Eng-2013 Sem 6</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BA_Eng-2014 Sem 4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BA_Eng-2015 sem 2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BBA-2013 Sem 6</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BBA-2014 Sem 4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BBA-2015 sem 2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BCA-2014 Sem 4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BCA-2015 Sem 2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BCOM_CA-2013 Sem 6</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BCOM_CA-2014 Sem 4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BCOM_CA-2015 Sem 2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BComF-2015 SEM 2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BSC_Maths-2013 Sem 6</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BSC_Maths-2014 Sem 4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BSC_Maths-2015 Sem 2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BSC_Phy-2013 Sem 6</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BSC_Phy-2014 Sem 4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>BSC_Phy-2015 Sem 2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>MA_ENG-2014 Sem 4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>MA_ENG-2015 Sem 2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>MCOM-2014 Sem 4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>MCOM-2015 Sem 2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P BA ENG-2013 Sem 6</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P BA ENG-2014 Sem 4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P BA ENG-2015 Sem 2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>PVTMCom-2014 Sem 4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>PVTMCom-2015 Sem 2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P_BA_His-2013 Sem 6</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P_BA_His-2015 Sem 2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P_BCom-2013 Sem 6 A</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P_BCom-2013 Sem 6 B</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P_BCom-2013 sem 6 C</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P_BCom-2014 Sem 4 B</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P_BCom-2014 Sem 4 a</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P_BCom-2014 sem 4 c</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P_BCom-2015 Sem 2 A</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>P_BCom-2015 Sem 2 B</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>

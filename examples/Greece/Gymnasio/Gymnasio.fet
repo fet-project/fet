@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>Γυμνάσιο</Institution_Name>
 
@@ -50,238 +50,394 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>2011-2012</Name>
-	<Number_of_Students>263</Number_of_Students>
-	<Group>
-		<Name>Α</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>Α1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Α2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Α3</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Β</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>Β1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Β2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Β3</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Β4</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Γ</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>Γ1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Γ2</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Γ3</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>pe01-a</Name>
-</Teacher>
-<Teacher>
-	<Name>pe01-b</Name>
-</Teacher>
-<Teacher>
-	<Name>pe01-c</Name>
-</Teacher>
-<Teacher>
-	<Name>pe02-a</Name>
-</Teacher>
-<Teacher>
-	<Name>pe02-b</Name>
-</Teacher>
-<Teacher>
-	<Name>pe02-c</Name>
-</Teacher>
-<Teacher>
-	<Name>pe02-d</Name>
-</Teacher>
-<Teacher>
-	<Name>pe02-e</Name>
-</Teacher>
-<Teacher>
-	<Name>pe02-f</Name>
-</Teacher>
-<Teacher>
-	<Name>pe03-a</Name>
-</Teacher>
-<Teacher>
-	<Name>pe03-b</Name>
-</Teacher>
-<Teacher>
-	<Name>pe03-c</Name>
-</Teacher>
-<Teacher>
-	<Name>pe04-a</Name>
-</Teacher>
-<Teacher>
-	<Name>pe04-b</Name>
-</Teacher>
-<Teacher>
-	<Name>pe05-a</Name>
-</Teacher>
-<Teacher>
-	<Name>pe06-a</Name>
-</Teacher>
-<Teacher>
-	<Name>pe06-b</Name>
-</Teacher>
-<Teacher>
-	<Name>pe06-c</Name>
-</Teacher>
-<Teacher>
-	<Name>pe07-a</Name>
-</Teacher>
-<Teacher>
-	<Name>pe07-b</Name>
-</Teacher>
-<Teacher>
-	<Name>pe11-a</Name>
-</Teacher>
-<Teacher>
-	<Name>pe11-b</Name>
-</Teacher>
-<Teacher>
-	<Name>pe11-c</Name>
-</Teacher>
-<Teacher>
-	<Name>pe13</Name>
-</Teacher>
-<Teacher>
-	<Name>pe15</Name>
-</Teacher>
-<Teacher>
-	<Name>pe16</Name>
-</Teacher>
-<Teacher>
-	<Name>pe17</Name>
-</Teacher>
-<Teacher>
-	<Name>pe19-a</Name>
-</Teacher>
-<Teacher>
-	<Name>pe19-b</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>Αγγ/ΦΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΑρχΜετ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Βιολογ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Γεωγρ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Γυμν</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Θρησκ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Ιστορ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΚΠΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Μαθημ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Μουσ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΝέοΛογ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΞΓ2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΞΓ2-Γερ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Οικιακή</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Πλ/ΣΕΠ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Πλη/Τεχ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Φυσική</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Χημεία</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΛΥΚΕΙΟ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΑρχΓλ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΓλΔιδ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΕΠΑΛ</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>Αρχάρ</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Προχ</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Γαλ</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Γερμ</Name>
+	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>pe01-a</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe01-b</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe01-c</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe02-a</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe02-b</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe02-c</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe02-d</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe02-e</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe02-f</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe03-a</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe03-b</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe03-c</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe04-a</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe04-b</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe05-a</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe06-a</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe06-b</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe06-c</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe07-a</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe07-b</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe11-a</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe11-b</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe11-c</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe13</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe15</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe16</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe17</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe19-a</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>pe19-b</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>2011-2012</Name>
+	<Number_of_Students>263</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Α</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Α1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Α2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Α3</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Β</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Β1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Β2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Β3</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Β4</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Γ</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Γ1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Γ2</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Γ3</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -4000,11 +4156,13 @@
 	<Name>ΠΛΗΡ</Name>
 	<Building></Building>
 	<Capacity>30000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>αυλή</Name>
 	<Building></Building>
 	<Capacity>30000</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

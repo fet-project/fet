@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.28.3">
+<fet version="5.30.3">
 
 <Institution_Name>REVA UNIVERSITY, SCHOOL OF ECE</Institution_Name>
 
@@ -59,703 +59,1124 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>4 A_VTU</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>A1_VTU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>A2_VTU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>4 B_VTU</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>B1_VTU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>B2_VTU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>4 C_VTU</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>C1_VTU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>C2_VTU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>4 A_RU</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>A1_RU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>A2_RU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>4 B_RU</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>B1_RU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>B2_RU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>4 C_RU</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>C1_RU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>C2_RU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>4 D_RU</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>D1_RU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>D2_RU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>4 E_RU</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>E1_RU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>E2_RU</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>6 A</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>A1</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>A2</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>6 B</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>B1</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>B2</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>6 C</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>C1</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>C2</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>6 D</Name>
-	<Number_of_Students>60</Number_of_Students>
-	<Group>
-		<Name>D1</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>D2</Name>
-		<Number_of_Students>30</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>8 A</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>8 B</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>8 C</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>8 D</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>4 VLSI_VTU</Name>
-	<Number_of_Students>40</Number_of_Students>
-</Year>
-<Year>
-	<Name>4 DCN_VTU</Name>
-	<Number_of_Students>40</Number_of_Students>
-</Year>
-<Year>
-	<Name>4 SP_VTU</Name>
-	<Number_of_Students>40</Number_of_Students>
-</Year>
-<Year>
-	<Name>4 VLSI_VTU_PT</Name>
-	<Number_of_Students>40</Number_of_Students>
-</Year>
-<Year>
-	<Name>2 VLSI_RU</Name>
-	<Number_of_Students>40</Number_of_Students>
-</Year>
-<Year>
-	<Name>2 VLSI_RU_PT</Name>
-	<Number_of_Students>40</Number_of_Students>
-</Year>
-<Year>
-	<Name>4 AES_RU_PT</Name>
-	<Number_of_Students>40</Number_of_Students>
-</Year>
-<Year>
-	<Name>5 AES_RU_PT</Name>
-	<Number_of_Students>40</Number_of_Students>
-</Year>
-<Year>
-	<Name>CHE 1</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>CHE 2</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>CHE 3</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>CHE 4</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>CHE 5</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>CHE 6</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>CHE 7</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>CHE 8</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>CHE 9</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>CHE 10</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>CHE 11</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>CHE 12</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>CHE 13</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-<Year>
-	<Name>CHE 14</Name>
-	<Number_of_Students>60</Number_of_Students>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>RCB</Name>
-</Teacher>
-<Teacher>
-	<Name>TVR</Name>
-</Teacher>
-<Teacher>
-	<Name>KSG</Name>
-</Teacher>
-<Teacher>
-	<Name>SLP</Name>
-</Teacher>
-<Teacher>
-	<Name>VSR</Name>
-</Teacher>
-<Teacher>
-	<Name>BSH</Name>
-</Teacher>
-<Teacher>
-	<Name>MS</Name>
-</Teacher>
-<Teacher>
-	<Name>GD</Name>
-</Teacher>
-<Teacher>
-	<Name>GS</Name>
-</Teacher>
-<Teacher>
-	<Name>PIB</Name>
-</Teacher>
-<Teacher>
-	<Name>SRR</Name>
-</Teacher>
-<Teacher>
-	<Name>KMS</Name>
-</Teacher>
-<Teacher>
-	<Name>PRS</Name>
-</Teacher>
-<Teacher>
-	<Name>DKN</Name>
-</Teacher>
-<Teacher>
-	<Name>SNP</Name>
-</Teacher>
-<Teacher>
-	<Name>HN</Name>
-</Teacher>
-<Teacher>
-	<Name>NL</Name>
-</Teacher>
-<Teacher>
-	<Name>PN</Name>
-</Teacher>
-<Teacher>
-	<Name>MRB</Name>
-</Teacher>
-<Teacher>
-	<Name>URG</Name>
-</Teacher>
-<Teacher>
-	<Name>RC</Name>
-</Teacher>
-<Teacher>
-	<Name>DMN</Name>
-</Teacher>
-<Teacher>
-	<Name>HDN</Name>
-</Teacher>
-<Teacher>
-	<Name>PVJ</Name>
-</Teacher>
-<Teacher>
-	<Name>ARD</Name>
-</Teacher>
-<Teacher>
-	<Name>RP</Name>
-</Teacher>
-<Teacher>
-	<Name>MRK</Name>
-</Teacher>
-<Teacher>
-	<Name>MRA</Name>
-</Teacher>
-<Teacher>
-	<Name>MGA</Name>
-</Teacher>
-<Teacher>
-	<Name>DCE</Name>
-</Teacher>
-<Teacher>
-	<Name>NSB</Name>
-</Teacher>
-<Teacher>
-	<Name>SST</Name>
-</Teacher>
-<Teacher>
-	<Name>VKN</Name>
-</Teacher>
-<Teacher>
-	<Name>AAP</Name>
-</Teacher>
-<Teacher>
-	<Name>NKN</Name>
-</Teacher>
-<Teacher>
-	<Name>DU</Name>
-</Teacher>
-<Teacher>
-	<Name>SCH</Name>
-</Teacher>
-<Teacher>
-	<Name>ARN</Name>
-</Teacher>
-<Teacher>
-	<Name>RG</Name>
-</Teacher>
-<Teacher>
-	<Name>WB</Name>
-</Teacher>
-<Teacher>
-	<Name>PVH</Name>
-</Teacher>
-<Teacher>
-	<Name>KS</Name>
-</Teacher>
-<Teacher>
-	<Name>SS</Name>
-</Teacher>
-<Teacher>
-	<Name>AHN</Name>
-</Teacher>
-<Teacher>
-	<Name>JST</Name>
-</Teacher>
-<Teacher>
-	<Name>VVR</Name>
-</Teacher>
-<Teacher>
-	<Name>AP</Name>
-</Teacher>
-<Teacher>
-	<Name>TN</Name>
-</Teacher>
-<Teacher>
-	<Name>ST</Name>
-</Teacher>
-<Teacher>
-	<Name>RK</Name>
-</Teacher>
-<Teacher>
-	<Name>SBB</Name>
-</Teacher>
-<Teacher>
-	<Name>RSD</Name>
-</Teacher>
-<Teacher>
-	<Name>GN</Name>
-</Teacher>
-<Teacher>
-	<Name>SGS</Name>
-</Teacher>
-<Teacher>
-	<Name>MT</Name>
-</Teacher>
-<Teacher>
-	<Name>AV</Name>
-</Teacher>
-<Teacher>
-	<Name>AR</Name>
-</Teacher>
-<Teacher>
-	<Name>BHP</Name>
-</Teacher>
-<Teacher>
-	<Name>STR</Name>
-</Teacher>
-<Teacher>
-	<Name>AS</Name>
-</Teacher>
-<Teacher>
-	<Name>RZA</Name>
-</Teacher>
-<Teacher>
-	<Name>AC</Name>
-</Teacher>
-<Teacher>
-	<Name>UPN</Name>
-</Teacher>
-<Teacher>
-	<Name>RMG</Name>
-</Teacher>
-<Teacher>
-	<Name>TF</Name>
-</Teacher>
-<Teacher>
-	<Name>AF</Name>
-</Teacher>
-<Teacher>
-	<Name>RBT</Name>
-</Teacher>
-<Teacher>
-	<Name>PUSHPA</Name>
-</Teacher>
-<Teacher>
-	<Name>MGN</Name>
-</Teacher>
-<Teacher>
-	<Name>CSN</Name>
-</Teacher>
-<Teacher>
-	<Name>SRK</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>BE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MC</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>CS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>SS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>HDL</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>LIC</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MC LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>HDL LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DC</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MP</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MEC</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AP</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>OS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>COM LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MP LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>SATCOM/C++</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>WC</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DSS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>SS_RU</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>SDIC</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DSD</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>COOS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MPMC</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MPMC LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ESD LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>SODC</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>AVD</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ECC</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ACN</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DSPA</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MDSP</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>RTOS_PT</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>SOC DESIGN_PT</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VDE LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DCVC</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>RTS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>LPVLSI</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VLSI TEST</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MEMS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DCVC LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>RTS LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DCVC_PT</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ADSD_PT</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VLSI SOC_PT</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DCVC LAB_PT</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ES TEST_PT</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DDP_PT</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DDP LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MEMS_PT</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ESACS_PT</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MULTICORE_PT</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MULTICORE LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>NS/ON</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MMC/RTOS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TECH</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>APTI</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MC LAB/HDL LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MPMC LAB /ESD LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MP LAB/ADV COM LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MATHS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>LAB INSTN</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ELN</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>R &amp; D</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Library</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Mentoring</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Preparation</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Dept work</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Std Activity</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Rounds</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Faculty Mentoring</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Course monitoring</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Swatch REVA</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>VLSI&amp;ES LAB</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>FORCE ACTIVITY</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>PROJECT WORK</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>RCB</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>TVR</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>KSG</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SLP</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>VSR</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>BSH</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>GD</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>GS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PIB</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SRR</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>KMS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PRS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>DKN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SNP</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>HN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>NL</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MRB</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>URG</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RC</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>DMN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>HDN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PVJ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ARD</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RP</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MRK</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MRA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MGA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>DCE</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>NSB</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SST</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>VKN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>AAP</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>NKN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>DU</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SCH</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ARN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RG</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>WB</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PVH</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>KS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>AHN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>JST</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>VVR</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>AP</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>TN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ST</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RK</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SBB</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RSD</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>GN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SGS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MT</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>AV</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>AR</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>BHP</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>STR</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>AS</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RZA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>AC</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>UPN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RMG</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>TF</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>AF</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>RBT</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>PUSHPA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>MGN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>CSN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SRK</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>4 A_VTU</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>A1_VTU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>A2_VTU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>4 B_VTU</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>B1_VTU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>B2_VTU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>4 C_VTU</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>C1_VTU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>C2_VTU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>4 A_RU</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>A1_RU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>A2_RU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>4 B_RU</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>B1_RU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>B2_RU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>4 C_RU</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>C1_RU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>C2_RU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>4 D_RU</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>D1_RU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>D2_RU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>4 E_RU</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>E1_RU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>E2_RU</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>6 A</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>A1</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>A2</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>6 B</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>B1</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>B2</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>6 C</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>C1</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>C2</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>6 D</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>D1</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>D2</Name>
+		<Number_of_Students>30</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>8 A</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>8 B</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>8 C</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>8 D</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>4 VLSI_VTU</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>4 DCN_VTU</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>4 SP_VTU</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>4 VLSI_VTU_PT</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>2 VLSI_RU</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>2 VLSI_RU_PT</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>4 AES_RU_PT</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>5 AES_RU_PT</Name>
+	<Number_of_Students>40</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>CHE 1</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>CHE 2</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>CHE 3</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>CHE 4</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>CHE 5</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>CHE 6</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>CHE 7</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>CHE 8</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>CHE 9</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>CHE 10</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>CHE 11</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>CHE 12</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>CHE 13</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>CHE 14</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -23084,6 +23505,7 @@
 <Buildings_List>
 <Building>
 	<Name>MAIN BUILDING</Name>
+	<Comments></Comments>
 </Building>
 </Buildings_List>
 
@@ -23092,6 +23514,7 @@
 	<Name>R.No.426</Name>
 	<Building>MAIN BUILDING</Building>
 	<Capacity>60</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>Hopwood ESOL</Institution_Name>
 
@@ -47,406 +47,596 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>2005</Name>
-	<Number_of_Students>20</Number_of_Students>
-	<Group>
-		<Name>Basic ??</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Basic Eve A</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Basic Eve B</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Basic F/T A</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Basic F/T B</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Basic P/T A</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Basic P/T B</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Basic Skills</Name>
-		<Number_of_Students>10</Number_of_Students>
-		<Subgroup>
-			<Name>Basic E1-  E3</Name>
-			<Number_of_Students>10</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Basic E3 - L2</Name>
-			<Number_of_Students>10</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Basic L1 - L2</Name>
-			<Number_of_Students>10</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Basic Pre-Entry/E1</Name>
-			<Number_of_Students>10</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Basic Pre-Entry/E2</Name>
-			<Number_of_Students>10</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Basic Sk. Assess</Name>
-			<Number_of_Students>10</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Basic plus</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Begin</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Begin Eve A</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Begin Eve B</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Begin F/T</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Begin P/T A</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Begin P/T B</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>CAE</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>CAE Eve</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>EAL group</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>EFL</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>ESOL</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>ESOL Craft (FACE)</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>ESOL IT</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>ESOL new</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Elem Eve A</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Elem Eve B</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Elem F/T</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Elem P/T A</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Elem P/T B</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>FCE</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>FCE Eve</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>IELTS</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>IELTS Found F/T</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>IELTS Inter P/T</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>IELTS Up Int P/T</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Inter Eve A</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Inter Eve B</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Inter F/T</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Inter P/T</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Pre-Int Eve A</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Pre-Int Eve B</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Pre-Int F/T</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Pre-Int P/T A</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Pre-Int P/T B</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Staff</Name>
-		<Number_of_Students>1</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Upper Int P/T</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>Women Group</Name>
-		<Number_of_Students>15</Number_of_Students>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>Adrian</Name>
-</Teacher>
-<Teacher>
-	<Name>Angela</Name>
-</Teacher>
-<Teacher>
-	<Name>Angie</Name>
-</Teacher>
-<Teacher>
-	<Name>Ann</Name>
-</Teacher>
-<Teacher>
-	<Name>Anne Rush</Name>
-</Teacher>
-<Teacher>
-	<Name>Ayesha</Name>
-</Teacher>
-<Teacher>
-	<Name>David</Name>
-</Teacher>
-<Teacher>
-	<Name>Eugenia</Name>
-</Teacher>
-<Teacher>
-	<Name>Fozia</Name>
-</Teacher>
-<Teacher>
-	<Name>Inka</Name>
-</Teacher>
-<Teacher>
-	<Name>John</Name>
-</Teacher>
-<Teacher>
-	<Name>Julie</Name>
-</Teacher>
-<Teacher>
-	<Name>Kausar</Name>
-</Teacher>
-<Teacher>
-	<Name>Leonora</Name>
-</Teacher>
-<Teacher>
-	<Name>Lynn</Name>
-</Teacher>
-<Teacher>
-	<Name>Nargis</Name>
-</Teacher>
-<Teacher>
-	<Name>Patricia</Name>
-</Teacher>
-<Teacher>
-	<Name>Paul</Name>
-</Teacher>
-<Teacher>
-	<Name>Pauline</Name>
-</Teacher>
-<Teacher>
-	<Name>Philip</Name>
-</Teacher>
-<Teacher>
-	<Name>Robert</Name>
-</Teacher>
-<Teacher>
-	<Name>Rona</Name>
-</Teacher>
-<Teacher>
-	<Name>Saima</Name>
-</Teacher>
-<Teacher>
-	<Name>Stephen</Name>
-</Teacher>
-<Teacher>
-	<Name>Vanessa</Name>
-</Teacher>
-<Teacher>
-	<Name>Wilf</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>Admin</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Assessment</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>CALL</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Call/Literacy</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>EAL</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>EFL</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Exam tech</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Grammar</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>IELTS</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>IT</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Interviews</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Listening/Speaking</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Lit E3 - L2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Lit Pre-Ent - E2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Literacy</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Meeting/Training</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Numeracy</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>O2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>PGCE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Project/Writing/Tutorial</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Reading</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Reading/English Usage</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Spelling/Dictionary</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Tutorial</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Work-based learning</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Writing</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>CALL</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>CALL/Literacy</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>ESOL IT</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Listening/Speaking</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Literacy</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Num</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Project/Writing/Tutorial</Name>
+	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Adrian</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Angela</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Angie</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ann</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Anne Rush</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ayesha</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>David</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Eugenia</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Fozia</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Inka</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>John</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Julie</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Kausar</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Leonora</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Lynn</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Nargis</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Patricia</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Paul</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Pauline</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Philip</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Robert</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rona</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Saima</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Stephen</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Vanessa</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Wilf</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>2005</Name>
+	<Number_of_Students>20</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Basic ??</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Basic Eve A</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Basic Eve B</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Basic F/T A</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Basic F/T B</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Basic P/T A</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Basic P/T B</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Basic Skills</Name>
+		<Number_of_Students>10</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Basic E1-  E3</Name>
+			<Number_of_Students>10</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Basic E3 - L2</Name>
+			<Number_of_Students>10</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Basic L1 - L2</Name>
+			<Number_of_Students>10</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Basic Pre-Entry/E1</Name>
+			<Number_of_Students>10</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Basic Pre-Entry/E2</Name>
+			<Number_of_Students>10</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Basic Sk. Assess</Name>
+			<Number_of_Students>10</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Basic plus</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Begin</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Begin Eve A</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Begin Eve B</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Begin F/T</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Begin P/T A</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Begin P/T B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>CAE</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>CAE Eve</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>EAL group</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>EFL</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>ESOL</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>ESOL Craft (FACE)</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>ESOL IT</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>ESOL new</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Elem Eve A</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Elem Eve B</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Elem F/T</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Elem P/T A</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Elem P/T B</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>FCE</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>FCE Eve</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>IELTS</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>IELTS Found F/T</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>IELTS Inter P/T</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>IELTS Up Int P/T</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Inter Eve A</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Inter Eve B</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Inter F/T</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Inter P/T</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Pre-Int Eve A</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Pre-Int Eve B</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Pre-Int F/T</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Pre-Int P/T A</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Pre-Int P/T B</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Staff</Name>
+		<Number_of_Students>1</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Upper Int P/T</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>Women Group</Name>
+		<Number_of_Students>15</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -2257,161 +2447,193 @@
 	<Name>A103</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A208</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A213</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A217</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ASH113 (Midd)</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ASH212 (Midd)</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>B114</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>B225</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>B301</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>B302</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>B303</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>B305</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>B305A</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>B306</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>B309</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>B310</Name>
 	<Building></Building>
 	<Capacity>100</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>B311</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>B312</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>B313A</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>B314</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>B318</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Bolton</Name>
 	<Building></Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Crescent Partnership</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>HW32 (Midd)</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Hebron</Name>
 	<Building></Building>
 	<Capacity>20</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>L301 (Midd)</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Middleton</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Middleton1</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Middleton2</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Pringle St</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Sparth Comm Centre</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>Stansfield</Name>
 	<Building></Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>Liceul Teoretic German &apos;Frederich Schiller&apos; - Oradea</Institution_Name>
 
@@ -50,296 +50,495 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>5</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>5A</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>5B</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>6</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>6A</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>6B</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>6b-catolici</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>6b-reformati</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>6C</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>6D</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>7</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>7A</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>7B</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>7b-catolici</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>7b-reformati</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>7C</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>8</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>8A</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-	<Group>
-		<Name>8B</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>8b-catolici</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>8b-reformati</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>8C</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-<Year>
-	<Name>9</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>9A</Name>
-		<Number_of_Students>0</Number_of_Students>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>Apati Timea</Name>
-</Teacher>
-<Teacher>
-	<Name>Barta Florentina</Name>
-</Teacher>
-<Teacher>
-	<Name>Biriş Mihaela</Name>
-</Teacher>
-<Teacher>
-	<Name>Bota Cristian</Name>
-</Teacher>
-<Teacher>
-	<Name>Bozga Luminiţa</Name>
-</Teacher>
-<Teacher>
-	<Name>Conţiu Loredana</Name>
-</Teacher>
-<Teacher>
-	<Name>Corba Pavel</Name>
-</Teacher>
-<Teacher>
-	<Name>Creţu Crina</Name>
-</Teacher>
-<Teacher>
-	<Name>Curea Cornelia</Name>
-</Teacher>
-<Teacher>
-	<Name>Dărăban Elisabeta</Name>
-</Teacher>
-<Teacher>
-	<Name>Füzesi Laura</Name>
-</Teacher>
-<Teacher>
-	<Name>Gacsádi Olga</Name>
-</Teacher>
-<Teacher>
-	<Name>Orosz Florentina</Name>
-</Teacher>
-<Teacher>
-	<Name>Hanga Gheorghe</Name>
-</Teacher>
-<Teacher>
-	<Name>Hărăguş Isabela</Name>
-</Teacher>
-<Teacher>
-	<Name>Iovanuţ Maria</Name>
-</Teacher>
-<Teacher>
-	<Name>Kovacs Hajnalka</Name>
-</Teacher>
-<Teacher>
-	<Name>Kötting Ilona</Name>
-</Teacher>
-<Teacher>
-	<Name>Linca Marioara</Name>
-</Teacher>
-<Teacher>
-	<Name>Linca Vasile</Name>
-</Teacher>
-<Teacher>
-	<Name>Lörincz Enikö</Name>
-</Teacher>
-<Teacher>
-	<Name>Manole Paulina</Name>
-</Teacher>
-<Teacher>
-	<Name>Morar Claudia</Name>
-</Teacher>
-<Teacher>
-	<Name>Petrişor Gheorghina</Name>
-</Teacher>
-<Teacher>
-	<Name>Petruc Sandra</Name>
-</Teacher>
-<Teacher>
-	<Name>Pop Dorel</Name>
-</Teacher>
-<Teacher>
-	<Name>Schiszer Katalin</Name>
-</Teacher>
-<Teacher>
-	<Name>Sipos Marta</Name>
-</Teacher>
-<Teacher>
-	<Name>Szakacs Eugen</Name>
-</Teacher>
-<Teacher>
-	<Name>Szakáll Ildikó</Name>
-</Teacher>
-<Teacher>
-	<Name>Szilagyi Judit</Name>
-</Teacher>
-<Teacher>
-	<Name>Teaha Liana</Name>
-</Teacher>
-<Teacher>
-	<Name>Veteşi Adina</Name>
-</Teacher>
-<Teacher>
-	<Name>Vid Corina</Name>
-</Teacher>
-<Teacher>
-	<Name>Wagner Erika</Name>
-</Teacher>
-<Teacher>
-	<Name>Moţ Anca</Name>
-</Teacher>
-<Teacher>
-	<Name>Păşcuţă Adina</Name>
-</Teacher>
-<Teacher>
-	<Name>Gîrba Sanda</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>BIOLOGIE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>CHIMIE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>CIVICĂ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DESEN</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DESEN / MUZICĂ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>DIRIGENŢIE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ED. FIZICĂ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ENGLEZĂ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>FIZICĂ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>GEOGRAFIE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>GERMANĂ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>INFORMATICĂ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>IST. MINORITAŢI</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ISTORIE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>LATINĂ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MAGHIARĂ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MATEMATICĂ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>MUZICĂ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>RELIGIE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ROMÂNĂ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>TEHNOLOGIE</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>LOGICĂ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ED. ECOLOGICĂ</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Apati Timea</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Barta Florentina</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Biriş Mihaela</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Bota Cristian</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Bozga Luminiţa</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Conţiu Loredana</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Corba Pavel</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Creţu Crina</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Curea Cornelia</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dărăban Elisabeta</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Füzesi Laura</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Gacsádi Olga</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Orosz Florentina</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Hanga Gheorghe</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Hărăguş Isabela</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Iovanuţ Maria</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Kovacs Hajnalka</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Kötting Ilona</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Linca Marioara</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Linca Vasile</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Lörincz Enikö</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Manole Paulina</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Morar Claudia</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Petrişor Gheorghina</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Petruc Sandra</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Pop Dorel</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Schiszer Katalin</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sipos Marta</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Szakacs Eugen</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Szakáll Ildikó</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Szilagyi Judit</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Teaha Liana</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Veteşi Adina</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Vid Corina</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Wagner Erika</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Moţ Anca</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Păşcuţă Adina</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Gîrba Sanda</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>5</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>5A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>5B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>6</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>6A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>6B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>6b-catolici</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>6b-reformati</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>6C</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>6D</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>7</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>7A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>7B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>7b-catolici</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>7b-reformati</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>7C</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>8</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>8A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+	<Group>
+		<Name>8B</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>8b-catolici</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>8b-reformati</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>8C</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>9</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>9A</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -4660,6 +4859,7 @@
 	<Name>Informatica</Name>
 	<Building></Building>
 	<Capacity>50</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

@@ -191,7 +191,8 @@ void usage(QTextStream* out, const QString& error)
 		"[--writetimetablesactivities=wt15] "
 		"[--printactivitytags=a] [--printnotavailable=u] [--printbreak=b] [--dividetimeaxisbydays=v] [--duplicateverticalheaders=e] "
 		"[--printsimultaneousactivities=w] [--randomseedx=rx --randomseedy=ry] [--warnifusingnotperfectconstraints=s] "
-		"[--warnifusingstudentsminhoursdailywithallowemptydays=p] [--warnifusinggroupactivitiesininitialorder=g] [--warnsubgroupswiththesameactivities=ssa] [--verbose=r]\",\n"
+		"[--warnifusingstudentsminhoursdailywithallowemptydays=p] [--warnifusinggroupactivitiesininitialorder=g] [--warnsubgroupswiththesameactivities=ssa]\n"
+		"[--printdetailedtimetables=pdt] [--printdetailedteachersfreeperiodstimetables=pdtfp] [--verbose=r]\",\n"
 		"where:\nx is the input file, for instance \"data.fet\"\n"
 		"d is the path to results directory, without trailing slash or backslash (default is current working path). "
 		"Make sure you have write permissions there.\n"
@@ -220,9 +221,10 @@ void usage(QTextStream* out, const QString& error)
 		"g is either true or false, represents whether you want a message box to be shown, with a warning, if the input file contains nonstandard timetable "
 		"generation options to group activities in the initial order (default true).\n"
 		"ssa is either true or false, represents whether you want a message box to be show, with a warning, if your input file contains subgroups which have "
-		"the same activities (default true)."
-		"r is either true or false, represents whether you want additional generation messages and other messages to be shown on the command line (default false)."
-		"\n"
+		"the same activities (default true).\n"
+		"pdt is either true or false, represents whether you want to show the detailed (true) or less detailed (false) years and groups timetables (default true).\n"
+		"pdtfp is either true or false, represents whether you want to show the detailed (true) or less detailed (false) teachers free periods timetables (default true).\n"
+		"r is either true or false, represents whether you want additional generation messages and other messages to be shown on the command line (default false).\n"
 		"Alternatively, you can run \"fet-cl --version [--outputdir=d]\" to get the current FET version. "
 		"where:\nd is the path to results directory, without trailing slash or backslash (default is current working path). "
 		"Make sure you have write permissions there.\n"
@@ -306,6 +308,8 @@ void readSimulationParameters()
 	
 	TIMETABLE_HTML_LEVEL=newSettings.value("html-level", "2").toInt();
 	TIMETABLE_HTML_PRINT_ACTIVITY_TAGS=newSettings.value("print-activity-tags", "true").toBool();
+	PRINT_DETAILED_HTML_TIMETABLES=newSettings.value("print-detailed-timetables", "true").toBool();
+	PRINT_DETAILED_HTML_TEACHERS_FREE_PERIODS=newSettings.value("print-detailed-teachers-free-periods-timetables", "true").toBool();
 	PRINT_ACTIVITIES_WITH_SAME_STARTING_TIME=newSettings.value("print-activities-with-same-starting-time", "false").toBool();
 	PRINT_NOT_AVAILABLE_TIME_SLOTS=newSettings.value("print-not-available", "true").toBool();
 	PRINT_BREAK_TIME_SLOTS=newSettings.value("print-break", "true").toBool();
@@ -333,6 +337,7 @@ void readSimulationParameters()
 	WRITE_TIMETABLES_TEACHERS_FREE_PERIODS=newSettings.value("write-timetables-teachers-free-periods", "true").toBool();
 	WRITE_TIMETABLES_ROOMS=newSettings.value("write-timetables-rooms", "true").toBool();
 	WRITE_TIMETABLES_SUBJECTS=newSettings.value("write-timetables-subjects", "true").toBool();
+	WRITE_TIMETABLES_ACTIVITY_TAGS=newSettings.value("write-timetables-activity-tags", "true").toBool();
 	WRITE_TIMETABLES_ACTIVITIES=newSettings.value("write-timetables-activities", "true").toBool();
 
 /////////confirmations
@@ -378,6 +383,8 @@ void writeSimulationParameters()
 	settings.setValue("check-for-updates", checkForUpdates);
 	settings.setValue("html-level", TIMETABLE_HTML_LEVEL);
 	settings.setValue("print-activity-tags", TIMETABLE_HTML_PRINT_ACTIVITY_TAGS);
+	settings.setValue("print-detailed-timetables", PRINT_DETAILED_HTML_TIMETABLES);
+	settings.setValue("print-detailed-teachers-free-periods-timetables", PRINT_DETAILED_HTML_TEACHERS_FREE_PERIODS);
 	settings.setValue("print-activities-with-same-starting-time", PRINT_ACTIVITIES_WITH_SAME_STARTING_TIME);
 	settings.setValue("divide-html-timetables-with-time-axis-by-days", DIVIDE_HTML_TIMETABLES_WITH_TIME_AXIS_BY_DAYS);
 	settings.setValue("timetables-repeat-vertical-names", TIMETABLE_HTML_REPEAT_NAMES);
@@ -405,6 +412,7 @@ void writeSimulationParameters()
 	settings.setValue("write-timetables-teachers-free-periods", WRITE_TIMETABLES_TEACHERS_FREE_PERIODS);
 	settings.setValue("write-timetables-rooms", WRITE_TIMETABLES_ROOMS);
 	settings.setValue("write-timetables-subjects", WRITE_TIMETABLES_SUBJECTS);
+	settings.setValue("write-timetables-activity-tags", WRITE_TIMETABLES_ACTIVITY_TAGS);
 	settings.setValue("write-timetables-activities", WRITE_TIMETABLES_ACTIVITIES);
 
 ///////////confirmations
@@ -799,7 +807,11 @@ int main(int argc, char **argv)
 		TIMETABLE_HTML_LEVEL=2;
 		
 		TIMETABLE_HTML_PRINT_ACTIVITY_TAGS=true;
-		
+
+		PRINT_DETAILED_HTML_TIMETABLES=true;
+
+		PRINT_DETAILED_HTML_TEACHERS_FREE_PERIODS=true;
+
 		FET_LANGUAGE="en_US";
 		
 		PRINT_NOT_AVAILABLE_TIME_SLOTS=true;
@@ -822,6 +834,7 @@ int main(int argc, char **argv)
 		WRITE_TIMETABLES_TEACHERS_FREE_PERIODS=true;
 		WRITE_TIMETABLES_ROOMS=true;
 		WRITE_TIMETABLES_SUBJECTS=true;
+		WRITE_TIMETABLES_ACTIVITY_TAGS=true;
 		WRITE_TIMETABLES_ACTIVITIES=true;
 
 		DIVIDE_HTML_TIMETABLES_WITH_TIME_AXIS_BY_DAYS=false;
@@ -856,6 +869,14 @@ int main(int argc, char **argv)
 			else if(s.left(20)=="--printactivitytags="){
 				if(s.right(5)=="false")
 					TIMETABLE_HTML_PRINT_ACTIVITY_TAGS=false;
+			}
+			else if(s.left(26)=="--printdetailedtimetables="){
+				if(s.right(5)=="false")
+					PRINT_DETAILED_HTML_TIMETABLES=false;
+			}
+			else if(s.left(45)=="--printdetailedteachersfreeperiodstimetables="){
+				if(s.right(5)=="false")
+					PRINT_DETAILED_HTML_TEACHERS_FREE_PERIODS=false;
 			}
 			else if(s.left(11)=="--language=")
 				FET_LANGUAGE=s.right(s.length()-11);
@@ -967,6 +988,10 @@ int main(int argc, char **argv)
 			else if(s.left(26)=="--writetimetablessubjects="){
 				if(s.right(5)=="false")
 					WRITE_TIMETABLES_SUBJECTS=false;
+			}
+			else if(s.left(30)=="--writetimetablesactivitytags="){
+				if(s.right(5)=="false")
+					WRITE_TIMETABLES_ACTIVITIES=false;
 			}
 			else if(s.left(28)=="--writetimetablesactivities="){
 				if(s.right(5)=="false")
@@ -1207,6 +1232,93 @@ int main(int argc, char **argv)
 		if(impossible){
 			cout<<"Impossible"<<endl;
 			out<<"Impossible"<<endl;
+			
+			//2016-11-17 - suggested by thanhnambkhn, FET will write the impossible activity and the current and highest-stage timetables
+			//(which should be identical)
+
+			Solution& cc=gen.c;
+
+			//needed to find the conflicts strings
+			QString tmp;
+			cc.fitness(gt.rules, &tmp);
+
+			TimetableExport::getStudentsTimetable(cc);
+			TimetableExport::getTeachersTimetable(cc);
+			TimetableExport::getRoomsTimetable(cc);
+
+			QString toc=outputDirectory;
+			if(toc!="" && toc.count()>=1 && toc.endsWith(FILE_SEP)){
+				toc.chop(1);
+				toc+=QString("-current"+FILE_SEP);
+			}
+			else if(toc==""){
+				toc=QString("current"+FILE_SEP);
+			}
+			
+			if(toc!="")
+				if(!dir.exists(toc))
+					dir.mkpath(toc);
+
+			TimetableExport::writeSimulationResultsCommandLine(NULL, toc);
+			
+			QString s;
+
+			s+=TimetableExport::tr("Please check the constraints related to the "
+			 "activity below, which might be impossible to schedule:");
+			s+="\n\n";
+			for(int i=0; i<gen.nDifficultActivities; i++){
+				int ai=gen.difficultActivities[i];
+
+				s+=TimetableExport::tr("No: %1").arg(i+1);
+
+				s+=", ";
+
+				s+=TimetableExport::tr("Id: %1 (%2)", "%1 is id of activity, %2 is detailed description of activity")
+					.arg(gt.rules.internalActivitiesList[ai].id)
+					.arg(getActivityDetailedDescription(gt.rules, gt.rules.internalActivitiesList[ai].id));
+
+				s+="\n";
+			}
+
+			QFile difficultActivitiesFile(logsDir+"difficult_activities.txt");
+			bool t=difficultActivitiesFile.open(QIODevice::WriteOnly);
+			if(!t){
+				cout<<"FET critical - you don't have write permissions in the output directory - (FET cannot open or create file "<<qPrintable(logsDir)<<"difficult_activities.txt)."
+				 " If this is a bug - please report it."<<endl;
+				return 1;
+			}
+			QTextStream difficultActivitiesOut(&difficultActivitiesFile);
+			difficultActivitiesOut.setCodec("UTF-8");
+			difficultActivitiesOut.setGenerateByteOrderMark(true);
+			
+			difficultActivitiesOut<<s<<endl;
+			
+			//2011-11-11 (2)
+			//write highest stage timetable
+			Solution& ch=highestStageSolution;
+
+			//needed to find the conflicts strings
+			QString tmp2;
+			ch.fitness(gt.rules, &tmp2);
+
+			TimetableExport::getStudentsTimetable(ch);
+			TimetableExport::getTeachersTimetable(ch);
+			TimetableExport::getRoomsTimetable(ch);
+
+			QString toh=outputDirectory;
+			if(toh!="" && toh.count()>=1 && toh.endsWith(FILE_SEP)){
+				toh.chop(1);
+				toh+=QString("-highest"+FILE_SEP);
+			}
+			else if(toh==""){
+				toh=QString("highest"+FILE_SEP);
+			}
+			
+			if(toh!="")
+				if(!dir.exists(toh))
+					dir.mkpath(toh);
+
+			TimetableExport::writeSimulationResultsCommandLine(NULL, toh);
 		}
 		//2012-01-24 - suggestion and code by Ian Holden (ian@ianholden.com), to write best and current timetable on time exceeded
 		//previously, FET saved best and current timetable only on receiving SIGTERM

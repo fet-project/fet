@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>6ο Δημοτικό Σχολείο Διδυμοτείχου</Institution_Name>
 
@@ -50,218 +50,344 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>ΣΧΟΛΙΚΟ ΕΤΟΣ 2010-2011</Name>
-	<Number_of_Students>300</Number_of_Students>
-	<Group>
-		<Name>Α</Name>
-		<Number_of_Students>50</Number_of_Students>
-		<Subgroup>
-			<Name>Α1</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Α2</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Β</Name>
-		<Number_of_Students>50</Number_of_Students>
-		<Subgroup>
-			<Name>Β1</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Β2</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Γ</Name>
-		<Number_of_Students>50</Number_of_Students>
-		<Subgroup>
-			<Name>Γ1</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Γ2</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Δ</Name>
-		<Number_of_Students>50</Number_of_Students>
-		<Subgroup>
-			<Name>Δ1</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Δ2</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>Ε</Name>
-		<Number_of_Students>50</Number_of_Students>
-		<Subgroup>
-			<Name>Ε1</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>Ε2</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>ΣΤ</Name>
-		<Number_of_Students>50</Number_of_Students>
-		<Subgroup>
-			<Name>ΣΤ1</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>ΣΤ2</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>ΤΥ</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>ΤΥ1</Name>
-			<Number_of_Students>0</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>ΧΡΙΣΤΟΥΔΗ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΚΩΝΣΤΑΝΤΑΚΗ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΟΥΖΟΥΝΙΔΟΥ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΜΟΡΦΟΥΔΗ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΜΑΡΤΑΚΗ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΔΩΡΟΥΔΗ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΚΩΣΤΟΥΛΑΣ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΑΠΑΓΕΩΡΓΙΟΥ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΛΙΑΝΟΠΟΥΛΟΥ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΟΡΤΑΚΗ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΑΝΘΟΠΟΥΛΟΥ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΒΑΙΑΚΗ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΔΗΜΟΠΟΥΛΟΣ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΜΠΟΤΣΙΟΥ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΑΝΑΓΝΩΣΤΟΥ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΜΑΡΘΑΚΗ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΔΙΝΑΚΗ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΠΕΤΡΑ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΜΙΧΑΛΟΠΟΥΛΟΣ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΚΑΝΑΣ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΜΗΝΟΓΛΟΥ</Name>
-</Teacher>
-<Teacher>
-	<Name>ΜΑΚΑ</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>ΓΛΩΣΣΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΜΑΘΗΜΑΤΙΚΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΜΕΛΕΤΗ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΤΕΧΝΙΚΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΠΛΗΡΟΦΟΡΙΚΗ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΙΣΤΟΡΙΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΦΥΣΙΚΗ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΓΕΩΓΡΑΦΙΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΜΟΥΣΙΚΗ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΕΥΕΛΙΚΤΗ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΘΡΗΣΚΕΥΤΙΚΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΑΓΓΛΙΚΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΓΥΜΝΑΣΤΙΚΗ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΘΕΑΤΡ.ΑΓΩΓΗ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΚΟΙΝ.ΑΓΩΓΗ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΓΑΛΛΙΚΑ</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ΓΕΡΜΑΝΙΚΑ</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>ΧΡΙΣΤΟΥΔΗ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΚΩΝΣΤΑΝΤΑΚΗ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΟΥΖΟΥΝΙΔΟΥ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΜΟΡΦΟΥΔΗ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΜΑΡΤΑΚΗ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΔΩΡΟΥΔΗ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΚΩΣΤΟΥΛΑΣ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΑΠΑΓΕΩΡΓΙΟΥ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΛΙΑΝΟΠΟΥΛΟΥ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΟΡΤΑΚΗ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΑΝΘΟΠΟΥΛΟΥ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΒΑΙΑΚΗ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΔΗΜΟΠΟΥΛΟΣ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΜΠΟΤΣΙΟΥ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΑΝΑΓΝΩΣΤΟΥ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΜΑΡΘΑΚΗ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΔΙΝΑΚΗ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΠΕΤΡΑ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΜΙΧΑΛΟΠΟΥΛΟΣ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΚΑΝΑΣ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΜΗΝΟΓΛΟΥ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ΜΑΚΑ</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>ΣΧΟΛΙΚΟ ΕΤΟΣ 2010-2011</Name>
+	<Number_of_Students>300</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Α</Name>
+		<Number_of_Students>50</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Α1</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Α2</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Β</Name>
+		<Number_of_Students>50</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Β1</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Β2</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Γ</Name>
+		<Number_of_Students>50</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Γ1</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Γ2</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Δ</Name>
+		<Number_of_Students>50</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Δ1</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Δ2</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>Ε</Name>
+		<Number_of_Students>50</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>Ε1</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>Ε2</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>ΣΤ</Name>
+		<Number_of_Students>50</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>ΣΤ1</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>ΣΤ2</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>ΤΥ</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>ΤΥ1</Name>
+			<Number_of_Students>0</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -4416,6 +4542,7 @@
 <Buildings_List>
 <Building>
 	<Name>ΝΕΟ ΚΤΙΡΙΟ</Name>
+	<Comments></Comments>
 </Building>
 </Buildings_List>
 
@@ -4424,86 +4551,103 @@
 	<Name>ΑΙΘ.ΜΟΥΣΙΚΗΣ</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>50</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΑΙΘ.Α1</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>25</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΑΙΘ.Α2</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>25</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΑΙΘ.Β1</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>25</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΑΙΘ.Β2</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>25</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΑΙΘ.Γ1</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>25</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΑΙΘ.Γ2</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>25</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΑΙΘ.Δ1</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>25</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΑΙΘ.Δ2</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>25</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΑΙΘ.Ε1</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>25</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΑΙΘ.Ε2</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>25</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΑΙΘ.ΣΤ1</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>25</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΑΙΘ.ΣΤ2</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>25</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΑΙΘ.ΠΛΗΡΟΦΟΡΙΚΗΣ</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>25</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΑΙΘ.ΥΠΟΔΟΧΗΣ</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>8</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΓΥΜΝΑΣΤΗΡΙΟ</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>300</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ΑΜΦΙΘΕΑΤΡΟ</Name>
 	<Building>ΝΕΟ ΚΤΙΡΙΟ</Building>
 	<Capacity>200</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

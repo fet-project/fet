@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>Facultatea de Stiinte Economice</Institution_Name>
 
@@ -72,2093 +72,3303 @@ Anul universitar 2007-2008</Comments>
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>Anul 1</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>1 Seria 1</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1S1 Grupa 1</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S1 Grupa 2</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S1 Grupa 3</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S1 Grupa 4</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S1 Grupa 5</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S1 Grupa 6</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1 Seria 2</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1S2 Grupa 1</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S2 Grupa 2</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S2 Grupa 3</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S2 Grupa 4</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S2 Grupa 5</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S2 Grupa 6</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1 Seria 3</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1S3 Grupa 1</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S3 Grupa 2</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S3 Grupa 3</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S3 Grupa 4</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S3 Grupa 5</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S3 Grupa 6</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1 Seria 4</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1S4 Grupa 1</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S4 Grupa 2</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S4 Grupa 3</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S4 Grupa 4</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S4 Grupa 5</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S4 Grupa 6</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1 Seria 5</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1S5 Grupa 1</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S5 Grupa 2</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S5 Grupa 3</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S5 Grupa 4</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S5 Grupa 5</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S5 Grupa 6</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1 Seria 6</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1S6 Grupa 1</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S6 Grupa 2</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S6 Grupa 3</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S6 Grupa 4</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S6 Grupa 5</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S6 Grupa 6</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1 Seria 7</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1S7 Grupa 1</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S7 Grupa 2</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S7 Grupa 3</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S7 Grupa 4</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S7 Grupa 5</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S7 Grupa 6</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1 Seria 8</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1S8 Grupa 1</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S8 Grupa 2</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S8 Grupa 3</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S8 Grupa 4</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S8 Grupa 5</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S8 Grupa 6</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1 Seria 9</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1S9 Grupa 1</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S9 Grupa 2</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S9 Grupa 3</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S9 Grupa 4</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S9 Grupa 5</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S9 Grupa 6</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>1 Seria 10</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>1S10 Grupa 1</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S10 Grupa 2</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S10 Grupa 3</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S10 Grupa 4</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S10 Grupa 5</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>1S10 Grupa 6</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>Anul 2</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>2 Contabilitate si informatica de gestiune Seria 1</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2CIG S1 Grupa 1</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2CIG S1 Grupa 2</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2CIG S1 Grupa 3</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2CIG S1 Grupa 4</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2CIG S1 Grupa 5</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2CIG S1 Grupa 6</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>2 Contabilitate si informatica de gestiune Seria 2</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2CIG S2 Grupa 1</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2CIG S2 Grupa 2</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2CIG S2 Grupa 3</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2CIG S2 Grupa 4</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2CIG S2 Grupa 5</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2CIG S2 Grupa 6</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>2 Economia comertului, turismului si serviciilor</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2ECTS Grupa 1</Name>
-			<Number_of_Students>20</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2ECTS Grupa 2</Name>
-			<Number_of_Students>20</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2ECTS Grupa 3</Name>
-			<Number_of_Students>20</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>2 Economie agroalimentara si a mediului</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2EAM Grupa 1</Name>
-			<Number_of_Students>17</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2EAM Grupa 2</Name>
-			<Number_of_Students>17</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2EAM Grupa 3</Name>
-			<Number_of_Students>17</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>2 Economie si afaceri internationale</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2EAI Grupa 1</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2EAI Grupa 2</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2EAI Grupa 3</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>2 Economie si comunicare economica</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2ECE Grupa 1</Name>
-			<Number_of_Students>16</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2ECE Grupa 2</Name>
-			<Number_of_Students>16</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2ECE Grupa 3</Name>
-			<Number_of_Students>16</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>2 Finante-banci Seria 1</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2FB S1 Grupa 1</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2FB S1 Grupa 2</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2FB S1 Grupa 3</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2FB S1 Grupa 4</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2FB S1 Grupa 5</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2FB S1 Grupa 6</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>2 Finante-banci Seria 2</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2FB S2 Grupa 1</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2FB S2 Grupa 2</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2FB S2 Grupa 3</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2FB S2 Grupa 4</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2FB S2 Grupa 5</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2FB S2 Grupa 6</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>2 Informatica economica</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2IE Grupa 1</Name>
-			<Number_of_Students>28</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2IE Grupa 2</Name>
-			<Number_of_Students>28</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2IE Grupa 3</Name>
-			<Number_of_Students>28</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2IE Grupa 4</Name>
-			<Number_of_Students>28</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2IE Grupa 5</Name>
-			<Number_of_Students>28</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>2 Management Seria 1</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2M S1 Grupa 1</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2M S1 Grupa 2</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2M S1 Grupa 3</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2M S1 Grupa 4</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2M S1 Grupa 5</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2M S1 Grupa 6</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>2 Management Seria 2</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2M S2 Grupa 1</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2M S2 Grupa 2</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2M S2 Grupa 3</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2M S2 Grupa 4</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2M S2 Grupa 5</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2M S2 Grupa 6</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>2 Marketing</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>2MK Grupa 1</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2MK Grupa 2</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2MK Grupa 3</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2MK Grupa 4</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>2MK Grupa 5</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>Anul 3</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>3 Management Seria 1</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3M S1 Grupa 1</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3M S1 Grupa 2</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3M S1 Grupa 3</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3M S1 Grupa 4</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3M S1 Grupa 5</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>3 Management Seria 2</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3M S2 Grupa 1</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3M S2 Grupa 2</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3M S2 Grupa 3</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3M S2 Grupa 4</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3M S2 Grupa 5</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>3 Finante-banci Seria 1</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3FB S1 Grupa 1</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3FB S1 Grupa 2</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3FB S1 Grupa 3</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3FB S1 Grupa 4</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3FB S1 Grupa 5</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>3 Finante-banci Seria 2</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3 FB S2 Grupa 1</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3 FB S2 Grupa 2</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3 FB S2 Grupa 3</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3 FB S2 Grupa 4</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3 FB S2 Grupa 5</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>3 Contabilitate si informatica de gestiune Seria 1</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3CIG S1 Grupa 1</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3CIG S1 Grupa 2</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3CIG S1 Grupa 3</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3CIG S1 Grupa 4</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3CIG S1 Grupa 5</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>3 Contabilitate si informatica de gestiune Seria 2</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3CIG S2 Grupa 1</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3CIG S2 Grupa 2</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3CIG S2 Grupa 3</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3CIG S2 Grupa 4</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3CIG S2 Grupa 5</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>3 Economie si afaceri internationale</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3EAI Grupa 1</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3EAI Grupa 2</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3EAI Grupa 3</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3EAI Grupa 4</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>3 Economie agroalimentara si a mediului</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3EAM Grupa 1</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3EAM Grupa 2</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3EAM Grupa 3</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>3 Economie si comunicare economica</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3ECE Grupa 1</Name>
-			<Number_of_Students>26</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3ECE Grupa 2</Name>
-			<Number_of_Students>26</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3ECE Grupa 3</Name>
-			<Number_of_Students>26</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3ECE Grupa 4</Name>
-			<Number_of_Students>26</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>3 Economia comertului, turismului si serviciilor</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3ECTS Grupa 1</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3ECTS Grupa 2</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3ECTS Grupa 3</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3ECTS Grupa 4</Name>
-			<Number_of_Students>25</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>3 Marketing</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3MK Grupa 1</Name>
-			<Number_of_Students>34</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3MK Grupa 2</Name>
-			<Number_of_Students>34</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3MK Grupa 3</Name>
-			<Number_of_Students>34</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3MK Grupa 4</Name>
-			<Number_of_Students>34</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3MK Grupa 5</Name>
-			<Number_of_Students>34</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>3 Informatica economica</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>3IE Grupa 1</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3IE Grupa 2</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3IE Grupa 3</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>3IE Grupa 4</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-<Year>
-	<Name>Anul 4</Name>
-	<Number_of_Students>0</Number_of_Students>
-	<Group>
-		<Name>4 Contabilitate si informatica de gestiune Seria 1</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4CIG S1 Grupa 1</Name>
-			<Number_of_Students>31</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4CIG S1 Grupa 2</Name>
-			<Number_of_Students>31</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4CIG S1 Grupa 3</Name>
-			<Number_of_Students>31</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>4 Contabilitate si informatica de gestiune Seria 2</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4CIG S2 Grupa 1</Name>
-			<Number_of_Students>31</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4CIG S2 Grupa 2</Name>
-			<Number_of_Students>31</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4CIG S2 Grupa 3</Name>
-			<Number_of_Students>31</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>4 Economia si gestiunea productiei agroalimentare</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4EGPA Grupa 1</Name>
-			<Number_of_Students>33</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>4 Economie pedagogie</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4EP Grupa 1</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4EP Grupa 2</Name>
-			<Number_of_Students>30</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>4 Finante asigurari Seria 1</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4FA S1 Grupa 1</Name>
-			<Number_of_Students>33</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4FA S1 Grupa 2</Name>
-			<Number_of_Students>33</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4FA S1 Grupa 3</Name>
-			<Number_of_Students>33</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>4 Finante asigurari Seria 2</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4FA S2 Grupa 1</Name>
-			<Number_of_Students>33</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4FA S2 Grupa 2</Name>
-			<Number_of_Students>33</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4FA S2 Grupa 3</Name>
-			<Number_of_Students>33</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>4 Informatica economica</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4IE Grupa 1</Name>
-			<Number_of_Students>26</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4IE Grupa 2</Name>
-			<Number_of_Students>26</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4IE Grupa 3</Name>
-			<Number_of_Students>26</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>4 Managementul firmei Seria 1</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4MF S1 Grupa 1</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4MF S1 Grupa 2</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4MF S1 Grupa 3</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>4 Managementul firmei Seria 2</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4MF S2 Grupa 1</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4MF S2 Grupa 2</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4MF S2 Grupa 3</Name>
-			<Number_of_Students>32</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>4 Marketing</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4MKT Grupa 1</Name>
-			<Number_of_Students>33</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4MKT Grupa 2</Name>
-			<Number_of_Students>33</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4MKT Grupa 3</Name>
-			<Number_of_Students>33</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>4 Tranzactii internationale</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4TI Grupa 1</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4TI Grupa 2</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4TI Grupa 3</Name>
-			<Number_of_Students>29</Number_of_Students>
-		</Subgroup>
-	</Group>
-	<Group>
-		<Name>4 Turism servicii</Name>
-		<Number_of_Students>0</Number_of_Students>
-		<Subgroup>
-			<Name>4TS Grupa 1</Name>
-			<Number_of_Students>33</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4TS Grupa 2</Name>
-			<Number_of_Students>33</Number_of_Students>
-		</Subgroup>
-		<Subgroup>
-			<Name>4TS Grupa 3</Name>
-			<Number_of_Students>33</Number_of_Students>
-		</Subgroup>
-	</Group>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>Abanaritei L</Name>
-</Teacher>
-<Teacher>
-	<Name>Abrudan D</Name>
-</Teacher>
-<Teacher>
-	<Name>Adam C</Name>
-</Teacher>
-<Teacher>
-	<Name>Adamovici S</Name>
-</Teacher>
-<Teacher>
-	<Name>Almasan A</Name>
-</Teacher>
-<Teacher>
-	<Name>Babaita C</Name>
-</Teacher>
-<Teacher>
-	<Name>Bailesteanu G</Name>
-</Teacher>
-<Teacher>
-	<Name>Balan G</Name>
-</Teacher>
-<Teacher>
-	<Name>Barna F</Name>
-</Teacher>
-<Teacher>
-	<Name>Bibu N</Name>
-</Teacher>
-<Teacher>
-	<Name>Biriescu S</Name>
-</Teacher>
-<Teacher>
-	<Name>Bizerea M</Name>
-</Teacher>
-<Teacher>
-	<Name>Bizoi G</Name>
-</Teacher>
-<Teacher>
-	<Name>Blendea B</Name>
-</Teacher>
-<Teacher>
-	<Name>Blidisel R</Name>
-</Teacher>
-<Teacher>
-	<Name>Bobitan N</Name>
-</Teacher>
-<Teacher>
-	<Name>Boldea B</Name>
-</Teacher>
-<Teacher>
-	<Name>Boldea I</Name>
-</Teacher>
-<Teacher>
-	<Name>Boldea Maria</Name>
-</Teacher>
-<Teacher>
-	<Name>Boldea Monica</Name>
-</Teacher>
-<Teacher>
-	<Name>Boleantu M</Name>
-</Teacher>
-<Teacher>
-	<Name>Botoc C</Name>
-</Teacher>
-<Teacher>
-	<Name>Brancu L</Name>
-</Teacher>
-<Teacher>
-	<Name>Brandas C</Name>
-</Teacher>
-<Teacher>
-	<Name>Brindescu D</Name>
-</Teacher>
-<Teacher>
-	<Name>Buglea A</Name>
-</Teacher>
-<Teacher>
-	<Name>Bunget O</Name>
-</Teacher>
-<Teacher>
-	<Name>Burz R</Name>
-</Teacher>
-<Teacher>
-	<Name>Butuza A</Name>
-</Teacher>
-<Teacher>
-	<Name>Caciuc L</Name>
-</Teacher>
-<Teacher>
-	<Name>Capotescu V</Name>
-</Teacher>
-<Teacher>
-	<Name>Carlan O</Name>
-</Teacher>
-<Teacher>
-	<Name>Catanescu G</Name>
-</Teacher>
-<Teacher>
-	<Name>Cazan E</Name>
-</Teacher>
-<Teacher>
-	<Name>Cerna S</Name>
-</Teacher>
-<Teacher>
-	<Name>Chereji C</Name>
-</Teacher>
-<Teacher>
-	<Name>Chilarescu C</Name>
-</Teacher>
-<Teacher>
-	<Name>Chilarescu L</Name>
-</Teacher>
-<Teacher>
-	<Name>Ciocani A-M</Name>
-</Teacher>
-<Teacher>
-	<Name>Ciorica O</Name>
-</Teacher>
-<Teacher>
-	<Name>Circa C</Name>
-</Teacher>
-<Teacher>
-	<Name>Cismas L</Name>
-</Teacher>
-<Teacher>
-	<Name>Corduneanu C</Name>
-</Teacher>
-<Teacher>
-	<Name>Cosma D</Name>
-</Teacher>
-<Teacher>
-	<Name>Cotlet D</Name>
-</Teacher>
-<Teacher>
-	<Name>Craciunescu A</Name>
-</Teacher>
-<Teacher>
-	<Name>Crasneac A</Name>
-</Teacher>
-<Teacher>
-	<Name>Cristea H</Name>
-</Teacher>
-<Teacher>
-	<Name>Cristea S</Name>
-</Teacher>
-<Teacher>
-	<Name>Cristescu I</Name>
-</Teacher>
-<Teacher>
-	<Name>Croitoru M</Name>
-</Teacher>
-<Teacher>
-	<Name>Dadalau D</Name>
-</Teacher>
-<Teacher>
-	<Name>Danaiata D</Name>
-</Teacher>
-<Teacher>
-	<Name>Daogaru L</Name>
-</Teacher>
-<Teacher>
-	<Name>Daubner H</Name>
-</Teacher>
-<Teacher>
-	<Name>Dima B</Name>
-</Teacher>
-<Teacher>
-	<Name>Dinu C</Name>
-</Teacher>
-<Teacher>
-	<Name>Dobre C</Name>
-</Teacher>
-<Teacher>
-	<Name>Dobrican O</Name>
-</Teacher>
-<Teacher>
-	<Name>Dogariu E</Name>
-</Teacher>
-<Teacher>
-	<Name>Domil A</Name>
-</Teacher>
-<Teacher>
-	<Name>Donath L</Name>
-</Teacher>
-<Teacher>
-	<Name>Dragomir A</Name>
-</Teacher>
-<Teacher>
-	<Name>Dumiter F</Name>
-</Teacher>
-<Teacher>
-	<Name>Dumitrescu A</Name>
-</Teacher>
-<Teacher>
-	<Name>Dumitrescu D</Name>
-</Teacher>
-<Teacher>
-	<Name>Duta A</Name>
-</Teacher>
-<Teacher>
-	<Name>Dutu C</Name>
-</Teacher>
-<Teacher>
-	<Name>Enache C</Name>
-</Teacher>
-<Teacher>
-	<Name>Falnita E</Name>
-</Teacher>
-<Teacher>
-	<Name>Farcane N</Name>
-</Teacher>
-<Teacher>
-	<Name>Feder E</Name>
-</Teacher>
-<Teacher>
-	<Name>Foltean F</Name>
-</Teacher>
-<Teacher>
-	<Name>Giulvezan C</Name>
-</Teacher>
-<Teacher>
-	<Name>Gligor Delia</Name>
-</Teacher>
-<Teacher>
-	<Name>Gligor Diana</Name>
-</Teacher>
-<Teacher>
-	<Name>Goje G</Name>
-</Teacher>
-<Teacher>
-	<Name>Golet I</Name>
-</Teacher>
-<Teacher>
-	<Name>Grecu E</Name>
-</Teacher>
-<Teacher>
-	<Name>Grosu C</Name>
-</Teacher>
-<Teacher>
-	<Name>Halmajan H</Name>
-</Teacher>
-<Teacher>
-	<Name>Hategan C</Name>
-</Teacher>
-<Teacher>
-	<Name>Hauer I</Name>
-</Teacher>
-<Teacher>
-	<Name>Herbei M</Name>
-</Teacher>
-<Teacher>
-	<Name>Hetes I</Name>
-</Teacher>
-<Teacher>
-	<Name>Hetes R</Name>
-</Teacher>
-<Teacher>
-	<Name>Hogea C</Name>
-</Teacher>
-<Teacher>
-	<Name>Hurbean C</Name>
-</Teacher>
-<Teacher>
-	<Name>Hurbean L</Name>
-</Teacher>
-<Teacher>
-	<Name>Igna C</Name>
-</Teacher>
-<Teacher>
-	<Name>Imbrescu C</Name>
-</Teacher>
-<Teacher>
-	<Name>Imbrescu I</Name>
-</Teacher>
-<Teacher>
-	<Name>Ineovan F</Name>
-</Teacher>
-<Teacher>
-	<Name>Ionescu Gh</Name>
-</Teacher>
-<Teacher>
-	<Name>Iosif A</Name>
-</Teacher>
-<Teacher>
-	<Name>Iova I</Name>
-</Teacher>
-<Teacher>
-	<Name>Iovu L</Name>
-</Teacher>
-<Teacher>
-	<Name>Istodor D</Name>
-</Teacher>
-<Teacher>
-	<Name>Jivan A</Name>
-</Teacher>
-<Teacher>
-	<Name>Kelemen M</Name>
-</Teacher>
-<Teacher>
-	<Name>Ladar L</Name>
-</Teacher>
-<Teacher>
-	<Name>Lala I</Name>
-</Teacher>
-<Teacher>
-	<Name>Lapugean R</Name>
-</Teacher>
-<Teacher>
-	<Name>Lavrits P</Name>
-</Teacher>
-<Teacher>
-	<Name>Lobont O</Name>
-</Teacher>
-<Teacher>
-	<Name>Lupa N</Name>
-</Teacher>
-<Teacher>
-	<Name>Maghetiu A</Name>
-</Teacher>
-<Teacher>
-	<Name>Man C</Name>
-</Teacher>
-<Teacher>
-	<Name>Manea L</Name>
-</Teacher>
-<Teacher>
-	<Name>Margea M</Name>
-</Teacher>
-<Teacher>
-	<Name>Marineasa V</Name>
-</Teacher>
-<Teacher>
-	<Name>Mates D</Name>
-</Teacher>
-<Teacher>
-	<Name>Megan O</Name>
-</Teacher>
-<Teacher>
-	<Name>Miclea C</Name>
-</Teacher>
-<Teacher>
-	<Name>Miculeac M</Name>
-</Teacher>
-<Teacher>
-	<Name>Miculescu A</Name>
-</Teacher>
-<Teacher>
-	<Name>Mihai I</Name>
-</Teacher>
-<Teacher>
-	<Name>Milos M</Name>
-</Teacher>
-<Teacher>
-	<Name>Mircea G</Name>
-</Teacher>
-<Teacher>
-	<Name>Miru O</Name>
-</Teacher>
-<Teacher>
-	<Name>Moise J</Name>
-</Teacher>
-<Teacher>
-	<Name>Moldovan N</Name>
-</Teacher>
-<Teacher>
-	<Name>Moraru M</Name>
-</Teacher>
-<Teacher>
-	<Name>Mosneagu D</Name>
-</Teacher>
-<Teacher>
-	<Name>Muntean C</Name>
-</Teacher>
-<Teacher>
-	<Name>Muntean M</Name>
-</Teacher>
-<Teacher>
-	<Name>Munteanu V</Name>
-</Teacher>
-<Teacher>
-	<Name>Mura O</Name>
-</Teacher>
-<Teacher>
-	<Name>Mutascu M</Name>
-</Teacher>
-<Teacher>
-	<Name>Naghi R</Name>
-</Teacher>
-<Teacher>
-	<Name>Neamtu M</Name>
-</Teacher>
-<Teacher>
-	<Name>Negrut C</Name>
-</Teacher>
-<Teacher>
-	<Name>Negrut L</Name>
-</Teacher>
-<Teacher>
-	<Name>Negrut V</Name>
-</Teacher>
-<Teacher>
-	<Name>Nicolescu C</Name>
-</Teacher>
-<Teacher>
-	<Name>Nicu I</Name>
-</Teacher>
-<Teacher>
-	<Name>Nitu Antonie R</Name>
-</Teacher>
-<Teacher>
-	<Name>Novac E</Name>
-</Teacher>
-<Teacher>
-	<Name>Oarga V</Name>
-</Teacher>
-<Teacher>
-	<Name>Olinghieru L</Name>
-</Teacher>
-<Teacher>
-	<Name>Oprescu A</Name>
-</Teacher>
-<Teacher>
-	<Name>Otil M</Name>
-</Teacher>
-<Teacher>
-	<Name>Pantea M</Name>
-</Teacher>
-<Teacher>
-	<Name>Para I</Name>
-</Teacher>
-<Teacher>
-	<Name>Parean M</Name>
-</Teacher>
-<Teacher>
-	<Name>Parjol F</Name>
-</Teacher>
-<Teacher>
-	<Name>Pasat M</Name>
-</Teacher>
-<Teacher>
-	<Name>Patru R</Name>
-</Teacher>
-<Teacher>
-	<Name>Pavel C</Name>
-</Teacher>
-<Teacher>
-	<Name>Pelin A</Name>
-</Teacher>
-<Teacher>
-	<Name>Peres C</Name>
-</Teacher>
-<Teacher>
-	<Name>Peres I</Name>
-</Teacher>
-<Teacher>
-	<Name>Petrescu C</Name>
-</Teacher>
-<Teacher>
-	<Name>Petrisor I</Name>
-</Teacher>
-<Teacher>
-	<Name>Pintea M</Name>
-</Teacher>
-<Teacher>
-	<Name>Pirtea Marilen</Name>
-</Teacher>
-<Teacher>
-	<Name>Pirtea Mihaela</Name>
-</Teacher>
-<Teacher>
-	<Name>Popa C</Name>
-</Teacher>
-<Teacher>
-	<Name>Popitiu</Name>
-</Teacher>
-<Teacher>
-	<Name>Popovici A</Name>
-</Teacher>
-<Teacher>
-	<Name>Prada S</Name>
-</Teacher>
-<Teacher>
-	<Name>Preda C</Name>
-</Teacher>
-<Teacher>
-	<Name>Preda Gh</Name>
-</Teacher>
-<Teacher>
-	<Name>Prediscan M</Name>
-</Teacher>
-<Teacher>
-	<Name>Putz E</Name>
-</Teacher>
-<Teacher>
-	<Name>Regep H</Name>
-</Teacher>
-<Teacher>
-	<Name>Roibu C</Name>
-</Teacher>
-<Teacher>
-	<Name>Roja A</Name>
-</Teacher>
-<Teacher>
-	<Name>Rotariu I</Name>
-</Teacher>
-<Teacher>
-	<Name>Rotaru M</Name>
-</Teacher>
-<Teacher>
-	<Name>Roth A</Name>
-</Teacher>
-<Teacher>
-	<Name>Sacui V</Name>
-</Teacher>
-<Teacher>
-	<Name>Sala D</Name>
-</Teacher>
-<Teacher>
-	<Name>Samuila A</Name>
-</Teacher>
-<Teacher>
-	<Name>Saratean E</Name>
-</Teacher>
-<Teacher>
-	<Name>Schneider S</Name>
-</Teacher>
-<Teacher>
-	<Name>Serbanescu S</Name>
-</Teacher>
-<Teacher>
-	<Name>Seulean V</Name>
-</Teacher>
-<Teacher>
-	<Name>Severeanu R</Name>
-</Teacher>
-<Teacher>
-	<Name>Silasi G</Name>
-</Teacher>
-<Teacher>
-	<Name>Sipos C</Name>
-</Teacher>
-<Teacher>
-	<Name>Sipos G</Name>
-</Teacher>
-<Teacher>
-	<Name>Sirghi N</Name>
-</Teacher>
-<Teacher>
-	<Name>Son L</Name>
-</Teacher>
-<Teacher>
-	<Name>Sopoian D</Name>
-</Teacher>
-<Teacher>
-	<Name>Stan A</Name>
-</Teacher>
-<Teacher>
-	<Name>Stanciu D</Name>
-</Teacher>
-<Teacher>
-	<Name>Stefan L</Name>
-</Teacher>
-<Teacher>
-	<Name>Stefea P</Name>
-</Teacher>
-<Teacher>
-	<Name>Stirbu D</Name>
-</Teacher>
-<Teacher>
-	<Name>Talpos I</Name>
-</Teacher>
-<Teacher>
-	<Name>Tarnoveanu D</Name>
-</Teacher>
-<Teacher>
-	<Name>Tecuschi G</Name>
-</Teacher>
-<Teacher>
-	<Name>Topuzu E</Name>
-</Teacher>
-<Teacher>
-	<Name>Turcas D</Name>
-</Teacher>
-<Teacher>
-	<Name>Ungureanu A</Name>
-</Teacher>
-<Teacher>
-	<Name>Vadasan I</Name>
-</Teacher>
-<Teacher>
-	<Name>Veche B</Name>
-</Teacher>
-<Teacher>
-	<Name>Viasu I</Name>
-</Teacher>
-<Teacher>
-	<Name>Vlad S</Name>
-</Teacher>
-<Teacher>
-	<Name>Voicu M</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>Afaceri electronice</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Agromarketing</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Amenajari turistice</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Analiza economica</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Analiza economico-financiara</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Analiza si proiectarea sistemelor informatice</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Asigurari comerciale</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Audit financiar contabil</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Audit intern</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Baze de date avansate</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Bazele contabilitatii</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Cercetari de marketing</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Cibernetica economica</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Comert international</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Comportament organizational</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Comportamentul consumatorului</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Comunicare organizationala</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Comunicare si negociere in afaceri</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Comunicare si relatii publice</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Concurenta si preturi</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Conducea afacerilor</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Contabilitate aprofundata</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Contabilitate comparata</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Contabilitate de gestiune</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Contabilitate si gestiune fiscala</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Contabilitatea institutiilor de credit</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Contabilitatea societatilor de asigurari</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Control financiar si expertiza</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Documentatia tehnico-economica a investitiilor</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Drept comercial international</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Econometrie</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Economia industria si serviciile rurale</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Economia intreprinderii</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Economia mediului</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Economia sectoarelor si politici sectoriale</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Economia serviciilor</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Economia si politica agroalimentara</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Economie internationala</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Economie mondiala</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Economie monetara internationala</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Economie monetara si financiara internationala</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Economie si dezvoltare regionala</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Economie si dezvoltare rurala</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Economie si integrare europeana</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Economie si politici regionale</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Eficienta economica a investitiilor</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Epistemologie</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Evaluarea intreprinderii</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Evaluarea si finantarea investitiilor intreprinderii</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Expertiza contabila</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Fictiv</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Finante publice</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Firme multinationale</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Fundamentele comunicarii</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Gestiunea financiara a intreprinderii</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Gestiunea portofoliilor de titluri financiare</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Gestiunea si contabilitatea valorilor mobiliare</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Institutii si mecanisme monetare</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Integrare agroalimentara</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Istorie economica</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Lab.info.</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Limba engleza</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Limba franceza</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Limba germana</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Limba straina 1</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Limba straina 2</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Logistica</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Logistica internationala</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Macroeconomie</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Management comparat</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Management international</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Management operational</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul IMM-urilor</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul aprovizionarii</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul aprovizionarii AA</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul asigurarii cu resurse materiale</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul calitatii</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul calitatii serviciilor</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul calitatii totale</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul costurilor</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul exploatatiilor agricole</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul informatiilor si al cunostiintelor</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul intreprinderilor agroalimentare</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul operatiunilor de comert exterior</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul productiei</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul produselor si marcilor</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul proiectelor</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul resurselor umane</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul serviciilor</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Managementul vanzarilor</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Marketing B2B</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Marketing bancar</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Marketing direct</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Marketing international</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Marketing strategic</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Marketing turistic</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Marketingul organizatiilor non-profit</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Marketingul serviciilor</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Mecanisme monetare internationale</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Medii de programare vizuala</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Microeconomie aprofundata</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Moneda si credit</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Operatiunile institutiilor de credit</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Piata unica europeana</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Piete de capital</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Politici agroalimentare comparate</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Politici economice comparate</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Politici economice conjuncturale</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Preturi si tarife</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Previziune si strategii macroeconomice</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Programarea operativa a productiei</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Proiectarea sistemelor informatice economice</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Proiecte de marketing</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Proiecte economice</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Proiecte economice in contabilitate</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Proiecte informatice</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Protectia si securitatea sistemelor informatice</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Publicitate si promovarea vanzarilor</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Relatii economice internationale</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Relatii publice</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Retele de calculatoare</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Securitatea si controlul sistemelor informatice</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sisteme ERP</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sisteme expert de gestiune</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sisteme informatice in tranzactii internationale</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sisteme informatice in turism</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sisteme informatice pentru asistarea deciziilor</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sisteme informatice pentru marketing</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sisteme inteligente in economie</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sisteme pentru asistarea deciziei</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Sistemul vamal</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Societati multinationale</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Statistica</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Strategii in turism</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Strategii si tehnici promotionale</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Structuri de date</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Tehnica operatiunilor de comert international</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Tehnica platilor internationale</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Tehnici de negociere</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Tehnici promotionale</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Telemarketing</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Teorii economice contemporane</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>Ziaristica economica</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>curs</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>seminar</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>c.opt.</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>s.opt.</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>sem.la doua sapt.</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>s.opt.la doua saptamani</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>curs+seminar</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>curs+sem.opt.</Name>
+	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Abanaritei L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Abrudan D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Adam C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Adamovici S</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Almasan A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Babaita C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Bailesteanu G</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Balan G</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Barna F</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Bibu N</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Biriescu S</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Bizerea M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Bizoi G</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Blendea B</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Blidisel R</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Bobitan N</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Boldea B</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Boldea I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Boldea Maria</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Boldea Monica</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Boleantu M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Botoc C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Brancu L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Brandas C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Brindescu D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Buglea A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Bunget O</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Burz R</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Butuza A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Caciuc L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Capotescu V</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Carlan O</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Catanescu G</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Cazan E</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Cerna S</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Chereji C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Chilarescu C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Chilarescu L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ciocani A-M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ciorica O</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Circa C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Cismas L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Corduneanu C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Cosma D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Cotlet D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Craciunescu A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Crasneac A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Cristea H</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Cristea S</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Cristescu I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Croitoru M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dadalau D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Danaiata D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Daogaru L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Daubner H</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dima B</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dinu C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dobre C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dobrican O</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dogariu E</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Domil A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Donath L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dragomir A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dumiter F</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dumitrescu A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dumitrescu D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Duta A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dutu C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Enache C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Falnita E</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Farcane N</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Feder E</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Foltean F</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Giulvezan C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Gligor Delia</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Gligor Diana</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Goje G</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Golet I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Grecu E</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Grosu C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Halmajan H</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Hategan C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Hauer I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Herbei M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Hetes I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Hetes R</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Hogea C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Hurbean C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Hurbean L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Igna C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Imbrescu C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Imbrescu I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ineovan F</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ionescu Gh</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Iosif A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Iova I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Iovu L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Istodor D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Jivan A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Kelemen M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ladar L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Lala I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Lapugean R</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Lavrits P</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Lobont O</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Lupa N</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Maghetiu A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Man C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Manea L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Margea M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Marineasa V</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mates D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Megan O</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Miclea C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Miculeac M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Miculescu A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mihai I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Milos M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mircea G</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Miru O</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Moise J</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Moldovan N</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Moraru M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mosneagu D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Muntean C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Muntean M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Munteanu V</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mura O</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mutascu M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Naghi R</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Neamtu M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Negrut C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Negrut L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Negrut V</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Nicolescu C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Nicu I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Nitu Antonie R</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Novac E</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Oarga V</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Olinghieru L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Oprescu A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Otil M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Pantea M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Para I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Parean M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Parjol F</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Pasat M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Patru R</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Pavel C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Pelin A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Peres C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Peres I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Petrescu C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Petrisor I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Pintea M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Pirtea Marilen</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Pirtea Mihaela</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Popa C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Popitiu</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Popovici A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Prada S</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Preda C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Preda Gh</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Prediscan M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Putz E</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Regep H</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Roibu C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Roja A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rotariu I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Rotaru M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Roth A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sacui V</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sala D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Samuila A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Saratean E</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Schneider S</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Serbanescu S</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Seulean V</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Severeanu R</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Silasi G</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sipos C</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sipos G</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sirghi N</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Son L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Sopoian D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Stan A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Stanciu D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Stefan L</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Stefea P</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Stirbu D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Talpos I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Tarnoveanu D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Tecuschi G</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Topuzu E</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Turcas D</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Ungureanu A</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Vadasan I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Veche B</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Viasu I</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Vlad S</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Voicu M</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>Anul 1</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>1 Seria 1</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1S1 Grupa 1</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S1 Grupa 2</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S1 Grupa 3</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S1 Grupa 4</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S1 Grupa 5</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S1 Grupa 6</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1 Seria 2</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1S2 Grupa 1</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S2 Grupa 2</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S2 Grupa 3</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S2 Grupa 4</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S2 Grupa 5</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S2 Grupa 6</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1 Seria 3</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1S3 Grupa 1</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S3 Grupa 2</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S3 Grupa 3</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S3 Grupa 4</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S3 Grupa 5</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S3 Grupa 6</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1 Seria 4</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1S4 Grupa 1</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S4 Grupa 2</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S4 Grupa 3</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S4 Grupa 4</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S4 Grupa 5</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S4 Grupa 6</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1 Seria 5</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1S5 Grupa 1</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S5 Grupa 2</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S5 Grupa 3</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S5 Grupa 4</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S5 Grupa 5</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S5 Grupa 6</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1 Seria 6</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1S6 Grupa 1</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S6 Grupa 2</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S6 Grupa 3</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S6 Grupa 4</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S6 Grupa 5</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S6 Grupa 6</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1 Seria 7</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1S7 Grupa 1</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S7 Grupa 2</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S7 Grupa 3</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S7 Grupa 4</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S7 Grupa 5</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S7 Grupa 6</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1 Seria 8</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1S8 Grupa 1</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S8 Grupa 2</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S8 Grupa 3</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S8 Grupa 4</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S8 Grupa 5</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S8 Grupa 6</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1 Seria 9</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1S9 Grupa 1</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S9 Grupa 2</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S9 Grupa 3</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S9 Grupa 4</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S9 Grupa 5</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S9 Grupa 6</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>1 Seria 10</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>1S10 Grupa 1</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S10 Grupa 2</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S10 Grupa 3</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S10 Grupa 4</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S10 Grupa 5</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>1S10 Grupa 6</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>Anul 2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>2 Contabilitate si informatica de gestiune Seria 1</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2CIG S1 Grupa 1</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2CIG S1 Grupa 2</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2CIG S1 Grupa 3</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2CIG S1 Grupa 4</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2CIG S1 Grupa 5</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2CIG S1 Grupa 6</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>2 Contabilitate si informatica de gestiune Seria 2</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2CIG S2 Grupa 1</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2CIG S2 Grupa 2</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2CIG S2 Grupa 3</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2CIG S2 Grupa 4</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2CIG S2 Grupa 5</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2CIG S2 Grupa 6</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>2 Economia comertului, turismului si serviciilor</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2ECTS Grupa 1</Name>
+			<Number_of_Students>20</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2ECTS Grupa 2</Name>
+			<Number_of_Students>20</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2ECTS Grupa 3</Name>
+			<Number_of_Students>20</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>2 Economie agroalimentara si a mediului</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2EAM Grupa 1</Name>
+			<Number_of_Students>17</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2EAM Grupa 2</Name>
+			<Number_of_Students>17</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2EAM Grupa 3</Name>
+			<Number_of_Students>17</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>2 Economie si afaceri internationale</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2EAI Grupa 1</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2EAI Grupa 2</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2EAI Grupa 3</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>2 Economie si comunicare economica</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2ECE Grupa 1</Name>
+			<Number_of_Students>16</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2ECE Grupa 2</Name>
+			<Number_of_Students>16</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2ECE Grupa 3</Name>
+			<Number_of_Students>16</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>2 Finante-banci Seria 1</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2FB S1 Grupa 1</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2FB S1 Grupa 2</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2FB S1 Grupa 3</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2FB S1 Grupa 4</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2FB S1 Grupa 5</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2FB S1 Grupa 6</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>2 Finante-banci Seria 2</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2FB S2 Grupa 1</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2FB S2 Grupa 2</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2FB S2 Grupa 3</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2FB S2 Grupa 4</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2FB S2 Grupa 5</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2FB S2 Grupa 6</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>2 Informatica economica</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2IE Grupa 1</Name>
+			<Number_of_Students>28</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2IE Grupa 2</Name>
+			<Number_of_Students>28</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2IE Grupa 3</Name>
+			<Number_of_Students>28</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2IE Grupa 4</Name>
+			<Number_of_Students>28</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2IE Grupa 5</Name>
+			<Number_of_Students>28</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>2 Management Seria 1</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2M S1 Grupa 1</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2M S1 Grupa 2</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2M S1 Grupa 3</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2M S1 Grupa 4</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2M S1 Grupa 5</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2M S1 Grupa 6</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>2 Management Seria 2</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2M S2 Grupa 1</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2M S2 Grupa 2</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2M S2 Grupa 3</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2M S2 Grupa 4</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2M S2 Grupa 5</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2M S2 Grupa 6</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>2 Marketing</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>2MK Grupa 1</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2MK Grupa 2</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2MK Grupa 3</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2MK Grupa 4</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>2MK Grupa 5</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>Anul 3</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>3 Management Seria 1</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3M S1 Grupa 1</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3M S1 Grupa 2</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3M S1 Grupa 3</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3M S1 Grupa 4</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3M S1 Grupa 5</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>3 Management Seria 2</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3M S2 Grupa 1</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3M S2 Grupa 2</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3M S2 Grupa 3</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3M S2 Grupa 4</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3M S2 Grupa 5</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>3 Finante-banci Seria 1</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3FB S1 Grupa 1</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3FB S1 Grupa 2</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3FB S1 Grupa 3</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3FB S1 Grupa 4</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3FB S1 Grupa 5</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>3 Finante-banci Seria 2</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3 FB S2 Grupa 1</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3 FB S2 Grupa 2</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3 FB S2 Grupa 3</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3 FB S2 Grupa 4</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3 FB S2 Grupa 5</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>3 Contabilitate si informatica de gestiune Seria 1</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3CIG S1 Grupa 1</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3CIG S1 Grupa 2</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3CIG S1 Grupa 3</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3CIG S1 Grupa 4</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3CIG S1 Grupa 5</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>3 Contabilitate si informatica de gestiune Seria 2</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3CIG S2 Grupa 1</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3CIG S2 Grupa 2</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3CIG S2 Grupa 3</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3CIG S2 Grupa 4</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3CIG S2 Grupa 5</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>3 Economie si afaceri internationale</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3EAI Grupa 1</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3EAI Grupa 2</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3EAI Grupa 3</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3EAI Grupa 4</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>3 Economie agroalimentara si a mediului</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3EAM Grupa 1</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3EAM Grupa 2</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3EAM Grupa 3</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>3 Economie si comunicare economica</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3ECE Grupa 1</Name>
+			<Number_of_Students>26</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3ECE Grupa 2</Name>
+			<Number_of_Students>26</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3ECE Grupa 3</Name>
+			<Number_of_Students>26</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3ECE Grupa 4</Name>
+			<Number_of_Students>26</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>3 Economia comertului, turismului si serviciilor</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3ECTS Grupa 1</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3ECTS Grupa 2</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3ECTS Grupa 3</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3ECTS Grupa 4</Name>
+			<Number_of_Students>25</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>3 Marketing</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3MK Grupa 1</Name>
+			<Number_of_Students>34</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3MK Grupa 2</Name>
+			<Number_of_Students>34</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3MK Grupa 3</Name>
+			<Number_of_Students>34</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3MK Grupa 4</Name>
+			<Number_of_Students>34</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3MK Grupa 5</Name>
+			<Number_of_Students>34</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>3 Informatica economica</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>3IE Grupa 1</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3IE Grupa 2</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3IE Grupa 3</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>3IE Grupa 4</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+<Year>
+	<Name>Anul 4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>4 Contabilitate si informatica de gestiune Seria 1</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4CIG S1 Grupa 1</Name>
+			<Number_of_Students>31</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4CIG S1 Grupa 2</Name>
+			<Number_of_Students>31</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4CIG S1 Grupa 3</Name>
+			<Number_of_Students>31</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>4 Contabilitate si informatica de gestiune Seria 2</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4CIG S2 Grupa 1</Name>
+			<Number_of_Students>31</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4CIG S2 Grupa 2</Name>
+			<Number_of_Students>31</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4CIG S2 Grupa 3</Name>
+			<Number_of_Students>31</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>4 Economia si gestiunea productiei agroalimentare</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4EGPA Grupa 1</Name>
+			<Number_of_Students>33</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>4 Economie pedagogie</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4EP Grupa 1</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4EP Grupa 2</Name>
+			<Number_of_Students>30</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>4 Finante asigurari Seria 1</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4FA S1 Grupa 1</Name>
+			<Number_of_Students>33</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4FA S1 Grupa 2</Name>
+			<Number_of_Students>33</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4FA S1 Grupa 3</Name>
+			<Number_of_Students>33</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>4 Finante asigurari Seria 2</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4FA S2 Grupa 1</Name>
+			<Number_of_Students>33</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4FA S2 Grupa 2</Name>
+			<Number_of_Students>33</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4FA S2 Grupa 3</Name>
+			<Number_of_Students>33</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>4 Informatica economica</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4IE Grupa 1</Name>
+			<Number_of_Students>26</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4IE Grupa 2</Name>
+			<Number_of_Students>26</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4IE Grupa 3</Name>
+			<Number_of_Students>26</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>4 Managementul firmei Seria 1</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4MF S1 Grupa 1</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4MF S1 Grupa 2</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4MF S1 Grupa 3</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>4 Managementul firmei Seria 2</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4MF S2 Grupa 1</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4MF S2 Grupa 2</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4MF S2 Grupa 3</Name>
+			<Number_of_Students>32</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>4 Marketing</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4MKT Grupa 1</Name>
+			<Number_of_Students>33</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4MKT Grupa 2</Name>
+			<Number_of_Students>33</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4MKT Grupa 3</Name>
+			<Number_of_Students>33</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>4 Tranzactii internationale</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4TI Grupa 1</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4TI Grupa 2</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4TI Grupa 3</Name>
+			<Number_of_Students>29</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+	<Group>
+		<Name>4 Turism servicii</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+		<Subgroup>
+			<Name>4TS Grupa 1</Name>
+			<Number_of_Students>33</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4TS Grupa 2</Name>
+			<Number_of_Students>33</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+		<Subgroup>
+			<Name>4TS Grupa 3</Name>
+			<Number_of_Students>33</Number_of_Students>
+			<Comments></Comments>
+		</Subgroup>
+	</Group>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -16337,18 +17547,23 @@ Anul universitar 2007-2008</Comments>
 <Buildings_List>
 <Building>
 	<Name>Constructii</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>Drept</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>FSE</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>Mecanica</Name>
+	<Comments></Comments>
 </Building>
 <Building>
 	<Name>UVT</Name>
+	<Comments></Comments>
 </Building>
 </Buildings_List>
 
@@ -16357,201 +17572,241 @@ Anul universitar 2007-2008</Comments>
 	<Name>102</Name>
 	<Building>FSE</Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>104</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>105</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>106</Name>
 	<Building>FSE</Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>108</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>111</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>202</Name>
 	<Building>FSE</Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>203</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>204</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>205</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>206</Name>
 	<Building>FSE</Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>208</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>211</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>302</Name>
 	<Building>FSE</Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>303</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>304</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>305</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>306</Name>
 	<Building>FSE</Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>308</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>311</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A1 Drept</Name>
 	<Building>Drept</Building>
 	<Capacity>2520</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A127 Mecanica</Name>
 	<Building>Mecanica</Building>
 	<Capacity>1800</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A138 Mecanica</Name>
 	<Building>Mecanica</Building>
 	<Capacity>1800</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>A31 UVT</Name>
 	<Building>UVT</Building>
 	<Capacity>1590</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>ADM FSE</Name>
 	<Building>FSE</Building>
 	<Capacity>1840</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>AVV Constructii</Name>
 	<Building>Constructii</Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>D02</Name>
 	<Building>FSE</Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>D03</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>D04</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>D05</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>D06</Name>
 	<Building>FSE</Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>D12</Name>
 	<Building>FSE</Building>
 	<Capacity>300</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>D13</Name>
 	<Building>FSE</Building>
 	<Capacity>300</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>P02</Name>
 	<Building>FSE</Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>P03</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>P04</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>P05</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>P06</Name>
 	<Building>FSE</Building>
 	<Capacity>1000</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>P08</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>P11</Name>
 	<Building>FSE</Building>
 	<Capacity>400</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 

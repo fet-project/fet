@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.27.3">
+<fet version="5.30.3">
 
 <Institution_Name>دانشکده مهندسی کامپیوتر دانشگاه صنعتی شریف</Institution_Name>
 
@@ -95,330 +95,539 @@
 </Hour>
 </Hours_List>
 
-<Students_List>
-<Year>
-	<Name>-</Name>
-	<Number_of_Students>500</Number_of_Students>
-</Year>
-</Students_List>
-
-<Teachers_List>
-<Teacher>
-	<Name>ابطحی</Name>
-</Teacher>
-<Teacher>
-	<Name>ابوالحسنی</Name>
-</Teacher>
-<Teacher>
-	<Name>اجلالی</Name>
-</Teacher>
-<Teacher>
-	<Name>اسدی</Name>
-</Teacher>
-<Teacher>
-	<Name>امینی</Name>
-</Teacher>
-<Teacher>
-	<Name>اهدایی</Name>
-</Teacher>
-<Teacher>
-	<Name>ایزدی</Name>
-</Teacher>
-<Teacher>
-	<Name>برهانی</Name>
-</Teacher>
-<Teacher>
-	<Name>بیگی</Name>
-</Teacher>
-<Teacher>
-	<Name>تحویل داری</Name>
-</Teacher>
-<Teacher>
-	<Name>ثانی</Name>
-</Teacher>
-<Teacher>
-	<Name>جم زاد</Name>
-</Teacher>
-<Teacher>
-	<Name>جهانگیر</Name>
-</Teacher>
-<Teacher>
-	<Name>حاج ابوطالبی</Name>
-</Teacher>
-<Teacher>
-	<Name>حبیبی</Name>
-</Teacher>
-<Teacher>
-	<Name>حسابی</Name>
-</Teacher>
-<Teacher>
-	<Name>حساس یگانه</Name>
-</Teacher>
-<Teacher>
-	<Name>خرازی</Name>
-</Teacher>
-<Teacher>
-	<Name>رامسین</Name>
-</Teacher>
-<Teacher>
-	<Name>ربیعی</Name>
-</Teacher>
-<Teacher>
-	<Name>روحانی رانکوهی</Name>
-</Teacher>
-<Teacher>
-	<Name>شمسایی</Name>
-</Teacher>
-<Teacher>
-	<Name>صامتی</Name>
-</Teacher>
-<Teacher>
-	<Name>صفری</Name>
-</Teacher>
-<Teacher>
-	<Name>عرب یزدی</Name>
-</Teacher>
-<Teacher>
-	<Name>قدسی</Name>
-</Teacher>
-<Teacher>
-	<Name>م. جلیلی</Name>
-</Teacher>
-<Teacher>
-	<Name>موقر</Name>
-</Teacher>
-<Teacher>
-	<Name>میرعمادی</Name>
-</Teacher>
-<Teacher>
-	<Name>میریان</Name>
-</Teacher>
-<Teacher>
-	<Name>نوری</Name>
-</Teacher>
-<Teacher>
-	<Name>همت یار</Name>
-</Teacher>
-<Teacher>
-	<Name>کسائی</Name>
-</Teacher>
-<Teacher>
-	<Name>گنجو حقیقی</Name>
-</Teacher>
-<Teacher>
-	<Name>گودرزی</Name>
-</Teacher>
-</Teachers_List>
-
 <Subjects_List>
 <Subject>
 	<Name>آمار و احتمال مهندسی</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>آژمون پذیری</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ارائه مطالب</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ارزیابی کارایی شبکه های کام</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>الکترونیک دیجیتال</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>الگوریتم های پیشرفته</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>امنیت شبکه</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>انتقال داده</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>برنامه ریزی در هوش مصنوعی</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>برنامه سازی پاسکال</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>برنامه سازی پیشرفته</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تجزیه تحلیل سیستم ها</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>توسعه امن افزار</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>داده کاوی</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>زبان های توصیف سخت افزار</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ساختار زبان</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ساختمان داده ها</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>ساختمان گسسته</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>سیستم عامل</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>سیستم های تحمل پذیر اشکال</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>سیستم های ذخیره سازی</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>سیستم های فازی</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>سیستم های پشتیبانی تصمیم</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>سیگنالها و سیستمها</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>شبکه های دینامیکی پیچیده</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>شبکه های کامپیوتری پیشرفته</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>شبکه کامپیوتری</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>طراحی الگوریتم ها</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>طراحی زبان های برنامه سازی</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>طراحی سیستم های دیجیتال</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>طراحی سیستم های کم توان</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>طراحی شیئ گرا</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>فرایندهای تصادفی</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>فناوری اطلاعات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>مبانی برنامه سازی</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>متدولوژی ایجاد نرم افزار</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>مخابرات سیار</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>مدار فعال خطی</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>مدار منطقی</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>مدارهای الکترونیکی</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>مدارهای الکتریکی</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>مدیریت پروژه</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>معماری پیشرفته کامپیوتر</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>معماری کامپیوتر</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>مفاهیم پیشرفته علوم نظری کام</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>مفاهیم پیشرفته م سخت افزار</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>مفاهیم پیشرفته م نرم افزار</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>مفاهیم پیشرفته کامپیوتر</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>مهندسی اینترنت</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>مهندسی نرم افزار</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>نظریه زبان ها و ماشین ها</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>نظریه محاسبات</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>هوش مصنوعی</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>پردازش تصویر</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>پردازش سیگنال های ویدئو</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>پردازش علائم دیجیتال</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>پردازش گفتار</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>کامپایلر</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>یادگیری ماشین</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>پایگاه داده</Name>
+	<Comments></Comments>
 </Subject>
 <Subject>
 	<Name>تست</Name>
+	<Comments></Comments>
 </Subject>
 </Subjects_List>
 
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>تمرین</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>آز</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>3</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>2</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>کارشناسی</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>ارشد</Name>
+	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>دکتری</Name>
+	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>ابطحی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ابوالحسنی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>اجلالی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>اسدی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>امینی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>اهدایی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ایزدی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>برهانی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>بیگی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>تحویل داری</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ثانی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>جم زاد</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>جهانگیر</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>حاج ابوطالبی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>حبیبی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>حسابی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>حساس یگانه</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>خرازی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>رامسین</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ربیعی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>روحانی رانکوهی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>شمسایی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>صامتی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>صفری</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>عرب یزدی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>قدسی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>م. جلیلی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>موقر</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>میرعمادی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>میریان</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>نوری</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>همت یار</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>کسائی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>گنجو حقیقی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>گودرزی</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>-</Name>
+	<Number_of_Students>500</Number_of_Students>
+	<Comments></Comments>
+</Year>
+</Students_List>
 
 <Activities_List>
 <Activity>
@@ -2059,6 +2268,7 @@
 <Buildings_List>
 <Building>
 	<Name>دانشکده</Name>
+	<Comments></Comments>
 </Building>
 </Buildings_List>
 
@@ -2067,46 +2277,55 @@
 	<Name>007</Name>
 	<Building>دانشکده</Building>
 	<Capacity>22</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>103</Name>
 	<Building>دانشکده</Building>
 	<Capacity>52</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>203</Name>
 	<Building>دانشکده</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>202</Name>
 	<Building>دانشکده</Building>
 	<Capacity>36</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>201</Name>
 	<Building>دانشکده</Building>
 	<Capacity>60</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>402</Name>
 	<Building>دانشکده</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>404</Name>
 	<Building>دانشکده</Building>
 	<Capacity>95</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>406</Name>
 	<Building>دانشکده</Building>
 	<Capacity>30</Capacity>
+	<Comments></Comments>
 </Room>
 <Room>
 	<Name>726</Name>
 	<Building>دانشکده</Building>
 	<Capacity>45</Capacity>
+	<Comments></Comments>
 </Room>
 </Rooms_List>
 
