@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Facultatea de Economie si de Administrare a Afacerilor</Institution_Name>
 
@@ -18032,6 +18032,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>sem.la doua sapt.</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>40</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Luni</Preferred_Day>
@@ -20183,6 +20184,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>curs</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Luni</Preferred_Starting_Day>
@@ -23084,6 +23086,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>curs</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>14</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Luni</Preferred_Starting_Day>
@@ -24038,6 +24041,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Control financiar</Subject_Name>
 	<Activity_Tag_Name>seminar</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>11</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Luni</Preferred_Starting_Day>
@@ -24092,6 +24096,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Control financiar</Subject_Name>
 	<Activity_Tag_Name>seminar</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>11</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Luni</Preferred_Starting_Day>
@@ -26558,6 +26563,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Contabilitate financiara</Subject_Name>
 	<Activity_Tag_Name>seminar</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>24</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Luni</Preferred_Day>
@@ -26872,6 +26878,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>curs</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>16</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Joi</Preferred_Day>

@@ -260,6 +260,7 @@ QString conflictsStringTitle;
 
 bool WRITE_TIMETABLE_CONFLICTS=true;
 
+bool WRITE_TIMETABLES_STATISTICS=true;
 bool WRITE_TIMETABLES_XML=true;
 bool WRITE_TIMETABLES_DAYS_HORIZONTAL=true;
 bool WRITE_TIMETABLES_DAYS_VERTICAL=true;
@@ -568,6 +569,7 @@ FetMainForm::FetMainForm()
 	///
 	enableConflictsTimetableAction->setCheckable(true);
 
+	enableStatisticsTimetablesAction->setCheckable(true);
 	enableXmlTimetablesAction->setCheckable(true);
 	enableDaysHorizontalTimetablesAction->setCheckable(true);
 	enableDaysVerticalTimetablesAction->setCheckable(true);
@@ -585,6 +587,7 @@ FetMainForm::FetMainForm()
 	//
 	enableConflictsTimetableAction->setChecked(WRITE_TIMETABLE_CONFLICTS);
 
+	enableStatisticsTimetablesAction->setChecked(WRITE_TIMETABLES_STATISTICS);
 	enableXmlTimetablesAction->setChecked(WRITE_TIMETABLES_XML);
 	enableDaysHorizontalTimetablesAction->setChecked(WRITE_TIMETABLES_DAYS_HORIZONTAL);
 	enableDaysVerticalTimetablesAction->setChecked(WRITE_TIMETABLES_DAYS_VERTICAL);
@@ -755,6 +758,8 @@ void FetMainForm::populateLanguagesMap(QMap<QString, QString>& languagesMap)
 	languagesMap.insert("sq", tr("Albanian"));
 	languagesMap.insert("zh_CN", tr("Chinese Simplified"));
 	languagesMap.insert("zh_TW", tr("Chinese Traditional"));
+	languagesMap.insert("eu", tr("Basque"));
+	languagesMap.insert("cs", tr("Czech"));
 }
 
 
@@ -872,6 +877,11 @@ void FetMainForm::on_settingsDuplicateVerticalNamesAction_toggled()
 void FetMainForm::on_enableConflictsTimetableAction_toggled()
 {
 	WRITE_TIMETABLE_CONFLICTS=enableConflictsTimetableAction->isChecked();
+}
+
+void FetMainForm::on_enableStatisticsTimetablesAction_toggled()
+{
+	WRITE_TIMETABLES_STATISTICS=enableStatisticsTimetablesAction->isChecked();
 }
 
 void FetMainForm::on_enableXmlTimetablesAction_toggled()
@@ -1985,7 +1995,7 @@ void FetMainForm::on_helpSettingsAction_triggered()
 		
 	s+="\n\n";
 	
-	s+=tr("If you have many subgroups and you don't explicitely use them, it is recommended to use the three global settings: hide subgroups"
+	s+=tr("If you have many subgroups and you don't explicitly use them, it is recommended to use the three global settings: hide subgroups"
 		" in combo boxes, hide subgroups in activity planning, and do not write subgroups timetables on hard disk.");
 	s+="\n";
 	s+=tr("Note that using the global menu setting to hide subgroups in activity planning is a different thing from the check box in the activity"
@@ -3977,48 +3987,51 @@ void FetMainForm::on_settingsRestoreDefaultsAction_triggered()
 	s+="\n";
 
 	s+=tr("32")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
-	 .arg(tr("XML")).arg(tr("true"));
+	 .arg(tr("statistics")).arg(tr("true"));
 	s+="\n";
 	s+=tr("33")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
-	 .arg(tr("days horizontal")).arg(tr("true"));
+	 .arg(tr("XML")).arg(tr("true"));
 	s+="\n";
 	s+=tr("34")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
-	 .arg(tr("days vertical")).arg(tr("true"));
+	 .arg(tr("days horizontal")).arg(tr("true"));
 	s+="\n";
 	s+=tr("35")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
-	 .arg(tr("time horizontal")).arg(tr("true"));
+	 .arg(tr("days vertical")).arg(tr("true"));
 	s+="\n";
 	s+=tr("36")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
+	 .arg(tr("time horizontal")).arg(tr("true"));
+	s+="\n";
+	s+=tr("37")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
 	 .arg(tr("time vertical")).arg(tr("true"));
 	s+="\n";
 
-	s+=tr("37")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
+	s+=tr("38")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
 	 .arg(tr("subgroups")).arg(tr("true"));
 	s+="\n";
-	s+=tr("38")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
+	s+=tr("39")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
 	 .arg(tr("groups")).arg(tr("true"));
 	s+="\n";
-	s+=tr("39")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
+	s+=tr("40")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
 	 .arg(tr("years")).arg(tr("true"));
 	s+="\n";
-	s+=tr("40")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
+	s+=tr("41")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
 	 .arg(tr("teachers")).arg(tr("true"));
 	s+="\n";
-	s+=tr("41")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
+	s+=tr("42")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
 	 .arg(tr("teachers free periods")).arg(tr("true"));
 	s+="\n";
-	s+=tr("42")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
+	s+=tr("43")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
 	 .arg(tr("rooms")).arg(tr("true"));
 	s+="\n";
-	s+=tr("43")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
+	s+=tr("44")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
 	 .arg(tr("subjects")).arg(tr("true"));
 	s+="\n";
-	s+=tr("44")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
+	s+=tr("45")+QString(". ")+tr("Write on disk the %1 timetables will be %2", "%1 is a category of timetables, like XML or subgroups timetables, %2 is true or false")
 	 .arg(tr("activities")).arg(tr("true"));
 	s+="\n";
-	s+=tr("45")+QString(". ")+tr("Show tool tips for constraints with tables will be %1", "%1 is true or false").arg(tr("false"));
+	s+=tr("46")+QString(". ")+tr("Show tool tips for constraints with tables will be %1", "%1 is true or false").arg(tr("false"));
 	s+="\n";
-	s+=tr("46")+QString(". ")+tr("Show warning for subgroups with the same activities will be %1", "%1 is true or false").arg(tr("true"));
+	s+=tr("47")+QString(". ")+tr("Show warning for subgroups with the same activities will be %1", "%1 is true or false").arg(tr("true"));
 	s+="\n";
 	
 	switch( LongTextMessageBox::largeConfirmation( this, tr("FET confirmation"), s,
@@ -4069,6 +4082,7 @@ void FetMainForm::on_settingsRestoreDefaultsAction_triggered()
 	///
 	WRITE_TIMETABLE_CONFLICTS=true;
 
+	WRITE_TIMETABLES_STATISTICS=true;
 	WRITE_TIMETABLES_XML=true;
 	WRITE_TIMETABLES_DAYS_HORIZONTAL=true;
 	WRITE_TIMETABLES_DAYS_VERTICAL=true;
@@ -4086,6 +4100,7 @@ void FetMainForm::on_settingsRestoreDefaultsAction_triggered()
 	//
 	enableConflictsTimetableAction->setChecked(WRITE_TIMETABLE_CONFLICTS);
 
+	enableStatisticsTimetablesAction->setChecked(WRITE_TIMETABLES_STATISTICS);
 	enableXmlTimetablesAction->setChecked(WRITE_TIMETABLES_XML);
 	enableDaysHorizontalTimetablesAction->setChecked(WRITE_TIMETABLES_DAYS_HORIZONTAL);
 	enableDaysVerticalTimetablesAction->setChecked(WRITE_TIMETABLES_DAYS_VERTICAL);

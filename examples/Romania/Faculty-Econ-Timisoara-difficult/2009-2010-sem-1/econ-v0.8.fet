@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Facultatea de Economie si de Administrare a Afacerilor</Institution_Name>
 
@@ -20641,6 +20641,7 @@ Semestrul 1</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name>Analiza sistemelor informationale</Subject_Name>
 	<Activity_Tag_Name>lab.</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>7</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Joi</Preferred_Day>
@@ -20679,6 +20680,7 @@ Semestrul 1</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name>Baze de date</Subject_Name>
 	<Activity_Tag_Name>lab.</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>32</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Luni</Preferred_Day>
@@ -20831,6 +20833,7 @@ Semestrul 1</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>Amfiteatre</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>32</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Marti</Preferred_Day>
@@ -21004,6 +21007,7 @@ Semestrul 1</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>31</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Luni</Preferred_Day>
@@ -21166,6 +21170,7 @@ Semestrul 1</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>seminar</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>6</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Marti</Preferred_Day>
@@ -21200,6 +21205,7 @@ Semestrul 1</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>curs</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>5</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Vineri</Preferred_Day>
@@ -21442,6 +21448,7 @@ Semestrul 1</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name>Marketing</Subject_Name>
 	<Activity_Tag_Name>curs</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>4</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Joi</Preferred_Day>
@@ -21546,6 +21553,7 @@ Semestrul 1</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name>Gestiunea fluxurilor financiare ale intreprinderii</Subject_Name>
 	<Activity_Tag_Name>curs</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Marti</Preferred_Day>
@@ -21615,6 +21623,7 @@ Semestrul 1</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>curs</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>13</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Miercuri</Preferred_Day>
@@ -21744,6 +21753,7 @@ Semestrul 1</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name>Globalizare si blocuri comerciale</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>3</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Vineri</Preferred_Day>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>DGS Probsteierhagen</Institution_Name>
 
@@ -4858,6 +4858,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Sport-För</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>7</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Montag</Preferred_Day>
@@ -4896,6 +4897,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Sport-Bew</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>4</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Mittwoch</Preferred_Day>
@@ -4922,6 +4924,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Sport-ScE</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>24</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Montag</Preferred_Day>
@@ -5087,6 +5090,7 @@
 	<Students_Name>1a</Students_Name>
 	<Subject_Name>Mathe</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>16</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Montag</Preferred_Day>
@@ -5161,6 +5165,7 @@
 	<Students_Name>1b</Students_Name>
 	<Subject_Name>Deutsch</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>16</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Montag</Preferred_Day>
@@ -5235,6 +5240,7 @@
 	<Students_Name>1c</Students_Name>
 	<Subject_Name>Deutsch</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>16</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Montag</Preferred_Day>
@@ -5309,6 +5315,7 @@
 	<Students_Name>2a</Students_Name>
 	<Subject_Name>HSU</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>14</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Montag</Preferred_Day>
@@ -5375,6 +5382,7 @@
 	<Students_Name>2b</Students_Name>
 	<Subject_Name>Deutsch</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>15</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Montag</Preferred_Day>
@@ -5445,6 +5453,7 @@
 	<Students_Name>2c</Students_Name>
 	<Subject_Name>Deutsch</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>15</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Montag</Preferred_Day>
@@ -5515,6 +5524,7 @@
 	<Students_Name>2c</Students_Name>
 	<Subject_Name>HSU</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>15</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Montag</Preferred_Day>
@@ -5796,6 +5806,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>EVA</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>19</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Montag</Preferred_Day>
@@ -5882,6 +5893,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Fö-3</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>10</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Montag</Preferred_Day>
@@ -5932,6 +5944,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Fö-4</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>10</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Montag</Preferred_Day>
@@ -6751,6 +6764,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>JüV-KlL</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>14</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Montag</Preferred_Day>
@@ -7233,6 +7247,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Sport-Sch</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Freitag</Preferred_Day>

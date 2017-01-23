@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Institution</Institution_Name>
 
@@ -7446,6 +7446,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>أجازة</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>8</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>السبت</Preferred_Day>
@@ -7500,6 +7501,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>محاضرة عامة</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>24</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>السبت</Preferred_Day>
@@ -8475,6 +8477,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>تمرين دراسات عليا</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>16</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>السبت</Preferred_Starting_Day>
@@ -8549,6 +8552,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>محاضرة دراسات عليا</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>12</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>السبت</Preferred_Starting_Day>
@@ -11750,6 +11754,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>حقوق انسان</Subject_Name>
 	<Activity_Tag_Name>محاضرة عامة</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>6</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>السبت</Preferred_Starting_Day>
@@ -12459,6 +12464,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>داخلي( بدون انتداب)</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>23</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>السبت</Preferred_Day>
@@ -12561,6 +12567,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>تمرين عملي داخلي</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>24</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>السبت</Preferred_Day>
@@ -12667,6 +12674,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>تمرين نظري</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>24</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>السبت</Preferred_Day>
@@ -12773,6 +12781,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>نهاية اليوم</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>12</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>السبت</Preferred_Day>
@@ -12831,6 +12840,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>فترة للتقسيم</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>6</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>السبت</Preferred_Day>
@@ -13480,6 +13490,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>رياضيات منفصلة</Subject_Name>
 	<Activity_Tag_Name>محاضرة عامة</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>6</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>السبت</Preferred_Day>
@@ -13514,6 +13525,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>نظم التشغيل-1</Subject_Name>
 	<Activity_Tag_Name>محاضرة عامة</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>12</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>السبت</Preferred_Day>
@@ -13684,6 +13696,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>محاضرة عامة</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>السبت</Preferred_Starting_Day>
@@ -14576,6 +14589,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>_فترة_</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>19</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>السبت</Preferred_Starting_Day>
@@ -14662,6 +14676,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>_فترة_</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>19</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>السبت</Preferred_Starting_Day>
@@ -14748,6 +14763,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>_فترة_</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>26</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>السبت</Preferred_Starting_Day>

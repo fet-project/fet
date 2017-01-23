@@ -1,0 +1,1557 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<fet version="5.27.4">
+
+<Institution_Name> Département de  Mécanique - Filière Génie Mécanique. Examens S1 (2013/2014)</Institution_Name>
+
+<Comments>Examens S1 : Année Universitaire 2013/2014</Comments>
+
+<Days_List>
+<Number_of_Days>10</Number_of_Days>
+<Day>
+	<Name>16/02/2014</Name>
+</Day>
+<Day>
+	<Name>17/02/2014</Name>
+</Day>
+<Day>
+	<Name>18/02/2014</Name>
+</Day>
+<Day>
+	<Name>19/02/2014</Name>
+</Day>
+<Day>
+	<Name>20/02/2014</Name>
+</Day>
+<Day>
+	<Name>21/02/2014</Name>
+</Day>
+<Day>
+	<Name>23/02/2014</Name>
+</Day>
+<Day>
+	<Name>24/02/2014</Name>
+</Day>
+<Day>
+	<Name>25/02/2014</Name>
+</Day>
+<Day>
+	<Name>26/02/2014</Name>
+</Day>
+</Days_List>
+
+<Hours_List>
+<Number_of_Hours>2</Number_of_Hours>
+<Hour>
+	<Name>08:15 - 09:45</Name>
+</Hour>
+<Hour>
+	<Name>10:00 - 11:30</Name>
+</Hour>
+</Hours_List>
+
+<Students_List>
+<Year>
+	<Name>L2 AERO</Name>
+	<Number_of_Students>30</Number_of_Students>
+</Year>
+<Year>
+	<Name>L3 AERO</Name>
+	<Number_of_Students>30</Number_of_Students>
+</Year>
+<Year>
+	<Name>L3 BIO</Name>
+	<Number_of_Students>26</Number_of_Students>
+</Year>
+<Year>
+	<Name>L3 CMAO</Name>
+	<Number_of_Students>19</Number_of_Students>
+</Year>
+<Year>
+	<Name>L3 GEN</Name>
+	<Number_of_Students>32</Number_of_Students>
+	<Group>
+		<Name>Gr1</Name>
+		<Number_of_Students>20</Number_of_Students>
+	</Group>
+	<Group>
+		<Name>Gr2</Name>
+		<Number_of_Students>20</Number_of_Students>
+	</Group>
+</Year>
+<Year>
+	<Name>L3 GMM</Name>
+	<Number_of_Students>24</Number_of_Students>
+</Year>
+<Year>
+	<Name>L3 MSP</Name>
+	<Number_of_Students>30</Number_of_Students>
+	<Group>
+		<Name>L3 MER</Name>
+		<Number_of_Students>15</Number_of_Students>
+	</Group>
+	<Group>
+		<Name>L3 MMTH</Name>
+		<Number_of_Students>15</Number_of_Students>
+	</Group>
+</Year>
+<Year>
+	<Name>L3 PM</Name>
+	<Number_of_Students>22</Number_of_Students>
+</Year>
+<Year>
+	<Name>M1 BIO</Name>
+	<Number_of_Students>23</Number_of_Students>
+</Year>
+<Year>
+	<Name>M1 CSM</Name>
+	<Number_of_Students>23</Number_of_Students>
+</Year>
+<Year>
+	<Name>M1 EN</Name>
+	<Number_of_Students>21</Number_of_Students>
+	<Group>
+		<Name>G1</Name>
+		<Number_of_Students>8</Number_of_Students>
+	</Group>
+	<Group>
+		<Name>G2</Name>
+		<Number_of_Students>14</Number_of_Students>
+	</Group>
+</Year>
+<Year>
+	<Name>M1 GMM</Name>
+	<Number_of_Students>23</Number_of_Students>
+</Year>
+<Year>
+	<Name>M1 IES</Name>
+	<Number_of_Students>21</Number_of_Students>
+</Year>
+<Year>
+	<Name>M1 MP</Name>
+	<Number_of_Students>30</Number_of_Students>
+	<Group>
+		<Name>M1 MER</Name>
+		<Number_of_Students>15</Number_of_Students>
+	</Group>
+	<Group>
+		<Name>M1 MMTH</Name>
+		<Number_of_Students>15</Number_of_Students>
+	</Group>
+	<Group>
+		<Name>M1 MDMIER</Name>
+		<Number_of_Students>15</Number_of_Students>
+	</Group>
+</Year>
+<Year>
+	<Name>M1 PM</Name>
+	<Number_of_Students>26</Number_of_Students>
+</Year>
+<Year>
+	<Name>M1 TA</Name>
+	<Number_of_Students>30</Number_of_Students>
+</Year>
+<Year>
+	<Name>M2 BIO</Name>
+	<Number_of_Students>27</Number_of_Students>
+</Year>
+<Year>
+	<Name>M2 CSM</Name>
+	<Number_of_Students>13</Number_of_Students>
+</Year>
+<Year>
+	<Name>M2 EN</Name>
+	<Number_of_Students>16</Number_of_Students>
+</Year>
+<Year>
+	<Name>M2 GMM</Name>
+	<Number_of_Students>14</Number_of_Students>
+</Year>
+<Year>
+	<Name>M2 MP</Name>
+	<Number_of_Students>16</Number_of_Students>
+	<Group>
+		<Name>M2 MER</Name>
+		<Number_of_Students>15</Number_of_Students>
+	</Group>
+	<Group>
+		<Name>M2 MMTH</Name>
+		<Number_of_Students>15</Number_of_Students>
+	</Group>
+</Year>
+<Year>
+	<Name>M2 PM</Name>
+	<Number_of_Students>19</Number_of_Students>
+</Year>
+<Year>
+	<Name>M2 IES</Name>
+	<Number_of_Students>10</Number_of_Students>
+</Year>
+<Year>
+	<Name>M2 TA</Name>
+	<Number_of_Students>20</Number_of_Students>
+</Year>
+</Students_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>A. BENDERRADJI 
+</Name>
+</Teacher>
+<Teacher>
+	<Name>A. BENHIZIA</Name>
+</Teacher>
+<Teacher>
+	<Name>A. BOURIH</Name>
+</Teacher>
+<Teacher>
+	<Name>A. BOUSSAHA</Name>
+</Teacher>
+<Teacher>
+	<Name>A. DJENANE</Name>
+</Teacher>
+<Teacher>
+	<Name>A. KHERRAF</Name>
+</Teacher>
+<Teacher>
+	<Name>A. MIHI</Name>
+</Teacher>
+<Teacher>
+	<Name>A. SLIMANI</Name>
+</Teacher>
+<Teacher>
+	<Name>A. TEMAGHOULT</Name>
+</Teacher>
+<Teacher>
+	<Name>ABDELHAMID</Name>
+</Teacher>
+<Teacher>
+	<Name>ABDESSEMED</Name>
+</Teacher>
+<Teacher>
+	<Name>ACHACHI</Name>
+</Teacher>
+<Teacher>
+	<Name>AMEDAH</Name>
+</Teacher>
+<Teacher>
+	<Name>ATHAMNA</Name>
+</Teacher>
+<Teacher>
+	<Name>AZOUI</Name>
+</Teacher>
+<Teacher>
+	<Name>B. BARKAT 
+</Name>
+</Teacher>
+<Teacher>
+	<Name>B. BENMOHAMED 
+</Name>
+</Teacher>
+<Teacher>
+	<Name>B. KARI</Name>
+</Teacher>
+<Teacher>
+	<Name>B. MOHAMMEDI</Name>
+</Teacher>
+<Teacher>
+	<Name>B. ZAOUCH</Name>
+</Teacher>
+<Teacher>
+	<Name>BAHMANI</Name>
+</Teacher>
+<Teacher>
+	<Name>BELLAALA</Name>
+</Teacher>
+<Teacher>
+	<Name>BELLAL</Name>
+</Teacher>
+<Teacher>
+	<Name>BENABES</Name>
+</Teacher>
+<Teacher>
+	<Name>BENACER</Name>
+</Teacher>
+<Teacher>
+	<Name>BENAICHA</Name>
+</Teacher>
+<Teacher>
+	<Name>BENBRAHIM</Name>
+</Teacher>
+<Teacher>
+	<Name>BENGHEZAL</Name>
+</Teacher>
+<Teacher>
+	<Name>BENHASSINE</Name>
+</Teacher>
+<Teacher>
+	<Name>BENMESSAOUD</Name>
+</Teacher>
+<Teacher>
+	<Name>BENMOUSSA</Name>
+</Teacher>
+<Teacher>
+	<Name>BENOUDJIT</Name>
+</Teacher>
+<Teacher>
+	<Name>BENSEGHIR</Name>
+</Teacher>
+<Teacher>
+	<Name>BENYOUCEF</Name>
+</Teacher>
+<Teacher>
+	<Name>BENZAWAY</Name>
+</Teacher>
+<Teacher>
+	<Name>BOUGLOULA</Name>
+</Teacher>
+<Teacher>
+	<Name>BOUGUECHAL</Name>
+</Teacher>
+<Teacher>
+	<Name>BOUKHLOUF</Name>
+</Teacher>
+<Teacher>
+	<Name>BOUMELLA</Name>
+</Teacher>
+<Teacher>
+	<Name>BOUZGHAYA</Name>
+</Teacher>
+<Teacher>
+	<Name>BRIKI</Name>
+</Teacher>
+<Teacher>
+	<Name>BRIOUA</Name>
+</Teacher>
+<Teacher>
+	<Name>C. BOUDAB 
+</Name>
+</Teacher>
+<Teacher>
+	<Name>C. BOUGRIOU</Name>
+</Teacher>
+<Teacher>
+	<Name>C. LAGGOUNE</Name>
+</Teacher>
+<Teacher>
+	<Name>CHELGHOUM</Name>
+</Teacher>
+<Teacher>
+	<Name>CHERGUI</Name>
+</Teacher>
+<Teacher>
+	<Name>D. AMEDDAH</Name>
+</Teacher>
+<Teacher>
+	<Name>D. BATACHE 
+</Name>
+</Teacher>
+<Teacher>
+	<Name>D. BOUTEGHMES</Name>
+</Teacher>
+<Teacher>
+	<Name>D. DJARI</Name>
+</Teacher>
+<Teacher>
+	<Name>D. TITOUNA</Name>
+</Teacher>
+<Teacher>
+	<Name>DERARDJA</Name>
+</Teacher>
+<Teacher>
+	<Name>DJAABA</Name>
+</Teacher>
+<Teacher>
+	<Name>DJARALLAH</Name>
+</Teacher>
+<Teacher>
+	<Name>DJEBABRA</Name>
+</Teacher>
+<Teacher>
+	<Name>DJEFFAL</Name>
+</Teacher>
+<Teacher>
+	<Name>DRID</Name>
+</Teacher>
+<Teacher>
+	<Name>Dr. BELKHIRI</Name>
+</Teacher>
+<Teacher>
+	<Name>Dr. CHIBA</Name>
+</Teacher>
+<Teacher>
+	<Name>Dr. FARDJI</Name>
+</Teacher>
+<Teacher>
+	<Name>Dr. GHASSIRI</Name>
+</Teacher>
+<Teacher>
+	<Name>Dr. MADOUI</Name>
+</Teacher>
+<Teacher>
+	<Name>F. BOUGUERNE</Name>
+</Teacher>
+<Teacher>
+	<Name>FANTOUS</Name>
+</Teacher>
+<Teacher>
+	<Name>FEDALI</Name>
+</Teacher>
+<Teacher>
+	<Name>G. MEBARKI</Name>
+</Teacher>
+<Teacher>
+	<Name>GHERABLI</Name>
+</Teacher>
+<Teacher>
+	<Name>GHODBANE</Name>
+</Teacher>
+<Teacher>
+	<Name>GOURMAT</Name>
+</Teacher>
+<Teacher>
+	<Name>GUENIFI</Name>
+</Teacher>
+<Teacher>
+	<Name>H. BENMOUSSA</Name>
+</Teacher>
+<Teacher>
+	<Name>H. CHAABANE</Name>
+</Teacher>
+<Teacher>
+	<Name>H. MADANI</Name>
+</Teacher>
+<Teacher>
+	<Name>H. MAZOUZ</Name>
+</Teacher>
+<Teacher>
+	<Name>HAMADA</Name>
+</Teacher>
+<Teacher>
+	<Name>HARKAT</Name>
+</Teacher>
+<Teacher>
+	<Name>IFERROUGENE</Name>
+</Teacher>
+<Teacher>
+	<Name>K. HACHANI</Name>
+</Teacher>
+<Teacher>
+	<Name>K. SEGHIR</Name>
+</Teacher>
+<Teacher>
+	<Name>K. ZIDANI</Name>
+</Teacher>
+<Teacher>
+	<Name>KACHA</Name>
+</Teacher>
+<Teacher>
+	<Name>KERCHA</Name>
+</Teacher>
+<Teacher>
+	<Name>KHAMARI</Name>
+</Teacher>
+<Teacher>
+	<Name>KHIREDDINE</Name>
+</Teacher>
+<Teacher>
+	<Name>KRIBA</Name>
+</Teacher>
+<Teacher>
+	<Name>L. MESSAOUDI</Name>
+</Teacher>
+<Teacher>
+	<Name>M. ASSAS 
+</Name>
+</Teacher>
+<Teacher>
+	<Name>M. BENBIA 
+</Name>
+</Teacher>
+<Teacher>
+	<Name>M. BENYAHIA 
+</Name>
+</Teacher>
+<Teacher>
+	<Name>M. BRIOUA</Name>
+</Teacher>
+<Teacher>
+	<Name>M. GHEZAL</Name>
+</Teacher>
+<Teacher>
+	<Name>M. LAHBARI</Name>
+</Teacher>
+<Teacher>
+	<Name>M. MASMOUDI</Name>
+</Teacher>
+<Teacher>
+	<Name>M. NAOUN</Name>
+</Teacher>
+<Teacher>
+	<Name>M. NEZAR</Name>
+</Teacher>
+<Teacher>
+	<Name>M. SIAMEUR</Name>
+</Teacher>
+<Teacher>
+	<Name>M. TRAD</Name>
+</Teacher>
+<Teacher>
+	<Name>M.T. GAID</Name>
+</Teacher>
+<Teacher>
+	<Name>MAATAR</Name>
+</Teacher>
+<Teacher>
+	<Name>MASMOUDI</Name>
+</Teacher>
+<Teacher>
+	<Name>MECHENEN</Name>
+</Teacher>
+<Teacher>
+	<Name>MELAAB</Name>
+</Teacher>
+<Teacher>
+	<Name>MELLAL</Name>
+</Teacher>
+<Teacher>
+	<Name>MERARDA</Name>
+</Teacher>
+<Teacher>
+	<Name>MOUSS</Name>
+</Teacher>
+<Teacher>
+	<Name>N. AGGOUNE 
+</Name>
+</Teacher>
+<Teacher>
+	<Name>N. BESSANANE</Name>
+</Teacher>
+<Teacher>
+	<Name>N. MANSOURI</Name>
+</Teacher>
+<Teacher>
+	<Name>N. SAIDANI</Name>
+</Teacher>
+<Teacher>
+	<Name>N. SOLTANI</Name>
+</Teacher>
+<Teacher>
+	<Name>OUAGHLENT</Name>
+</Teacher>
+<Teacher>
+	<Name>OUAZANI</Name>
+</Teacher>
+<Teacher>
+	<Name>OUCHEN</Name>
+</Teacher>
+<Teacher>
+	<Name>OUNISSI</Name>
+</Teacher>
+<Teacher>
+	<Name>R. BENBOUTA 
+</Name>
+</Teacher>
+<Teacher>
+	<Name>R. MANAA</Name>
+</Teacher>
+<Teacher>
+	<Name>R. MENINA</Name>
+</Teacher>
+<Teacher>
+	<Name>REGAI</Name>
+</Teacher>
+<Teacher>
+	<Name>S. BELKHIR 
+</Name>
+</Teacher>
+<Teacher>
+	<Name>S. BOUGOUL</Name>
+</Teacher>
+<Teacher>
+	<Name>S. DERRADJI</Name>
+</Teacher>
+<Teacher>
+	<Name>S. MADANI</Name>
+</Teacher>
+<Teacher>
+	<Name>S. MANSOURI</Name>
+</Teacher>
+<Teacher>
+	<Name>S. RAHAL</Name>
+</Teacher>
+<Teacher>
+	<Name>SELMANE</Name>
+</Teacher>
+<Teacher>
+	<Name>SMADI</Name>
+</Teacher>
+<Teacher>
+	<Name>T. OUTTAS</Name>
+</Teacher>
+<Teacher>
+	<Name>W. KADDOURI</Name>
+</Teacher>
+<Teacher>
+	<Name>YOUSFI</Name>
+</Teacher>
+<Teacher>
+	<Name>ZIDANI</Name>
+</Teacher>
+</Teachers_List>
+
+<Subjects_List>
+<Subject>
+	<Name>AEP en Energétique</Name>
+</Subject>
+<Subject>
+	<Name>Analyse Vectorielle et Tensorielle</Name>
+</Subject>
+<Subject>
+	<Name>Anatomie Humaine Fonctionnel</Name>
+</Subject>
+<Subject>
+	<Name>Anglais</Name>
+</Subject>
+<Subject>
+	<Name>Anglais Technique</Name>
+</Subject>
+<Subject>
+	<Name>Anglais Technique I</Name>
+</Subject>
+<Subject>
+	<Name>Anglais Technique III</Name>
+</Subject>
+<Subject>
+	<Name>Applications Thermique Solaire (SD)</Name>
+</Subject>
+<Subject>
+	<Name>Automatismes Industriels</Name>
+</Subject>
+<Subject>
+	<Name>Avionique de Puissance</Name>
+</Subject>
+<Subject>
+	<Name>Aérodynamique</Name>
+</Subject>
+<Subject>
+	<Name>Biomécanique I</Name>
+</Subject>
+<Subject>
+	<Name>CAO-CFAO Médicale</Name>
+</Subject>
+<Subject>
+	<Name>CAO/DAO</Name>
+</Subject>
+<Subject>
+	<Name>CV/CND</Name>
+</Subject>
+<Subject>
+	<Name>Captation de l&apos;Energie Solaire</Name>
+</Subject>
+<Subject>
+	<Name>Capteurs Solaires</Name>
+</Subject>
+<Subject>
+	<Name>Capteurs et IM</Name>
+</Subject>
+<Subject>
+	<Name>Capteurs et Instrumentation</Name>
+</Subject>
+<Subject>
+	<Name>Caractérisation MMM</Name>
+</Subject>
+<Subject>
+	<Name>Caractérisation des Métaux</Name>
+</Subject>
+<Subject>
+	<Name>Circuits Hydrauliques</Name>
+</Subject>
+<Subject>
+	<Name>Circuits Intégrés Linéaires</Name>
+</Subject>
+<Subject>
+	<Name>Circuits à Semi-conducteurs</Name>
+</Subject>
+<Subject>
+	<Name>Combustion</Name>
+</Subject>
+<Subject>
+	<Name>Communication Ecrite et Orale</Name>
+</Subject>
+<Subject>
+	<Name>Communication en Anglais</Name>
+</Subject>
+<Subject>
+	<Name>Communication en Français</Name>
+</Subject>
+<Subject>
+	<Name>Compléments Mathématique I</Name>
+</Subject>
+<Subject>
+	<Name>Comportement Tribologique</Name>
+</Subject>
+<Subject>
+	<Name>Comportement des Métaux et AMMP</Name>
+</Subject>
+<Subject>
+	<Name>Conception Mécanique</Name>
+</Subject>
+<Subject>
+	<Name>Conception des GF</Name>
+</Subject>
+<Subject>
+	<Name>Conception des SM Robotique</Name>
+</Subject>
+<Subject>
+	<Name>Conception et DSM</Name>
+</Subject>
+<Subject>
+	<Name>Conduction de la Chaleur</Name>
+</Subject>
+<Subject>
+	<Name>Construction Mécanique</Name>
+</Subject>
+<Subject>
+	<Name>Contrôle Non Destructif</Name>
+</Subject>
+<Subject>
+	<Name>Conversion d&apos;Energie</Name>
+</Subject>
+<Subject>
+	<Name>Conversion de l&apos;Energie Solaire</Name>
+</Subject>
+<Subject>
+	<Name>Corrosion</Name>
+</Subject>
+<Subject>
+	<Name>Céramique à vocation BMBM</Name>
+</Subject>
+<Subject>
+	<Name>D.A.O</Name>
+</Subject>
+<Subject>
+	<Name>Diagnostique et Contôle des TM</Name>
+</Subject>
+<Subject>
+	<Name>Dynamique des Fluides</Name>
+</Subject>
+<Subject>
+	<Name>Dynamique des Fluides Diphasiques</Name>
+</Subject>
+<Subject>
+	<Name>Dynamique des Fluides Monophasiques</Name>
+</Subject>
+<Subject>
+	<Name>Dynamique des Fluides et Turbulence</Name>
+</Subject>
+<Subject>
+	<Name>Dynamique des Machines</Name>
+</Subject>
+<Subject>
+	<Name>Dynamique du Mouvement et CC</Name>
+</Subject>
+<Subject>
+	<Name>Démarche de Projet</Name>
+</Subject>
+<Subject>
+	<Name>Echangeurs de Chaleur</Name>
+</Subject>
+<Subject>
+	<Name>Ecoulements Diphasiques</Name>
+</Subject>
+<Subject>
+	<Name>Ecoulements en Milieux Poreux</Name>
+</Subject>
+<Subject>
+	<Name>Electricité Appliquée</Name>
+</Subject>
+<Subject>
+	<Name>Electronique</Name>
+</Subject>
+<Subject>
+	<Name>Electronique Fondamentale 2</Name>
+</Subject>
+<Subject>
+	<Name>Electronique Générale et Digitale</Name>
+</Subject>
+<Subject>
+	<Name>Electronique de Puissance</Name>
+</Subject>
+<Subject>
+	<Name>Electrotechnique</Name>
+</Subject>
+<Subject>
+	<Name>Electrotechnique Fondamentale 2</Name>
+</Subject>
+<Subject>
+	<Name>Energies Nouvelles</Name>
+</Subject>
+<Subject>
+	<Name>Energies Renouvelables</Name>
+</Subject>
+<Subject>
+	<Name>Equipements de Bord</Name>
+</Subject>
+<Subject>
+	<Name>Essais Mécaniques</Name>
+</Subject>
+<Subject>
+	<Name>Expertise des Pièces</Name>
+</Subject>
+<Subject>
+	<Name>FMS</Name>
+</Subject>
+<Subject>
+	<Name>Fatigue et Rupture des MS</Name>
+</Subject>
+<Subject>
+	<Name>Fiabilité</Name>
+</Subject>
+<Subject>
+	<Name>Fonderie</Name>
+</Subject>
+<Subject>
+	<Name>Fonderie et TT</Name>
+</Subject>
+<Subject>
+	<Name>Froid et Séchage </Name>
+</Subject>
+<Subject>
+	<Name>Gestion des SP</Name>
+</Subject>
+<Subject>
+	<Name>Génération Electrique</Name>
+</Subject>
+<Subject>
+	<Name>Habitat Solaire</Name>
+</Subject>
+<Subject>
+	<Name>Imagerie Médicale</Name>
+</Subject>
+<Subject>
+	<Name>Instrumentation et Contôle Qualité</Name>
+</Subject>
+<Subject>
+	<Name>Instrumentation et Mesures en TF</Name>
+</Subject>
+<Subject>
+	<Name>Instrumentation-Avionique</Name>
+</Subject>
+<Subject>
+	<Name>Instruments de Bord</Name>
+</Subject>
+<Subject>
+	<Name>Introduction aux Propulseurs</Name>
+</Subject>
+<Subject>
+	<Name>Laboratoire de Contrôle Digital</Name>
+</Subject>
+<Subject>
+	<Name>Le monde de l&apos;entreprise</Name>
+</Subject>
+<Subject>
+	<Name>MDF</Name>
+</Subject>
+<Subject>
+	<Name>MDF I</Name>
+</Subject>
+<Subject>
+	<Name>Machines Electriques Aéro.</Name>
+</Subject>
+<Subject>
+	<Name>Machines Hydrauliques</Name>
+</Subject>
+<Subject>
+	<Name>Machines Hydrothermiques</Name>
+</Subject>
+<Subject>
+	<Name>Maintenance ER</Name>
+</Subject>
+<Subject>
+	<Name>Maintenance Industrielle</Name>
+</Subject>
+<Subject>
+	<Name>Maintenance Véhicule</Name>
+</Subject>
+<Subject>
+	<Name>Maintenance des MT</Name>
+</Subject>
+<Subject>
+	<Name>Management</Name>
+</Subject>
+<Subject>
+	<Name>Matériaux</Name>
+</Subject>
+<Subject>
+	<Name>Matériaux Aéro. et Composites</Name>
+</Subject>
+<Subject>
+	<Name>Matériaux Composites et BM</Name>
+</Subject>
+<Subject>
+	<Name>Matériaux Métalliques</Name>
+</Subject>
+<Subject>
+	<Name>Matériaux Photovoltaiques</Name>
+</Subject>
+<Subject>
+	<Name>Matériaux Polymère et Composites </Name>
+</Subject>
+<Subject>
+	<Name>Matériaux et Eléments de Physiologie</Name>
+</Subject>
+<Subject>
+	<Name>Matériaux et Milieu Vivant</Name>
+</Subject>
+<Subject>
+	<Name>Matériaux pour les Applications AE</Name>
+</Subject>
+<Subject>
+	<Name>Matériaux-Corrosion</Name>
+</Subject>
+<Subject>
+	<Name>Modélisation Numérique</Name>
+</Subject>
+<Subject>
+	<Name>Modélisation de la MI</Name>
+</Subject>
+<Subject>
+	<Name>Modélisation en Biomécanique</Name>
+</Subject>
+<Subject>
+	<Name>Modélisation et SN 1</Name>
+</Subject>
+<Subject>
+	<Name>Moteur à Combustion Interne</Name>
+</Subject>
+<Subject>
+	<Name>Mécanique Analytique</Name>
+</Subject>
+<Subject>
+	<Name>Mécanique Avancée</Name>
+</Subject>
+<Subject>
+	<Name>Mécanique Rationnelle et Analytique</Name>
+</Subject>
+<Subject>
+	<Name>Mécanique de la Rupture</Name>
+</Subject>
+<Subject>
+	<Name>Mécanique des Fluides</Name>
+</Subject>
+<Subject>
+	<Name>Mécanique des Milieux Continus</Name>
+</Subject>
+<Subject>
+	<Name>Mécanique des Structures AS</Name>
+</Subject>
+<Subject>
+	<Name>Mécanique du Contact et Tribologie</Name>
+</Subject>
+<Subject>
+	<Name>Méthode de Recherche Biblio.</Name>
+</Subject>
+<Subject>
+	<Name>Méthodes Numériques AE I</Name>
+</Subject>
+<Subject>
+	<Name>Méthodes Numériques Appliquées I</Name>
+</Subject>
+<Subject>
+	<Name>Méthodes de Caractérisation SM</Name>
+</Subject>
+<Subject>
+	<Name>Méthodes de Sélection des Matériaux</Name>
+</Subject>
+<Subject>
+	<Name>Méthodes et FAO</Name>
+</Subject>
+<Subject>
+	<Name>Méthodologie de Rédaction de RM</Name>
+</Subject>
+<Subject>
+	<Name>Normes et Règlementations</Name>
+</Subject>
+<Subject>
+	<Name>Optimisation Energétique des MT</Name>
+</Subject>
+<Subject>
+	<Name>Ordinateurs de Bord</Name>
+</Subject>
+<Subject>
+	<Name>Organisation Maintenance des Aéronefs</Name>
+</Subject>
+<Subject>
+	<Name>Outils Informatique de MB</Name>
+</Subject>
+<Subject>
+	<Name>Outils Informatiques</Name>
+</Subject>
+<Subject>
+	<Name>Outils Mathématiques</Name>
+</Subject>
+<Subject>
+	<Name>Outils Numériques</Name>
+</Subject>
+<Subject>
+	<Name>Outils Numériques de Base</Name>
+</Subject>
+<Subject>
+	<Name>Physico-Chimie des Alliages</Name>
+</Subject>
+<Subject>
+	<Name>Physiologie et Anatomie</Name>
+</Subject>
+<Subject>
+	<Name>Phénomène Acoustique</Name>
+</Subject>
+<Subject>
+	<Name>Phénomène Electromécanique</Name>
+</Subject>
+<Subject>
+	<Name>Pilotage Automatique et DV</Name>
+</Subject>
+<Subject>
+	<Name>Pompage Solaire</Name>
+</Subject>
+<Subject>
+	<Name>Pompes et Compresseurs</Name>
+</Subject>
+<Subject>
+	<Name>Pratique des Logiciels de Calcul</Name>
+</Subject>
+<Subject>
+	<Name>Probabilité et Statistiques</Name>
+</Subject>
+<Subject>
+	<Name>Procédés d&apos;Usinage NC</Name>
+</Subject>
+<Subject>
+	<Name>Procédés de MFM</Name>
+</Subject>
+<Subject>
+	<Name>Procédés de MOM</Name>
+</Subject>
+<Subject>
+	<Name>Projet GMAO</Name>
+</Subject>
+<Subject>
+	<Name>Projet d&apos;Initiation à la RL</Name>
+</Subject>
+<Subject>
+	<Name>Projet de Synthèse Avion</Name>
+</Subject>
+<Subject>
+	<Name>Projet de Synthèse Lanceur</Name>
+</Subject>
+<Subject>
+	<Name>Projets de Conception et DSM</Name>
+</Subject>
+<Subject>
+	<Name>Propriétés des Biomatériaux</Name>
+</Subject>
+<Subject>
+	<Name>Propulsion et Aérodynamique</Name>
+</Subject>
+<Subject>
+	<Name>Qualité en CM</Name>
+</Subject>
+<Subject>
+	<Name>RDM</Name>
+</Subject>
+<Subject>
+	<Name>RDM Avancée</Name>
+</Subject>
+<Subject>
+	<Name>Recherche Opérationnelle</Name>
+</Subject>
+<Subject>
+	<Name>Robotique Médicale</Name>
+</Subject>
+<Subject>
+	<Name>Régulation</Name>
+</Subject>
+<Subject>
+	<Name>Science des Matériaux</Name>
+</Subject>
+<Subject>
+	<Name>Servomécanismes dans l&apos;aviation</Name>
+</Subject>
+<Subject>
+	<Name>Simulation Numérique et MA</Name>
+</Subject>
+<Subject>
+	<Name>Stabilité Dynamique des SM</Name>
+</Subject>
+<Subject>
+	<Name>Station Météo</Name>
+</Subject>
+<Subject>
+	<Name>Stockage de l&apos;Energie Solaire</Name>
+</Subject>
+<Subject>
+	<Name>Stratégie et Management de l&apos; Entreprise</Name>
+</Subject>
+<Subject>
+	<Name>Structure Aéronautique</Name>
+</Subject>
+<Subject>
+	<Name>Synthèse et Formulation des Polymères</Name>
+</Subject>
+<Subject>
+	<Name>Systèmes Hydrauliques</Name>
+</Subject>
+<Subject>
+	<Name>Systèmes Mécaniques Articulés</Name>
+</Subject>
+<Subject>
+	<Name>TC/THERMO</Name>
+</Subject>
+<Subject>
+	<Name>TP RDM</Name>
+</Subject>
+<Subject>
+	<Name>TT/CE</Name>
+</Subject>
+<Subject>
+	<Name>Techniques de Fabrication</Name>
+</Subject>
+<Subject>
+	<Name>Techniques de Fabrication CA</Name>
+</Subject>
+<Subject>
+	<Name>Technologie de Conception</Name>
+</Subject>
+<Subject>
+	<Name>Technologie des Métaux</Name>
+</Subject>
+<Subject>
+	<Name>Thermodynamique</Name>
+</Subject>
+<Subject>
+	<Name>Thermodynamique Avancée</Name>
+</Subject>
+<Subject>
+	<Name>Thermodynamique Générale et DE</Name>
+</Subject>
+<Subject>
+	<Name>Thermomécanique</Name>
+</Subject>
+<Subject>
+	<Name>Théorie des Mécanismes I</Name>
+</Subject>
+<Subject>
+	<Name>Théorie des Mécanismes II</Name>
+</Subject>
+<Subject>
+	<Name>Traitement de Signal</Name>
+</Subject>
+<Subject>
+	<Name>Traitement de Signal pour le Mécanicien</Name>
+</Subject>
+<Subject>
+	<Name>Traitements Thermiques</Name>
+</Subject>
+<Subject>
+	<Name>Transfert Thermique</Name>
+</Subject>
+<Subject>
+	<Name>Transfert Thermique CCR</Name>
+</Subject>
+<Subject>
+	<Name>Transfert de Chaleur</Name>
+</Subject>
+<Subject>
+	<Name>Transferts Radiatifs dans les MDG</Name>
+</Subject>
+<Subject>
+	<Name>Transmission Hydraulique Industrielle</Name>
+</Subject>
+<Subject>
+	<Name>Transmission de Puissancee MH</Name>
+</Subject>
+<Subject>
+	<Name>Tribologie</Name>
+</Subject>
+<Subject>
+	<Name>Turbomachines</Name>
+</Subject>
+<Subject>
+	<Name>Usinage des Surfaces Gauches</Name>
+</Subject>
+<Subject>
+	<Name>Utilisation de Logiciels de Simulation II</Name>
+</Subject>
+<Subject>
+	<Name>Verre et Céramique</Name>
+</Subject>
+<Subject>
+	<Name>Vibration des Structures des MT</Name>
+</Subject>
+</Subjects_List>
+
+<Activity_Tags_List>
+</Activity_Tags_List>
+
+<Activities_List>
+<Activity>
+	<Teacher>A. BENDERRADJI 
+</Teacher>
+	<Teacher>A. KHERRAF</Teacher>
+	<Subject>Transfert de Chaleur</Subject>
+	<Students>L3 GEN</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>1</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>L. MESSAOUDI</Teacher>
+	<Subject>Outils Numériques</Subject>
+	<Students>L3 GEN</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>2</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>S. RAHAL</Teacher>
+	<Teacher>A. BENHIZIA</Teacher>
+	<Subject>Anglais</Subject>
+	<Students>L3 GEN</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>3</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>S. RAHAL</Teacher>
+	<Teacher>A. BOUSSAHA</Teacher>
+	<Subject>Thermodynamique</Subject>
+	<Students>L3 GEN</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>4</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+</Activities_List>
+
+<Buildings_List>
+<Building>
+	<Name>NB</Name>
+</Building>
+<Building>
+	<Name>HT</Name>
+</Building>
+<Building>
+	<Name>CR</Name>
+</Building>
+<Building>
+	<Name>Hop</Name>
+</Building>
+<Building>
+	<Name>SP</Name>
+</Building>
+</Buildings_List>
+
+<Rooms_List>
+<Room>
+	<Name>105</Name>
+	<Building>NB</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>108</Name>
+	<Building>NB</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>109</Name>
+	<Building>NB</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>110</Name>
+	<Building>NB</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>113</Name>
+	<Building>NB</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>320</Name>
+	<Building>NB</Building>
+	<Capacity>60</Capacity>
+</Room>
+<Room>
+	<Name>321</Name>
+	<Building>NB</Building>
+	<Capacity>120</Capacity>
+</Room>
+<Room>
+	<Name>322</Name>
+	<Building>NB</Building>
+	<Capacity>120</Capacity>
+</Room>
+<Room>
+	<Name>323</Name>
+	<Building>NB</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>324</Name>
+	<Building>NB</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>325</Name>
+	<Building>NB</Building>
+	<Capacity>120</Capacity>
+</Room>
+<Room>
+	<Name>326</Name>
+	<Building>NB</Building>
+	<Capacity>50</Capacity>
+</Room>
+<Room>
+	<Name>328</Name>
+	<Building>NB</Building>
+	<Capacity>120</Capacity>
+</Room>
+<Room>
+	<Name>334</Name>
+	<Building>NB</Building>
+	<Capacity>50</Capacity>
+</Room>
+<Room>
+	<Name>350</Name>
+	<Building>NB</Building>
+	<Capacity>60</Capacity>
+</Room>
+<Room>
+	<Name>A15</Name>
+	<Building>NB</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>Amphi 118</Name>
+	<Building>NB</Building>
+	<Capacity>200</Capacity>
+</Room>
+<Room>
+	<Name>CC</Name>
+	<Building>NB</Building>
+	<Capacity>50</Capacity>
+</Room>
+<Room>
+	<Name>CHU</Name>
+	<Building>Hop</Building>
+	<Capacity>50</Capacity>
+</Room>
+<Room>
+	<Name>CR</Name>
+	<Building>CR</Building>
+	<Capacity>60</Capacity>
+</Room>
+<Room>
+	<Name>CR1</Name>
+	<Building>CR</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>DAO</Name>
+	<Building>HT</Building>
+	<Capacity>38</Capacity>
+</Room>
+<Room>
+	<Name>E16</Name>
+	<Building>NB</Building>
+	<Capacity>60</Capacity>
+</Room>
+<Room>
+	<Name>E18</Name>
+	<Building></Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>F6</Name>
+	<Building>NB</Building>
+	<Capacity>50</Capacity>
+</Room>
+<Room>
+	<Name>Lab-4-ELT</Name>
+	<Building>NB</Building>
+	<Capacity>40</Capacity>
+</Room>
+<Room>
+	<Name>Lab-5-ELT</Name>
+	<Building>NB</Building>
+	<Capacity>40</Capacity>
+</Room>
+<Room>
+	<Name>Lab-AERO</Name>
+	<Building>NB</Building>
+	<Capacity>50</Capacity>
+</Room>
+<Room>
+	<Name>Lab-CNC</Name>
+	<Building>HT</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>Lab-ELN1</Name>
+	<Building>NB</Building>
+	<Capacity>50</Capacity>
+</Room>
+<Room>
+	<Name>Lab-ELN2</Name>
+	<Building>NB</Building>
+	<Capacity>50</Capacity>
+</Room>
+<Room>
+	<Name>Lab-EN</Name>
+	<Building>HT</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>Lab-GI</Name>
+	<Building></Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>Lab-MDF</Name>
+	<Building>NB</Building>
+	<Capacity>40</Capacity>
+</Room>
+<Room>
+	<Name>Lab-MEC</Name>
+	<Building>HT</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>Lab-MET</Name>
+	<Building>NB</Building>
+	<Capacity>50</Capacity>
+</Room>
+<Room>
+	<Name>Lab-MFON</Name>
+	<Building>HT</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>Lab-MOT</Name>
+	<Building>HT</Building>
+	<Capacity>50</Capacity>
+</Room>
+<Room>
+	<Name>Lab-MTR</Name>
+	<Building>HT</Building>
+	<Capacity>50</Capacity>
+</Room>
+<Room>
+	<Name>Lab-RDM</Name>
+	<Building>HT</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>Lab-SOU</Name>
+	<Building>HT</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>S1</Name>
+	<Building>HT</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>S2</Name>
+	<Building>HT</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>S3</Name>
+	<Building>HT</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>SPS</Name>
+	<Building>SP</Building>
+	<Capacity>30</Capacity>
+</Room>
+</Rooms_List>
+
+<Time_Constraints_List>
+<ConstraintBasicCompulsoryTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsoryTime>
+<ConstraintBreakTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Break_Times>0</Number_of_Break_Times>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBreakTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>2</Activity_Id>
+	<Preferred_Day>19/02/2014</Preferred_Day>
+	<Preferred_Hour>10:00 - 11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+</Time_Constraints_List>
+
+<Space_Constraints_List>
+<ConstraintBasicCompulsorySpace>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsorySpace>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>2</Activity_Id>
+	<Room>320</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>1</Activity_Id>
+	<Room>320</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>3</Activity_Id>
+	<Room>320</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>4</Activity_Id>
+	<Room>320</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+</Space_Constraints_List>
+
+</fet>

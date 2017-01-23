@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Bethlen Gábor Református Gimnázium</Institution_Name>
 
@@ -17001,6 +17001,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Osztályfőnöki</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>15</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Hétfő</Preferred_Starting_Day>
@@ -17166,6 +17167,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>35</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Hétfő</Preferred_Starting_Day>
@@ -21139,6 +21141,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>4</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Szerda</Preferred_Starting_Day>
@@ -21165,6 +21168,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>8</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Szerda</Preferred_Starting_Day>
@@ -21235,6 +21239,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>35</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Hétfő</Preferred_Starting_Day>
@@ -21937,6 +21942,7 @@
 	<Students_Name>12.</Students_Name>
 	<Subject_Name>Osztályfőnöki</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>10</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Hétfő</Preferred_Starting_Day>
@@ -21987,6 +21993,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>1. sáv - 11.o</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Hétfő</Preferred_Starting_Day>
@@ -22117,6 +22124,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>2. sáv - 11.o</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Hétfő</Preferred_Starting_Day>
@@ -22247,6 +22255,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>1. sáv - 12.o</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Hétfő</Preferred_Starting_Day>
@@ -22377,6 +22386,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>2. sáv - 12.o</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Hétfő</Preferred_Starting_Day>
@@ -22507,6 +22517,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Matematika</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>35</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Hétfő</Preferred_Starting_Day>

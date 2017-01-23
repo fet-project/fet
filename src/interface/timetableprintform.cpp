@@ -89,6 +89,7 @@ const QString CBorientationModeState="/orientation-mode-combo-box-state";
 //const QString printSameStartingTimeState="/print-same-starting-time-box-state";
 const QString printDetailedTablesState="/print-detailed-tables-check-box-state";
 const QString printActivityTagsState="/print-activity-tags-check-box-state";
+const QString printRepeatNamesState="/print-repeat-names-check-box-state";
 
 const QString activitiesPaddingState="/activity-padding-spin-box-value-state";
 const QString tablePaddingState="/table-padding-spin-box-value-state";
@@ -151,12 +152,6 @@ void StartTimetablePrint::startTimetablePrint(QWidget* parent)
 TimetablePrintForm::TimetablePrintForm(QWidget *parent): QDialog(parent){
 	this->setWindowTitle(tr("Print timetable dialog"));
 	
-	//maybe TODO: add this as preview. but it must be qtextbrowser or qtextedit then?! Problem: it is currently much to slow! Solution: preview only the first page?!
-	//            this could be done by updateHTMLprintString(bool updateAll).
-
-	textDocument = new QTextDocument();
-	textDocument->setUndoRedoEnabled(false);
-	
 	QHBoxLayout* wholeDialog=new QHBoxLayout(this);
 	
 	QVBoxLayout* leftDialog=new QVBoxLayout();
@@ -169,7 +164,9 @@ TimetablePrintForm::TimetablePrintForm(QWidget *parent): QDialog(parent){
 		<<tr("Teachers Free Periods")
 		<<tr("Rooms")
 		<<tr("Subjects")
-		<<tr("All activities");
+		<<tr("All activities")
+		<<tr("Students Statistics")
+		<<tr("Teachers Statistics");
 	CBTables=new QComboBox();
 	CBTables->addItems(timetableNames);
 
@@ -546,7 +543,6 @@ TimetablePrintForm::TimetablePrintForm(QWidget *parent): QDialog(parent){
 	rightDialog->addStretch();
 	rightDialog->addLayout(previewPrintClose);
 
-	//wholeDialog->addWidget(textDocument);
 	wholeDialog->addLayout(leftDialog);
 	wholeDialog->addLayout(rightDialog);
 	
@@ -622,6 +618,8 @@ TimetablePrintForm::TimetablePrintForm(QWidget *parent): QDialog(parent){
 		printDetailedTables->setChecked(settings.value(this->metaObject()->className()+printDetailedTablesState).toBool());
 	if(settings.contains(this->metaObject()->className()+printActivityTagsState))
 		printActivityTags->setChecked(settings.value(this->metaObject()->className()+printActivityTagsState).toBool());
+	if(settings.contains(this->metaObject()->className()+printRepeatNamesState))
+		repeatNames->setChecked(settings.value(this->metaObject()->className()+printRepeatNamesState).toBool());
 	//
 	if(settings.contains(this->metaObject()->className()+activitiesPaddingState))
 		activitiesPadding->setValue(settings.value(this->metaObject()->className()+activitiesPaddingState).toInt());
@@ -667,6 +665,7 @@ TimetablePrintForm::~TimetablePrintForm(){
 	//settings.setValue(this->metaObject()->className()+printSameStartingTimeState, printSameStartingTime->isChecked());
 	settings.setValue(this->metaObject()->className()+printDetailedTablesState, printDetailedTables->isChecked());
 	settings.setValue(this->metaObject()->className()+printActivityTagsState, printActivityTags->isChecked());
+	settings.setValue(this->metaObject()->className()+printRepeatNamesState, repeatNames->isChecked());
 	//
 	settings.setValue(this->metaObject()->className()+activitiesPaddingState, activitiesPadding->value());
 	settings.setValue(this->metaObject()->className()+tablePaddingState, tablePadding->value());
@@ -676,8 +675,6 @@ TimetablePrintForm::~TimetablePrintForm(){
 	settings.setValue(this->metaObject()->className()+topPageMarginState, topPageMargin->value());
 	settings.setValue(this->metaObject()->className()+rightPageMarginState, rightPageMargin->value());
 	settings.setValue(this->metaObject()->className()+bottomPageMarginState, bottomPageMargin->value());
-	
-	delete textDocument;
 }
 
 void TimetablePrintForm::selectAll(){
@@ -691,15 +688,6 @@ void TimetablePrintForm::unselectAll(){
 void TimetablePrintForm::updateNamesList(){
 	namesList->clear();
 	
-	/*printActivityTags->setDisabled(false);
-	printDetailedTables->setDisabled(true);
-	
-	RBTimeHorizontal->setDisabled(false);
-	RBTimeVertical->setDisabled(false);
-	CBDivideTimeAxisByDay->setDisabled(false);*/
-	//RBTimeHorizontalDay->setDisabled(false);
-	//RBTimeVerticalDay->setDisabled(false);
-	
 	if(CBTables->currentIndex()==0){
 		for(int subgroup=0; subgroup<gt.rules.nInternalSubgroups; subgroup++){
 			QString name = gt.rules.internalSubgroupsList[subgroup]->name;
@@ -710,6 +698,8 @@ void TimetablePrintForm::updateNamesList(){
 		printActivityTags->setDisabled(false);
 		printDetailedTables->setDisabled(true);
 	
+		RBDaysHorizontal->setDisabled(false);
+		RBDaysVertical->setDisabled(false);
 		RBTimeHorizontal->setDisabled(false);
 		RBTimeVertical->setDisabled(false);
 		//CBDivideTimeAxisByDay->setDisabled(RBDaysHorizontal->isChecked() || RBDaysVertical->isChecked());
@@ -725,6 +715,8 @@ void TimetablePrintForm::updateNamesList(){
 		printActivityTags->setDisabled(false);
 		printDetailedTables->setDisabled(false); //this one is changed
 	
+		RBDaysHorizontal->setDisabled(false);
+		RBDaysVertical->setDisabled(false);
 		RBTimeHorizontal->setDisabled(false);
 		RBTimeVertical->setDisabled(false);
 		//CBDivideTimeAxisByDay->setDisabled(RBDaysHorizontal->isChecked() || RBDaysVertical->isChecked());
@@ -740,6 +732,8 @@ void TimetablePrintForm::updateNamesList(){
 		printActivityTags->setDisabled(false);
 		printDetailedTables->setDisabled(false); //this one is changed
 	
+		RBDaysHorizontal->setDisabled(false);
+		RBDaysVertical->setDisabled(false);
 		RBTimeHorizontal->setDisabled(false);
 		RBTimeVertical->setDisabled(false);
 		//CBDivideTimeAxisByDay->setDisabled(RBDaysHorizontal->isChecked() || RBDaysVertical->isChecked());
@@ -755,6 +749,8 @@ void TimetablePrintForm::updateNamesList(){
 		printActivityTags->setDisabled(false);
 		printDetailedTables->setDisabled(true);
 	
+		RBDaysHorizontal->setDisabled(false);
+		RBDaysVertical->setDisabled(false);
 		RBTimeHorizontal->setDisabled(false);
 		RBTimeVertical->setDisabled(false);
 		//CBDivideTimeAxisByDay->setDisabled(RBDaysHorizontal->isChecked() || RBDaysVertical->isChecked());
@@ -772,6 +768,8 @@ void TimetablePrintForm::updateNamesList(){
 		if(!RBDaysVertical->isChecked())
 			RBDaysHorizontal->setChecked(true);
 
+		RBDaysHorizontal->setDisabled(false);
+		RBDaysVertical->setDisabled(false);
 		RBTimeHorizontal->setDisabled(true);
 		RBTimeVertical->setDisabled(true);
 		//CBDivideTimeAxisByDay->setDisabled(RBDaysHorizontal->isChecked() || RBDaysVertical->isChecked());
@@ -787,6 +785,8 @@ void TimetablePrintForm::updateNamesList(){
 		printActivityTags->setDisabled(false);
 		printDetailedTables->setDisabled(true);
 	
+		RBDaysHorizontal->setDisabled(false);
+		RBDaysVertical->setDisabled(false);
 		RBTimeHorizontal->setDisabled(false);
 		RBTimeVertical->setDisabled(false);
 		//CBDivideTimeAxisByDay->setDisabled(RBDaysHorizontal->isChecked() || RBDaysVertical->isChecked());
@@ -802,6 +802,8 @@ void TimetablePrintForm::updateNamesList(){
 		printActivityTags->setDisabled(false);
 		printDetailedTables->setDisabled(true);
 	
+		RBDaysHorizontal->setDisabled(false);
+		RBDaysVertical->setDisabled(false);
 		RBTimeHorizontal->setDisabled(false);
 		RBTimeVertical->setDisabled(false);
 		//CBDivideTimeAxisByDay->setDisabled(RBDaysHorizontal->isChecked() || RBDaysVertical->isChecked());
@@ -816,15 +818,55 @@ void TimetablePrintForm::updateNamesList(){
 		printActivityTags->setDisabled(false);
 		printDetailedTables->setDisabled(true);
 	
+		RBDaysHorizontal->setDisabled(false);
+		RBDaysVertical->setDisabled(false);
 		RBTimeHorizontal->setDisabled(false);
 		RBTimeVertical->setDisabled(false);
 		//CBDivideTimeAxisByDay->setDisabled(RBDaysHorizontal->isChecked() || RBDaysVertical->isChecked());
 		RBTimeHorizontalDay->setDisabled(false);
 		RBTimeVerticalDay->setDisabled(false);
+	} else if(CBTables->currentIndex()==8){
+		QString name = tr("All activities");
+		namesList->addItem(name);
+		QListWidgetItem* tmpItem=namesList->item(0);
+		tmpItem->setSelected(true);
+
+		printActivityTags->setDisabled(true);
+		printDetailedTables->setDisabled(false);
+		
+		if(!RBDaysVertical->isChecked())
+			RBDaysHorizontal->setChecked(true);
+	
+		RBDaysHorizontal->setDisabled(true);
+		RBDaysVertical->setDisabled(true);
+		RBTimeHorizontal->setDisabled(true);
+		RBTimeVertical->setDisabled(true);
+		//CBDivideTimeAxisByDay->setDisabled(RBDaysHorizontal->isChecked() || RBDaysVertical->isChecked());
+		RBTimeHorizontalDay->setDisabled(true);
+		RBTimeVerticalDay->setDisabled(true);
+	} else if(CBTables->currentIndex()==9){
+		QString name = tr("All activities");
+		namesList->addItem(name);
+		QListWidgetItem* tmpItem=namesList->item(0);
+		tmpItem->setSelected(true);
+
+		printActivityTags->setDisabled(true);
+		printDetailedTables->setDisabled(false);
+		
+		if(!RBDaysVertical->isChecked())
+			RBDaysHorizontal->setChecked(true);
+	
+		RBDaysHorizontal->setDisabled(true);
+		RBDaysVertical->setDisabled(true);
+		RBTimeHorizontal->setDisabled(true);
+		RBTimeVertical->setDisabled(true);
+		//CBDivideTimeAxisByDay->setDisabled(RBDaysHorizontal->isChecked() || RBDaysVertical->isChecked());
+		RBTimeHorizontalDay->setDisabled(true);
+		RBTimeVerticalDay->setDisabled(true);
 	} else assert(0==1);
 }
 
-void TimetablePrintForm::updateHTMLprintString(bool printAll){
+QString TimetablePrintForm::updateHTMLprintString(bool printAll){
 	QString saveTime=generationLocalizedTime;
 
 	QString tmp;
@@ -961,6 +1003,8 @@ void TimetablePrintForm::updateHTMLprintString(bool printAll){
 				case 5: tmp+=TimetableExport::singleRoomsTimetableDaysHorizontalHtml(3, includedNamesIndex.at(iNi), saveTime, printActivityTags->isChecked(), repeatNames->isChecked()); break;
 				case 6: tmp+=TimetableExport::singleSubjectsTimetableDaysHorizontalHtml(3, includedNamesIndex.at(iNi), saveTime, printActivityTags->isChecked(), repeatNames->isChecked()); break;
 				case 7: tmp+=TimetableExport::singleAllActivitiesTimetableDaysHorizontalHtml(3, saveTime, printActivityTags->isChecked(), repeatNames->isChecked()); break;
+				case 8: tmp+=TimetableExport::singleStudentsStatisticsHtml(3, saveTime, printDetailedTables->isChecked(), repeatNames->isChecked(), printAll); break;
+				case 9: tmp+=TimetableExport::singleTeachersStatisticsHtml(3, saveTime, printDetailedTables->isChecked(), repeatNames->isChecked(), printAll); break;
 				default: assert(0==1);
 			}
 			if(iNi<includedNamesIndex.size()-1){
@@ -1114,8 +1158,8 @@ void TimetablePrintForm::updateHTMLprintString(bool printAll){
 	
 	tmp+="  </body>\n";
 	tmp+="</html>\n\n";
-	textDocument->clear();
-	textDocument->setHtml(tmp);
+	
+	return tmp;
 }
 
 /*void TimetablePrintForm::updateCBDivideTimeAxisByDay()
@@ -1128,7 +1172,7 @@ void TimetablePrintForm::print(){
 	QMessageBox::warning(this, tr("FET warning"), tr("FET is compiled without printer support "
 	 "- it is impossible to print from this dialog. Please open the HTML timetables from the results directory"));
 #else
-	QPrinter printer(QPrinter::HighResolution);	//TODO: why doesn't work this CBprinterMode->currentIndex()?
+	QPrinter printer(QPrinter::HighResolution);
 
 	assert(paperSizesMap.contains(CBpaperSize->currentText()));
 	printer.setPaperSize(paperSizesMap.value(CBpaperSize->currentText()));
@@ -1138,14 +1182,30 @@ void TimetablePrintForm::print(){
 		case 1: printer.setOrientation(QPrinter::Landscape); break;
 		default: assert(0==1);
 	}
+#if QT_VERSION >= 0x050300
+	QMarginsF printerMargins;
+	printerMargins.setLeft(leftPageMargin->value());
+	printerMargins.setRight(rightPageMargin->value());
+	printerMargins.setBottom(bottomPageMargin->value());
+	printerMargins.setTop(topPageMargin->value());
+	if(!printer.setPageMargins(printerMargins, QPageLayout::Millimeter)){
+		printerMargins=printer.pageLayout().minimumMargins();
+		QMessageBox::warning(this, tr("FET warning"), tr("No margins set, because at least one value is too small. "
+		"You need to enter at least:\nLeft: %1\nRight: %2\nTop: %3\nBottom: %4")
+		.arg(printerMargins.left()).arg(printerMargins.right()).arg(printerMargins.top()).arg(printerMargins.bottom()));
+	}
+#else
 	printer.setPageMargins(leftPageMargin->value(), topPageMargin->value(), rightPageMargin->value(), bottomPageMargin->value(), QPrinter::Millimeter);
+#endif
 	//QPrintDialog *printDialog = new QPrintDialog(&printer, this);
 	QPrintDialog printDialog(&printer, this);
 	printDialog.setWindowTitle(tr("Print timetable"));
 	if (printDialog.exec() == QDialog::Accepted) {
-		updateHTMLprintString(true);
-		textDocument->print(&printer);
-		textDocument->clear();
+		QTextDocument textDocument;
+		textDocument.documentLayout()->setPaintDevice(&printer);
+		textDocument.setPageSize(QSizeF(printer.pageRect().size()));
+		textDocument.setHtml(updateHTMLprintString(true));
+		textDocument.print(&printer);
 	}
 	//delete printDialog;
 #endif
@@ -1156,9 +1216,7 @@ void TimetablePrintForm::printPreviewFull(){
 	QMessageBox::warning(this, tr("FET warning"), tr("FET is compiled without printer support "
 	 "- it is impossible to print from this dialog. Please open the HTML timetables from the results directory"));
 #else
-	updateHTMLprintString(true);
-
-	QPrinter printer(QPrinter::HighResolution);	//TODO: why doesn't work this CBprinterMode->currentIndex()?
+	QPrinter printer(QPrinter::HighResolution);
 
 	assert(paperSizesMap.contains(CBpaperSize->currentText()));
 	printer.setPaperSize(paperSizesMap.value(CBpaperSize->currentText()));
@@ -1168,11 +1226,24 @@ void TimetablePrintForm::printPreviewFull(){
 		case 1: printer.setOrientation(QPrinter::Landscape); break;
 		default: assert(0==1);
 	}
+#if QT_VERSION >= 0x050300
+	QMarginsF printerMargins;
+	printerMargins.setLeft(leftPageMargin->value());
+	printerMargins.setRight(rightPageMargin->value());
+	printerMargins.setBottom(bottomPageMargin->value());
+	printerMargins.setTop(topPageMargin->value());
+	if(!printer.setPageMargins(printerMargins, QPageLayout::Millimeter)){
+		printerMargins=printer.pageLayout().minimumMargins();
+		QMessageBox::warning(this, tr("FET warning"), tr("No margins set, because at least one value is too small. "
+		"You need to enter at least:\nLeft: %1\nRight: %2\nTop: %3\nBottom: %4")
+		.arg(printerMargins.left()).arg(printerMargins.right()).arg(printerMargins.top()).arg(printerMargins.bottom()));
+	}
+#else
 	printer.setPageMargins(leftPageMargin->value(), topPageMargin->value(), rightPageMargin->value(), bottomPageMargin->value(), QPrinter::Millimeter);
+#endif
 	QPrintPreviewDialog printPreviewFull(&printer, this);
 	connect(&printPreviewFull, SIGNAL(paintRequested(QPrinter*)), SLOT(updatePreviewFull(QPrinter*)));
 	printPreviewFull.exec();
-	textDocument->clear();
 #endif
 }
 
@@ -1183,7 +1254,11 @@ void TimetablePrintForm::updatePreviewFull(QPrinter* printer){
 	QMessageBox::warning(this, tr("FET warning"), tr("FET is compiled without printer support "
 	 "- it is impossible to print from this dialog. Please open the HTML timetables from the results directory"));
 #else
-	textDocument->print(printer);
+	QTextDocument textDocument;
+	textDocument.documentLayout()->setPaintDevice(printer);
+	textDocument.setPageSize(QSizeF(printer->pageRect().size()));
+	textDocument.setHtml(updateHTMLprintString(true));
+	textDocument.print(printer);
 #endif
 }
 
@@ -1192,9 +1267,7 @@ void TimetablePrintForm::printPreviewSmall(){
 	QMessageBox::warning(this, tr("FET warning"), tr("FET is compiled without printer support "
 	 "- it is impossible to print from this dialog. Please open the HTML timetables from the results directory"));
 #else
-	updateHTMLprintString(false);
-
-	QPrinter printer(QPrinter::HighResolution);	//TODO: why doesn't work this: CBprinterMode->currentIndex()?
+	QPrinter printer(QPrinter::HighResolution);
 
 	assert(paperSizesMap.contains(CBpaperSize->currentText()));
 	printer.setPaperSize(paperSizesMap.value(CBpaperSize->currentText()));
@@ -1204,11 +1277,25 @@ void TimetablePrintForm::printPreviewSmall(){
 		case 1: printer.setOrientation(QPrinter::Landscape); break;
 		default: assert(0==1);
 	}
+	
+#if QT_VERSION >= 0x050300
+	QMarginsF printerMargins;
+	printerMargins.setLeft(leftPageMargin->value());
+	printerMargins.setRight(rightPageMargin->value());
+	printerMargins.setBottom(bottomPageMargin->value());
+	printerMargins.setTop(topPageMargin->value());
+	if(!printer.setPageMargins(printerMargins, QPageLayout::Millimeter)){
+		printerMargins=printer.pageLayout().minimumMargins();
+		QMessageBox::warning(this, tr("FET warning"), tr("No margins set, because at least one value is too small. "
+		"You need to enter at least:\nLeft: %1\nRight: %2\nTop: %3\nBottom: %4")
+		.arg(printerMargins.left()).arg(printerMargins.right()).arg(printerMargins.top()).arg(printerMargins.bottom()));
+	}
+#else
 	printer.setPageMargins(leftPageMargin->value(), topPageMargin->value(), rightPageMargin->value(), bottomPageMargin->value(), QPrinter::Millimeter);
+#endif
 	QPrintPreviewDialog printPreviewSmall(&printer, this);
 	connect(&printPreviewSmall, SIGNAL(paintRequested(QPrinter*)), SLOT(updatePreviewSmall(QPrinter*)));
 	printPreviewSmall.exec();
-	textDocument->clear();
 #endif
 }
 
@@ -1219,6 +1306,10 @@ void TimetablePrintForm::updatePreviewSmall(QPrinter* printer){
 	QMessageBox::warning(this, tr("FET warning"), tr("FET is compiled without printer support "
 	 "- it is impossible to print from this dialog. Please open the HTML timetables from the results directory"));
 #else
-	textDocument->print(printer);
+	QTextDocument textDocument;
+	textDocument.documentLayout()->setPaintDevice(printer);
+	textDocument.setPageSize(QSizeF(printer->pageRect().size()));
+	textDocument.setHtml(updateHTMLprintString(false));
+	textDocument.print(printer);
 #endif
 }

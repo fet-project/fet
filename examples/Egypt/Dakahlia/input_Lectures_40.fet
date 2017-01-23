@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Institution-demo-name</Institution_Name>
 
@@ -8729,6 +8729,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>محاضرة دراسات عليا</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>18</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>السبت</Preferred_Day>
@@ -8811,6 +8812,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>محاضرة عامة</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>24</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>السبت</Preferred_Day>
@@ -8917,6 +8919,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>محاضرة 2004 فقط</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>30</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>السبت</Preferred_Day>
@@ -9425,6 +9428,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>محاضرة عامة</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>24</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>السبت</Preferred_Starting_Day>
@@ -9531,6 +9535,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>تمرين عملي</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>24</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>السبت</Preferred_Starting_Day>
@@ -9637,6 +9642,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>تمرين نظري</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>24</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>السبت</Preferred_Starting_Day>
@@ -9743,6 +9749,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>محاضرة دراسات عليا</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>السبت</Preferred_Starting_Day>
@@ -9825,6 +9832,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>تمرين دراسات عليا عملي</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>12</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>السبت</Preferred_Starting_Day>
@@ -9883,6 +9891,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>تمرين دراسات عليا نظري</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>12</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>السبت</Preferred_Starting_Day>
@@ -9941,6 +9950,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>تمرين2004 فقط</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>12</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>السبت</Preferred_Starting_Day>

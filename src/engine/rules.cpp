@@ -4323,7 +4323,7 @@ bool Rules::read(QWidget* parent, const QString& fileName, bool commandLine, QSt
 			filev[0]=filev[1]=filev[2]=-1;
 			if(tfile!=0){
 				RulesReconcilableMessage::warning(parent, tr("FET warning"), tr("File contains a version numbering scheme which"
-				" is not matched by v.v.va (3 numbers separated by points, followed by any string a, which may be empty). File will be opened, but you are adviced"
+				" is not matched by v.v.va (3 numbers separated by points, followed by any string a, which may be empty). File will be opened, but you are advised"
 				" to check the version of the .fet file (in the beginning of the file). If this is a FET bug, please report it")+"\n\n"+
 				tr("If you are opening a file older than FET format version 5, it will be converted to latest FET data format"));
 				if(VERBOSE){
@@ -4394,7 +4394,7 @@ bool Rules::read(QWidget* parent, const QString& fileName, bool commandLine, QSt
 		RulesReconcilableMessage::warning(parent, tr("FET information"),
 		 tr("Opening older file - it will be converted to latest format, automatically "
 		 "assigning weight percentages to constraints and dropping parity for activities. "
-		 "You are adviced to make a backup of your old file before saving in new format.\n\n"
+		 "You are advised to make a backup of your old file before saving in new format.\n\n"
 		 "Please note that the default weight percentage of constraints min days between activities "
 		 "will be 95% (mainly satisfied, not always) and 'force consecutive if same day' will be set to true "
 		 "(meaning that if the activities are in the same day, they will be placed continuously, in a bigger duration activity). "
@@ -5651,9 +5651,12 @@ bool Rules::read(QWidget* parent, const QString& fileName, bool commandLine, QSt
 			bool reportIncorrectMinDays=true;
 #endif
 		
+			bool seeNextWarnNotAddedTimeConstraint=true;
+			
 			int nc=0;
 			TimeConstraint *crt_constraint;
 			assert(xmlReader.isStartElement());
+			
 			while(xmlReader.readNextStartElement()){
 				xmlReadingLog+="   Found "+xmlReader.name().toString()+" tag\n";
 				crt_constraint=NULL;
@@ -6101,14 +6104,18 @@ bool Rules::read(QWidget* parent, const QString& fileName, bool commandLine, QSt
 				}
 
 //corruptConstraintTime:
-				//here we skip invalid constraint or add valid one
+				//here we skip an invalid constraint or add a valid one
 				if(crt_constraint!=NULL){
 					assert(crt_constraint!=NULL);
 					bool tmp=this->addTimeConstraint(crt_constraint);
 					if(!tmp){
-						RulesReconcilableMessage::warning(parent, tr("FET information"),
-						 tr("Constraint\n%1\nnot added - must be a duplicate").
-						 arg(crt_constraint->getDetailedDescription(*this)));
+						if(seeNextWarnNotAddedTimeConstraint){
+							int t=RulesReconcilableMessage::warning(parent, tr("FET information"),
+							 tr("Constraint\n%1\nnot added - must be a duplicate").
+							 arg(crt_constraint->getDetailedDescription(*this)), tr("Skip rest"), tr("See next"), QString(""), 1, 0);
+							if(t==0)
+								seeNextWarnNotAddedTimeConstraint=false;
+						}
 						delete crt_constraint;
 					}
 					else
@@ -6122,6 +6129,8 @@ bool Rules::read(QWidget* parent, const QString& fileName, bool commandLine, QSt
 			bool reportRoomNotAvailableChange=true;
 
 			bool reportUnspecifiedPermanentlyLockedSpace=true;
+			
+			bool seeNextWarnNotAddedSpaceConstraint=true;
 
 			int nc=0;
 			SpaceConstraint *crt_constraint;
@@ -6389,15 +6398,19 @@ bool Rules::read(QWidget* parent, const QString& fileName, bool commandLine, QSt
 				}
 
 //corruptConstraintSpace:
-				//here we skip invalid constraint or add valid one
+				//here we skip an invalid constraint or add a valid one
 				if(crt_constraint!=NULL){
 					assert(crt_constraint!=NULL);
 					
 					bool tmp=this->addSpaceConstraint(crt_constraint);
 					if(!tmp){
-						RulesReconcilableMessage::warning(parent, tr("FET information"),
-						 tr("Constraint\n%1\nnot added - must be a duplicate").
-						 arg(crt_constraint->getDetailedDescription(*this)));
+						if(seeNextWarnNotAddedSpaceConstraint){
+							int t=RulesReconcilableMessage::warning(parent, tr("FET information"),
+							 tr("Constraint\n%1\nnot added - must be a duplicate").
+							 arg(crt_constraint->getDetailedDescription(*this)), tr("Skip rest"), tr("See next"), QString(""), 1, 0);
+							if(t==0)
+								seeNextWarnNotAddedSpaceConstraint=false;
+						}
 						delete crt_constraint;
 					}
 					else
@@ -8382,10 +8395,10 @@ TimeConstraint* Rules::readMinNDaysBetweenActivities(QWidget* parent, QXmlStream
 			" (possibly raising the weight of added constraint min days between activities up to 100%)");
 		s+="\n\n";
 
-		s+=tr("2. If you don't add 'force consecutive if same day', then add a larger activity splitted into a number of"
-			" activities equal with the number of days per week and the remaining components into other larger splitted activity."
+		s+=tr("2. If you don't add 'force consecutive if same day', then add a larger activity split into a number of"
+			" activities equal with the number of days per week and the remaining components into other larger split activity."
 			" For example, suppose you need to add 7 activities with duration 1 in a 5 days week. Add 2 larger container activities,"
-			" first one splitted into 5 activities with duration 1 and second one splitted into 2 activities with duration 1"
+			" first one split into 5 activities with duration 1 and second one split into 2 activities with duration 1"
 			" (possibly raising the weight of added constraints min days between activities for each of the 2 containers up to 100%)");
 		
 		int t=QMessageBox::warning(parent, tr("FET warning"), s,
@@ -8521,10 +8534,10 @@ TimeConstraint* Rules::readMinDaysBetweenActivities(QWidget* parent, QXmlStreamR
 			" (possibly raising the weight of added constraint min days between activities up to 100%)");
 		s+="\n\n";
 
-		s+=tr("2. If you don't add 'force consecutive if same day', then add a larger activity splitted into a number of"
-			" activities equal with the number of days per week and the remaining components into other larger splitted activity."
+		s+=tr("2. If you don't add 'force consecutive if same day', then add a larger activity split into a number of"
+			" activities equal with the number of days per week and the remaining components into other larger split activity."
 			" For example, suppose you need to add 7 activities with duration 1 in a 5 days week. Add 2 larger container activities,"
-			" first one splitted into 5 activities with duration 1 and second one splitted into 2 activities with duration 1"
+			" first one split into 5 activities with duration 1 and second one split into 2 activities with duration 1"
 			" (possibly raising the weight of added constraints min days between activities for each of the 2 containers up to 100%)");
 		
 		int t=QMessageBox::warning(parent, tr("FET warning"), s,
@@ -12691,6 +12704,7 @@ TimeConstraint* Rules::readActivitiesPreferredTimes(QXmlStreamReader& xmlReader,
 TimeConstraint* Rules::readActivitiesPreferredTimeSlots(QXmlStreamReader& xmlReader, FakeString& xmlReadingLog){
 	assert(xmlReader.isStartElement() && xmlReader.name()=="ConstraintActivitiesPreferredTimeSlots");
 	ConstraintActivitiesPreferredTimeSlots* cn=new ConstraintActivitiesPreferredTimeSlots();
+	cn->duration=-1;
 	cn->p_nPreferredTimeSlots_L=0;
 	int i;
 	/*for(i=0; i<MAX_N_CONSTRAINT_ACTIVITIES_PREFERRED_TIME_SLOTS; i++){
@@ -12762,6 +12776,16 @@ TimeConstraint* Rules::readActivitiesPreferredTimeSlots(QXmlStreamReader& xmlRea
 			QString text=xmlReader.readElementText();
 			cn->p_activityTagName=text;
 			xmlReadingLog+="    Read activity tag name="+cn->p_activityTagName+"\n";
+		}
+		else if(xmlReader.name()=="Duration"){
+			QString text=xmlReader.readElementText();
+			if(!text.isEmpty()){
+				cn->duration=text.toInt();
+				xmlReadingLog+="    Read duration="+CustomFETString::number(cn->duration)+"\n";
+			}
+			else{
+				cn->duration=-1;
+			}
 		}
 		else if(xmlReader.name()=="Number_of_Preferred_Time_Slots"){
 			QString text=xmlReader.readElementText();
@@ -12861,6 +12885,7 @@ TimeConstraint* Rules::readActivitiesPreferredTimeSlots(QXmlStreamReader& xmlRea
 TimeConstraint* Rules::readActivitiesPreferredStartingTimes(QXmlStreamReader& xmlReader, FakeString& xmlReadingLog){
 	assert(xmlReader.isStartElement() && xmlReader.name()=="ConstraintActivitiesPreferredStartingTimes");
 	ConstraintActivitiesPreferredStartingTimes* cn=new ConstraintActivitiesPreferredStartingTimes();
+	cn->duration=-1;
 	cn->nPreferredStartingTimes_L=0;
 	int i;
 	/*for(i=0; i<MAX_N_CONSTRAINT_ACTIVITIES_PREFERRED_STARTING_TIMES; i++){
@@ -12932,6 +12957,16 @@ TimeConstraint* Rules::readActivitiesPreferredStartingTimes(QXmlStreamReader& xm
 			QString text=xmlReader.readElementText();
 			cn->activityTagName=text;
 			xmlReadingLog+="    Read activity tag name="+cn->activityTagName+"\n";
+		}
+		else if(xmlReader.name()=="Duration"){
+			QString text=xmlReader.readElementText();
+			if(!text.isEmpty()){
+				cn->duration=text.toInt();
+				xmlReadingLog+="    Read duration="+CustomFETString::number(cn->duration)+"\n";
+			}
+			else{
+				cn->duration=-1;
+			}
 		}
 		else if(xmlReader.name()=="Number_of_Preferred_Starting_Times"){
 			QString text=xmlReader.readElementText();

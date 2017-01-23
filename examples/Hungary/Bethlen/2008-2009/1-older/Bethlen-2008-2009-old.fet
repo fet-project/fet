@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Bethlen Gábor Református Gimnázium</Institution_Name>
 
@@ -11627,6 +11627,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Lyukasóra</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>4</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Kedd</Preferred_Starting_Day>
@@ -12865,6 +12866,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>1. sáv</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>33</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Hétfő</Preferred_Starting_Day>
@@ -13007,6 +13009,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>2. sáv</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>33</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Hétfő</Preferred_Starting_Day>

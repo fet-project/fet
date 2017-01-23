@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Engineering College</Institution_Name>
 
@@ -12877,6 +12877,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>RE</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>5</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -12907,6 +12908,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>WORKSHOP</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>20</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -12997,6 +12999,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>GRAPHICS</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>29</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -13123,6 +13126,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>CP</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>20</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -13213,6 +13217,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>CHEM</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>20</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -13310,6 +13315,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>EM</Subject_Name>
 	<Activity_Tag_Name>(L)</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>40</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -13480,6 +13486,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>EC</Subject_Name>
 	<Activity_Tag_Name>(L)</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>40</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -13650,6 +13657,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>(L)</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>40</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -13820,6 +13828,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>MP</Subject_Name>
 	<Activity_Tag_Name>(L)</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>35</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -13970,6 +13979,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>PC</Subject_Name>
 	<Activity_Tag_Name>(L)</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>30</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -14100,6 +14110,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>EVS</Subject_Name>
 	<Activity_Tag_Name>(L)</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>35</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -14250,6 +14261,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>PC</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>39</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -14416,6 +14428,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>EM</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>39</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -14582,6 +14595,7 @@
 	<Students_Name>CS B1</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -14600,6 +14614,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>PHY</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>39</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -14766,6 +14781,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>MATHS</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>40</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -15534,6 +15550,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Sociology</Subject_Name>
 	<Activity_Tag_Name>(L)</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>20</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -15860,6 +15877,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Ind./Practical Trg.</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>20</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -15959,6 +15977,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>CAD/CAM Lab</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>35</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -16109,6 +16128,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>MS</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>30</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -16239,6 +16259,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>FM</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>30</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -16369,6 +16390,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>TD</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>30</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -16499,6 +16521,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Mfg. Sc. II</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>40</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -16669,6 +16692,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>HMT</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>40</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -16839,6 +16863,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>MD-1</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>40</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -17866,6 +17891,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>PDP</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>WED</Preferred_Day>
@@ -18017,6 +18043,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>EM</Subject_Name>
 	<Activity_Tag_Name>(L)</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>19</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -18103,6 +18130,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>EM</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>28</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -18238,6 +18266,7 @@
 	<Students_Name>EEE A</Students_Name>
 	<Subject_Name>CP</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -18256,6 +18285,7 @@
 	<Students_Name>EEE B</Students_Name>
 	<Subject_Name>CP</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>THU</Preferred_Day>
@@ -18274,6 +18304,7 @@
 	<Students_Name>EI A</Students_Name>
 	<Subject_Name>CP</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -18292,6 +18323,7 @@
 	<Students_Name>EI B</Students_Name>
 	<Subject_Name>CP</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>FRI</Preferred_Day>
@@ -18462,6 +18494,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>CHEM</Subject_Name>
 	<Activity_Tag_Name>(L)</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>40</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -18662,6 +18695,7 @@
 	<Students_Name>CS B2</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>TUE</Preferred_Day>
@@ -18680,6 +18714,7 @@
 	<Students_Name>CS A1</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>WED</Preferred_Day>
@@ -18698,6 +18733,7 @@
 	<Students_Name>IT A2</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>THU</Preferred_Day>
@@ -18716,6 +18752,7 @@
 	<Students_Name>CE B2</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>THU</Preferred_Day>
@@ -18734,6 +18771,7 @@
 	<Students_Name>IT B1</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>FRI</Preferred_Day>
@@ -18752,6 +18790,7 @@
 	<Students_Name>CE A1</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>FRI</Preferred_Day>
@@ -18770,6 +18809,7 @@
 	<Students_Name>ME B2</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -18788,6 +18828,7 @@
 	<Students_Name>CE A2</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -18806,6 +18847,7 @@
 	<Students_Name>IT A1</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>TUE</Preferred_Day>
@@ -18824,6 +18866,7 @@
 	<Students_Name>ME A1</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>WED</Preferred_Day>
@@ -18842,6 +18885,7 @@
 	<Students_Name>IT B2</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>WED</Preferred_Day>
@@ -18860,6 +18904,7 @@
 	<Students_Name>ME B1</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>THU</Preferred_Day>
@@ -18878,6 +18923,7 @@
 	<Students_Name>ME A2</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>THU</Preferred_Day>
@@ -18896,6 +18942,7 @@
 	<Students_Name>CS A2</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>FRI</Preferred_Day>
@@ -18914,6 +18961,7 @@
 	<Students_Name>CE B1</Students_Name>
 	<Subject_Name>EE</Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>FRI</Preferred_Day>
@@ -18932,6 +18980,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>M/C Drg-I Lab</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>6</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -19068,6 +19117,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Seminar</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>42</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -19274,6 +19324,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>OE</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>4</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -19343,6 +19394,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>(T)</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>30</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -19553,6 +19605,7 @@
 	<Students_Name>EI A</Students_Name>
 	<Subject_Name>EVS</Subject_Name>
 	<Activity_Tag_Name>(L)</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>27</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>
@@ -19671,6 +19724,7 @@
 	<Students_Name>EI B</Students_Name>
 	<Subject_Name>EVS</Subject_Name>
 	<Activity_Tag_Name>(L)</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>27</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>WED</Preferred_Day>
@@ -19789,6 +19843,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>CHEM</Subject_Name>
 	<Activity_Tag_Name>(L)</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>35</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>MON</Preferred_Day>

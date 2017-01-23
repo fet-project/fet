@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>6ο Δημοτικό Σχολείο Διδυμοτείχου</Institution_Name>
 
@@ -5507,6 +5507,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>ΓΛΩΣΣΑ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>5</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα</Preferred_Starting_Day>
@@ -5750,6 +5751,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>ΜΑΘΗΜΑΤΙΚΑ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>20</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα</Preferred_Starting_Day>
@@ -5840,6 +5842,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>ΜΕΛΕΤΗ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα</Preferred_Starting_Day>
@@ -5970,6 +5973,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>ΙΣΤΟΡΙΑ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>25</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα</Preferred_Starting_Day>
@@ -6080,6 +6084,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>ΦΥΣΙΚΗ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα</Preferred_Starting_Day>
@@ -6210,6 +6215,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>ΓΕΩΓΡΑΦΙΑ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα</Preferred_Starting_Day>
@@ -6340,6 +6346,7 @@
 	<Students_Name>Α</Students_Name>
 	<Subject_Name>ΓΥΜΝΑΣΤΙΚΗ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>20</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα</Preferred_Starting_Day>
@@ -6430,6 +6437,7 @@
 	<Students_Name>Β</Students_Name>
 	<Subject_Name>ΓΥΜΝΑΣΤΙΚΗ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>25</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα</Preferred_Starting_Day>
@@ -6540,6 +6548,7 @@
 	<Students_Name>Γ</Students_Name>
 	<Subject_Name>ΓΥΜΝΑΣΤΙΚΗ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>20</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα</Preferred_Starting_Day>
@@ -6630,6 +6639,7 @@
 	<Students_Name>Δ</Students_Name>
 	<Subject_Name>ΓΥΜΝΑΣΤΙΚΗ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>24</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα</Preferred_Starting_Day>
@@ -6736,6 +6746,7 @@
 	<Students_Name>Ε</Students_Name>
 	<Subject_Name>ΓΥΜΝΑΣΤΙΚΗ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>23</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα</Preferred_Starting_Day>
@@ -6838,6 +6849,7 @@
 	<Students_Name>ΣΤ</Students_Name>
 	<Subject_Name>ΓΥΜΝΑΣΤΙΚΗ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>22</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα</Preferred_Starting_Day>
@@ -6936,6 +6948,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>ΠΛΗΡΟΦΟΡΙΚΗ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα</Preferred_Starting_Day>
@@ -7066,6 +7079,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>ΤΕΧΝΙΚΑ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>20</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα</Preferred_Starting_Day>
@@ -7169,6 +7183,7 @@
 	<Students_Name>Β</Students_Name>
 	<Subject_Name>ΜΑΘΗΜΑΤΙΚΑ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>30</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Δευτέρα</Preferred_Day>
@@ -7299,6 +7314,7 @@
 	<Students_Name>Γ</Students_Name>
 	<Subject_Name>ΜΑΘΗΜΑΤΙΚΑ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>30</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Δευτέρα</Preferred_Day>
@@ -7429,6 +7445,7 @@
 	<Students_Name>Δ</Students_Name>
 	<Subject_Name>ΜΑΘΗΜΑΤΙΚΑ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>35</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Δευτέρα</Preferred_Day>
@@ -7579,6 +7596,7 @@
 	<Students_Name>Δ</Students_Name>
 	<Subject_Name>ΜΑΘΗΜΑΤΙΚΑ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>30</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Δευτέρα</Preferred_Day>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Highlands Christian School</Institution_Name>
 
@@ -7519,6 +7519,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Ass</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>1</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Fri</Preferred_Starting_Day>
@@ -7533,6 +7534,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Register</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>1</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Fri</Preferred_Starting_Day>
@@ -7547,6 +7549,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Man Meeting</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>1</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Tues</Preferred_Starting_Day>
@@ -7561,6 +7564,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Admin</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>1</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Fri</Preferred_Starting_Day>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Sacred Heart College</Institution_Name>
 
@@ -12257,6 +12257,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>MW</Subject_Name>
 	<Activity_Tag_Name>Workshop</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>5</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>A</Preferred_Starting_Day>
@@ -12287,6 +12288,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>Lab</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>35</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>A</Preferred_Starting_Day>
@@ -12544,6 +12546,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>Lecture</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>35</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>A</Preferred_Starting_Day>
@@ -12739,6 +12742,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>CM</Subject_Name>
 	<Activity_Tag_Name>CompLabS</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>10</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>A</Preferred_Starting_Day>
@@ -12789,6 +12793,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>PE</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>20</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>A</Preferred_Starting_Day>

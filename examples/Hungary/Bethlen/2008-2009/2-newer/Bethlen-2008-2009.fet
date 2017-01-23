@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Bethlen Gábor Református Gimnázium</Institution_Name>
 
@@ -11647,6 +11647,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Lyukasóra</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>4</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Kedd</Preferred_Starting_Day>
@@ -14302,6 +14303,7 @@
 	<Students_Name>12B</Students_Name>
 	<Subject_Name>Magyar</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>20</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Hétfő</Preferred_Day>
@@ -14392,6 +14394,7 @@
 	<Students_Name>09A</Students_Name>
 	<Subject_Name>Magyar</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>20</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Hétfő</Preferred_Day>
@@ -14781,6 +14784,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Biológia</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>31</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Hétfő</Preferred_Day>
@@ -14915,6 +14919,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Kémia</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>31</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Hétfő</Preferred_Day>
@@ -15049,6 +15054,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Biológia</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>30</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Hétfő</Preferred_Day>
@@ -15179,6 +15185,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Kémia</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>30</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Hétfő</Preferred_Day>
@@ -15309,6 +15316,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>30</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Hétfő</Preferred_Day>
@@ -15923,6 +15931,7 @@
 	<Students_Name>12E</Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>22</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Hétfő</Preferred_Day>
@@ -16021,6 +16030,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Matematika</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>30</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Hétfő</Preferred_Day>
@@ -16151,6 +16161,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Fizika</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>30</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Hétfő</Preferred_Day>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Ιόνιο Πανεπιστήμιο - Τμήμα Τεχνών Ήχου &amp; Εικόνας</Institution_Name>
 
@@ -14780,6 +14780,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>AUD521 - Ηχητική Επεξεργασία</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>108</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα 7/9</Preferred_Starting_Day>
@@ -15222,6 +15223,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>AUD821 - Ηχητική Επένδυση Εικόνας</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>108</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα 7/9</Preferred_Starting_Day>
@@ -15664,6 +15666,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>AUD721 - Ηλεκτρονική Μουσική</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>108</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Δευτέρα 7/9</Preferred_Starting_Day>

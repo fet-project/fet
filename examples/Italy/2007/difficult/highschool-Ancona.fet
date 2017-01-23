@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Liceo Scientifico Mazzini - Ancona</Institution_Name>
 
@@ -8526,6 +8526,7 @@
 	<Students_Name>1</Students_Name>
 	<Subject_Name>ITALIANO</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Lunedi</Preferred_Starting_Day>
@@ -8608,6 +8609,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>MATEMATICA</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>21</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Lunedi</Preferred_Starting_Day>
@@ -8702,6 +8704,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>LATINO</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Lunedi</Preferred_Starting_Day>
@@ -9952,6 +9955,7 @@
 	<Students_Name>3</Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>12</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Mercoledi</Preferred_Starting_Day>
@@ -10010,6 +10014,7 @@
 	<Students_Name>2</Students_Name>
 	<Subject_Name>ITALIANO</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Lunedi</Preferred_Starting_Day>
@@ -10092,6 +10097,7 @@
 	<Students_Name>3</Students_Name>
 	<Subject_Name>ita_lat</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Lunedi</Preferred_Starting_Day>
@@ -10174,6 +10180,7 @@
 	<Students_Name>4</Students_Name>
 	<Subject_Name>ITALIANO</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Lunedi</Preferred_Starting_Day>
@@ -10581,6 +10588,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Lunedi</Preferred_Starting_Day>
@@ -10711,6 +10719,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>24</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Lunedi</Preferred_Starting_Day>
@@ -10817,6 +10826,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>24</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Lunedi</Preferred_Starting_Day>

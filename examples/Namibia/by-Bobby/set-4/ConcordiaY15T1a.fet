@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Concordia College</Institution_Name>
 
@@ -17735,6 +17735,7 @@
 	<Students_Name>12a</Students_Name>
 	<Subject_Name>Mat</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>41</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -17909,6 +17910,7 @@
 	<Students_Name>12b</Students_Name>
 	<Subject_Name>Mat</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>41</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -18083,6 +18085,7 @@
 	<Students_Name>12c</Students_Name>
 	<Subject_Name>Mat</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>41</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -18257,6 +18260,7 @@
 	<Students_Name>12d</Students_Name>
 	<Subject_Name>Mat</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>41</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -18431,6 +18435,7 @@
 	<Students_Name>12e</Students_Name>
 	<Subject_Name>Mat</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>41</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -18605,6 +18610,7 @@
 	<Students_Name>11a</Students_Name>
 	<Subject_Name>Mat</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>48</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -18807,6 +18813,7 @@
 	<Students_Name>11b</Students_Name>
 	<Subject_Name>Mat</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>48</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -19009,6 +19016,7 @@
 	<Students_Name>11c</Students_Name>
 	<Subject_Name>Mat</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>48</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -19211,6 +19219,7 @@
 	<Students_Name>11d</Students_Name>
 	<Subject_Name>Mat</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>48</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -19413,6 +19422,7 @@
 	<Students_Name>11e</Students_Name>
 	<Subject_Name>Mat</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>48</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -19615,6 +19625,7 @@
 	<Students_Name>12d</Students_Name>
 	<Subject_Name>PSc</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>41</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -19789,6 +19800,7 @@
 	<Students_Name>12e</Students_Name>
 	<Subject_Name>PSc</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>41</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -19963,6 +19975,7 @@
 	<Students_Name>12a</Students_Name>
 	<Subject_Name>Acc</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>41</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -20137,6 +20150,7 @@
 	<Students_Name>11d</Students_Name>
 	<Subject_Name>PSc</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>48</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -20339,6 +20353,7 @@
 	<Students_Name>11e</Students_Name>
 	<Subject_Name>PSc</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>48</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -20541,6 +20556,7 @@
 	<Students_Name>11a</Students_Name>
 	<Subject_Name>Acc</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>48</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -20743,6 +20759,7 @@
 	<Students_Name>12b</Students_Name>
 	<Subject_Name>Geo</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>41</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -20917,6 +20934,7 @@
 	<Students_Name>12c</Students_Name>
 	<Subject_Name>Geo</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>41</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -21091,6 +21109,7 @@
 	<Students_Name>11b</Students_Name>
 	<Subject_Name>Geo</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>48</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>
@@ -21293,6 +21312,7 @@
 	<Students_Name>11c</Students_Name>
 	<Subject_Name>Geo</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>48</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Day 1</Preferred_Day>

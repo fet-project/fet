@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Insight Learning Centre</Institution_Name>
 
@@ -10394,6 +10394,7 @@
 	<Students_Name>4</Students_Name>
 	<Subject_Name>Tech</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -10596,6 +10597,7 @@
 	<Students_Name>5</Students_Name>
 	<Subject_Name>Tech</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -10798,6 +10800,7 @@
 	<Students_Name>6A</Students_Name>
 	<Subject_Name>Tech</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -11000,6 +11003,7 @@
 	<Students_Name>6B</Students_Name>
 	<Subject_Name>Tech</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -11202,6 +11206,7 @@
 	<Students_Name>7</Students_Name>
 	<Subject_Name>Tech</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -11404,6 +11409,7 @@
 	<Students_Name>5</Students_Name>
 	<Subject_Name>H S S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -11606,6 +11612,7 @@
 	<Students_Name>6A</Students_Name>
 	<Subject_Name>H S S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -11808,6 +11815,7 @@
 	<Students_Name>6B</Students_Name>
 	<Subject_Name>H S S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -12010,6 +12018,7 @@
 	<Students_Name>7</Students_Name>
 	<Subject_Name>H S S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -12212,6 +12221,7 @@
 	<Students_Name>T1</Students_Name>
 	<Subject_Name>English</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -12334,6 +12344,7 @@
 	<Students_Name>T2</Students_Name>
 	<Subject_Name>English</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -12456,6 +12467,7 @@
 	<Students_Name>T3A</Students_Name>
 	<Subject_Name>English</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>29</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -12582,6 +12594,7 @@
 	<Students_Name>T3B</Students_Name>
 	<Subject_Name>English</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>29</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -12708,6 +12721,7 @@
 	<Students_Name>T4</Students_Name>
 	<Subject_Name>English</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -12830,6 +12844,7 @@
 	<Students_Name>8A</Students_Name>
 	<Subject_Name>English</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -13032,6 +13047,7 @@
 	<Students_Name>8B</Students_Name>
 	<Subject_Name>English</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -14148,6 +14164,7 @@
 	<Students_Name>12A</Students_Name>
 	<Subject_Name>Maths A/L</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>24</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -14254,6 +14271,7 @@
 	<Students_Name>11A</Students_Name>
 	<Subject_Name>Maths A/L</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>24</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -14691,6 +14709,7 @@
 	<Students_Name>T1</Students_Name>
 	<Subject_Name>Art</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -14813,6 +14832,7 @@
 	<Students_Name>T2</Students_Name>
 	<Subject_Name>Art</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -14935,6 +14955,7 @@
 	<Students_Name>T3A</Students_Name>
 	<Subject_Name>Art</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -15057,6 +15078,7 @@
 	<Students_Name>T3B</Students_Name>
 	<Subject_Name>Art</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>29</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -15860,6 +15882,7 @@
 	<Students_Name>10A</Students_Name>
 	<Subject_Name>LO</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -15990,6 +16013,7 @@
 	<Students_Name>10B</Students_Name>
 	<Subject_Name>LO</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -20663,6 +20687,7 @@
 	<Students_Name>10</Students_Name>
 	<Subject_Name>Afr1Eng2</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>20</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -20753,6 +20778,7 @@
 	<Students_Name>10</Students_Name>
 	<Subject_Name>Eng1Afr2</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>20</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -20843,6 +20869,7 @@
 	<Students_Name>9A</Students_Name>
 	<Subject_Name>English</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -21045,6 +21072,7 @@
 	<Students_Name>9B</Students_Name>
 	<Subject_Name>English</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -21247,6 +21275,7 @@
 	<Students_Name>9C</Students_Name>
 	<Subject_Name>English</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -21449,6 +21478,7 @@
 	<Students_Name>10</Students_Name>
 	<Subject_Name>Afr1Eng2</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>80</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -21779,6 +21809,7 @@
 	<Students_Name>10</Students_Name>
 	<Subject_Name>Eng1Afr2</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>80</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -22109,6 +22140,7 @@
 	<Students_Name>11</Students_Name>
 	<Subject_Name>Afr1Eng2</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>80</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -22439,6 +22471,7 @@
 	<Students_Name>11</Students_Name>
 	<Subject_Name>Eng1Afr2</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>80</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -22769,6 +22802,7 @@
 	<Students_Name>T2</Students_Name>
 	<Subject_Name>Bus skills</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -22891,6 +22925,7 @@
 	<Students_Name>T3A</Students_Name>
 	<Subject_Name>Bus skills</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -23013,6 +23048,7 @@
 	<Students_Name>T3B</Students_Name>
 	<Subject_Name>Bus skills</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>29</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -23139,6 +23175,7 @@
 	<Students_Name>T4</Students_Name>
 	<Subject_Name>Bus skills</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -23436,6 +23473,7 @@
 	<Students_Name>T1</Students_Name>
 	<Subject_Name>Bus skills</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -23558,6 +23596,7 @@
 	<Students_Name>T1</Students_Name>
 	<Subject_Name>Catering</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>12</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -23616,6 +23655,7 @@
 	<Students_Name>T2</Students_Name>
 	<Subject_Name>Catering</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>12</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -23674,6 +23714,7 @@
 	<Students_Name>T3A</Students_Name>
 	<Subject_Name>Catering</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>12</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -23732,6 +23773,7 @@
 	<Students_Name>T3B</Students_Name>
 	<Subject_Name>Catering</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>12</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -23790,6 +23832,7 @@
 	<Students_Name>T4</Students_Name>
 	<Subject_Name>Catering</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>12</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -23848,6 +23891,7 @@
 	<Students_Name>8A</Students_Name>
 	<Subject_Name>Hotel</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -24050,6 +24094,7 @@
 	<Students_Name>8B</Students_Name>
 	<Subject_Name>Hotel</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -24252,6 +24297,7 @@
 	<Students_Name>9A</Students_Name>
 	<Subject_Name>Hotel</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -24454,6 +24500,7 @@
 	<Students_Name>9B</Students_Name>
 	<Subject_Name>Hotel</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -24656,6 +24703,7 @@
 	<Students_Name>9C</Students_Name>
 	<Subject_Name>Hotel</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -24858,6 +24906,7 @@
 	<Students_Name>T2</Students_Name>
 	<Subject_Name>Bus skills</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -25776,6 +25825,7 @@
 	<Students_Name>8A</Students_Name>
 	<Subject_Name>Comp</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -25978,6 +26028,7 @@
 	<Students_Name>8B</Students_Name>
 	<Subject_Name>Comp</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -26180,6 +26231,7 @@
 	<Students_Name>9A</Students_Name>
 	<Subject_Name>Comp</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -26382,6 +26434,7 @@
 	<Students_Name>9B</Students_Name>
 	<Subject_Name>Comp</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -26584,6 +26637,7 @@
 	<Students_Name>9C</Students_Name>
 	<Subject_Name>Comp</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -26786,6 +26840,7 @@
 	<Students_Name>10A</Students_Name>
 	<Subject_Name>Comp</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>68</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -27068,6 +27123,7 @@
 	<Students_Name>10B</Students_Name>
 	<Subject_Name>Comp</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>68</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -27350,6 +27406,7 @@
 	<Students_Name>11A</Students_Name>
 	<Subject_Name>Comp</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>68</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -27632,6 +27689,7 @@
 	<Students_Name>11B</Students_Name>
 	<Subject_Name>Comp</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>68</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -27914,6 +27972,7 @@
 	<Students_Name>12A</Students_Name>
 	<Subject_Name>Comp</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>68</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -28196,6 +28255,7 @@
 	<Students_Name>8A</Students_Name>
 	<Subject_Name>H S S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -28398,6 +28458,7 @@
 	<Students_Name>8B</Students_Name>
 	<Subject_Name>H S S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -28600,6 +28661,7 @@
 	<Students_Name>T1</Students_Name>
 	<Subject_Name>Comp</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -28722,6 +28784,7 @@
 	<Students_Name>T2</Students_Name>
 	<Subject_Name>Comp</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -28844,6 +28907,7 @@
 	<Students_Name>T3A</Students_Name>
 	<Subject_Name>Comp</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -28966,6 +29030,7 @@
 	<Students_Name>T3B</Students_Name>
 	<Subject_Name>Comp</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>29</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -29092,6 +29157,7 @@
 	<Students_Name>T4</Students_Name>
 	<Subject_Name>Comp</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -29214,6 +29280,7 @@
 	<Students_Name>10</Students_Name>
 	<Subject_Name>Science</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>70</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -29504,6 +29571,7 @@
 	<Students_Name>11</Students_Name>
 	<Subject_Name>Science</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>70</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -29794,6 +29862,7 @@
 	<Students_Name>12</Students_Name>
 	<Subject_Name>Science</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>70</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -30084,6 +30153,7 @@
 	<Students_Name>12</Students_Name>
 	<Subject_Name>Afr1Eng2</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Thursday</Preferred_Starting_Day>
@@ -30166,6 +30236,7 @@
 	<Students_Name>12</Students_Name>
 	<Subject_Name>Eng1Afr2</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Thursday</Preferred_Starting_Day>
@@ -30248,6 +30319,7 @@
 	<Students_Name>T1</Students_Name>
 	<Subject_Name>Photo</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -30370,6 +30442,7 @@
 	<Students_Name>T2</Students_Name>
 	<Subject_Name>Photo</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -30492,6 +30565,7 @@
 	<Students_Name>T3A</Students_Name>
 	<Subject_Name>Photo</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -30614,6 +30688,7 @@
 	<Students_Name>T3B</Students_Name>
 	<Subject_Name>Photo</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>29</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -30740,6 +30815,7 @@
 	<Students_Name>T4</Students_Name>
 	<Subject_Name>Photo</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>29</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -31024,6 +31100,7 @@
 	<Students_Name>4</Students_Name>
 	<Subject_Name>N S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -31226,6 +31303,7 @@
 	<Students_Name>5</Students_Name>
 	<Subject_Name>N S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -31428,6 +31506,7 @@
 	<Students_Name>6A</Students_Name>
 	<Subject_Name>N S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -31630,6 +31709,7 @@
 	<Students_Name>6B</Students_Name>
 	<Subject_Name>N S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -31832,6 +31912,7 @@
 	<Students_Name>7</Students_Name>
 	<Subject_Name>N S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -32034,6 +32115,7 @@
 	<Students_Name>9A</Students_Name>
 	<Subject_Name>N S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -32236,6 +32318,7 @@
 	<Students_Name>9B</Students_Name>
 	<Subject_Name>N S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -32438,6 +32521,7 @@
 	<Students_Name>9C</Students_Name>
 	<Subject_Name>N S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -32640,6 +32724,7 @@
 	<Students_Name>T1</Students_Name>
 	<Subject_Name>Maths</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -32762,6 +32847,7 @@
 	<Students_Name>T2</Students_Name>
 	<Subject_Name>Maths</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -32884,6 +32970,7 @@
 	<Students_Name>T3A</Students_Name>
 	<Subject_Name>Maths</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -33006,6 +33093,7 @@
 	<Students_Name>T3B</Students_Name>
 	<Subject_Name>Maths</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>29</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -33132,6 +33220,7 @@
 	<Students_Name>T4</Students_Name>
 	<Subject_Name>Maths</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -33254,6 +33343,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Detension</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>5</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Thursday</Preferred_Starting_Day>
@@ -33284,6 +33374,7 @@
 	<Students_Name>8A</Students_Name>
 	<Subject_Name>N S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -33486,6 +33577,7 @@
 	<Students_Name>8B</Students_Name>
 	<Subject_Name>N S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -33688,6 +33780,7 @@
 	<Students_Name>T1</Students_Name>
 	<Subject_Name>Afr</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -33810,6 +33903,7 @@
 	<Students_Name>T2</Students_Name>
 	<Subject_Name>Afr</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -33932,6 +34026,7 @@
 	<Students_Name>T3A</Students_Name>
 	<Subject_Name>Afr</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -34054,6 +34149,7 @@
 	<Students_Name>T3B</Students_Name>
 	<Subject_Name>Afr</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>29</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -34180,6 +34276,7 @@
 	<Students_Name>T4</Students_Name>
 	<Subject_Name>Afr</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>29</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -34306,6 +34403,7 @@
 	<Students_Name>8B</Students_Name>
 	<Subject_Name>Afr</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -34508,6 +34606,7 @@
 	<Students_Name>9B</Students_Name>
 	<Subject_Name>Afr</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -34710,6 +34809,7 @@
 	<Students_Name>9C</Students_Name>
 	<Subject_Name>Afr</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -35115,6 +35215,7 @@
 	<Students_Name>10A</Students_Name>
 	<Subject_Name>Tour</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -35245,6 +35346,7 @@
 	<Students_Name>11A</Students_Name>
 	<Subject_Name>Tour</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -35375,6 +35477,7 @@
 	<Students_Name>11B</Students_Name>
 	<Subject_Name>Tour</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -35505,6 +35608,7 @@
 	<Students_Name>12A</Students_Name>
 	<Subject_Name>Tour</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>30</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -35635,6 +35739,7 @@
 	<Students_Name>9A</Students_Name>
 	<Subject_Name>Afr</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -35837,6 +35942,7 @@
 	<Students_Name>8A</Students_Name>
 	<Subject_Name>Afr</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -36138,6 +36244,7 @@
 	<Students_Name>10</Students_Name>
 	<Subject_Name>LifeSc</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>8</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Wednesday</Preferred_Starting_Day>
@@ -36180,6 +36287,7 @@
 	<Students_Name>12</Students_Name>
 	<Subject_Name>Art</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>6</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -36214,6 +36322,7 @@
 	<Students_Name>10</Students_Name>
 	<Subject_Name>Art</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>32</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -36352,6 +36461,7 @@
 	<Students_Name>11</Students_Name>
 	<Subject_Name>Art</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>32</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -36504,6 +36614,7 @@
 	<Students_Name>T3A</Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>4</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -36530,6 +36641,7 @@
 	<Students_Name>T4</Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>4</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Tuesday</Preferred_Starting_Day>
@@ -36556,6 +36668,7 @@
 	<Students_Name>T3B</Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>4</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Wednesday</Preferred_Starting_Day>
@@ -36582,6 +36695,7 @@
 	<Students_Name>T3B</Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>4</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Wednesday</Preferred_Starting_Day>
@@ -36608,6 +36722,7 @@
 	<Students_Name>T1</Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>4</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Thursday</Preferred_Starting_Day>
@@ -36722,6 +36837,7 @@
 	<Students_Name>11</Students_Name>
 	<Subject_Name>Afr1Eng2</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -36804,6 +36920,7 @@
 	<Students_Name>11</Students_Name>
 	<Subject_Name>Eng1Afr2</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -36886,6 +37003,7 @@
 	<Students_Name>12</Students_Name>
 	<Subject_Name>Afr1Eng2</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Thursday</Preferred_Starting_Day>
@@ -36968,6 +37086,7 @@
 	<Students_Name>12</Students_Name>
 	<Subject_Name>Eng1Afr2</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Thursday</Preferred_Starting_Day>
@@ -37050,6 +37169,7 @@
 	<Students_Name>11</Students_Name>
 	<Subject_Name>Geo</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>12</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Tuesday</Preferred_Starting_Day>
@@ -37108,6 +37228,7 @@
 	<Students_Name>12</Students_Name>
 	<Subject_Name>Geo</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>12</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Tuesday</Preferred_Starting_Day>
@@ -37166,6 +37287,7 @@
 	<Students_Name>10</Students_Name>
 	<Subject_Name>Geo</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>12</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Tuesday</Preferred_Starting_Day>
@@ -37245,6 +37367,7 @@
 	<Students_Name>8A</Students_Name>
 	<Subject_Name>Maths</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -37447,6 +37570,7 @@
 	<Students_Name>8B</Students_Name>
 	<Subject_Name>Maths</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -37649,6 +37773,7 @@
 	<Students_Name>9A</Students_Name>
 	<Subject_Name>Maths</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -37851,6 +37976,7 @@
 	<Students_Name>9B</Students_Name>
 	<Subject_Name>Maths</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -38053,6 +38179,7 @@
 	<Students_Name>9C</Students_Name>
 	<Subject_Name>Maths</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -38255,6 +38382,7 @@
 	<Students_Name>10A</Students_Name>
 	<Subject_Name>Maths A/L</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>56</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -38489,6 +38617,7 @@
 	<Students_Name>10B</Students_Name>
 	<Subject_Name>Maths A/L</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>75</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -38799,6 +38928,7 @@
 	<Students_Name>9A</Students_Name>
 	<Subject_Name>Tech</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -38881,6 +39011,7 @@
 	<Students_Name>9B</Students_Name>
 	<Subject_Name>Tech</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -38963,6 +39094,7 @@
 	<Students_Name>9C</Students_Name>
 	<Subject_Name>Tech</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -39045,6 +39177,7 @@
 	<Students_Name>8A</Students_Name>
 	<Subject_Name>Tech</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -39127,6 +39260,7 @@
 	<Students_Name>8B</Students_Name>
 	<Subject_Name>Tech</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>18</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -40161,6 +40295,7 @@
 	<Students_Name>T4</Students_Name>
 	<Subject_Name>Art</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>28</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -40298,6 +40433,7 @@
 	<Students_Name>9A</Students_Name>
 	<Subject_Name>H S S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -40500,6 +40636,7 @@
 	<Students_Name>9B</Students_Name>
 	<Subject_Name>H S S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>
@@ -40702,6 +40839,7 @@
 	<Students_Name>9C</Students_Name>
 	<Subject_Name>H S S</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>48</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>

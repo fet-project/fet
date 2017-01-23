@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>DEPARTMENT OF CHEMICAL ENGINEERING</Institution_Name>
 
@@ -2937,6 +2937,7 @@ ANNA UNIVERSITY CHENNAI</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>Practical</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>15</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Monday</Preferred_Day>
@@ -3287,6 +3288,7 @@ ANNA UNIVERSITY CHENNAI</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>Theory</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>30</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Monday</Preferred_Day>
@@ -3481,6 +3483,7 @@ ANNA UNIVERSITY CHENNAI</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name></Subject_Name>
 	<Activity_Tag_Name>Theory</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>40</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Monday</Preferred_Day>
@@ -3735,6 +3738,7 @@ ANNA UNIVERSITY CHENNAI</Comments>
 	<Students_Name>BTCH5</Students_Name>
 	<Subject_Name>CH 306</Subject_Name>
 	<Activity_Tag_Name>Fixed</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>6</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Wednesday</Preferred_Day>
@@ -3769,6 +3773,7 @@ ANNA UNIVERSITY CHENNAI</Comments>
 	<Students_Name>BTCH3</Students_Name>
 	<Subject_Name>CH 9206</Subject_Name>
 	<Activity_Tag_Name>Fixed</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>3</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Monday</Preferred_Day>
@@ -3802,6 +3807,7 @@ ANNA UNIVERSITY CHENNAI</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name>CH 9205</Subject_Name>
 	<Activity_Tag_Name>Fixed</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>3</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Wednesday</Preferred_Day>
@@ -3836,6 +3842,7 @@ ANNA UNIVERSITY CHENNAI</Comments>
 	<Students_Name>BTPP3</Students_Name>
 	<Subject_Name>PP 9201</Subject_Name>
 	<Activity_Tag_Name>Fixed</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>4</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Monday</Preferred_Day>
@@ -3874,6 +3881,7 @@ ANNA UNIVERSITY CHENNAI</Comments>
 	<Students_Name>BTPP3</Students_Name>
 	<Subject_Name>PP 9202</Subject_Name>
 	<Activity_Tag_Name>Fixed</Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>4</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Monday</Preferred_Day>

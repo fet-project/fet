@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Yew Chung Internation School - Secondary</Institution_Name>
 
@@ -15669,6 +15669,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Lunch</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>10</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Monday</Preferred_Starting_Day>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Trường THPT Lê Quý Đôn - Lâm Hà</Institution_Name>
 
@@ -5730,6 +5730,7 @@ VEMIS_Timetable_(1.2.0)</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name>SHL</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>1</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Thứ 7</Preferred_Day>
@@ -5744,6 +5745,7 @@ VEMIS_Timetable_(1.2.0)</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name>Chào cờ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>1</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Thứ 2</Preferred_Day>
@@ -5874,6 +5876,7 @@ VEMIS_Timetable_(1.2.0)</Comments>
 	<Students_Name></Students_Name>
 	<Subject_Name>CM</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>1</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Thứ 2</Preferred_Day>

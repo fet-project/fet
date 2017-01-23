@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Klikks SLP</Institution_Name>
 
@@ -30447,6 +30447,7 @@
 	<Students_Name>L52</Students_Name>
 	<Subject_Name>S23</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>27</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>D41</Preferred_Day>
@@ -30565,6 +30566,7 @@
 	<Students_Name>L51</Students_Name>
 	<Subject_Name>S23</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>26</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>D41</Preferred_Day>
@@ -30679,6 +30681,7 @@
 	<Students_Name>L51</Students_Name>
 	<Subject_Name>S8</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>25</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>D41</Preferred_Day>
@@ -30789,6 +30792,7 @@
 	<Students_Name>L52</Students_Name>
 	<Subject_Name>S8</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>25</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>D41</Preferred_Day>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Liceul Teoretic German &apos;Frederich Schiller&apos; - Oradea</Institution_Name>
 
@@ -7918,6 +7918,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>MATEMATICĂ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>27</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Luni</Preferred_Starting_Day>
@@ -8036,6 +8037,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>ROMÂNĂ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>25</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>Luni</Preferred_Starting_Day>
@@ -8911,6 +8913,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>DESEN / MUZICĂ</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>3</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>Marti</Preferred_Day>

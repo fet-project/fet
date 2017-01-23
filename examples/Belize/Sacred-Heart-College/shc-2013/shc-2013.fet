@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="5.24.0">
+<fet version="5.27.3">
 
 <Institution_Name>Sacred Heart College</Institution_Name>
 
@@ -12361,6 +12361,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>HR</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Starting_Times>1</Number_of_Preferred_Starting_Times>
 	<Preferred_Starting_Time>
 		<Preferred_Starting_Day>A</Preferred_Starting_Day>
@@ -12375,6 +12376,7 @@
 	<Students_Name>Form 3</Students_Name>
 	<Subject_Name>SIG</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>35</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>A</Preferred_Day>
@@ -12912,6 +12914,7 @@
 	<Students_Name>Form 4</Students_Name>
 	<Subject_Name>SIG</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>2</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>B</Preferred_Day>
@@ -17446,6 +17449,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>Lunch</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>10</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>A</Preferred_Day>
@@ -17496,6 +17500,7 @@
 	<Students_Name></Students_Name>
 	<Subject_Name>DM</Subject_Name>
 	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
 	<Number_of_Preferred_Time_Slots>39</Number_of_Preferred_Time_Slots>
 	<Preferred_Time_Slot>
 		<Preferred_Day>A</Preferred_Day>

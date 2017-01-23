@@ -41,6 +41,7 @@ File fet.cpp - this is where the program FET starts
 static QSet<QString> languagesSet;
 
 #include <ctime>
+#include <cstdlib>
 
 #include "timetableexport.h"
 #include "generate.h"
@@ -174,19 +175,20 @@ void usage(QTextStream* out, const QString& error)
 	s+=QString(
 		"Command line usage: \"fet-cl --inputfile=x [--outputdir=d] [--timelimitseconds=y] [--htmllevel=z] [--language=t] "
 		"[--writetimetableconflicts=wt1] "
-		"[--writetimetablesxml=wt2] "
-		"[--writetimetablesdayshorizontal=wt3] "
-		"[--writetimetablesdaysvertical=wt4] "
-		"[--writetimetablestimehorizontal=wt5] "
-		"[--writetimetablestimevertical=wt6] "
-		"[--writetimetablessubgroups=wt7] "
-		"[--writetimetablesgroups=wt8] "
-		"[--writetimetablesyears=wt9] "
-		"[--writetimetablesteachers=wt10] "
-		"[--writetimetablesteachersfreeperiods=wt11] "
-		"[--writetimetablesrooms=wt12] "
-		"[--writetimetablessubjects=wt13] "
-		"[--writetimetablesactivities=wt14] "
+		"[--writetimetablesstatistics=wt2] "
+		"[--writetimetablesxml=wt3] "
+		"[--writetimetablesdayshorizontal=wt4] "
+		"[--writetimetablesdaysvertical=wt5] "
+		"[--writetimetablestimehorizontal=wt6] "
+		"[--writetimetablestimevertical=wt7] "
+		"[--writetimetablessubgroups=wt8] "
+		"[--writetimetablesgroups=wt9] "
+		"[--writetimetablesyears=wt10] "
+		"[--writetimetablesteachers=wt11] "
+		"[--writetimetablesteachersfreeperiods=wt12] "
+		"[--writetimetablesrooms=wt13] "
+		"[--writetimetablessubjects=wt14] "
+		"[--writetimetablesactivities=wt15] "
 		"[--printactivitytags=a] [--printnotavailable=u] [--printbreak=b] [--dividetimeaxisbydays=v] [--duplicateverticalheaders=e] "
 		"[--printsimultaneousactivities=w] [--randomseedx=rx --randomseedy=ry] [--warnifusingnotperfectconstraints=s] "
 		"[--warnifusingstudentsminhoursdailywithallowemptydays=p] [--warnifusinggroupactivitiesininitialorder=g] [--warnsubgroupswiththesameactivities=ssa] [--verbose=r]\",\n"
@@ -196,9 +198,9 @@ void usage(QTextStream* out, const QString& error)
 		"y is integer (seconds) (default 2000000000, which is practically infinite).\n"
 		"z is integer from 0 to 6 and represents the detail level for the generated HTML timetables "
 		"(default 2, larger values have more details/facilities and larger file sizes).\n"
-		"t is one of en_US, ar, ca, da, de, el, es, fa, fr, gl, he, hu, id, it, lt, mk, ms, nl, pl, pt_BR, ro, ru, si, sk, sq, sr, tr, uk, uz, vi, "
-		"zh_CN, zh_TW (default en_US).\n"
-		"wt1 to wt14 are either true or false and represent whether you want the corresponding timetables to be written on the disk (default true).\n"
+		"t is one of en_US, ar, ca, cs, da, de, el, es, eu, fa, fr, gl, he, hu, id, it, lt, mk, ms, nl, pl, pt_BR, ro, ru, si, sk, sq, sr, tr, uk, "
+		"uz, vi, zh_CN, zh_TW (default en_US).\n"
+		"wt1 to wt15 are either true or false and represent whether you want the corresponding timetables to be written on the disk (default true).\n"
 		"a is either true or false and represets if you want activity tags to be present in the final HTML timetables (default true).\n"
 		"u is either true or false and represents if you want -x- (for true) or --- (for false) in the generated timetables for the "
 		"not available slots (default true).\n"
@@ -317,6 +319,7 @@ void readSimulationParameters()
 	
 	WRITE_TIMETABLE_CONFLICTS=newSettings.value("write-timetable-conflicts", "true").toBool();
 
+	WRITE_TIMETABLES_STATISTICS=newSettings.value("write-timetables-statistics", "true").toBool();
 	WRITE_TIMETABLES_XML=newSettings.value("write-timetables-xml", "true").toBool();
 	WRITE_TIMETABLES_DAYS_HORIZONTAL=newSettings.value("write-timetables-days-horizontal", "true").toBool();
 	WRITE_TIMETABLES_DAYS_VERTICAL=newSettings.value("write-timetables-days-vertical", "true").toBool();
@@ -388,6 +391,7 @@ void writeSimulationParameters()
 	
 	settings.setValue("write-timetable-conflicts", WRITE_TIMETABLE_CONFLICTS);
 
+	settings.setValue("write-timetables-statistics", WRITE_TIMETABLES_STATISTICS);
 	settings.setValue("write-timetables-xml", WRITE_TIMETABLES_XML);
 	settings.setValue("write-timetables-days-horizontal", WRITE_TIMETABLES_DAYS_HORIZONTAL);
 	settings.setValue("write-timetables-days-vertical", WRITE_TIMETABLES_DAYS_VERTICAL);
@@ -466,6 +470,8 @@ void initLanguagesSet()
 	languagesSet.insert("sq");
 	languagesSet.insert("zh_CN");
 	languagesSet.insert("zh_TW");
+	languagesSet.insert("eu");
+	languagesSet.insert("cs");
 }
 
 #ifndef FET_COMMAND_LINE
@@ -649,6 +655,38 @@ void SomeQtTranslations()
 	Q_UNUSED(s7);
 	QString s8=QCoreApplication::translate("QDialogButtonBox", "N&o to All", "Accelerator key (letter after ampersand) for &OK, &Cancel, &Yes, Yes to &All, &No, N&o to All, must be different. Please keep the translation short.");
 	Q_UNUSED(s8);
+
+	QString s9=QCoreApplication::translate("QDialogButtonBox", "Help");
+	Q_UNUSED(s9);
+
+	//It seems that Qt 5 uses other context
+	QString s10=QCoreApplication::translate("QPlatformTheme", "&OK", "Accelerator key (letter after ampersand) for &OK, &Cancel, &Yes, Yes to &All, &No, N&o to All, must be different");
+	Q_UNUSED(s10);
+	QString s11=QCoreApplication::translate("QPlatformTheme", "OK");
+	Q_UNUSED(s11);
+	
+	QString s12=QCoreApplication::translate("QPlatformTheme", "&Cancel", "Accelerator key (letter after ampersand) for &OK, &Cancel, &Yes, Yes to &All, &No, N&o to All, must be different");
+	Q_UNUSED(s12);
+	QString s13=QCoreApplication::translate("QPlatformTheme", "Cancel");
+	Q_UNUSED(s13);
+	
+	QString s14=QCoreApplication::translate("QPlatformTheme", "&Yes", "Accelerator key (letter after ampersand) for &OK, &Cancel, &Yes, Yes to &All, &No, N&o to All, must be different");
+	Q_UNUSED(s14);
+	QString s15=QCoreApplication::translate("QPlatformTheme", "Yes to &All", "Accelerator key (letter after ampersand) for &OK, &Cancel, &Yes, Yes to &All, &No, N&o to All, must be different. Please keep the translation short.");
+	Q_UNUSED(s15);
+	QString s16=QCoreApplication::translate("QPlatformTheme", "&No", "Accelerator key (letter after ampersand) for &OK, &Cancel, &Yes, Yes to &All, &No, N&o to All, must be different");
+	Q_UNUSED(s16);
+	QString s17=QCoreApplication::translate("QPlatformTheme", "N&o to All", "Accelerator key (letter after ampersand) for &OK, &Cancel, &Yes, Yes to &All, &No, N&o to All, must be different. Please keep the translation short.");
+	Q_UNUSED(s17);
+
+	QString s18=QCoreApplication::translate("QPlatformTheme", "Help");
+	Q_UNUSED(s18);
+
+	QString s19=QCoreApplication::translate("QGnomeTheme", "&OK", "Accelerator key (letter after ampersand) for &OK, &Cancel, &Yes, Yes to &All, &No, N&o to All, must be different");
+	Q_UNUSED(s19);
+	QString s20=QCoreApplication::translate("QGnomeTheme", "&Cancel", "Accelerator key (letter after ampersand) for &OK, &Cancel, &Yes, Yes to &All, &No, N&o to All, must be different");
+	Q_UNUSED(s20);
+	
 }
 
 /**
@@ -770,6 +808,7 @@ int main(int argc, char **argv)
 		
 		WRITE_TIMETABLE_CONFLICTS=true;
 	
+		WRITE_TIMETABLES_STATISTICS=true;
 		WRITE_TIMETABLES_XML=true;
 		WRITE_TIMETABLES_DAYS_HORIZONTAL=true;
 		WRITE_TIMETABLES_DAYS_VERTICAL=true;
@@ -876,6 +915,10 @@ int main(int argc, char **argv)
 					WRITE_TIMETABLE_CONFLICTS=false;
 			}
 			//
+			else if(s.left(28)=="--writetimetablesstatistics="){
+				if(s.right(5)=="false")
+					WRITE_TIMETABLES_STATISTICS=false;
+			}
 			else if(s.left(21)=="--writetimetablesxml="){
 				if(s.right(5)=="false")
 					WRITE_TIMETABLES_XML=false;
