@@ -3,6 +3,8 @@ dist: trusty
 sudo: required
 compiler:
 - gcc
+git:
+  depth: 1
 os:
 - linux
 before_install:
