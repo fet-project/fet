@@ -8,6 +8,6 @@ os:
 before_install:
 - sudo apt-get install -qq qtbase5-dev qt5-default cppcheck
 script:
-- cppcheck --enable=all src/engine src/interfaze
+- cppcheck --enable=all src/engine src/interface
 - qmake
 - make
