@@ -9,7 +9,7 @@ os:
 - linux
 before_install:
 - sudo apt-get install -qq qtbase5-dev qt5-default cppcheck
+install:
+- git clone --depth 1 https://github.com/fet-test/ci-build.git
 script:
-- cppcheck --enable=all src/engine src/interface
-- qmake
-- make
+- ci-build/ci-build --fetdir ./ --fail-on-errors --code-analysis all --build
