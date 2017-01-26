@@ -1,12 +1,7 @@
 language: cpp
-matrix:
-  include:
-    - os: linux
-      dist: trusty
-      sudo: required
-    - os: osx
-git:
-  depth: 1
+os: linux
+dist: trusty
+sudo: required
 before_install:
 - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then sudo apt-get install -qq qtbase5-dev qt5-default cppcheck; fi
 - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew install cppcheck qt5; fi
