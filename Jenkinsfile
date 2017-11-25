@@ -1,12 +1,14 @@
 #!/usr/bin/env groovy
 def gitClone() {
   sh "rm -rf ci-build"
-  checkout([$class: 'GitSCM', branches: [[name: '*/master']],
+  checkout([$class: 'GitSCM',
+            branches: [[name: '*/master']],
             doGenerateSubmoduleConfigurations: false,
             extensions: [[$class: 'RelativeTargetDirectory',
                           relativeTargetDir: 'ci-build']],
             submoduleCfg: [],
-            userRemoteConfigs: [[url: 'https://github.com/fet-project/ci-build.git']]])
+            userRemoteConfigs: [[url: 'https://github.com/fet-project/ci-build.git']]
+  ])
 }
 
 def runContainer(String distro, String step) {
@@ -16,7 +18,10 @@ def runContainer(String distro, String step) {
   def jobNameValid = env.JOB_NAME.replace('_', '')
   def containerName = "${jobNameValid}-${env.BUILD_ID}-${distro}"
   try {
+    checkout scm
+    gitClone()
     echo "Starting cointainer..."
+    sh "/usr/bin/docker pull ${imageName}"
     sh "/usr/bin/docker run -d --volume=${env.WORKSPACE}:${dockerWorkspace}:rw --name ${containerName} ${imageName}"
     echo "Container started..."
     switch(step) {
@@ -36,35 +41,31 @@ def runContainer(String distro, String step) {
   }
 }
 
-def transformIntoBuildStep(String distro) {
-  return {
-    node('docker') {
-      stage(name: "build-${distro}") {
-        checkout scm
-        gitClone()
+def listBuilders(distros) {
+  def builders = [:]
+  // I tried distros.each() but does not work due to JENKINS-26481
+  for (int i = 0; i < distros.size(); i++) {
+    def distro = distros.get(i)
+    builders["${distro}"] = {
+      node('docker') {
         runContainer(distro, 'build')
       }
     }
   }
+  return builders
 }
 
-node('docker') {
-  stage(name: 'git-clone') {
-    checkout scm
-    gitClone()
-  }
-  stage(name: 'code-analysis') {
-    runContainer('opensuse42.2', 'codeAnalysis')
-  }
-  lock(name: 'build', concurrency: 2) {
-    // Thanks to https://cinhtau.net/wp/parallel-steps-with-jenkinsfile/
-    def distros = ['centos7', 'debian8', 'opensuse42.2', 'ubuntu16.04' ]
-    def stepsForParallel = [:]
-    // I tried distros.each() but does not work due to JENKINS-26481
-    for (int i = 0; i < distros.size(); i++) {
-      def d = distros.get(i)
-      stepsForParallel["${d}"] = transformIntoBuildStep(d)
+properties([[$class: 'BuildDiscarderProperty', strategy: [$class: 'LogRotator', artifactDaysToKeepStr: '30', artifactNumToKeepStr: '', daysToKeepStr: '30', numToKeepStr: '']]]);
+
+timestamps {
+  node('docker') {
+    stage('code-analysis') {
+      runContainer('opensuse42.2', 'codeAnalysis')
     }
-    parallel stepsForParallel
+    stage('build') {
+      throttle(['fet-build']) {
+        parallel listBuilders(['centos7', 'debian8', 'opensuse42.2', 'ubuntu16.04'])
+      }
+    }
   }
 }
